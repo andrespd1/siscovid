@@ -10,7 +10,7 @@
     <div id="vis"></div>
 
     <script type="text/javascript">
-      vega.scheme( 'basic', [ '#dae1ff', '#98aef6', '#437eeb' ] );
+      vega.scheme( 'basic', [ '#e8e8e8', '#a0aae3', '#3c71dc' ] );
 
       var tooltipOptions = {
         "font": "Helvetica"
@@ -60,6 +60,13 @@
               "axis": { "title": "Casos" }
             }
           ]
+        },
+        "config": {
+          "style": {
+            "cell": {
+              "stroke": "transparent"
+            }
+          }
         }
       };
       vegaEmbed( '#vis', spec, { actions: false, tooltip: tooltipOptions } );
