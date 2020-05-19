@@ -12,6 +12,10 @@
     <script type="text/javascript">
       vega.scheme( 'basic', [ '#dae1ff', '#98aef6', '#437eeb' ] );
 
+      var tooltipOptions = {
+        "font": "Helvetica"
+      };
+
       var spec = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
         "width": 400,
@@ -31,8 +35,14 @@
           "color": {
             "field": "properties.Casos",
             "type": "quantitative",
-            "scale": { "scheme": "basic" },
-            "axis": { "title": "Casos activos" },
+            "scale": {
+              "scheme": "basic"
+            },
+            "axis": { 
+              "title": "Casos activos",
+              "titleFont": "Helvetica",
+              "titleFontWeight": 400
+            },
             "legend": {
               "offset": -90,
               "padding": 10
@@ -52,7 +62,7 @@
           ]
         }
       };
-      vegaEmbed( '#vis', spec, { actions: false } );
+      vegaEmbed( '#vis', spec, { actions: false, tooltip: tooltipOptions } );
     </script>
   </body>
 </html>
