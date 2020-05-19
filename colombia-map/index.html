@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Embedding Vega-Lite</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.11.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.12.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+  </head>
+  <body>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+      vega.scheme( 'basic', [ '#afbff9', '#809ef2', '#437eeb' ] );
+
+      var spec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+        "width": 400,
+        "height": 600,
+        "data": {
+          "url": "departamentos.topo.json",
+          "format": {
+            "type": "topojson",
+            "feature": "departamentos"
+          }
+        },
+        "projection": {
+          "type": "mercator"
+        },
+        "mark": "geoshape",
+        "encoding": {
+          "color": {
+            "field": "properties.Casos",
+            "type": "quantitative",
+            "scale": { "scheme": "basic" },
+            "axis": { "title": "Casos activos" },
+            "legend": {
+              "offset": -90,
+              "padding": 10
+            }
+          },
+          "tooltip": [
+            {
+              "field": "properties.departamento",
+              "type": "nominal",
+              "axis": { "title": "Departamento" }
+            },
+            {
+              "field": "properties.Casos",
+              "type": "quantitative",
+              "axis": { "title": "Casos" }
+            }
+          ]
+        }
+      };
+      vegaEmbed( '#vis', spec, { actions: false } );
+    </script>
+  </body>
+</html>
