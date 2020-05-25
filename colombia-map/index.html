@@ -18,8 +18,8 @@
 
       var spec = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 400,
-        "height": 600,
+        "width": 300,
+        "height": 400,
         "data": {
           "url": "departamentos.topo.json",
           "format": {
@@ -38,14 +38,14 @@
             "scale": {
               "scheme": "basic"
             },
-            "axis": { 
+            "legend": { 
               "title": "Casos activos",
               "titleFont": "Helvetica",
-              "titleFontWeight": 400
-            },
-            "legend": {
-              "offset": -90,
-              "padding": 10
+              "titleFontWeight": 400,
+              "direction": "horizontal",
+              "orient": "bottom",
+              "gradientLength": 300,
+              "offset": -5
             }
           },
           "tooltip": [
