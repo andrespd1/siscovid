@@ -1,0 +1,19 @@
+IPS,Servicio,Grupo,Camas Ocupadas,Camas habilitadas,Camas disponibles,Porcentaje de Ocupación,Fecha Actualización
+Públicas,Hospitalización General,Neonatal,104,138,34,75%,31/05/2020
+Públicas,Hospitalización General,Pediátrico,103,400,297,26%,31/05/2020
+Públicas,Hospitalización General,Adulto,985,1188,387,72%,31/05/2020
+Públicas,Unidad de Cuidado Intermedio,Neonatal,92,126,34,73%,31/05/2020
+Públicas,Unidad de Cuidado Intermedio,Pediátrico,6,14,8,43%,31/05/2020
+Públicas,Unidad de Cuidado Intermedio,Adulto,56,72,16,78%,31/05/2020
+Públicas,Unidad de cuidado intensivo,Neonatal,58,68,10,85%,31/05/2020
+Públicas,Unidad de cuidado intensivo,Pediátrico,13,29,16,45%,31/05/2020
+Públicas,Unidad de cuidado intensivo,Adulto,118,137,45,72%,31/05/2020
+Privadas,Hospitalización General,Neonatal,102,149,47,68%,31/05/2020
+Privadas,Hospitalización General,Pediátrico,541,1308,767,41%,31/05/2020
+Privadas,Hospitalización General,Adulto,3451,4963,1643,68%,31/05/2020
+Privadas,Unidad de Cuidado Intermedio,Neonatal,176,248,72,71%,31/05/2020
+Privadas,Unidad de Cuidado Intermedio,Pediátrico,23,88,65,26%,31/05/2020
+Privadas,Unidad de Cuidado Intermedio,Adulto,266,409,188,59%,31/05/2020
+Privadas,Unidad de cuidado intensivo,Neonatal,121,202,81,60%,31/05/2020
+Privadas,Unidad de cuidado intensivo,Pediátrico,86,177,91,49%,31/05/2020
+Privadas,Unidad de cuidado intensivo,Adulto,597,793,392,60%,31/05/2020

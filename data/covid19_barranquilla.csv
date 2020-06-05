@@ -1,0 +1,2122 @@
+ID de caso,Fecha de diagnóstico,Ciudad de residencia,Localidad de residencia,Edad,Sexo,Tipo de caso,Ubicación,Estado,Grupo de edad
+59,2020-03-16,Barranquilla,,20,M,Importado,Recuperado,Leve,20 - 39
+61,2020-03-16,Barranquilla,,21,M,Importado,Recuperado,Leve,20 - 39
+104,2020-03-19,Barranquilla,,48,F,Importado,Recuperado,Leve,40 - 59
+126,2020-03-19,Barranquilla,,52,F,Importado,Recuperado,Leve,40 - 59
+127,2020-03-19,Barranquilla,,30,F,Relacionado,Recuperado,Leve,20 - 39
+203,2020-03-21,Barranquilla,,24,F,Importado,Recuperado,Leve,20 - 39
+204,2020-03-21,Barranquilla,,35,M,Importado,Recuperado,Leve,20 - 39
+324,2020-03-24,Barranquilla,,57,M,Importado,Recuperado,Leve,40 - 59
+325,2020-03-24,Barranquilla,,19,F,Importado,Recuperado,Leve,0 - 19
+434,2020-03-25,Barranquilla,,25,M,Importado,Recuperado,Leve,20 - 39
+463,2020-03-25,Barranquilla,,19,F,Importado,Recuperado,Asintomático,0 - 19
+471,2020-03-25,Barranquilla,,50,F,Importado,Recuperado,Leve,40 - 59
+533,2020-03-27,Barranquilla,,25,M,Importado,Fallecido,Fallecido,20 - 39
+604,2020-03-28,Barranquilla,,54,M,Relacionado,Recuperado,Leve,40 - 59
+605,2020-03-28,Barranquilla,,37,F,Relacionado,Recuperado,Leve,20 - 39
+608,2020-03-28,Barranquilla,,47,M,Importado,Recuperado,Leve,40 - 59
+668,2020-03-29,Barranquilla,,64,M,Relacionado,Recuperado,Leve,60 - 79
+671,2020-03-29,Barranquilla,,28,F,Relacionado,Recuperado,Leve,20 - 39
+672,2020-03-29,Barranquilla,,1,M,Relacionado,Recuperado,Leve,0 - 19
+673,2020-03-29,Barranquilla,,35,M,Relacionado,Recuperado,Leve,20 - 39
+733,2020-03-30,Barranquilla,,31,M,Relacionado,Recuperado,Leve,20 - 39
+819,2020-03-31,Barranquilla,,26,M,Importado,Recuperado,Leve,20 - 39
+823,2020-03-31,Barranquilla,,57,F,Relacionado,Recuperado,Leve,40 - 59
+824,2020-03-31,Barranquilla,,32,F,Relacionado,Recuperado,Leve,20 - 39
+825,2020-03-31,Barranquilla,,44,M,Importado,Recuperado,Leve,40 - 59
+826,2020-03-31,Barranquilla,,24,M,Importado,Recuperado,Leve,20 - 39
+827,2020-03-31,Barranquilla,,25,M,Importado,Recuperado,Leve,20 - 39
+828,2020-03-31,Barranquilla,,77,M,Importado,Fallecido,Fallecido,60 - 79
+829,2020-03-31,Barranquilla,,30,F,Relacionado,Recuperado,Leve,20 - 39
+916,2020-04-01,Barranquilla,,61,M,Relacionado,Recuperado,Leve,60 - 79
+980,2020-04-01,Barranquilla,,57,M,Importado,Recuperado,Leve,40 - 59
+1173,2020-04-03,Barranquilla,,67,F,Relacionado,Recuperado,Leve,60 - 79
+1174,2020-04-03,Barranquilla,,25,M,Relacionado,Recuperado,Leve,20 - 39
+1177,2020-04-03,Barranquilla,,23,F,Relacionado,Recuperado,Leve,20 - 39
+1178,2020-04-03,Barranquilla,,62,F,Relacionado,Recuperado,Leve,60 - 79
+1206,2020-04-03,Barranquilla,,27,F,Relacionado,Recuperado,Leve,20 - 39
+1207,2020-04-03,Barranquilla,,24,F,Relacionado,Recuperado,Leve,20 - 39
+1208,2020-04-03,Barranquilla,,1,F,En estudio,Recuperado,Leve,0 - 19
+1209,2020-04-03,Barranquilla,,0,F,Relacionado,Recuperado,Leve,0 - 19
+1210,2020-04-03,Barranquilla,,40,F,Relacionado,Recuperado,Leve,40 - 59
+1407,2020-04-05,Barranquilla,,70,M,Relacionado,Recuperado,Leve,60 - 79
+1421,2020-04-05,Barranquilla,,38,F,Importado,Recuperado,Leve,20 - 39
+1507,2020-04-06,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+1594,2020-04-07,Barranquilla,,43,M,En estudio,Recuperado,Leve,40 - 59
+1598,2020-04-07,Barranquilla,,62,M,En estudio,Recuperado,Leve,60 - 79
+1599,2020-04-07,Barranquilla,,72,F,En estudio,Recuperado,Leve,60 - 79
+1805,2020-04-08,Barranquilla,,54,M,En estudio,Recuperado,Leve,40 - 59
+1806,2020-04-08,Barranquilla,,27,F,Relacionado,Recuperado,Leve,20 - 39
+1807,2020-04-08,Barranquilla,,49,F,Relacionado,Recuperado,Leve,40 - 59
+2066,2020-04-09,Barranquilla,,33,F,En estudio,Recuperado,Leve,20 - 39
+2067,2020-04-09,Barranquilla,,40,M,En estudio,Recuperado,Leve,40 - 59
+2117,2020-04-09,Barranquilla,,49,F,Importado,Recuperado,Leve,40 - 59
+2118,2020-04-09,Barranquilla,,38,F,Importado,Recuperado,Leve,20 - 39
+2119,2020-04-09,Barranquilla,,47,M,Relacionado,Recuperado,Leve,40 - 59
+2120,2020-04-09,Barranquilla,,57,M,En estudio,Recuperado,Leve,40 - 59
+2224,2020-04-10,Barranquilla,,50,M,Importado,Recuperado,Leve,40 - 59
+2244,2020-04-10,Barranquilla,,14,M,Relacionado,Recuperado,Leve,0 - 19
+2349,2020-04-10,Barranquilla,,25,F,Relacionado,Recuperado,Asintomático,20 - 39
+2350,2020-04-10,Barranquilla,,32,M,Relacionado,Recuperado,Asintomático,20 - 39
+2351,2020-04-10,Barranquilla,,56,F,Relacionado,Recuperado,Leve,40 - 59
+2490,2020-04-11,Barranquilla,,61,M,En estudio,Recuperado,Leve,60 - 79
+2585,2020-04-11,Barranquilla,,30,F,Relacionado,Recuperado,Leve,20 - 39
+2667,2020-04-11,Barranquilla,,45,M,Relacionado,Recuperado,Leve,40 - 59
+2668,2020-04-11,Barranquilla,,33,F,Relacionado,Recuperado,Leve,20 - 39
+2710,2020-04-12,Barranquilla,,52,F,En estudio,Recuperado,Leve,40 - 59
+2730,2020-04-12,Barranquilla,,20,M,En estudio,Fallecido,Fallecido,20 - 39
+2780,2020-04-13,Barranquilla,,54,F,En estudio,Recuperado,Leve,40 - 59
+2877,2020-04-14,Barranquilla,,28,F,Relacionado,Recuperado,Leve,20 - 39
+2878,2020-04-14,Barranquilla,,28,M,Importado,Recuperado,Leve,20 - 39
+3155,2020-04-16,Barranquilla,,47,M,En estudio,Recuperado,Leve,40 - 59
+3296,2020-04-17,Barranquilla,,3,F,Relacionado,Recuperado,Leve,0 - 19
+3416,2020-04-17,Barranquilla,,54,F,Relacionado,Recuperado,Asintomático,40 - 59
+3441,2020-04-18,Barranquilla,,59,M,En estudio,Recuperado,Leve,40 - 59
+3484,2020-04-18,Barranquilla,,24,M,Relacionado,Recuperado,Leve,20 - 39
+3485,2020-04-18,Barranquilla,,52,F,Relacionado,Recuperado,Leve,40 - 59
+3654,2020-04-19,Barranquilla,,48,F,En estudio,Recuperado,Leve,40 - 59
+3655,2020-04-19,Barranquilla,,36,F,Relacionado,Recuperado,Asintomático,20 - 39
+3854,2020-04-20,Barranquilla,,50,F,En estudio,Recuperado,Leve,40 - 59
+4000,2020-04-21,Barranquilla,,38,F,En estudio,Recuperado,Leve,20 - 39
+4001,2020-04-21,Barranquilla,,67,F,En estudio,Fallecido,Fallecido,60 - 79
+4003,2020-04-21,Barranquilla,,86,M,En estudio,Fallecido,Fallecido,80+
+4004,2020-04-21,Barranquilla,,45,F,Relacionado,Recuperado,Asintomático,40 - 59
+4237,2020-04-22,Barranquilla,,14,F,Relacionado,Recuperado,Asintomático,0 - 19
+4259,2020-04-22,Barranquilla,,49,M,En estudio,Recuperado,Leve,40 - 59
+4353,2020-04-22,Barranquilla,,49,F,En estudio,Recuperado,Leve,40 - 59
+4367,2020-04-23,Barranquilla,,71,F,En estudio,Fallecido,Fallecido,60 - 79
+4424,2020-04-23,Barranquilla,,53,M,Relacionado,Recuperado,Leve,40 - 59
+4571,2020-04-24,Barranquilla,,68,M,En estudio,Recuperado,Leve,60 - 79
+4580,2020-04-24,Barranquilla,,13,F,Relacionado,Recuperado,Leve,0 - 19
+4581,2020-04-24,Barranquilla,,15,F,Relacionado,Recuperado,Leve,0 - 19
+4620,2020-04-24,Barranquilla,,28,M,Relacionado,Recuperado,Leve,20 - 39
+4621,2020-04-24,Barranquilla,,33,M,Relacionado,Recuperado,Leve,20 - 39
+4884,2020-04-25,Barranquilla,,42,F,En estudio,Recuperado,Leve,40 - 59
+4892,2020-04-25,Barranquilla,,6,M,Relacionado,Recuperado,Asintomático,0 - 19
+4896,2020-04-25,Barranquilla,,51,F,Relacionado,Recuperado,Leve,40 - 59
+4947,2020-04-25,Barranquilla,,71,M,Relacionado,Recuperado,Leve,60 - 79
+4948,2020-04-25,Barranquilla,,48,M,Relacionado,Recuperado,Leve,40 - 59
+4949,2020-04-25,Barranquilla,,38,F,En estudio,Recuperado,Leve,20 - 39
+4950,2020-04-25,Barranquilla,,81,F,En estudio,Recuperado,Asintomático,80+
+5147,2020-04-26,Barranquilla,,39,F,En estudio,Recuperado,Leve,20 - 39
+5152,2020-04-26,Barranquilla,,88,F,En estudio,Recuperado,Leve,80+
+5203,2020-04-26,Barranquilla,,8,M,Relacionado,Recuperado,Asintomático,0 - 19
+5204,2020-04-26,Barranquilla,,32,M,Relacionado,Recuperado,Asintomático,20 - 39
+5205,2020-04-26,Barranquilla,,37,F,Relacionado,Recuperado,Asintomático,20 - 39
+5206,2020-04-26,Barranquilla,,10,M,Relacionado,Recuperado,Asintomático,0 - 19
+5207,2020-04-26,Barranquilla,,6,M,Relacionado,Recuperado,Asintomático,0 - 19
+5208,2020-04-26,Barranquilla,,41,M,Relacionado,Recuperado,Asintomático,40 - 59
+5209,2020-04-26,Barranquilla,,38,F,En estudio,Recuperado,Leve,20 - 39
+5246,2020-04-26,Barranquilla,,27,M,Relacionado,Recuperado,Leve,20 - 39
+5257,2020-04-26,Barranquilla,,60,M,En estudio,Recuperado,Asintomático,60 - 79
+5258,2020-04-26,Barranquilla,,55,F,En estudio,Recuperado,Leve,40 - 59
+5384,2020-04-27,Barranquilla,,42,M,En estudio,Recuperado,Leve,40 - 59
+5385,2020-04-27,Barranquilla,,49,M,Relacionado,Recuperado,Asintomático,40 - 59
+5386,2020-04-27,Barranquilla,,28,F,Relacionado,Recuperado,Asintomático,20 - 39
+5388,2020-04-27,Barranquilla,,29,M,Relacionado,Recuperado,Asintomático,20 - 39
+5389,2020-04-27,Barranquilla,,54,F,Relacionado,Recuperado,Asintomático,40 - 59
+5390,2020-04-27,Barranquilla,,20,M,Relacionado,Recuperado,Asintomático,20 - 39
+5391,2020-04-27,Barranquilla,,13,F,Relacionado,Recuperado,Asintomático,0 - 19
+5392,2020-04-27,Barranquilla,,57,F,Relacionado,Recuperado,Asintomático,40 - 59
+5393,2020-04-27,Barranquilla,,39,M,Relacionado,Recuperado,Asintomático,20 - 39
+5394,2020-04-27,Barranquilla,,13,F,Relacionado,Recuperado,Asintomático,0 - 19
+5395,2020-04-27,Barranquilla,,16,F,Relacionado,Recuperado,Asintomático,0 - 19
+5396,2020-04-27,Barranquilla,,52,F,Relacionado,Recuperado,Asintomático,40 - 59
+5397,2020-04-27,Barranquilla,,84,F,Relacionado,Recuperado,Asintomático,80+
+5398,2020-04-27,Barranquilla,,57,M,Relacionado,Recuperado,Asintomático,40 - 59
+5399,2020-04-27,Barranquilla,,26,M,Relacionado,Recuperado,Leve,20 - 39
+5400,2020-04-27,Barranquilla,,15,F,Relacionado,Recuperado,Asintomático,0 - 19
+5401,2020-04-27,Barranquilla,,22,M,Relacionado,Recuperado,Leve,20 - 39
+5449,2020-04-27,Barranquilla,,37,F,En estudio,Recuperado,Leve,20 - 39
+5607,2020-04-28,Barranquilla,,1,M,En estudio,Recuperado,Leve,0 - 19
+5608,2020-04-28,Barranquilla,,77,F,Relacionado,Recuperado,Leve,60 - 79
+5609,2020-04-28,Barranquilla,,39,F,Relacionado,Recuperado,Asintomático,20 - 39
+5610,2020-04-28,Barranquilla,,3,M,Relacionado,Recuperado,Asintomático,0 - 19
+5611,2020-04-28,Barranquilla,,28,M,Relacionado,Recuperado,Leve,20 - 39
+5612,2020-04-28,Barranquilla,,83,F,Relacionado,Fallecido,Fallecido,80+
+5613,2020-04-28,Barranquilla,,29,F,Relacionado,Recuperado,Leve,20 - 39
+5614,2020-04-28,Barranquilla,,28,F,Relacionado,Recuperado,Asintomático,20 - 39
+5615,2020-04-28,Barranquilla,,0,M,Relacionado,Recuperado,Leve,0 - 19
+6040,2020-04-29,Barranquilla,,57,M,En estudio,Recuperado,Leve,40 - 59
+6041,2020-04-29,Barranquilla,,73,M,Relacionado,Fallecido,Fallecido,60 - 79
+6212,2020-04-30,Barranquilla,,33,M,En estudio,Recuperado,Leve,20 - 39
+6213,2020-04-30,Barranquilla,,30,M,En estudio,Recuperado,Leve,20 - 39
+6214,2020-04-30,Barranquilla,,34,M,Relacionado,Recuperado,Leve,20 - 39
+6215,2020-04-30,Barranquilla,,12,M,En estudio,Recuperado,Leve,0 - 19
+6278,2020-04-30,Barranquilla,,67,M,Relacionado,Recuperado,Leve,60 - 79
+6279,2020-04-30,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+6377,2020-04-30,Barranquilla,,25,M,Relacionado,Recuperado,Leve,20 - 39
+6430,2020-04-30,Barranquilla,,58,F,En estudio,Fallecido,Fallecido,40 - 59
+6432,2020-04-30,Barranquilla,,42,F,En estudio,Recuperado,Leve,40 - 59
+6433,2020-04-30,Barranquilla,,32,F,En estudio,Recuperado,Leve,20 - 39
+6434,2020-04-30,Barranquilla,,71,F,En estudio,Recuperado,Asintomático,60 - 79
+6435,2020-04-30,Barranquilla,,21,F,En estudio,Recuperado,Asintomático,20 - 39
+6436,2020-04-30,Barranquilla,,20,M,En estudio,Recuperado,Asintomático,20 - 39
+6437,2020-04-30,Barranquilla,,50,F,En estudio,Recuperado,Asintomático,40 - 59
+6438,2020-04-30,Barranquilla,,41,F,En estudio,Recuperado,Asintomático,40 - 59
+6439,2020-04-30,Barranquilla,,37,F,Importado,Recuperado,Leve,20 - 39
+6440,2020-04-30,Barranquilla,,30,M,En estudio,Recuperado,Leve,20 - 39
+6442,2020-04-30,Barranquilla,,2,M,Relacionado,Recuperado,Leve,0 - 19
+6444,2020-04-30,Barranquilla,,7,M,Relacionado,Recuperado,Leve,0 - 19
+6545,2020-05-01,Barranquilla,,56,M,En estudio,Recuperado,Leve,40 - 59
+6731,2020-05-01,Barranquilla,,33,M,En estudio,Recuperado,Leve,20 - 39
+6813,2020-05-01,Barranquilla,,44,M,En estudio,Recuperado,Leve,40 - 59
+6861,2020-05-01,Barranquilla,,31,M,Relacionado,Recuperado,Leve,20 - 39
+6862,2020-05-01,Barranquilla,,28,F,En estudio,Recuperado,Leve,20 - 39
+7091,2020-05-02,Barranquilla,,63,M,En estudio,Fallecido,Fallecido,60 - 79
+7092,2020-05-02,Barranquilla,,28,F,Relacionado,Recuperado,Leve,20 - 39
+7093,2020-05-02,Barranquilla,,78,F,En estudio,Recuperado,Leve,60 - 79
+7094,2020-05-02,Barranquilla,,85,F,En estudio,Recuperado,Leve,80+
+7095,2020-05-02,Barranquilla,,42,F,Relacionado,Recuperado,Leve,40 - 59
+7096,2020-05-02,Barranquilla,,37,F,Relacionado,Recuperado,Asintomático,20 - 39
+7097,2020-05-02,Barranquilla,,28,M,Relacionado,Recuperado,Asintomático,20 - 39
+7098,2020-05-02,Barranquilla,,36,F,Relacionado,Recuperado,Asintomático,20 - 39
+7099,2020-05-02,Barranquilla,,4,F,Relacionado,Recuperado,Asintomático,0 - 19
+7100,2020-05-02,Barranquilla,,76,M,En estudio,Recuperado,Leve,60 - 79
+7101,2020-05-02,Barranquilla,,29,M,En estudio,Recuperado,Leve,20 - 39
+7102,2020-05-02,Barranquilla,,20,M,En estudio,Recuperado,Leve,20 - 39
+7103,2020-05-02,Barranquilla,,54,M,En estudio,Recuperado,Leve,40 - 59
+7104,2020-05-02,Barranquilla,,39,F,En estudio,Recuperado,Leve,20 - 39
+7105,2020-05-02,Barranquilla,,61,M,En estudio,Recuperado,Asintomático,60 - 79
+7106,2020-05-02,Barranquilla,,63,F,En estudio,Recuperado,Moderado,60 - 79
+7107,2020-05-02,Barranquilla,,22,F,En estudio,Recuperado,Leve,20 - 39
+7108,2020-05-02,Barranquilla,,61,M,En estudio,Recuperado,Leve,60 - 79
+7109,2020-05-02,Barranquilla,,6,M,En estudio,Recuperado,Asintomático,0 - 19
+7173,2020-05-02,Barranquilla,,72,M,En estudio,Recuperado,Leve,60 - 79
+7174,2020-05-02,Barranquilla,,26,M,Relacionado,Recuperado,Leve,20 - 39
+7175,2020-05-02,Barranquilla,,59,M,En estudio,Recuperado,Leve,40 - 59
+7177,2020-05-02,Barranquilla,,69,F,En estudio,Recuperado,Leve,60 - 79
+7184,2020-05-02,Barranquilla,,33,M,Relacionado,Recuperado,Leve,20 - 39
+7188,2020-05-02,Barranquilla,,74,M,En estudio,Recuperado,Leve,60 - 79
+7189,2020-05-02,Barranquilla,,45,M,En estudio,Recuperado,Leve,40 - 59
+7190,2020-05-02,Barranquilla,,43,M,Relacionado,Recuperado,Leve,40 - 59
+7191,2020-05-02,Barranquilla,,70,M,En estudio,Recuperado,Leve,60 - 79
+7192,2020-05-02,Barranquilla,,68,M,En estudio,Recuperado,Leve,60 - 79
+7193,2020-05-02,Barranquilla,,12,F,Relacionado,Recuperado,Leve,0 - 19
+7209,2020-05-02,Barranquilla,,61,M,En estudio,Recuperado,Leve,60 - 79
+7210,2020-05-02,Barranquilla,,49,M,En estudio,Recuperado,Leve,40 - 59
+7212,2020-05-02,Barranquilla,,46,M,En estudio,Recuperado,Leve,40 - 59
+7286,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7287,2020-05-03,Barranquilla,,18,M,Relacionado,Recuperado,Leve,0 - 19
+7289,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7290,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7291,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7292,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7293,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7294,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7295,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7296,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7297,2020-05-03,Barranquilla,,22,M,Relacionado,Recuperado,Leve,20 - 39
+7298,2020-05-03,Barranquilla,,21,M,Relacionado,Recuperado,Leve,20 - 39
+7299,2020-05-03,Barranquilla,,23,M,Relacionado,Recuperado,Leve,20 - 39
+7300,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7301,2020-05-03,Barranquilla,,21,M,Relacionado,Recuperado,Leve,20 - 39
+7302,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Asintomático,0 - 19
+7303,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7304,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Asintomático,0 - 19
+7305,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7306,2020-05-03,Barranquilla,,22,M,Relacionado,Recuperado,Leve,20 - 39
+7307,2020-05-03,Barranquilla,,21,M,Relacionado,Recuperado,Leve,20 - 39
+7308,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7309,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7310,2020-05-03,Barranquilla,,22,M,Relacionado,Recuperado,Leve,20 - 39
+7311,2020-05-03,Barranquilla,,19,M,Relacionado,Recuperado,Leve,0 - 19
+7312,2020-05-03,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7535,2020-05-03,Barranquilla,,30,F,Relacionado,Recuperado,Leve,20 - 39
+7538,2020-05-03,Barranquilla,,24,M,Relacionado,Recuperado,Leve,20 - 39
+7539,2020-05-03,Barranquilla,,43,F,Relacionado,Recuperado,Leve,40 - 59
+7546,2020-05-03,Barranquilla,,84,F,En estudio,Fallecido,Fallecido,80+
+7547,2020-05-03,Barranquilla,,83,F,En estudio,Fallecido,Fallecido,80+
+7548,2020-05-03,Barranquilla,,33,M,En estudio,Fallecido,Fallecido,20 - 39
+7551,2020-05-03,Barranquilla,,33,F,En estudio,Recuperado,Leve,20 - 39
+7552,2020-05-03,Barranquilla,,34,F,En estudio,Recuperado,Asintomático,20 - 39
+7553,2020-05-03,Barranquilla,,38,M,En estudio,Recuperado,Leve,20 - 39
+7554,2020-05-03,Barranquilla,,11,M,En estudio,Recuperado,Asintomático,0 - 19
+7555,2020-05-03,Barranquilla,,11,M,En estudio,Recuperado,Asintomático,0 - 19
+7556,2020-05-03,Barranquilla,,24,M,Relacionado,Recuperado,Leve,20 - 39
+7557,2020-05-03,Barranquilla,,71,M,En estudio,Recuperado,Asintomático,60 - 79
+7558,2020-05-03,Barranquilla,,18,M,Relacionado,Recuperado,Leve,0 - 19
+7559,2020-05-03,Barranquilla,,3,M,En estudio,Recuperado,Asintomático,0 - 19
+7560,2020-05-03,Barranquilla,,50,M,Relacionado,Recuperado,Asintomático,40 - 59
+7561,2020-05-03,Barranquilla,,26,F,Relacionado,Recuperado,Asintomático,20 - 39
+7562,2020-05-03,Barranquilla,,40,F,En estudio,Recuperado,Leve,40 - 59
+7563,2020-05-03,Barranquilla,,45,F,En estudio,Recuperado,Leve,40 - 59
+7564,2020-05-03,Barranquilla,,43,F,Relacionado,Recuperado,Asintomático,40 - 59
+7711,2020-05-04,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7764,2020-05-04,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7765,2020-05-04,Barranquilla,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7818,2020-05-04,Barranquilla,,49,M,En estudio,Recuperado,Leve,40 - 59
+7840,2020-05-04,Barranquilla,,39,M,Relacionado,Recuperado,Asintomático,20 - 39
+7841,2020-05-04,Barranquilla,,41,F,Relacionado,Recuperado,Leve,40 - 59
+7842,2020-05-04,Barranquilla,,43,F,Relacionado,Recuperado,Leve,40 - 59
+7843,2020-05-04,Barranquilla,,11,F,Relacionado,Recuperado,Asintomático,0 - 19
+7844,2020-05-04,Barranquilla,,48,M,Relacionado,Recuperado,Leve,40 - 59
+7845,2020-05-04,Barranquilla,,25,M,Relacionado,Recuperado,Asintomático,20 - 39
+7874,2020-05-04,Barranquilla,,38,M,En estudio,Recuperado,Asintomático,20 - 39
+8019,2020-05-05,Barranquilla,,46,M,Relacionado,Recuperado,Leve,40 - 59
+8022,2020-05-05,Barranquilla,,17,M,En estudio,Recuperado,Leve,0 - 19
+8025,2020-05-05,Barranquilla,,72,F,En estudio,Recuperado,Leve,60 - 79
+8026,2020-05-05,Barranquilla,,26,F,Relacionado,Recuperado,Leve,20 - 39
+8027,2020-05-05,Barranquilla,,87,F,En estudio,Recuperado,Leve,80+
+8028,2020-05-05,Barranquilla,,1,M,En estudio,Recuperado,Leve,0 - 19
+8029,2020-05-05,Barranquilla,,51,F,En estudio,Recuperado,Leve,40 - 59
+8030,2020-05-05,Barranquilla,,27,M,En estudio,Recuperado,Leve,20 - 39
+8031,2020-05-05,Barranquilla,,63,F,En estudio,Recuperado,Leve,60 - 79
+8040,2020-05-05,Barranquilla,,47,M,En estudio,Recuperado,Leve,40 - 59
+8122,2020-05-05,Barranquilla,,32,M,En estudio,Recuperado,Leve,20 - 39
+8123,2020-05-05,Barranquilla,,1,M,En estudio,Recuperado,Leve,0 - 19
+8249,2020-05-05,Barranquilla,,22,F,Relacionado,Casa,Leve,20 - 39
+8263,2020-05-05,Barranquilla,,30,M,En estudio,Recuperado,Leve,20 - 39
+8267,2020-05-05,Barranquilla,,9,M,En estudio,Casa,Asintomático,0 - 19
+8268,2020-05-05,Barranquilla,,4,F,En estudio,Casa,Asintomático,0 - 19
+8269,2020-05-05,Barranquilla,,40,F,Relacionado,Casa,Asintomático,40 - 59
+8270,2020-05-05,Barranquilla,,5,M,En estudio,Casa,Asintomático,0 - 19
+8271,2020-05-05,Barranquilla,,3,F,En estudio,Recuperado,Asintomático,0 - 19
+8272,2020-05-05,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+8276,2020-05-05,Barranquilla,,57,M,En estudio,Hospital UCI,Grave,40 - 59
+8278,2020-05-05,Barranquilla,,72,M,En estudio,Fallecido,Fallecido,60 - 79
+8279,2020-05-05,Barranquilla,,69,F,En estudio,Fallecido,Fallecido,60 - 79
+8280,2020-05-05,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+8282,2020-05-05,Barranquilla,,37,F,En estudio,Recuperado,Leve,20 - 39
+8285,2020-05-05,Barranquilla,,44,F,En estudio,Fallecido,Fallecido,40 - 59
+8286,2020-05-05,Barranquilla,,81,M,En estudio,Fallecido,Fallecido,80+
+8287,2020-05-05,Barranquilla,,100,F,En estudio,Fallecido,Fallecido,80+
+8288,2020-05-05,Barranquilla,,17,F,En estudio,Casa,Leve,0 - 19
+8289,2020-05-05,Barranquilla,,16,F,En estudio,Casa,Leve,0 - 19
+8290,2020-05-05,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+8291,2020-05-05,Barranquilla,,60,F,En estudio,Casa,Leve,60 - 79
+8292,2020-05-05,Barranquilla,,47,M,En estudio,Fallecido,Fallecido,40 - 59
+8293,2020-05-05,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+8294,2020-05-05,Barranquilla,,66,M,En estudio,Hospital,Moderado,60 - 79
+8295,2020-05-05,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+8297,2020-05-05,Barranquilla,,86,F,En estudio,Fallecido,Fallecido,80+
+8298,2020-05-05,Barranquilla,,68,M,En estudio,Casa,Leve,60 - 79
+8299,2020-05-05,Barranquilla,,83,M,En estudio,Fallecido,Fallecido,80+
+8300,2020-05-05,Barranquilla,,67,M,En estudio,Recuperado,Leve,60 - 79
+8301,2020-05-05,Barranquilla,,17,F,En estudio,Recuperado,Leve,0 - 19
+8302,2020-05-05,Barranquilla,,78,M,En estudio,Casa,Leve,60 - 79
+8303,2020-05-05,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+8329,2020-05-05,Barranquilla,,81,M,En estudio,Fallecido,Fallecido,80+
+8645,2020-05-05,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+8648,2020-05-05,Barranquilla,,59,M,Relacionado,Recuperado,Leve,40 - 59
+8656,2020-05-06,Barranquilla,,27,M,Relacionado,Casa,Leve,20 - 39
+8749,2020-05-06,Barranquilla,,60,F,En estudio,Recuperado,Leve,60 - 79
+8774,2020-05-06,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+8775,2020-05-06,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+8776,2020-05-06,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+8777,2020-05-06,Barranquilla,,22,M,En estudio,Recuperado,Leve,20 - 39
+8992,2020-05-06,Barranquilla,,45,M,En estudio,Recuperado,Leve,40 - 59
+8993,2020-05-06,Barranquilla,,43,M,En estudio,Recuperado,Leve,40 - 59
+9012,2020-05-07,Barranquilla,,31,M,En estudio,Recuperado,Leve,20 - 39
+9034,2020-05-07,Barranquilla,,40,F,En estudio,Recuperado,Leve,40 - 59
+9052,2020-05-07,Barranquilla,,29,M,En estudio,Recuperado,Leve,20 - 39
+9068,2020-05-07,Barranquilla,,38,M,Relacionado,Recuperado,Leve,20 - 39
+9069,2020-05-07,Barranquilla,,34,F,En estudio,Recuperado,Asintomático,20 - 39
+9087,2020-05-07,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+9100,2020-05-07,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+9328,2020-05-07,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+9329,2020-05-07,Barranquilla,,18,F,En estudio,Casa,Leve,0 - 19
+9330,2020-05-07,Barranquilla,,71,M,En estudio,Casa,Leve,60 - 79
+9331,2020-05-07,Barranquilla,,80,F,En estudio,Casa,Leve,80+
+9340,2020-05-07,Barranquilla,,43,M,En estudio,Recuperado,Leve,40 - 59
+9341,2020-05-07,Barranquilla,,75,M,En estudio,Casa,Leve,60 - 79
+9342,2020-05-07,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+9343,2020-05-07,Barranquilla,,19,F,En estudio,Casa,Leve,0 - 19
+9358,2020-05-07,Barranquilla,,43,M,Relacionado,Casa,Leve,40 - 59
+9360,2020-05-07,Barranquilla,,27,F,En estudio,Recuperado,Leve,20 - 39
+9499,2020-05-08,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+9500,2020-05-08,Barranquilla,,48,M,En estudio,Recuperado,Leve,40 - 59
+9501,2020-05-08,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+9502,2020-05-08,Barranquilla,,43,M,En estudio,Recuperado,Leve,40 - 59
+9503,2020-05-08,Barranquilla,,48,M,En estudio,Recuperado,Leve,40 - 59
+9504,2020-05-08,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+9505,2020-05-08,Barranquilla,,57,F,En estudio,Recuperado,Leve,40 - 59
+9506,2020-05-08,Barranquilla,,33,F,En estudio,Recuperado,Leve,20 - 39
+9507,2020-05-08,Barranquilla,,39,M,En estudio,Recuperado,Leve,20 - 39
+9508,2020-05-08,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+9509,2020-05-08,Barranquilla,,52,F,En estudio,Recuperado,Leve,40 - 59
+9510,2020-05-08,Barranquilla,,42,F,En estudio,Recuperado,Leve,40 - 59
+9512,2020-05-08,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+9517,2020-05-08,Barranquilla,,45,F,En estudio,Recuperado,Leve,40 - 59
+9518,2020-05-08,Barranquilla,,51,M,En estudio,Recuperado,Leve,40 - 59
+9519,2020-05-08,Barranquilla,,48,M,En estudio,Recuperado,Leve,40 - 59
+9529,2020-05-08,Barranquilla,,70,M,En estudio,Casa,Leve,60 - 79
+9532,2020-05-08,Barranquilla,,17,F,En estudio,Recuperado,Leve,0 - 19
+9534,2020-05-08,Barranquilla,,72,F,En estudio,Casa,Leve,60 - 79
+9535,2020-05-08,Barranquilla,,86,F,En estudio,Recuperado,Leve,80+
+9536,2020-05-08,Barranquilla,,77,F,En estudio,Casa,Leve,60 - 79
+9537,2020-05-08,Barranquilla,,89,M,En estudio,Casa,Leve,80+
+9538,2020-05-08,Barranquilla,,91,M,En estudio,Casa,Leve,80+
+9539,2020-05-08,Barranquilla,,87,F,En estudio,Casa,Leve,80+
+9540,2020-05-08,Barranquilla,,83,M,En estudio,Casa,Leve,80+
+9567,2020-05-08,Barranquilla,,78,M,En estudio,Casa,Leve,60 - 79
+9568,2020-05-08,Barranquilla,,80,F,En estudio,Recuperado,Leve,80+
+9570,2020-05-08,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+9571,2020-05-08,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+9576,2020-05-08,Barranquilla,,59,M,En estudio,Casa,Leve,40 - 59
+9578,2020-05-08,Barranquilla,,1,F,En estudio,Casa,Leve,0 - 19
+9579,2020-05-08,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+9580,2020-05-08,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+9581,2020-05-08,Barranquilla,,46,F,En estudio,Recuperado,Leve,40 - 59
+9582,2020-05-08,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+9583,2020-05-08,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+9584,2020-05-08,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+9585,2020-05-08,Barranquilla,,7,M,En estudio,Casa,Leve,0 - 19
+9586,2020-05-08,Barranquilla,,21,M,En estudio,Recuperado,Leve,20 - 39
+9587,2020-05-08,Barranquilla,,61,M,En estudio,Recuperado,Leve,60 - 79
+9588,2020-05-08,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+9589,2020-05-08,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+9597,2020-05-08,Barranquilla,,93,M,En estudio,Casa,Leve,80+
+9598,2020-05-08,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+9599,2020-05-08,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+9678,2020-05-08,Barranquilla,,51,M,Relacionado,Casa,Leve,40 - 59
+9679,2020-05-08,Barranquilla,,30,M,En estudio,Recuperado,Leve,20 - 39
+9681,2020-05-08,Barranquilla,,55,M,En estudio,Recuperado,Leve,40 - 59
+9682,2020-05-08,Barranquilla,,26,M,Relacionado,Casa,Leve,20 - 39
+9684,2020-05-08,Barranquilla,,3,F,En estudio,Casa,Leve,0 - 19
+9685,2020-05-08,Barranquilla,,74,F,En estudio,Casa,Leve,60 - 79
+9686,2020-05-08,Barranquilla,,34,M,Relacionado,Casa,Leve,20 - 39
+9688,2020-05-08,Barranquilla,,29,M,Relacionado,Recuperado,Asintomático,20 - 39
+9695,2020-05-08,Barranquilla,,67,M,En estudio,Fallecido,Fallecido,60 - 79
+9715,2020-05-08,Barranquilla,,35,F,Relacionado,Casa,Asintomático,20 - 39
+9718,2020-05-08,Barranquilla,,34,F,En estudio,Recuperado,Asintomático,20 - 39
+9733,2020-05-08,Barranquilla,,37,M,Relacionado,Casa,Leve,20 - 39
+9736,2020-05-08,Barranquilla,,52,F,Relacionado,Recuperado,Leve,40 - 59
+10121,2020-05-09,Barranquilla,,58,F,En estudio,Casa,Leve,40 - 59
+10124,2020-05-09,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+10164,2020-05-09,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+10235,2020-05-09,Barranquilla,,34,M,Relacionado,Casa,Leve,20 - 39
+10237,2020-05-09,Barranquilla,,59,M,Relacionado,Casa,Leve,40 - 59
+10252,2020-05-09,Barranquilla,,79,F,En estudio,Fallecido,Fallecido,60 - 79
+10272,2020-05-09,Barranquilla,,32,M,Relacionado,Recuperado,Leve,20 - 39
+10282,2020-05-09,Barranquilla,,67,M,En estudio,Casa,Leve,60 - 79
+10302,2020-05-09,Barranquilla,,32,M,En estudio,Hospital UCI,Grave,20 - 39
+10317,2020-05-09,Barranquilla,,5,M,En estudio,Recuperado,Leve,0 - 19
+10321,2020-05-09,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+10538,2020-05-10,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+10539,2020-05-10,Barranquilla,,20,M,En estudio,Recuperado,Leve,20 - 39
+10540,2020-05-10,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+10541,2020-05-10,Barranquilla,,22,M,En estudio,Recuperado,Leve,20 - 39
+10542,2020-05-10,Barranquilla,,47,F,En estudio,Casa,Leve,40 - 59
+10547,2020-05-10,Barranquilla,,44,M,En estudio,Recuperado,Leve,40 - 59
+10778,2020-05-10,Barranquilla,,49,M,En estudio,Hospital,Moderado,40 - 59
+10779,2020-05-10,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+10781,2020-05-10,Barranquilla,,30,F,En estudio,Recuperado,Leve,20 - 39
+10782,2020-05-10,Barranquilla,,41,F,En estudio,Recuperado,Leve,40 - 59
+10783,2020-05-10,Barranquilla,,44,M,Relacionado,Casa,Leve,40 - 59
+10784,2020-05-10,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+10785,2020-05-10,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+10786,2020-05-10,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+10787,2020-05-10,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+10790,2020-05-10,Barranquilla,,33,F,Relacionado,Casa,Leve,20 - 39
+10791,2020-05-10,Barranquilla,,58,M,En estudio,Recuperado,Leve,40 - 59
+10793,2020-05-10,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+10794,2020-05-10,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+10795,2020-05-10,Barranquilla,,84,F,En estudio,Fallecido,Fallecido,80+
+10806,2020-05-10,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+10809,2020-05-10,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+10814,2020-05-10,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+10816,2020-05-10,Barranquilla,,62,M,En estudio,Casa,Leve,60 - 79
+10817,2020-05-10,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+10818,2020-05-10,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+10819,2020-05-10,Barranquilla,,35,F,Relacionado,Casa,Leve,20 - 39
+10820,2020-05-10,Barranquilla,,72,M,En estudio,Fallecido,Fallecido,60 - 79
+10821,2020-05-10,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+10822,2020-05-10,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+10877,2020-05-10,Barranquilla,,35,M,En estudio,Recuperado,Asintomático,20 - 39
+10887,2020-05-10,Barranquilla,,34,M,En estudio,Recuperado,Leve,20 - 39
+10888,2020-05-10,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+10893,2020-05-10,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+11088,2020-05-10,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+11089,2020-05-10,Barranquilla,,25,M,En estudio,Recuperado,Leve,20 - 39
+11127,2020-05-11,Barranquilla,,79,M,En estudio,Casa,Leve,60 - 79
+11128,2020-05-11,Barranquilla,,79,M,En estudio,Casa,Leve,60 - 79
+11129,2020-05-11,Barranquilla,,74,M,En estudio,Casa,Leve,60 - 79
+11130,2020-05-11,Barranquilla,,76,F,En estudio,Casa,Leve,60 - 79
+11131,2020-05-11,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+11132,2020-05-11,Barranquilla,,43,M,En estudio,Recuperado,Leve,40 - 59
+11157,2020-05-11,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+11163,2020-05-11,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+11164,2020-05-11,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+11165,2020-05-11,Barranquilla,,27,F,En estudio,Recuperado,Leve,20 - 39
+11166,2020-05-11,Barranquilla,,40,M,Relacionado,Casa,Asintomático,40 - 59
+11170,2020-05-11,Barranquilla,,68,F,En estudio,Casa,Leve,60 - 79
+11173,2020-05-11,Barranquilla,,32,M,En estudio,Recuperado,Leve,20 - 39
+11174,2020-05-11,Barranquilla,,32,M,En estudio,Recuperado,Leve,20 - 39
+11175,2020-05-11,Barranquilla,,31,F,En estudio,Recuperado,Leve,20 - 39
+11178,2020-05-11,Barranquilla,,68,F,En estudio,Casa,Leve,60 - 79
+11179,2020-05-11,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+11182,2020-05-11,Barranquilla,,53,M,Relacionado,Recuperado,Leve,40 - 59
+11183,2020-05-11,Barranquilla,,64,M,En estudio,Casa,Leve,60 - 79
+11184,2020-05-11,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+11185,2020-05-11,Barranquilla,,60,M,En estudio,Recuperado,Leve,60 - 79
+11397,2020-05-11,Barranquilla,,26,F,Relacionado,Casa,Leve,20 - 39
+11398,2020-05-11,Barranquilla,,36,F,En estudio,Recuperado,Leve,20 - 39
+11427,2020-05-11,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+11667,2020-05-12,Barranquilla,,35,M,Relacionado,Recuperado,Leve,20 - 39
+11668,2020-05-12,Barranquilla,,40,F,En estudio,Recuperado,Leve,40 - 59
+11669,2020-05-12,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+11670,2020-05-12,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+11671,2020-05-12,Barranquilla,,59,M,Relacionado,Casa,Leve,40 - 59
+11673,2020-05-12,Barranquilla,,80,M,En estudio,Fallecido,Fallecido,80+
+11674,2020-05-12,Barranquilla,,27,M,En estudio,Recuperado,Leve,20 - 39
+11675,2020-05-12,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+11676,2020-05-12,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+11677,2020-05-12,Barranquilla,,9,M,En estudio,Casa,Leve,0 - 19
+11678,2020-05-12,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+11679,2020-05-12,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+11680,2020-05-12,Barranquilla,,5,F,En estudio,Casa,Leve,0 - 19
+11681,2020-05-12,Barranquilla,,4,F,En estudio,Recuperado,Leve,0 - 19
+11692,2020-05-12,Barranquilla,,34,M,Relacionado,Casa,Leve,20 - 39
+11702,2020-05-12,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+11740,2020-05-12,Barranquilla,,39,M,En estudio,Recuperado,Asintomático,20 - 39
+11741,2020-05-12,Barranquilla,,33,F,En estudio,Recuperado,Asintomático,20 - 39
+11742,2020-05-12,Barranquilla,,17,M,En estudio,Recuperado,Leve,0 - 19
+11755,2020-05-12,Barranquilla,,47,M,Relacionado,Casa,Leve,40 - 59
+11756,2020-05-12,Barranquilla,,32,F,En estudio,Recuperado,Leve,20 - 39
+11782,2020-05-12,Barranquilla,,26,M,En estudio,Recuperado,Leve,20 - 39
+11901,2020-05-12,Barranquilla,,32,M,Relacionado,Recuperado,Leve,20 - 39
+11902,2020-05-12,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+11903,2020-05-12,Barranquilla,,62,M,En estudio,Casa,Leve,60 - 79
+11905,2020-05-12,Barranquilla,,70,M,En estudio,Casa,Leve,60 - 79
+11907,2020-05-12,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+11908,2020-05-12,Barranquilla,,61,F,En estudio,Casa,Leve,60 - 79
+11909,2020-05-12,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+11910,2020-05-12,Barranquilla,,2,M,En estudio,Casa,Leve,0 - 19
+11916,2020-05-12,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+11917,2020-05-12,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+11918,2020-05-12,Barranquilla,,59,F,En estudio,Hospital,Moderado,40 - 59
+11926,2020-05-12,Barranquilla,,54,M,Relacionado,Casa,Leve,40 - 59
+11927,2020-05-12,Barranquilla,,33,M,Relacionado,Casa,Leve,20 - 39
+11947,2020-05-12,Barranquilla,,37,M,En estudio,Recuperado,Leve,20 - 39
+12310,2020-05-12,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+12313,2020-05-13,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+12314,2020-05-13,Barranquilla,,4,M,En estudio,Casa,Leve,0 - 19
+12315,2020-05-13,Barranquilla,,16,F,En estudio,Casa,Leve,0 - 19
+12316,2020-05-13,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+12317,2020-05-13,Barranquilla,,31,F,En estudio,Recuperado,Leve,20 - 39
+12318,2020-05-13,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+12319,2020-05-13,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+12320,2020-05-13,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+12321,2020-05-13,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+12322,2020-05-13,Barranquilla,,30,M,En estudio,Recuperado,Leve,20 - 39
+12330,2020-05-13,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+12331,2020-05-13,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+12405,2020-05-13,Barranquilla,,79,M,En estudio,Fallecido,Fallecido,60 - 79
+12406,2020-05-13,Barranquilla,,66,M,En estudio,Casa,Leve,60 - 79
+12408,2020-05-13,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+12410,2020-05-13,Barranquilla,,15,F,En estudio,Casa,Leve,0 - 19
+12412,2020-05-13,Barranquilla,,42,F,En estudio,Casa,Leve,40 - 59
+12413,2020-05-13,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+12414,2020-05-13,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+12415,2020-05-13,Barranquilla,,71,F,En estudio,Casa,Leve,60 - 79
+12416,2020-05-13,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+12417,2020-05-13,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+12418,2020-05-13,Barranquilla,,60,M,En estudio,Recuperado,Leve,60 - 79
+12419,2020-05-13,Barranquilla,,86,M,En estudio,Casa,Leve,80+
+12420,2020-05-13,Barranquilla,,45,F,En estudio,Casa,Leve,40 - 59
+12421,2020-05-13,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+12423,2020-05-13,Barranquilla,,17,F,En estudio,Casa,Leve,0 - 19
+12425,2020-05-13,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+12426,2020-05-13,Barranquilla,,58,F,En estudio,Casa,Leve,40 - 59
+12428,2020-05-13,Barranquilla,,65,F,En estudio,Hospital UCI,Grave,60 - 79
+12430,2020-05-13,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+12433,2020-05-13,Barranquilla,,44,F,En estudio,Recuperado,Leve,40 - 59
+12434,2020-05-13,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+12437,2020-05-13,Barranquilla,,74,M,En estudio,Casa,Leve,60 - 79
+12438,2020-05-13,Barranquilla,,5,F,En estudio,Casa,Leve,0 - 19
+12439,2020-05-13,Barranquilla,,86,F,En estudio,Casa,Leve,80+
+12440,2020-05-13,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+12441,2020-05-13,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+12442,2020-05-13,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+12443,2020-05-13,Barranquilla,,7,F,En estudio,Casa,Leve,0 - 19
+12444,2020-05-13,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+12445,2020-05-13,Barranquilla,,35,M,En estudio,Recuperado,Leve,20 - 39
+12449,2020-05-13,Barranquilla,,75,M,Relacionado,Recuperado,Leve,60 - 79
+12452,2020-05-13,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+12454,2020-05-13,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+12455,2020-05-13,Barranquilla,,78,M,En estudio,Casa,Leve,60 - 79
+12456,2020-05-13,Barranquilla,,63,F,En estudio,Casa,Leve,60 - 79
+12457,2020-05-13,Barranquilla,,75,F,En estudio,Casa,Leve,60 - 79
+12458,2020-05-13,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+12459,2020-05-13,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+12461,2020-05-13,Barranquilla,,67,F,En estudio,Casa,Leve,60 - 79
+12462,2020-05-13,Barranquilla,,83,F,En estudio,Casa,Leve,80+
+12463,2020-05-13,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+12464,2020-05-13,Barranquilla,,74,F,En estudio,Casa,Leve,60 - 79
+12465,2020-05-13,Barranquilla,,74,F,En estudio,Casa,Leve,60 - 79
+12466,2020-05-13,Barranquilla,,86,F,En estudio,Casa,Leve,80+
+12467,2020-05-13,Barranquilla,,81,F,En estudio,Recuperado,Leve,80+
+12468,2020-05-13,Barranquilla,,76,M,En estudio,Casa,Leve,60 - 79
+12469,2020-05-13,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+12470,2020-05-13,Barranquilla,,69,F,En estudio,Casa,Leve,60 - 79
+12472,2020-05-13,Barranquilla,,10,F,En estudio,Casa,Leve,0 - 19
+12473,2020-05-13,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+12475,2020-05-13,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+12476,2020-05-13,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+12477,2020-05-13,Barranquilla,,12,F,En estudio,Casa,Leve,0 - 19
+12485,2020-05-13,Barranquilla,,46,M,En estudio,Recuperado,Leve,40 - 59
+12603,2020-05-13,Barranquilla,,25,F,En estudio,Recuperado,Leve,20 - 39
+12606,2020-05-13,Barranquilla,,49,M,Relacionado,Recuperado,Leve,40 - 59
+12645,2020-05-13,Barranquilla,,26,F,Relacionado,Casa,Asintomático,20 - 39
+12647,2020-05-13,Barranquilla,,8,F,Relacionado,Casa,Asintomático,0 - 19
+12648,2020-05-13,Barranquilla,,6,F,Relacionado,Casa,Leve,0 - 19
+12672,2020-05-13,Barranquilla,,43,M,En estudio,Casa,Asintomático,40 - 59
+12676,2020-05-13,Barranquilla,,17,M,Relacionado,Casa,Leve,0 - 19
+12677,2020-05-13,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+12678,2020-05-13,Barranquilla,,32,M,Relacionado,Casa,Leve,20 - 39
+12679,2020-05-13,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+12680,2020-05-13,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+12682,2020-05-13,Barranquilla,,43,F,En estudio,Casa,Leve,40 - 59
+12684,2020-05-13,Barranquilla,,52,M,Relacionado,Recuperado,Leve,40 - 59
+12731,2020-05-13,Barranquilla,,27,M,Relacionado,Recuperado,Leve,20 - 39
+12894,2020-05-13,Barranquilla,,40,F,En estudio,Casa,Asintomático,40 - 59
+12895,2020-05-13,Barranquilla,,88,M,En estudio,Casa,Asintomático,80+
+12896,2020-05-13,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+12897,2020-05-13,Barranquilla,,38,M,Relacionado,Casa,Asintomático,20 - 39
+12898,2020-05-13,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+12899,2020-05-13,Barranquilla,,33,M,Relacionado,Casa,Leve,20 - 39
+12900,2020-05-13,Barranquilla,,76,F,Relacionado,Casa,Leve,60 - 79
+12901,2020-05-13,Barranquilla,,18,M,Relacionado,Casa,Leve,0 - 19
+12902,2020-05-13,Barranquilla,,26,M,Relacionado,Casa,Leve,20 - 39
+12903,2020-05-13,Barranquilla,,48,F,En estudio,Casa,Asintomático,40 - 59
+12904,2020-05-13,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+12905,2020-05-13,Barranquilla,,37,M,Relacionado,Casa,Asintomático,20 - 39
+12906,2020-05-13,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+12907,2020-05-13,Barranquilla,,35,M,En estudio,Casa,Asintomático,20 - 39
+12908,2020-05-13,Barranquilla,,7,F,Relacionado,Casa,Asintomático,0 - 19
+12909,2020-05-13,Barranquilla,,11,F,Relacionado,Recuperado,Leve,0 - 19
+12910,2020-05-13,Barranquilla,,36,F,Relacionado,Recuperado,Leve,20 - 39
+12911,2020-05-13,Barranquilla,,38,M,Relacionado,Casa,Asintomático,20 - 39
+12912,2020-05-13,Barranquilla,,27,F,En estudio,Recuperado,Leve,20 - 39
+12913,2020-05-13,Barranquilla,,23,M,En estudio,Casa,Asintomático,20 - 39
+12914,2020-05-13,Barranquilla,,43,F,Relacionado,Casa,Asintomático,40 - 59
+12915,2020-05-13,Barranquilla,,25,M,Relacionado,Casa,Leve,20 - 39
+12916,2020-05-13,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+12917,2020-05-13,Barranquilla,,42,F,Relacionado,Casa,Leve,40 - 59
+12918,2020-05-13,Barranquilla,,73,F,En estudio,Casa,Leve,60 - 79
+12934,2020-05-13,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+13014,2020-05-14,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+13015,2020-05-14,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+13016,2020-05-14,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+13040,2020-05-14,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+13076,2020-05-14,Barranquilla,,78,M,En estudio,Fallecido,Fallecido,60 - 79
+13077,2020-05-14,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+13078,2020-05-14,Barranquilla,,69,M,En estudio,Recuperado,Leve,60 - 79
+13079,2020-05-14,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+13081,2020-05-14,Barranquilla,,81,M,En estudio,Casa,Leve,80+
+13086,2020-05-14,Barranquilla,,39,M,Relacionado,Casa,Leve,20 - 39
+13087,2020-05-14,Barranquilla,,54,M,En estudio,Hospital UCI,Grave,40 - 59
+13088,2020-05-14,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+13089,2020-05-14,Barranquilla,,1,M,En estudio,Casa,Leve,0 - 19
+13090,2020-05-14,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+13091,2020-05-14,Barranquilla,,2,F,En estudio,Casa,Leve,0 - 19
+13092,2020-05-14,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+13093,2020-05-14,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+13094,2020-05-14,Barranquilla,,62,F,En estudio,Casa,Leve,60 - 79
+13171,2020-05-14,Barranquilla,,41,F,En estudio,Recuperado,Leve,40 - 59
+13172,2020-05-14,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+13174,2020-05-14,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+13175,2020-05-14,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+13176,2020-05-14,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+13243,2020-05-14,Barranquilla,,73,F,En estudio,Casa,Asintomático,60 - 79
+13244,2020-05-14,Barranquilla,,75,M,En estudio,Casa,Asintomático,60 - 79
+13246,2020-05-14,Barranquilla,,50,F,Relacionado,Casa,Leve,40 - 59
+13247,2020-05-14,Barranquilla,,74,M,En estudio,Casa,Leve,60 - 79
+13249,2020-05-14,Barranquilla,,32,F,Relacionado,Casa,Asintomático,20 - 39
+13250,2020-05-14,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+13251,2020-05-14,Barranquilla,,12,M,Relacionado,Casa,Leve,0 - 19
+13252,2020-05-14,Barranquilla,,1,F,Relacionado,Casa,Leve,0 - 19
+13253,2020-05-14,Barranquilla,,58,M,Relacionado,Casa,Asintomático,40 - 59
+13254,2020-05-14,Barranquilla,,90,F,Relacionado,Casa,Asintomático,80+
+13282,2020-05-14,Barranquilla,,36,M,En estudio,Recuperado,Leve,20 - 39
+13482,2020-05-14,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+13533,2020-05-14,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+13535,2020-05-14,Barranquilla,,30,M,En estudio,Recuperado,Leve,20 - 39
+13541,2020-05-14,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+13546,2020-05-14,Barranquilla,,33,M,Relacionado,Casa,Leve,20 - 39
+13547,2020-05-14,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+13551,2020-05-14,Barranquilla,,16,F,En estudio,Casa,Leve,0 - 19
+13553,2020-05-14,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+13554,2020-05-14,Barranquilla,,87,M,En estudio,Casa,Leve,80+
+13555,2020-05-14,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+13556,2020-05-14,Barranquilla,,37,M,Relacionado,Casa,Leve,20 - 39
+13557,2020-05-14,Barranquilla,,13,M,En estudio,Casa,Leve,0 - 19
+13585,2020-05-14,Barranquilla,,76,M,En estudio,Casa,Leve,60 - 79
+13586,2020-05-14,Barranquilla,,58,F,En estudio,Casa,Leve,40 - 59
+13588,2020-05-14,Barranquilla,,52,M,En estudio,Fallecido,Fallecido,40 - 59
+13590,2020-05-14,Barranquilla,,51,F,En estudio,Recuperado,Leve,40 - 59
+13592,2020-05-14,Barranquilla,,33,M,En estudio,Casa,Asintomático,20 - 39
+13594,2020-05-14,Barranquilla,,52,M,En estudio,Casa,Asintomático,40 - 59
+13595,2020-05-14,Barranquilla,,55,M,En estudio,Casa,Asintomático,40 - 59
+13596,2020-05-14,Barranquilla,,63,M,En estudio,Casa,Asintomático,60 - 79
+13597,2020-05-14,Barranquilla,,11,M,En estudio,Casa,Asintomático,0 - 19
+13598,2020-05-14,Barranquilla,,46,M,Relacionado,Recuperado,Leve,40 - 59
+13599,2020-05-14,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+13600,2020-05-14,Barranquilla,,24,M,En estudio,Casa,Asintomático,20 - 39
+13601,2020-05-14,Barranquilla,,39,M,Relacionado,Casa,Leve,20 - 39
+13602,2020-05-14,Barranquilla,,15,M,En estudio,Casa,Asintomático,0 - 19
+13603,2020-05-14,Barranquilla,,80,F,En estudio,Casa,Asintomático,80+
+13604,2020-05-14,Barranquilla,,41,M,En estudio,Casa,Asintomático,40 - 59
+13633,2020-05-14,Barranquilla,,26,M,Relacionado,Casa,Leve,20 - 39
+13654,2020-05-15,Barranquilla,,10,F,En estudio,Casa,Leve,0 - 19
+13655,2020-05-15,Barranquilla,,26,F,En estudio,Recuperado,Leve,20 - 39
+13657,2020-05-15,Barranquilla,,39,M,Relacionado,Casa,Leve,20 - 39
+13658,2020-05-15,Barranquilla,,24,F,En estudio,Recuperado,Leve,20 - 39
+13661,2020-05-15,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+13662,2020-05-15,Barranquilla,,87,F,En estudio,Fallecido,Fallecido,80+
+13665,2020-05-15,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+13701,2020-05-15,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+13707,2020-05-15,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+13708,2020-05-15,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+13709,2020-05-15,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+13714,2020-05-15,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+13727,2020-05-15,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+13728,2020-05-15,Barranquilla,,60,F,En estudio,Casa,Leve,60 - 79
+13729,2020-05-15,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+13731,2020-05-15,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+13738,2020-05-15,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+13739,2020-05-15,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+13752,2020-05-15,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+13756,2020-05-15,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+13757,2020-05-15,Barranquilla,,54,M,En estudio,Casa,Leve,40 - 59
+13758,2020-05-15,Barranquilla,,40,M,En estudio,Recuperado,Leve,40 - 59
+13759,2020-05-15,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+13760,2020-05-15,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+13761,2020-05-15,Barranquilla,,44,M,En estudio,Recuperado,Leve,40 - 59
+13762,2020-05-15,Barranquilla,,18,F,En estudio,Casa,Asintomático,0 - 19
+13809,2020-05-15,Barranquilla,,68,M,En estudio,Casa,Leve,60 - 79
+13810,2020-05-15,Barranquilla,,24,M,En estudio,Recuperado,Leve,20 - 39
+13811,2020-05-15,Barranquilla,,28,M,En estudio,Recuperado,Leve,20 - 39
+13812,2020-05-15,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+13813,2020-05-15,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+13814,2020-05-15,Barranquilla,,98,F,En estudio,Fallecido,Fallecido,80+
+13815,2020-05-15,Barranquilla,,56,M,En estudio,,,40 - 59
+13816,2020-05-15,Barranquilla,,14,M,En estudio,Casa,Leve,0 - 19
+13817,2020-05-15,Barranquilla,,20,M,En estudio,Recuperado,Leve,20 - 39
+13818,2020-05-15,Barranquilla,,63,M,En estudio,Casa,Leve,60 - 79
+13819,2020-05-15,Barranquilla,,89,F,En estudio,Casa,Leve,80+
+13820,2020-05-15,Barranquilla,,4,F,En estudio,Casa,Leve,0 - 19
+13821,2020-05-15,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+13822,2020-05-15,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+13823,2020-05-15,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+13824,2020-05-15,Barranquilla,,57,M,En estudio,Fallecido,Fallecido,40 - 59
+13825,2020-05-15,Barranquilla,,18,M,En estudio,Casa,Leve,0 - 19
+13827,2020-05-15,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+13828,2020-05-15,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+13829,2020-05-15,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+13830,2020-05-15,Barranquilla,,35,F,En estudio,Recuperado,Leve,20 - 39
+13831,2020-05-15,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+13832,2020-05-15,Barranquilla,,12,F,En estudio,Casa,Leve,0 - 19
+13833,2020-05-15,Barranquilla,,10,M,En estudio,Casa,Leve,0 - 19
+13834,2020-05-15,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+13835,2020-05-15,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+13836,2020-05-15,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+13838,2020-05-15,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+13839,2020-05-15,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+13840,2020-05-15,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+13841,2020-05-15,Barranquilla,,5,M,En estudio,Casa,Leve,0 - 19
+13843,2020-05-15,Barranquilla,,41,M,En estudio,Recuperado,Leve,40 - 59
+13844,2020-05-15,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+13847,2020-05-15,Barranquilla,,60,M,En estudio,Casa,Leve,60 - 79
+13963,2020-05-15,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+13964,2020-05-15,Barranquilla,,44,F,En estudio,Recuperado,Leve,40 - 59
+13965,2020-05-15,Barranquilla,,33,M,En estudio,Recuperado,Leve,20 - 39
+13968,2020-05-15,Barranquilla,,17,M,En estudio,Casa,Leve,0 - 19
+13969,2020-05-15,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+13970,2020-05-15,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+13971,2020-05-15,Barranquilla,,65,M,En estudio,Casa,Leve,60 - 79
+13986,2020-05-15,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+14328,2020-05-16,Barranquilla,,15,F,En estudio,Recuperado,Leve,0 - 19
+14329,2020-05-16,Barranquilla,,16,M,En estudio,Casa,Leve,0 - 19
+14330,2020-05-16,Barranquilla,,39,F,En estudio,Recuperado,Leve,20 - 39
+14335,2020-05-16,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+14336,2020-05-16,Barranquilla,,17,F,En estudio,Casa,Leve,0 - 19
+14337,2020-05-16,Barranquilla,,67,F,En estudio,Casa,Leve,60 - 79
+14339,2020-05-16,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+14343,2020-05-16,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+14344,2020-05-16,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+14345,2020-05-16,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+14380,2020-05-16,Barranquilla,,16,M,En estudio,Hospital,Moderado,0 - 19
+14420,2020-05-16,Barranquilla,,67,F,En estudio,Casa,Leve,60 - 79
+14421,2020-05-16,Barranquilla,,73,F,En estudio,Casa,Leve,60 - 79
+14422,2020-05-16,Barranquilla,,37,M,En estudio,Recuperado,Leve,20 - 39
+14423,2020-05-16,Barranquilla,,78,M,En estudio,Casa,Leve,60 - 79
+14485,2020-05-16,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+14486,2020-05-16,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+14513,2020-05-16,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+14514,2020-05-16,Barranquilla,,17,M,En estudio,Recuperado,Leve,0 - 19
+14515,2020-05-16,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+14516,2020-05-16,Barranquilla,,10,F,En estudio,Casa,Leve,0 - 19
+14517,2020-05-16,Barranquilla,,36,F,En estudio,Recuperado,Leve,20 - 39
+14518,2020-05-16,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+14519,2020-05-16,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+14520,2020-05-16,Barranquilla,,44,M,En estudio,Recuperado,Leve,40 - 59
+14521,2020-05-16,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+14522,2020-05-16,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+14523,2020-05-16,Barranquilla,,62,M,En estudio,Casa,Leve,60 - 79
+14524,2020-05-16,Barranquilla,,16,M,En estudio,Casa,Leve,0 - 19
+14526,2020-05-16,Barranquilla,,37,F,En estudio,Recuperado,Leve,20 - 39
+14527,2020-05-16,Barranquilla,,55,F,En estudio,Recuperado,Leve,40 - 59
+14528,2020-05-16,Barranquilla,,11,F,En estudio,Casa,Leve,0 - 19
+14981,2020-05-17,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+14982,2020-05-17,Barranquilla,,38,M,En estudio,Recuperado,Leve,20 - 39
+14983,2020-05-17,Barranquilla,,4,M,En estudio,Casa,Leve,0 - 19
+14984,2020-05-17,Barranquilla,,14,F,En estudio,Recuperado,Leve,0 - 19
+14985,2020-05-17,Barranquilla,,35,F,En estudio,Recuperado,Leve,20 - 39
+14998,2020-05-17,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+15002,2020-05-17,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+15007,2020-05-17,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+15010,2020-05-17,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+15017,2020-05-17,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+15047,2020-05-17,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+15048,2020-05-17,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+15137,2020-05-17,Barranquilla,,45,M,Relacionado,Casa,Leve,40 - 59
+15138,2020-05-17,Barranquilla,,5,M,En estudio,Casa,Leve,0 - 19
+15140,2020-05-17,Barranquilla,,60,F,En estudio,Recuperado,Leve,60 - 79
+15142,2020-05-17,Barranquilla,,20,M,En estudio,Recuperado,Leve,20 - 39
+15143,2020-05-17,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+15144,2020-05-17,Barranquilla,,57,F,En estudio,Casa,Leve,40 - 59
+15145,2020-05-17,Barranquilla,,29,F,Relacionado,Recuperado,Leve,20 - 39
+15146,2020-05-17,Barranquilla,,46,M,Relacionado,Casa,Leve,40 - 59
+15147,2020-05-17,Barranquilla,,26,F,Relacionado,Recuperado,Leve,20 - 39
+15148,2020-05-17,Barranquilla,,3,F,Relacionado,Casa,Leve,0 - 19
+15171,2020-05-17,Barranquilla,,12,F,Relacionado,Casa,Leve,0 - 19
+15173,2020-05-17,Barranquilla,,34,M,En estudio,Recuperado,Leve,20 - 39
+15212,2020-05-17,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+15214,2020-05-17,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+15233,2020-05-17,Barranquilla,,13,F,En estudio,Casa,Leve,0 - 19
+15235,2020-05-17,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+15236,2020-05-17,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+15237,2020-05-17,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+15238,2020-05-17,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+15239,2020-05-17,Barranquilla,,3,M,En estudio,Casa,Leve,0 - 19
+15240,2020-05-17,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+15241,2020-05-17,Barranquilla,,39,F,Relacionado,Casa,Asintomático,20 - 39
+15242,2020-05-17,Barranquilla,,64,M,En estudio,Hospital,Moderado,60 - 79
+15243,2020-05-17,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+15244,2020-05-17,Barranquilla,,2,M,En estudio,Casa,Leve,0 - 19
+15245,2020-05-17,Barranquilla,,28,F,Importado,Casa,Leve,20 - 39
+15246,2020-05-17,Barranquilla,,72,M,En estudio,Casa,Leve,60 - 79
+15247,2020-05-17,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+15248,2020-05-17,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+15249,2020-05-17,Barranquilla,,54,M,En estudio,Casa,Leve,40 - 59
+15250,2020-05-17,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+15251,2020-05-17,Barranquilla,,67,F,En estudio,Casa,Leve,60 - 79
+15252,2020-05-17,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+15253,2020-05-17,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+15254,2020-05-17,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+15255,2020-05-17,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+15256,2020-05-17,Barranquilla,,75,M,En estudio,Fallecido,Fallecido,60 - 79
+15257,2020-05-17,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+15258,2020-05-17,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+15259,2020-05-17,Barranquilla,,1,M,En estudio,Casa,Leve,0 - 19
+15260,2020-05-17,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+15261,2020-05-17,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+15262,2020-05-17,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+15263,2020-05-17,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+15264,2020-05-17,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+15265,2020-05-17,Barranquilla,,17,M,En estudio,Casa,Leve,0 - 19
+15266,2020-05-17,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+15267,2020-05-17,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+15269,2020-05-17,Barranquilla,,14,F,En estudio,Recuperado,Leve,0 - 19
+15270,2020-05-17,Barranquilla,,37,F,En estudio,Fallecido,Fallecido,20 - 39
+15271,2020-05-17,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+15272,2020-05-17,Barranquilla,,69,M,En estudio,Casa,Leve,60 - 79
+15273,2020-05-17,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+15274,2020-05-17,Barranquilla,,68,M,En estudio,Casa,Leve,60 - 79
+15275,2020-05-17,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+15276,2020-05-17,Barranquilla,,5,F,En estudio,Casa,Leve,0 - 19
+15277,2020-05-17,Barranquilla,,79,F,En estudio,Casa,Leve,60 - 79
+15278,2020-05-17,Barranquilla,,82,F,En estudio,Fallecido,Fallecido,80+
+15279,2020-05-17,Barranquilla,,62,M,En estudio,Casa,Leve,60 - 79
+15280,2020-05-17,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+15281,2020-05-17,Barranquilla,,69,F,En estudio,Casa,Leve,60 - 79
+15283,2020-05-17,Barranquilla,,74,M,En estudio,Casa,Leve,60 - 79
+15284,2020-05-17,Barranquilla,,1,F,En estudio,,,0 - 19
+15285,2020-05-17,Barranquilla,,72,F,En estudio,Hospital,Moderado,60 - 79
+15286,2020-05-17,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+15287,2020-05-17,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+15288,2020-05-17,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+15289,2020-05-17,Barranquilla,,6,M,En estudio,Casa,Leve,0 - 19
+15290,2020-05-17,Barranquilla,,82,M,En estudio,Hospital UCI,Grave,80+
+15291,2020-05-17,Barranquilla,,17,F,En estudio,Recuperado,Leve,0 - 19
+15292,2020-05-17,Barranquilla,,36,F,En estudio,Recuperado,Leve,20 - 39
+15293,2020-05-17,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+15294,2020-05-17,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+15295,2020-05-17,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+15296,2020-05-17,Barranquilla,,33,M,En estudio,Recuperado,Leve,20 - 39
+15297,2020-05-17,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+15298,2020-05-17,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+15299,2020-05-17,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+15300,2020-05-17,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+15301,2020-05-17,Barranquilla,,60,F,En estudio,Casa,Leve,60 - 79
+15302,2020-05-17,Barranquilla,,16,F,En estudio,Casa,Leve,0 - 19
+15303,2020-05-17,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+15364,2020-05-17,Barranquilla,,54,F,En estudio,Casa,Asintomático,40 - 59
+15367,2020-05-17,Barranquilla,,24,F,En estudio,Casa,Asintomático,20 - 39
+15368,2020-05-17,Barranquilla,,16,M,En estudio,Casa,Asintomático,0 - 19
+15369,2020-05-17,Barranquilla,,64,F,En estudio,Casa,Asintomático,60 - 79
+15371,2020-05-17,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+15372,2020-05-17,Barranquilla,,30,M,Relacionado,Casa,Asintomático,20 - 39
+15615,2020-05-18,Barranquilla,,42,F,En estudio,Casa,Leve,40 - 59
+15616,2020-05-18,Barranquilla,,15,M,En estudio,Casa,Leve,0 - 19
+15617,2020-05-18,Barranquilla,,18,F,En estudio,Casa,Leve,0 - 19
+15618,2020-05-18,Barranquilla,,66,M,En estudio,Casa,Leve,60 - 79
+15625,2020-05-18,Barranquilla,,5,F,En estudio,Casa,Leve,0 - 19
+15626,2020-05-18,Barranquilla,,15,M,En estudio,Casa,Leve,0 - 19
+15627,2020-05-18,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+15628,2020-05-18,Barranquilla,,86,M,En estudio,Casa,Leve,80+
+15905,2020-05-18,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+15906,2020-05-18,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+15907,2020-05-18,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+15908,2020-05-18,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+15910,2020-05-18,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+15912,2020-05-18,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+15913,2020-05-18,Barranquilla,,30,F,En estudio,Recuperado,Leve,20 - 39
+15915,2020-05-18,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+15916,2020-05-18,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+15918,2020-05-18,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+15919,2020-05-18,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+15920,2020-05-18,Barranquilla,,22,M,En estudio,Recuperado,Leve,20 - 39
+15921,2020-05-18,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+15924,2020-05-18,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+16337,2020-05-19,Barranquilla,,33,M,En estudio,Recuperado,Leve,20 - 39
+16338,2020-05-19,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+16339,2020-05-19,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+16340,2020-05-19,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+16343,2020-05-19,Barranquilla,,71,F,En estudio,Casa,Leve,60 - 79
+16344,2020-05-19,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+16345,2020-05-19,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+16346,2020-05-19,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+16349,2020-05-19,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+16350,2020-05-19,Barranquilla,,76,F,En estudio,Casa,Leve,60 - 79
+16351,2020-05-19,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+16352,2020-05-19,Barranquilla,,51,F,En estudio,Casa,Leve,40 - 59
+16353,2020-05-19,Barranquilla,,75,M,En estudio,Casa,Leve,60 - 79
+16357,2020-05-19,Barranquilla,,70,M,En estudio,Fallecido,Fallecido,60 - 79
+16358,2020-05-19,Barranquilla,,72,F,En estudio,Casa,Leve,60 - 79
+16359,2020-05-19,Barranquilla,,83,M,En estudio,Casa,Leve,80+
+16360,2020-05-19,Barranquilla,,81,M,En estudio,Casa,Leve,80+
+16364,2020-05-19,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+16367,2020-05-19,Barranquilla,,12,M,En estudio,Casa,Leve,0 - 19
+16368,2020-05-19,Barranquilla,,15,F,En estudio,Casa,Leve,0 - 19
+16369,2020-05-19,Barranquilla,,13,M,En estudio,Casa,Leve,0 - 19
+16416,2020-05-19,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+16422,2020-05-19,Barranquilla,,54,M,En estudio,Casa,Leve,40 - 59
+16423,2020-05-19,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+16426,2020-05-19,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+16427,2020-05-19,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+16428,2020-05-19,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+16429,2020-05-19,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+16431,2020-05-19,Barranquilla,,51,F,En estudio,Casa,Leve,40 - 59
+16432,2020-05-19,Barranquilla,,63,M,En estudio,Casa,Leve,60 - 79
+16477,2020-05-19,Barranquilla,,9,F,En estudio,Casa,Leve,0 - 19
+16479,2020-05-19,Barranquilla,,5,M,En estudio,Casa,Leve,0 - 19
+16509,2020-05-19,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+16510,2020-05-19,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+16511,2020-05-19,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+16619,2020-05-19,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+16977,2020-05-20,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+16978,2020-05-20,Barranquilla,,2,F,En estudio,Casa,Leve,0 - 19
+16979,2020-05-20,Barranquilla,,12,F,En estudio,Casa,Leve,0 - 19
+16980,2020-05-20,Barranquilla,,65,F,En estudio,Casa,Leve,60 - 79
+16981,2020-05-20,Barranquilla,,71,F,En estudio,Casa,Leve,60 - 79
+16982,2020-05-20,Barranquilla,,72,M,En estudio,Casa,Leve,60 - 79
+16983,2020-05-20,Barranquilla,,17,M,En estudio,Casa,Leve,0 - 19
+16984,2020-05-20,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+16985,2020-05-20,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+16986,2020-05-20,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+16987,2020-05-20,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+16988,2020-05-20,Barranquilla,,77,F,En estudio,Casa,Leve,60 - 79
+16989,2020-05-20,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+16990,2020-05-20,Barranquilla,,16,F,En estudio,Casa,Leve,0 - 19
+16991,2020-05-20,Barranquilla,,43,F,En estudio,Casa,Leve,40 - 59
+16992,2020-05-20,Barranquilla,,3,M,En estudio,Casa,Leve,0 - 19
+16993,2020-05-20,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+16994,2020-05-20,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+16995,2020-05-20,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+16996,2020-05-20,Barranquilla,,72,M,En estudio,Casa,Leve,60 - 79
+16997,2020-05-20,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+16998,2020-05-20,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+16999,2020-05-20,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+17000,2020-05-20,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+17002,2020-05-20,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+17006,2020-05-20,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+17008,2020-05-20,Barranquilla,,36,M,En estudio,Recuperado,Leve,20 - 39
+17009,2020-05-20,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+17010,2020-05-20,Barranquilla,,23,F,En estudio,Recuperado,Leve,20 - 39
+17012,2020-05-20,Barranquilla,,30,F,En estudio,Recuperado,Leve,20 - 39
+17013,2020-05-20,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+17015,2020-05-20,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+17019,2020-05-20,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+17021,2020-05-20,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+17022,2020-05-20,Barranquilla,,69,M,En estudio,Casa,Leve,60 - 79
+17023,2020-05-20,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+17024,2020-05-20,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+17025,2020-05-20,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+17026,2020-05-20,Barranquilla,,40,M,En estudio,Casa,Asintomático,40 - 59
+17092,2020-05-20,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+17132,2020-05-20,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+17133,2020-05-20,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+17134,2020-05-20,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+17135,2020-05-20,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+17208,2020-05-20,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+17273,2020-05-20,Barranquilla,,55,F,En estudio,Hospital,Moderado,40 - 59
+17275,2020-05-20,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+17276,2020-05-20,Barranquilla,,68,M,En estudio,Casa,Leve,60 - 79
+17277,2020-05-20,Barranquilla,,63,F,En estudio,Recuperado,Leve,60 - 79
+17278,2020-05-20,Barranquilla,,25,M,En estudio,Recuperado,Leve,20 - 39
+17279,2020-05-20,Barranquilla,,45,M,En estudio,Recuperado,Leve,40 - 59
+17280,2020-05-20,Barranquilla,,83,F,En estudio,Casa,Leve,80+
+17281,2020-05-20,Barranquilla,,69,F,En estudio,Casa,Leve,60 - 79
+17328,2020-05-20,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+17329,2020-05-20,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+17330,2020-05-20,Barranquilla,,75,M,En estudio,Casa,Asintomático,60 - 79
+17331,2020-05-20,Barranquilla,,17,M,En estudio,Casa,Leve,0 - 19
+17332,2020-05-20,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+17333,2020-05-20,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+17334,2020-05-20,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+17335,2020-05-20,Barranquilla,,88,M,En estudio,Fallecido,Fallecido,80+
+17336,2020-05-20,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+17688,2020-05-20,Barranquilla,,58,M,Relacionado,Casa,Leve,40 - 59
+17708,2020-05-20,Barranquilla,,47,F,En estudio,Casa,Leve,40 - 59
+17710,2020-05-20,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+17711,2020-05-20,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+17732,2020-05-21,Barranquilla,,12,M,En estudio,Casa,Leve,0 - 19
+17930,2020-05-21,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+17939,2020-05-21,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+17940,2020-05-21,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+17942,2020-05-21,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+17945,2020-05-21,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+17947,2020-05-21,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+17948,2020-05-21,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+17949,2020-05-21,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+17950,2020-05-21,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+17951,2020-05-21,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+17952,2020-05-21,Barranquilla,,69,M,En estudio,Casa,Leve,60 - 79
+17953,2020-05-21,Barranquilla,,84,F,En estudio,Fallecido,Fallecido,80+
+17955,2020-05-21,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+18036,2020-05-21,Barranquilla,,23,F,En estudio,Recuperado,Leve,20 - 39
+18037,2020-05-21,Barranquilla,,3,F,En estudio,Casa,Leve,0 - 19
+18038,2020-05-21,Barranquilla,,28,M,En estudio,Recuperado,Leve,20 - 39
+18100,2020-05-21,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+18101,2020-05-21,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+18102,2020-05-21,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+18105,2020-05-21,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+18106,2020-05-21,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+18107,2020-05-21,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+18108,2020-05-21,Barranquilla,,22,F,En estudio,Recuperado,Leve,20 - 39
+18111,2020-05-21,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+18112,2020-05-21,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+18113,2020-05-21,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+18114,2020-05-21,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+18115,2020-05-21,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+18117,2020-05-21,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+18118,2020-05-21,Barranquilla,,19,F,En estudio,Casa,Leve,0 - 19
+18120,2020-05-21,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+18122,2020-05-21,Barranquilla,,57,F,En estudio,Casa,Leve,40 - 59
+18123,2020-05-21,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+18124,2020-05-21,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+18125,2020-05-21,Barranquilla,,42,F,En estudio,Casa,Leve,40 - 59
+18128,2020-05-21,Barranquilla,,58,F,En estudio,Casa,Leve,40 - 59
+18129,2020-05-21,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+18130,2020-05-21,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+18131,2020-05-21,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+18135,2020-05-21,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+18137,2020-05-21,Barranquilla,,5,M,En estudio,Casa,Leve,0 - 19
+18141,2020-05-21,Barranquilla,,13,M,En estudio,Casa,Leve,0 - 19
+18142,2020-05-21,Barranquilla,,12,F,En estudio,Casa,Leve,0 - 19
+18143,2020-05-21,Barranquilla,,10,M,En estudio,Casa,Leve,0 - 19
+18144,2020-05-21,Barranquilla,,8,F,En estudio,Casa,Leve,0 - 19
+18145,2020-05-21,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+18146,2020-05-21,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+18148,2020-05-21,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+18150,2020-05-21,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+18151,2020-05-21,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+18152,2020-05-21,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+18153,2020-05-21,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+18154,2020-05-21,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+18155,2020-05-21,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+18156,2020-05-21,Barranquilla,,63,M,En estudio,Casa,Leve,60 - 79
+18157,2020-05-21,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+18159,2020-05-21,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+18162,2020-05-21,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+18168,2020-05-21,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+18169,2020-05-21,Barranquilla,,10,F,En estudio,Casa,Leve,0 - 19
+18183,2020-05-21,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+18185,2020-05-21,Barranquilla,,73,M,En estudio,Hospital UCI,Grave,60 - 79
+18186,2020-05-21,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+18189,2020-05-21,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+18205,2020-05-21,Barranquilla,,63,F,En estudio,Casa,Leve,60 - 79
+18207,2020-05-21,Barranquilla,,33,M,En estudio,Casa,Asintomático,20 - 39
+18208,2020-05-21,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+18209,2020-05-21,Barranquilla,,41,F,En estudio,Casa,Asintomático,40 - 59
+18210,2020-05-21,Barranquilla,,17,M,En estudio,Casa,Asintomático,0 - 19
+18212,2020-05-21,Barranquilla,,32,F,En estudio,Casa,Asintomático,20 - 39
+18213,2020-05-21,Barranquilla,,55,M,En estudio,Recuperado,Leve,40 - 59
+18214,2020-05-21,Barranquilla,,10,M,En estudio,Casa,Asintomático,0 - 19
+18215,2020-05-21,Barranquilla,,4,F,En estudio,Casa,Asintomático,0 - 19
+18216,2020-05-21,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+18217,2020-05-21,Barranquilla,,15,F,En estudio,Casa,Asintomático,0 - 19
+18218,2020-05-21,Barranquilla,,9,F,En estudio,Casa,Asintomático,0 - 19
+18219,2020-05-21,Barranquilla,,17,F,En estudio,Casa,Asintomático,0 - 19
+18220,2020-05-21,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+18221,2020-05-21,Barranquilla,,26,F,En estudio,Casa,Asintomático,20 - 39
+18222,2020-05-21,Barranquilla,,0,M,En estudio,Casa,Asintomático,0 - 19
+18360,2020-05-21,Barranquilla,,7,M,En estudio,Casa,Leve,0 - 19
+18363,2020-05-21,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+18381,2020-05-22,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+18384,2020-05-22,Barranquilla,,9,M,En estudio,Casa,Leve,0 - 19
+18390,2020-05-22,Barranquilla,,32,M,En estudio,Recuperado,Leve,20 - 39
+18392,2020-05-22,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+18393,2020-05-22,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+18398,2020-05-22,Barranquilla,,58,F,En estudio,Casa,Leve,40 - 59
+18441,2020-05-22,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+18454,2020-05-22,Barranquilla,,51,F,En estudio,Casa,Leve,40 - 59
+18455,2020-05-22,Barranquilla,,1,F,En estudio,Casa,Leve,0 - 19
+18461,2020-05-22,Barranquilla,,9,F,En estudio,Casa,Leve,0 - 19
+18462,2020-05-22,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+18468,2020-05-22,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+18470,2020-05-22,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+18473,2020-05-22,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+18476,2020-05-22,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+18478,2020-05-22,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+18573,2020-05-22,Barranquilla,,45,F,En estudio,Casa,Leve,40 - 59
+18574,2020-05-22,Barranquilla,,53,M,En estudio,Hospital,Moderado,40 - 59
+18575,2020-05-22,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+18577,2020-05-22,Barranquilla,,6,F,En estudio,Casa,Leve,0 - 19
+18578,2020-05-22,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+18581,2020-05-22,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+18582,2020-05-22,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+18583,2020-05-22,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+18584,2020-05-22,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+18585,2020-05-22,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+18651,2020-05-22,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+18652,2020-05-22,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+18654,2020-05-22,Barranquilla,,86,F,En estudio,Fallecido,Fallecido,80+
+18655,2020-05-22,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+18658,2020-05-22,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+18661,2020-05-22,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+18662,2020-05-22,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+18663,2020-05-22,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+18664,2020-05-22,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+18666,2020-05-22,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+18673,2020-05-22,Barranquilla,,37,F,En estudio,Recuperado,Leve,20 - 39
+18680,2020-05-22,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+18682,2020-05-22,Barranquilla,,2,F,En estudio,Casa,Leve,0 - 19
+18684,2020-05-22,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+18685,2020-05-22,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+18689,2020-05-22,Barranquilla,,67,F,En estudio,Casa,Leve,60 - 79
+18690,2020-05-22,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+18692,2020-05-22,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+18693,2020-05-22,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+18694,2020-05-22,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+18696,2020-05-22,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+18700,2020-05-22,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+18708,2020-05-22,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+18715,2020-05-22,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+18718,2020-05-22,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+18729,2020-05-22,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+18730,2020-05-22,Barranquilla,,13,M,En estudio,Casa,Leve,0 - 19
+18778,2020-05-22,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+18779,2020-05-22,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+18780,2020-05-22,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+18781,2020-05-22,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+18818,2020-05-22,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+19192,2020-05-23,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+19193,2020-05-23,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+19196,2020-05-23,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+19197,2020-05-23,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+19201,2020-05-23,Barranquilla,,55,M,Relacionado,Casa,Leve,40 - 59
+19202,2020-05-23,Barranquilla,,28,M,Relacionado,Casa,Leve,20 - 39
+19203,2020-05-23,Barranquilla,,20,M,Relacionado,Casa,Leve,20 - 39
+19204,2020-05-23,Barranquilla,,19,M,Relacionado,Casa,Leve,0 - 19
+19205,2020-05-23,Barranquilla,,26,M,Relacionado,Casa,Leve,20 - 39
+19206,2020-05-23,Barranquilla,,20,M,Relacionado,Casa,Leve,20 - 39
+19207,2020-05-23,Barranquilla,,31,M,Relacionado,Casa,Leve,20 - 39
+19209,2020-05-23,Barranquilla,,24,M,Relacionado,Casa,Leve,20 - 39
+19210,2020-05-23,Barranquilla,,66,F,Relacionado,Casa,Leve,60 - 79
+19211,2020-05-23,Barranquilla,,31,M,Relacionado,Casa,Leve,20 - 39
+19213,2020-05-23,Barranquilla,,19,M,Relacionado,Casa,Leve,0 - 19
+19219,2020-05-23,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+19220,2020-05-23,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+19221,2020-05-23,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+19222,2020-05-23,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+19224,2020-05-23,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+19225,2020-05-23,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+19248,2020-05-23,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+19249,2020-05-23,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+19256,2020-05-23,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+19257,2020-05-23,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+19263,2020-05-23,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+19264,2020-05-23,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+19274,2020-05-23,Barranquilla,,77,M,En estudio,Fallecido,Fallecido,60 - 79
+19275,2020-05-23,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+19278,2020-05-23,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+19280,2020-05-23,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+19281,2020-05-23,Barranquilla,,59,F,En estudio,Casa,Leve,40 - 59
+19282,2020-05-23,Barranquilla,,36,F,En estudio,Hospital UCI,Grave,20 - 39
+19283,2020-05-23,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+19284,2020-05-23,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+19286,2020-05-23,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+19287,2020-05-23,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+19288,2020-05-23,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+19290,2020-05-23,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+19291,2020-05-23,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+19292,2020-05-23,Barranquilla,,63,M,En estudio,Fallecido,Fallecido,60 - 79
+19293,2020-05-23,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+19296,2020-05-23,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+19297,2020-05-23,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+19298,2020-05-23,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+19300,2020-05-23,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+19301,2020-05-23,Barranquilla,,12,F,En estudio,Casa,Leve,0 - 19
+19302,2020-05-23,Barranquilla,,7,F,En estudio,Casa,Leve,0 - 19
+19304,2020-05-23,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+19305,2020-05-23,Barranquilla,,12,M,En estudio,Casa,Leve,0 - 19
+19306,2020-05-23,Barranquilla,,77,F,En estudio,Casa,Leve,60 - 79
+19307,2020-05-23,Barranquilla,,59,F,En estudio,Casa,Leve,40 - 59
+19308,2020-05-23,Barranquilla,,10,F,En estudio,Casa,Leve,0 - 19
+19309,2020-05-23,Barranquilla,,85,F,En estudio,Casa,Leve,80+
+19310,2020-05-23,Barranquilla,,2,M,En estudio,Casa,Leve,0 - 19
+19311,2020-05-23,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+19312,2020-05-23,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+19313,2020-05-23,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+19314,2020-05-23,Barranquilla,,5,M,En estudio,Casa,Leve,0 - 19
+19315,2020-05-23,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+19317,2020-05-23,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+19318,2020-05-23,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+19321,2020-05-23,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+19322,2020-05-23,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+19331,2020-05-23,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+19339,2020-05-23,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+19340,2020-05-23,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+19341,2020-05-23,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+19342,2020-05-23,Barranquilla,,76,F,En estudio,Casa,Leve,60 - 79
+19343,2020-05-23,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+19344,2020-05-23,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+19346,2020-05-23,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+19347,2020-05-23,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+19348,2020-05-23,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+19349,2020-05-23,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+19350,2020-05-23,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+19351,2020-05-23,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+19352,2020-05-23,Barranquilla,,42,F,En estudio,Casa,Leve,40 - 59
+19353,2020-05-23,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+19407,2020-05-23,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+19408,2020-05-23,Barranquilla,,7,M,En estudio,Casa,Leve,0 - 19
+19409,2020-05-23,Barranquilla,,2,M,En estudio,Casa,Leve,0 - 19
+19410,2020-05-23,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+19411,2020-05-23,Barranquilla,,59,F,En estudio,Casa,Leve,40 - 59
+19412,2020-05-23,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+19413,2020-05-23,Barranquilla,,7,F,En estudio,Casa,Leve,0 - 19
+19414,2020-05-23,Barranquilla,,47,F,En estudio,Casa,Leve,40 - 59
+19415,2020-05-23,Barranquilla,,85,M,En estudio,Fallecido,Fallecido,80+
+19416,2020-05-23,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+19417,2020-05-23,Barranquilla,,71,M,En estudio,Hospital UCI,Grave,60 - 79
+19418,2020-05-23,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+19420,2020-05-23,Barranquilla,,24,F,En estudio,Hospital UCI,Grave,20 - 39
+19421,2020-05-23,Barranquilla,,69,F,En estudio,Hospital UCI,Grave,60 - 79
+19422,2020-05-23,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+19423,2020-05-23,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+19424,2020-05-23,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+19427,2020-05-23,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+19428,2020-05-23,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+19429,2020-05-23,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+19430,2020-05-23,Barranquilla,,58,F,En estudio,Casa,Leve,40 - 59
+19431,2020-05-23,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+19432,2020-05-23,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+19435,2020-05-23,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+19436,2020-05-23,Barranquilla,,41,M,En estudio,Hospital,Moderado,40 - 59
+19439,2020-05-23,Barranquilla,,59,M,En estudio,Casa,Leve,40 - 59
+19440,2020-05-23,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+19441,2020-05-23,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+19442,2020-05-23,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+19443,2020-05-23,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+19444,2020-05-23,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+19445,2020-05-23,Barranquilla,,1,F,En estudio,Casa,Leve,0 - 19
+19446,2020-05-23,Barranquilla,,43,F,En estudio,Casa,Leve,40 - 59
+19447,2020-05-23,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+19448,2020-05-23,Barranquilla,,88,F,En estudio,Casa,Leve,80+
+19449,2020-05-23,Barranquilla,,83,F,En estudio,Casa,Leve,80+
+19452,2020-05-23,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+19453,2020-05-23,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+19454,2020-05-23,Barranquilla,,14,F,En estudio,Casa,Leve,0 - 19
+19455,2020-05-23,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+19456,2020-05-23,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+19457,2020-05-23,Barranquilla,,66,M,En estudio,Fallecido,Fallecido,60 - 79
+19458,2020-05-23,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+19463,2020-05-23,Barranquilla,,78,M,En estudio,Hospital,Moderado,60 - 79
+19468,2020-05-23,Barranquilla,,63,F,En estudio,Casa,Leve,60 - 79
+19469,2020-05-23,Barranquilla,,87,M,En estudio,Casa,Leve,80+
+19470,2020-05-23,Barranquilla,,73,F,En estudio,Casa,Leve,60 - 79
+19471,2020-05-23,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+19472,2020-05-23,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+19473,2020-05-23,Barranquilla,,75,F,En estudio,Casa,Leve,60 - 79
+19474,2020-05-23,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+19476,2020-05-23,Barranquilla,,91,F,En estudio,Casa,Leve,80+
+19479,2020-05-23,Barranquilla,,71,F,En estudio,Hospital,Moderado,60 - 79
+19480,2020-05-23,Barranquilla,,59,M,En estudio,Casa,Leve,40 - 59
+19481,2020-05-23,Barranquilla,,67,M,En estudio,Casa,Leve,60 - 79
+19482,2020-05-23,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+19483,2020-05-23,Barranquilla,,42,F,En estudio,Fallecido,Fallecido,40 - 59
+19486,2020-05-23,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+19487,2020-05-23,Barranquilla,,57,M,En estudio,Hospital,Moderado,40 - 59
+19607,2020-05-23,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+19618,2020-05-23,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+19619,2020-05-23,Barranquilla,,84,M,En estudio,Hospital,Moderado,80+
+19621,2020-05-23,Barranquilla,,2,F,En estudio,Casa,Leve,0 - 19
+19622,2020-05-23,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+19626,2020-05-23,Barranquilla,,76,F,En estudio,Fallecido,Fallecido,60 - 79
+20223,2020-05-24,Barranquilla,,66,F,En estudio,Hospital UCI,Grave,60 - 79
+20224,2020-05-24,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+20225,2020-05-24,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+20228,2020-05-24,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+20232,2020-05-24,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+20234,2020-05-24,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+20235,2020-05-24,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+20328,2020-05-24,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+20329,2020-05-24,Barranquilla,,47,F,En estudio,Casa,Leve,40 - 59
+20330,2020-05-24,Barranquilla,,6,F,En estudio,Casa,Leve,0 - 19
+20331,2020-05-24,Barranquilla,,1,M,En estudio,Casa,Leve,0 - 19
+20332,2020-05-24,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+20333,2020-05-24,Barranquilla,,6,F,En estudio,Casa,Leve,0 - 19
+20417,2020-05-24,Barranquilla,,71,F,En estudio,Casa,Leve,60 - 79
+20418,2020-05-24,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+20419,2020-05-24,Barranquilla,,62,F,En estudio,Casa,Leve,60 - 79
+20420,2020-05-24,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+20421,2020-05-24,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+20422,2020-05-24,Barranquilla,,57,F,En estudio,Casa,Leve,40 - 59
+20423,2020-05-24,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+20424,2020-05-24,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+20425,2020-05-24,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+20426,2020-05-24,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+20427,2020-05-24,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+20428,2020-05-24,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+20429,2020-05-24,Barranquilla,,76,F,En estudio,Casa,Leve,60 - 79
+20430,2020-05-24,Barranquilla,,57,F,En estudio,Casa,Leve,40 - 59
+20431,2020-05-24,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+20432,2020-05-24,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+20531,2020-05-24,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+20535,2020-05-24,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+20542,2020-05-24,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+20543,2020-05-24,Barranquilla,,18,F,En estudio,Casa,Leve,0 - 19
+20544,2020-05-24,Barranquilla,,18,M,En estudio,Casa,Leve,0 - 19
+20545,2020-05-24,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+20546,2020-05-24,Barranquilla,,15,M,En estudio,Casa,Leve,0 - 19
+20547,2020-05-24,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+20548,2020-05-24,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+20549,2020-05-24,Barranquilla,,7,F,En estudio,Casa,Leve,0 - 19
+20550,2020-05-24,Barranquilla,,75,F,En estudio,Casa,Leve,60 - 79
+20551,2020-05-24,Barranquilla,,16,F,En estudio,Casa,Leve,0 - 19
+20552,2020-05-24,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+20553,2020-05-24,Barranquilla,,65,F,En estudio,Casa,Leve,60 - 79
+20554,2020-05-24,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+20555,2020-05-24,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+20556,2020-05-24,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+20557,2020-05-24,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+20558,2020-05-24,Barranquilla,,68,F,En estudio,Casa,Leve,60 - 79
+20559,2020-05-24,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+20560,2020-05-24,Barranquilla,,69,F,En estudio,Casa,Leve,60 - 79
+20561,2020-05-24,Barranquilla,,62,F,En estudio,Casa,Leve,60 - 79
+20562,2020-05-24,Barranquilla,,69,M,En estudio,Casa,Leve,60 - 79
+20563,2020-05-24,Barranquilla,,68,F,En estudio,Casa,Leve,60 - 79
+20564,2020-05-24,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+20565,2020-05-24,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+20566,2020-05-24,Barranquilla,,62,M,En estudio,Casa,Leve,60 - 79
+20567,2020-05-24,Barranquilla,,42,F,En estudio,Casa,Leve,40 - 59
+20568,2020-05-24,Barranquilla,,17,F,En estudio,Casa,Leve,0 - 19
+20569,2020-05-24,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+20570,2020-05-24,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+20571,2020-05-24,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+20572,2020-05-24,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+20573,2020-05-24,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+20574,2020-05-24,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+20575,2020-05-24,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+20576,2020-05-24,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+20577,2020-05-24,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+20578,2020-05-24,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+20579,2020-05-24,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+20580,2020-05-24,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+20581,2020-05-24,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+20582,2020-05-24,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+20583,2020-05-24,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+20584,2020-05-24,Barranquilla,,70,M,En estudio,Casa,Leve,60 - 79
+20585,2020-05-24,Barranquilla,,60,F,En estudio,Casa,Leve,60 - 79
+20586,2020-05-24,Barranquilla,,69,M,En estudio,Casa,Leve,60 - 79
+20587,2020-05-24,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+20588,2020-05-24,Barranquilla,,75,F,En estudio,Casa,Leve,60 - 79
+20589,2020-05-24,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+20590,2020-05-24,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+20622,2020-05-24,Barranquilla,,13,M,En estudio,Casa,Leve,0 - 19
+20623,2020-05-24,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+20624,2020-05-24,Barranquilla,,62,F,En estudio,Casa,Leve,60 - 79
+20631,2020-05-24,Barranquilla,,15,F,En estudio,Casa,Leve,0 - 19
+20646,2020-05-24,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+20648,2020-05-24,Barranquilla,,82,F,En estudio,Fallecido,Fallecido,80+
+20649,2020-05-24,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+20650,2020-05-24,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+20651,2020-05-24,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+20652,2020-05-24,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+20654,2020-05-24,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+20655,2020-05-24,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+20657,2020-05-24,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+20659,2020-05-24,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+20660,2020-05-24,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+20661,2020-05-24,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+20662,2020-05-24,Barranquilla,,60,M,En estudio,Casa,Leve,60 - 79
+20728,2020-05-24,Barranquilla,,19,F,En estudio,Casa,Leve,0 - 19
+20730,2020-05-24,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+20732,2020-05-24,Barranquilla,,16,M,En estudio,Casa,Leve,0 - 19
+20801,2020-05-24,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+20802,2020-05-24,Barranquilla,,14,F,En estudio,Casa,Leve,0 - 19
+20835,2020-05-24,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+20836,2020-05-24,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+21224,2020-05-25,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+21336,2020-05-25,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+21338,2020-05-25,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+21345,2020-05-25,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+21348,2020-05-25,Barranquilla,,61,F,En estudio,Casa,Leve,60 - 79
+21349,2020-05-25,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+21350,2020-05-25,Barranquilla,,78,F,En estudio,Casa,Leve,60 - 79
+21352,2020-05-25,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+21439,2020-05-25,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+21552,2020-05-25,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+21553,2020-05-25,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+21554,2020-05-25,Barranquilla,,21,F,En estudio,Recuperado,Leve,20 - 39
+21557,2020-05-25,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+21579,2020-05-25,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+21580,2020-05-25,Barranquilla,,5,F,En estudio,Casa,Leve,0 - 19
+21582,2020-05-25,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+21583,2020-05-25,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+21584,2020-05-25,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+21585,2020-05-25,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+21586,2020-05-25,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+21587,2020-05-25,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+21596,2020-05-25,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+21597,2020-05-25,Barranquilla,,8,F,En estudio,Hospital UCI,Grave,0 - 19
+21611,2020-05-25,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+21657,2020-05-25,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+21658,2020-05-25,Barranquilla,,16,F,En estudio,Casa,Leve,0 - 19
+21659,2020-05-25,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+21677,2020-05-25,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+21678,2020-05-25,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+21679,2020-05-25,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+21680,2020-05-25,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+21686,2020-05-25,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+21687,2020-05-25,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+21688,2020-05-25,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+22060,2020-05-26,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+22062,2020-05-26,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+22073,2020-05-26,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+22074,2020-05-26,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+22075,2020-05-26,Barranquilla,,48,F,En estudio,Hospital,Moderado,40 - 59
+22076,2020-05-26,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+22079,2020-05-26,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+22081,2020-05-26,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+22082,2020-05-26,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+22083,2020-05-26,Barranquilla,,67,F,En estudio,Casa,Leve,60 - 79
+22084,2020-05-26,Barranquilla,,68,M,En estudio,Casa,Leve,60 - 79
+22086,2020-05-26,Barranquilla,,66,M,En estudio,Casa,Leve,60 - 79
+22087,2020-05-26,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+22089,2020-05-26,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+22090,2020-05-26,Barranquilla,,10,F,En estudio,Casa,Leve,0 - 19
+22091,2020-05-26,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+22092,2020-05-26,Barranquilla,,39,M,En estudio,Hospital,Moderado,20 - 39
+22093,2020-05-26,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+22094,2020-05-26,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+22095,2020-05-26,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+22096,2020-05-26,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+22097,2020-05-26,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+22098,2020-05-26,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+22099,2020-05-26,Barranquilla,,57,M,En estudio,Fallecido,Fallecido,40 - 59
+22100,2020-05-26,Barranquilla,,68,M,En estudio,Casa,Leve,60 - 79
+22101,2020-05-26,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+22102,2020-05-26,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+22103,2020-05-26,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+22104,2020-05-26,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+22105,2020-05-26,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+22106,2020-05-26,Barranquilla,,12,M,En estudio,Casa,Leve,0 - 19
+22108,2020-05-26,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+22109,2020-05-26,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+22110,2020-05-26,Barranquilla,,3,M,En estudio,Casa,Leve,0 - 19
+22111,2020-05-26,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+22114,2020-05-26,Barranquilla,,64,M,En estudio,Casa,Leve,60 - 79
+22115,2020-05-26,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+22116,2020-05-26,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+22117,2020-05-26,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+22118,2020-05-26,Barranquilla,,12,M,En estudio,Casa,Leve,0 - 19
+22119,2020-05-26,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+22120,2020-05-26,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+22121,2020-05-26,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+22122,2020-05-26,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+22123,2020-05-26,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+22124,2020-05-26,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+22126,2020-05-26,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+22128,2020-05-26,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+22215,2020-05-26,Barranquilla,,59,F,En estudio,Casa,Leve,40 - 59
+22216,2020-05-26,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+22217,2020-05-26,Barranquilla,,69,F,En estudio,Casa,Leve,60 - 79
+22218,2020-05-26,Barranquilla,,62,M,En estudio,Fallecido,Fallecido,60 - 79
+22220,2020-05-26,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+22221,2020-05-26,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+22343,2020-05-26,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+22344,2020-05-26,Barranquilla,,69,M,En estudio,Casa,Leve,60 - 79
+22345,2020-05-26,Barranquilla,,59,F,En estudio,Hospital UCI,Grave,40 - 59
+22346,2020-05-26,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+22347,2020-05-26,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+22348,2020-05-26,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+22349,2020-05-26,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+22350,2020-05-26,Barranquilla,,63,M,En estudio,Hospital,Moderado,60 - 79
+22351,2020-05-26,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+22352,2020-05-26,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+22353,2020-05-26,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+22354,2020-05-26,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+22355,2020-05-26,Barranquilla,,60,M,En estudio,Casa,Leve,60 - 79
+22356,2020-05-26,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+22357,2020-05-26,Barranquilla,,10,M,En estudio,Casa,Leve,0 - 19
+22359,2020-05-26,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+22360,2020-05-26,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+22361,2020-05-26,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+22362,2020-05-26,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+22363,2020-05-26,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+22364,2020-05-26,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+22365,2020-05-26,Barranquilla,,42,M,En estudio,Hospital,Moderado,40 - 59
+22366,2020-05-26,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+22367,2020-05-26,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+22368,2020-05-26,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+22369,2020-05-26,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+22370,2020-05-26,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+22371,2020-05-26,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+22429,2020-05-26,Barranquilla,,60,M,En estudio,Casa,Leve,60 - 79
+22455,2020-05-26,Barranquilla,,61,F,En estudio,Casa,Leve,60 - 79
+22456,2020-05-26,Barranquilla,,8,M,En estudio,Casa,Leve,0 - 19
+22558,2020-05-26,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+22559,2020-05-26,Barranquilla,,7,F,En estudio,Hospital,Moderado,0 - 19
+22560,2020-05-26,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+22564,2020-05-26,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+22567,2020-05-26,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+22568,2020-05-26,Barranquilla,,51,F,En estudio,Casa,Leve,40 - 59
+23050,2020-05-27,Barranquilla,,0,M,En estudio,Hospital,Moderado,0 - 19
+23088,2020-05-27,Barranquilla,,71,F,En estudio,Casa,Leve,60 - 79
+23102,2020-05-27,Barranquilla,,82,M,En estudio,Hospital,Moderado,80+
+23103,2020-05-27,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+23112,2020-05-27,Barranquilla,,33,F,En estudio,Hospital,Moderado,20 - 39
+23115,2020-05-27,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+23116,2020-05-27,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+23117,2020-05-27,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+23118,2020-05-27,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+23413,2020-05-27,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+23414,2020-05-27,Barranquilla,,18,F,En estudio,Casa,Leve,0 - 19
+23416,2020-05-27,Barranquilla,,13,F,En estudio,Casa,Leve,0 - 19
+23450,2020-05-27,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+23451,2020-05-27,Barranquilla,,65,M,En estudio,Casa,Leve,60 - 79
+23459,2020-05-27,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+23460,2020-05-27,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+23461,2020-05-27,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+23463,2020-05-27,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+23464,2020-05-27,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+23465,2020-05-27,Barranquilla,,18,M,En estudio,Casa,Leve,0 - 19
+23467,2020-05-27,Barranquilla,,78,M,En estudio,Casa,Leve,60 - 79
+23469,2020-05-27,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+23470,2020-05-27,Barranquilla,,43,F,En estudio,Hospital,Moderado,40 - 59
+23471,2020-05-27,Barranquilla,,47,M,En estudio,Hospital,Moderado,40 - 59
+23472,2020-05-27,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+23473,2020-05-27,Barranquilla,,57,M,En estudio,Fallecido,Fallecido,40 - 59
+23474,2020-05-27,Barranquilla,,76,M,En estudio,Casa,Leve,60 - 79
+23475,2020-05-27,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+23476,2020-05-27,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+23499,2020-05-27,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+23539,2020-05-27,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+23541,2020-05-27,Barranquilla,,43,M,En estudio,Casa,Leve,40 - 59
+23542,2020-05-27,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+23543,2020-05-27,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+23544,2020-05-27,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+23545,2020-05-27,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+23553,2020-05-27,Barranquilla,,45,F,En estudio,Casa,Leve,40 - 59
+23554,2020-05-27,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+23555,2020-05-27,Barranquilla,,64,F,En estudio,Hospital,Moderado,60 - 79
+23556,2020-05-27,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+23557,2020-05-27,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+23558,2020-05-27,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+23692,2020-05-27,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+23701,2020-05-27,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+24238,2020-05-28,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+24316,2020-05-28,Barranquilla,,67,M,En estudio,Hospital,Moderado,60 - 79
+24342,2020-05-28,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+24345,2020-05-28,Barranquilla,,55,F,En estudio,Hospital,Moderado,40 - 59
+24347,2020-05-28,Barranquilla,,81,F,En estudio,Hospital UCI,Grave,80+
+24350,2020-05-28,Barranquilla,,77,F,En estudio,Fallecido,Fallecido,60 - 79
+24351,2020-05-28,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+24352,2020-05-28,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+24353,2020-05-28,Barranquilla,,59,M,En estudio,Casa,Leve,40 - 59
+24357,2020-05-28,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+24358,2020-05-28,Barranquilla,,74,M,En estudio,Casa,Leve,60 - 79
+24367,2020-05-28,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+24413,2020-05-28,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+24415,2020-05-28,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+24681,2020-05-28,Barranquilla,,89,M,En estudio,Casa,Leve,80+
+24682,2020-05-28,Barranquilla,,66,F,En estudio,Casa,Leve,60 - 79
+24684,2020-05-28,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+24686,2020-05-28,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+24687,2020-05-28,Barranquilla,,62,M,En estudio,Casa,Leve,60 - 79
+24688,2020-05-28,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+24689,2020-05-28,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+24690,2020-05-28,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+24691,2020-05-28,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+24692,2020-05-28,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+24693,2020-05-28,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+24695,2020-05-28,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+24696,2020-05-28,Barranquilla,,63,M,En estudio,Casa,Leve,60 - 79
+24698,2020-05-28,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+24699,2020-05-28,Barranquilla,,13,M,En estudio,Casa,Leve,0 - 19
+24700,2020-05-28,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+24703,2020-05-28,Barranquilla,,10,F,En estudio,Casa,Leve,0 - 19
+24704,2020-05-28,Barranquilla,,83,F,En estudio,Casa,Leve,80+
+24705,2020-05-28,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+24706,2020-05-28,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+24708,2020-05-28,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+24709,2020-05-28,Barranquilla,,19,F,En estudio,Casa,Leve,0 - 19
+24710,2020-05-28,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+24711,2020-05-28,Barranquilla,,68,F,En estudio,Casa,Leve,60 - 79
+24712,2020-05-28,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+24713,2020-05-28,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+24714,2020-05-28,Barranquilla,,72,F,En estudio,Casa,Leve,60 - 79
+24715,2020-05-28,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+24716,2020-05-28,Barranquilla,,43,F,En estudio,Casa,Leve,40 - 59
+24717,2020-05-28,Barranquilla,,10,M,En estudio,Recuperado,Leve,0 - 19
+24719,2020-05-28,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+24720,2020-05-28,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+24721,2020-05-28,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+24722,2020-05-28,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+24731,2020-05-28,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+24733,2020-05-28,Barranquilla,,80,F,En estudio,Casa,Leve,80+
+24734,2020-05-28,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+24735,2020-05-28,Barranquilla,,2,F,En estudio,Casa,Leve,0 - 19
+24737,2020-05-28,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+24755,,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+24757,,Barranquilla,,29,M,En estudio,Hospital,Moderado,20 - 39
+24760,2020-05-28,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+25295,2020-05-28,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+25296,2020-05-28,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+25297,2020-05-28,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+25298,2020-05-28,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+25300,2020-05-28,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+25301,2020-05-28,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+25302,2020-05-28,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+25303,2020-05-28,Barranquilla,,19,F,En estudio,Casa,Leve,0 - 19
+25304,2020-05-28,Barranquilla,,53,F,En estudio,Casa,Leve,40 - 59
+25305,2020-05-28,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+25307,2020-05-28,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+25311,2020-05-28,Barranquilla,,78,F,En estudio,Fallecido,Fallecido,60 - 79
+25312,2020-05-28,Barranquilla,,61,M,En estudio,Casa,Leve,60 - 79
+25316,2020-05-28,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+25318,2020-05-28,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+25333,2020-05-28,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+25334,2020-05-28,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+25335,2020-05-28,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+25336,2020-05-28,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+25337,2020-05-28,Barranquilla,,65,M,En estudio,Casa,Leve,60 - 79
+25338,2020-05-28,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+25339,2020-05-28,Barranquilla,,61,M,En estudio,Hospital,Moderado,60 - 79
+25340,2020-05-28,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+25390,2020-05-28,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+25394,2020-05-28,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+25396,2020-05-28,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+25397,2020-05-28,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+25398,2020-05-28,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+25439,2020-05-29,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+25440,2020-05-29,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+25441,2020-05-29,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+25444,2020-05-29,Barranquilla,,17,M,En estudio,Casa,Leve,0 - 19
+25446,2020-05-29,Barranquilla,,15,M,En estudio,Casa,Leve,0 - 19
+25448,2020-05-29,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+25450,2020-05-29,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+25452,2020-05-29,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+25454,2020-05-29,Barranquilla,,14,F,En estudio,Casa,Leve,0 - 19
+25455,2020-05-29,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+25456,2020-05-29,Barranquilla,,77,F,En estudio,Casa,Leve,60 - 79
+25457,2020-05-29,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+25458,2020-05-29,Barranquilla,,43,F,En estudio,Casa,Leve,40 - 59
+25459,2020-05-29,Barranquilla,,43,F,En estudio,Casa,Leve,40 - 59
+25460,2020-05-29,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+25461,2020-05-29,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+25462,2020-05-29,Barranquilla,,5,F,En estudio,Casa,Leve,0 - 19
+25474,2020-05-29,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+25476,2020-05-29,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+25478,2020-05-29,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+25485,2020-05-29,Barranquilla,,54,F,En estudio,Casa,Leve,40 - 59
+25533,2020-05-29,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+25534,2020-05-29,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+25536,2020-05-29,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+25575,2020-05-29,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+25601,2020-05-29,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+25602,2020-05-29,Barranquilla,,88,M,En estudio,Casa,Leve,80+
+25603,2020-05-29,Barranquilla,,76,M,En estudio,Fallecido,Fallecido,60 - 79
+25605,2020-05-29,Barranquilla,,57,M,En estudio,Hospital,Moderado,40 - 59
+25606,2020-05-29,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+25608,2020-05-29,Barranquilla,,71,F,En estudio,Casa,Leve,60 - 79
+25756,2020-05-29,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+25757,2020-05-29,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+25758,2020-05-29,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+25759,2020-05-29,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+25760,2020-05-29,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+25761,2020-05-29,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+25763,2020-05-29,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+25764,2020-05-29,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+25765,2020-05-29,Barranquilla,,61,F,En estudio,Casa,Leve,60 - 79
+25766,2020-05-29,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+25768,2020-05-29,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+25769,2020-05-29,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+25771,2020-05-29,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+25773,2020-05-29,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+25774,2020-05-29,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+25775,2020-05-29,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+25776,2020-05-29,Barranquilla,,56,M,En estudio,Hospital UCI,Grave,40 - 59
+25777,2020-05-29,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+25781,2020-05-29,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+25782,2020-05-29,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+25783,2020-05-29,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+25784,2020-05-29,Barranquilla,,45,F,En estudio,Casa,Leve,40 - 59
+25786,2020-05-29,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+25799,2020-05-29,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+25800,2020-05-29,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+25801,2020-05-29,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+25955,2020-05-29,Barranquilla,,0,M,En estudio,Hospital,Moderado,0 - 19
+25956,2020-05-29,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+25957,2020-05-29,Barranquilla,,17,M,En estudio,Casa,Leve,0 - 19
+25958,2020-05-29,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+25959,2020-05-29,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+25960,2020-05-29,Barranquilla,,51,M,En estudio,,,40 - 59
+26005,2020-05-29,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+26008,2020-05-29,Barranquilla,,35,M,En estudio,Hospital,Moderado,20 - 39
+26009,2020-05-29,Barranquilla,,64,M,En estudio,Fallecido,Fallecido,60 - 79
+26010,2020-05-29,Barranquilla,,59,F,En estudio,Casa,Leve,40 - 59
+26011,2020-05-29,Barranquilla,,37,F,En estudio,Hospital,Moderado,20 - 39
+26012,2020-05-29,Barranquilla,,28,F,En estudio,Hospital,Moderado,20 - 39
+26013,2020-05-29,Barranquilla,,34,M,En estudio,Hospital UCI,Grave,20 - 39
+26019,2020-05-29,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+26022,2020-05-29,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+26023,2020-05-29,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+26025,2020-05-29,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+26026,2020-05-29,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+26027,2020-05-29,Barranquilla,,2,M,En estudio,Casa,Leve,0 - 19
+26029,2020-05-29,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+26716,2020-05-29,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+26717,2020-05-29,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+26718,2020-05-29,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+26721,2020-05-29,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+26728,,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+26729,2020-05-30,Barranquilla,,26,M,En estudio,Hospital,Moderado,20 - 39
+26730,2020-05-30,Barranquilla,,27,F,En estudio,Hospital,Moderado,20 - 39
+26731,2020-05-30,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+26732,2020-05-30,Barranquilla,,5,M,En estudio,Hospital,Moderado,0 - 19
+26733,2020-05-30,Barranquilla,,22,F,En estudio,Hospital,Moderado,20 - 39
+26779,2020-05-30,Barranquilla,,24,F,En estudio,Hospital,Moderado,20 - 39
+26780,2020-05-30,Barranquilla,,17,F,En estudio,Casa,Leve,0 - 19
+26784,2020-05-30,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+26785,2020-05-30,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+26789,2020-05-30,Barranquilla,,81,M,En estudio,Casa,Leve,80+
+26790,2020-05-30,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+26792,2020-05-30,Barranquilla,,45,M,En estudio,Hospital,Moderado,40 - 59
+26794,2020-05-30,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+26795,2020-05-30,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+26796,2020-05-30,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+26799,2020-05-30,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+26800,2020-05-30,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+26801,2020-05-30,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+26802,2020-05-30,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+26803,2020-05-30,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+26804,2020-05-30,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+26805,2020-05-30,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+26806,2020-05-30,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+26807,2020-05-30,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+26811,2020-05-30,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+26812,2020-05-30,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+26813,2020-05-30,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+26814,2020-05-30,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+26816,2020-05-30,Barranquilla,,70,M,En estudio,Casa,Leve,60 - 79
+26817,2020-05-30,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+26819,2020-05-30,Barranquilla,,57,F,En estudio,Hospital,Moderado,40 - 59
+26822,2020-05-30,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+26823,2020-05-30,Barranquilla,,46,F,En estudio,Casa,Leve,40 - 59
+26825,2020-05-30,Barranquilla,,64,M,En estudio,Casa,Leve,60 - 79
+26826,2020-05-30,Barranquilla,,17,F,En estudio,Casa,Leve,0 - 19
+26828,2020-05-30,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+26829,2020-05-30,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+27346,2020-05-30,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+27347,2020-05-30,Barranquilla,,66,M,En estudio,Casa,Leve,60 - 79
+27348,2020-05-30,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+27351,2020-05-30,Barranquilla,,1,F,En estudio,Casa,Leve,0 - 19
+27352,2020-05-30,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+27356,2020-05-30,Barranquilla,,42,M,En estudio,Casa,Leve,40 - 59
+27357,2020-05-30,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+27358,2020-05-30,Barranquilla,,71,M,En estudio,Fallecido,Fallecido,60 - 79
+27360,2020-05-30,Barranquilla,,80,F,En estudio,Hospital,Moderado,80+
+27361,2020-05-30,Barranquilla,,84,M,En estudio,Hospital,Moderado,80+
+27362,2020-05-30,Barranquilla,,54,F,En estudio,Fallecido,Fallecido,40 - 59
+27363,2020-05-30,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+27364,2020-05-30,Barranquilla,,33,M,En estudio,Recuperado,Leve,20 - 39
+27365,2020-05-30,Barranquilla,,39,F,En estudio,Recuperado,Leve,20 - 39
+27366,2020-05-30,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+27367,2020-05-30,Barranquilla,,55,M,En estudio,Casa,Leve,40 - 59
+27368,2020-05-30,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+27369,2020-05-30,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+27371,2020-05-30,Barranquilla,,43,F,En estudio,Recuperado,Leve,40 - 59
+27372,2020-05-30,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+27373,2020-05-30,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+27374,2020-05-30,Barranquilla,,28,M,En estudio,Recuperado,Leve,20 - 39
+27375,2020-05-30,Barranquilla,,18,F,En estudio,Casa,Leve,0 - 19
+27376,2020-05-30,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+27377,2020-05-30,Barranquilla,,47,F,En estudio,Casa,Leve,40 - 59
+27378,2020-05-30,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+27382,2020-05-30,Barranquilla,,58,M,En estudio,Casa,Leve,40 - 59
+27385,2020-05-30,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+27386,2020-05-30,Barranquilla,,15,F,En estudio,Casa,Leve,0 - 19
+27387,2020-05-30,Barranquilla,,6,F,En estudio,Casa,Leve,0 - 19
+27388,2020-05-30,Barranquilla,,31,F,En estudio,Casa,Leve,20 - 39
+27389,2020-05-30,Barranquilla,,16,M,En estudio,Casa,Leve,0 - 19
+27390,2020-05-30,Barranquilla,,65,F,En estudio,Recuperado,Leve,60 - 79
+27391,2020-05-30,Barranquilla,,51,F,En estudio,Recuperado,Leve,40 - 59
+27392,2020-05-30,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+27393,2020-05-30,Barranquilla,,16,F,En estudio,Recuperado,Leve,0 - 19
+27394,2020-05-30,Barranquilla,,82,M,En estudio,Recuperado,Leve,80+
+27395,2020-05-30,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+27396,2020-05-30,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+27397,2020-05-30,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+27398,2020-05-30,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+27399,2020-05-30,Barranquilla,,24,F,En estudio,Casa,Leve,20 - 39
+27400,2020-05-30,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+27401,2020-05-30,Barranquilla,,54,M,En estudio,Casa,Leve,40 - 59
+27402,2020-05-30,Barranquilla,,92,M,En estudio,Fallecido,Fallecido,80+
+27404,2020-05-30,Barranquilla,,71,F,En estudio,Casa,Leve,60 - 79
+27407,2020-05-30,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+27408,2020-05-30,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+27409,2020-05-30,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+27410,2020-05-30,Barranquilla,,60,F,En estudio,Hospital,Moderado,60 - 79
+27411,2020-05-30,Barranquilla,,70,M,En estudio,Fallecido,Fallecido,60 - 79
+27412,2020-05-30,Barranquilla,,68,M,En estudio,Casa,Leve,60 - 79
+27413,2020-05-30,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+27414,2020-05-30,Barranquilla,,82,M,En estudio,Casa,Leve,80+
+27417,2020-05-30,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+27418,2020-05-30,Barranquilla,,69,M,En estudio,Hospital,Moderado,60 - 79
+27423,2020-05-30,Barranquilla,,0,F,En estudio,Hospital,Moderado,0 - 19
+27425,2020-05-30,Barranquilla,,72,F,En estudio,Casa,Leve,60 - 79
+27426,2020-05-30,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+27427,2020-05-30,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+27428,2020-05-30,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+27429,2020-05-30,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+27430,2020-05-30,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+27431,2020-05-30,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+27434,2020-05-30,Barranquilla,,74,F,En estudio,Fallecido,Fallecido,60 - 79
+27435,2020-05-30,Barranquilla,,0,F,En estudio,Hospital,Moderado,0 - 19
+27436,2020-05-30,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+27437,2020-05-30,Barranquilla,,58,F,En estudio,Hospital,Moderado,40 - 59
+27438,2020-05-30,Barranquilla,,22,F,En estudio,Hospital,Moderado,20 - 39
+27439,2020-05-30,Barranquilla,,63,M,En estudio,Hospital,Moderado,60 - 79
+27440,2020-05-30,Barranquilla,,79,F,En estudio,Casa,Leve,60 - 79
+27441,2020-05-30,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+27442,2020-05-30,Barranquilla,,33,F,En estudio,Recuperado,Leve,20 - 39
+27443,2020-05-30,Barranquilla,,67,F,En estudio,Hospital,Moderado,60 - 79
+27449,2020-05-30,Barranquilla,,62,M,En estudio,Hospital,Moderado,60 - 79
+27450,2020-05-30,Barranquilla,,72,M,En estudio,Hospital,Moderado,60 - 79
+27451,2020-05-30,Barranquilla,,19,F,En estudio,Hospital,Moderado,0 - 19
+27452,2020-05-30,Barranquilla,,74,M,En estudio,Fallecido,Fallecido,60 - 79
+27453,2020-05-30,Barranquilla,,91,M,En estudio,Hospital,Moderado,80+
+27457,2020-05-30,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+27459,2020-05-30,Barranquilla,,73,M,En estudio,Fallecido,Fallecido,60 - 79
+27460,2020-05-30,Barranquilla,,70,F,En estudio,Hospital,Moderado,60 - 79
+27462,2020-05-30,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+27463,2020-05-30,Barranquilla,,59,F,En estudio,Casa,Leve,40 - 59
+27464,2020-05-30,Barranquilla,,54,M,En estudio,Hospital,Moderado,40 - 59
+27466,2020-05-30,Barranquilla,,2,F,En estudio,Hospital,Moderado,0 - 19
+27467,2020-05-30,Barranquilla,,44,F,En estudio,Hospital,Moderado,40 - 59
+27468,2020-05-30,Barranquilla,,55,F,En estudio,Hospital,Moderado,40 - 59
+27469,2020-05-30,Barranquilla,,35,F,En estudio,Hospital,Moderado,20 - 39
+27470,2020-05-30,Barranquilla,,54,M,En estudio,Hospital,Moderado,40 - 59
+27471,2020-05-30,Barranquilla,,56,M,En estudio,Hospital,Moderado,40 - 59
+27472,2020-05-30,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+27474,2020-05-30,Barranquilla,,63,M,En estudio,Hospital,Moderado,60 - 79
+27478,2020-05-30,Barranquilla,,83,F,En estudio,Fallecido,Fallecido,80+
+27480,2020-05-30,Barranquilla,,68,F,En estudio,Fallecido,Fallecido,60 - 79
+27482,2020-05-30,Barranquilla,,63,F,En estudio,Casa,Leve,60 - 79
+27485,2020-05-30,Barranquilla,,48,F,En estudio,Hospital UCI,Grave,40 - 59
+27487,2020-05-30,Barranquilla,,63,M,En estudio,Hospital,Moderado,60 - 79
+27489,2020-05-30,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+27491,2020-05-30,Barranquilla,,23,M,En estudio,Hospital,Moderado,20 - 39
+27492,2020-05-30,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+27493,2020-05-30,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+27842,2020-05-30,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+27849,2020-05-30,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+27850,2020-05-30,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+27851,2020-05-30,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+27852,2020-05-30,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+27853,2020-05-30,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+27854,2020-05-30,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+27855,2020-05-30,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+27856,2020-05-30,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+27858,2020-05-30,Barranquilla,,59,M,En estudio,Casa,Leve,40 - 59
+27862,2020-05-30,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+27886,2020-05-30,Barranquilla,,61,F,En estudio,Casa,Leve,60 - 79
+27900,2020-05-30,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+27915,2020-05-30,Barranquilla,,32,M,En estudio,Hospital UCI,Grave,20 - 39
+28006,2020-05-30,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+28009,2020-05-30,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+28011,2020-05-30,Barranquilla,,79,M,En estudio,Hospital,Moderado,60 - 79
+28017,2020-05-30,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+28020,2020-05-30,Barranquilla,,57,F,En estudio,Casa,Leve,40 - 59
+28023,2020-05-30,Barranquilla,,66,M,En estudio,Fallecido,Fallecido,60 - 79
+28030,2020-05-30,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+28034,2020-05-30,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+28035,2020-05-30,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+28108,2020-05-30,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+28109,2020-05-30,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+28119,2020-05-30,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+28120,2020-05-30,Barranquilla,,53,M,En estudio,Casa,Leve,40 - 59
+28121,2020-05-30,Barranquilla,,95,F,En estudio,Hospital,Moderado,80+
+28123,2020-05-30,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+28124,2020-05-30,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+28125,2020-05-30,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+28126,2020-05-30,Barranquilla,,57,M,En estudio,Hospital,Moderado,40 - 59
+28131,2020-05-30,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+28133,2020-05-30,Barranquilla,,24,M,En estudio,Hospital,Moderado,20 - 39
+28135,2020-05-30,Barranquilla,,72,M,En estudio,Casa,Leve,60 - 79
+28137,2020-05-30,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+28173,2020-05-30,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+28174,2020-05-30,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+28175,2020-05-30,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+28176,2020-05-30,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+28180,2020-05-30,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+28181,2020-05-30,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+28201,2020-05-30,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+28202,2020-05-30,Barranquilla,,66,F,En estudio,Casa,Leve,60 - 79
+28203,2020-05-30,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+28204,2020-05-30,Barranquilla,,84,M,En estudio,Casa,Leve,80+
+28205,2020-05-30,Barranquilla,,58,F,En estudio,Fallecido,Fallecido,40 - 59
+28206,2020-05-30,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+28220,2020-05-30,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+28229,2020-05-30,Barranquilla,,40,M,En estudio,Hospital,Moderado,40 - 59
+28231,2020-05-30,Barranquilla,,39,F,En estudio,Casa,Leve,20 - 39
+28232,2020-05-30,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+28264,2020-05-30,Barranquilla,,61,F,En estudio,Casa,Leve,60 - 79
+28265,2020-05-30,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+28285,2020-05-31,Barranquilla,,0,M,En estudio,Hospital,Moderado,0 - 19
+28288,2020-05-31,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+28290,2020-05-31,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+28291,2020-05-31,Barranquilla,,79,F,En estudio,Casa,Leve,60 - 79
+28292,2020-05-31,Barranquilla,,62,M,En estudio,Hospital,Moderado,60 - 79
+28295,2020-05-31,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+28296,2020-05-31,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+28297,2020-05-31,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+28298,2020-05-31,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+28299,2020-05-31,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+28301,2020-05-31,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+28303,2020-05-31,Barranquilla,,35,F,En estudio,Casa,Leve,20 - 39
+28304,2020-05-31,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+28305,2020-05-31,Barranquilla,,56,M,En estudio,Casa,Leve,40 - 59
+28306,2020-05-31,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+28308,2020-05-31,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+28311,2020-05-31,Barranquilla,,51,M,En estudio,Casa,Leve,40 - 59
+28312,2020-05-31,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+28313,2020-05-31,Barranquilla,,20,M,En estudio,Hospital,Moderado,20 - 39
+28316,2020-05-31,Barranquilla,,53,M,En estudio,Hospital,Moderado,40 - 59
+28318,2020-05-31,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+28320,2020-05-31,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+28321,2020-05-31,Barranquilla,,36,M,En estudio,Casa,Leve,20 - 39
+28322,2020-05-31,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+28324,2020-05-31,Barranquilla,,51,F,En estudio,Casa,Leve,40 - 59
+28325,2020-05-31,Barranquilla,,78,F,En estudio,Casa,Leve,60 - 79
+28326,2020-05-31,Barranquilla,,65,F,En estudio,Casa,Leve,60 - 79
+28327,2020-05-31,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+28328,2020-05-31,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+28348,2020-05-31,Barranquilla,,50,F,En estudio,Hospital,Moderado,40 - 59
+28349,2020-05-31,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+28353,2020-05-31,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+28924,2020-05-31,Barranquilla,,67,M,En estudio,Casa,Leve,60 - 79
+29033,2020-05-31,Barranquilla,,65,M,En estudio,Casa,Leve,60 - 79
+29034,2020-05-31,Barranquilla,,58,F,En estudio,Casa,Leve,40 - 59
+29067,2020-05-31,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+29069,2020-05-31,Barranquilla,,37,F,En estudio,Casa,Leve,20 - 39
+29070,2020-05-31,Barranquilla,,38,M,En estudio,Casa,Leve,20 - 39
+29071,2020-05-31,Barranquilla,,42,F,En estudio,Casa,Leve,40 - 59
+29104,2020-05-31,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+29107,2020-05-31,Barranquilla,,70,F,En estudio,Casa,Leve,60 - 79
+29109,2020-05-31,Barranquilla,,61,F,En estudio,Casa,Leve,60 - 79
+29111,2020-05-31,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+29113,2020-05-31,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+29115,2020-05-31,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+29116,2020-05-31,Barranquilla,,59,M,En estudio,Casa,Leve,40 - 59
+29117,2020-05-31,Barranquilla,,50,M,En estudio,Casa,Leve,40 - 59
+29118,2020-05-31,Barranquilla,,44,F,En estudio,Casa,Leve,40 - 59
+29119,2020-05-31,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+29121,2020-05-31,Barranquilla,,12,F,En estudio,Casa,Leve,0 - 19
+29122,2020-05-31,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+29128,2020-05-31,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+29129,2020-05-31,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+29130,2020-05-31,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+29179,2020-05-31,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+29180,2020-05-31,Barranquilla,,47,F,En estudio,Casa,Leve,40 - 59
+29189,2020-05-31,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+29190,2020-05-31,Barranquilla,,50,M,En estudio,Hospital UCI,Grave,40 - 59
+29191,2020-05-31,Barranquilla,,70,M,En estudio,Fallecido,Fallecido,60 - 79
+29192,2020-05-31,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+29194,2020-05-31,Barranquilla,,45,M,En estudio,Hospital UCI,Grave,40 - 59
+29197,2020-05-31,Barranquilla,,32,F,En estudio,Casa,Leve,20 - 39
+29198,2020-05-31,Barranquilla,,58,F,En estudio,Hospital,Moderado,40 - 59
+29200,2020-05-31,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+29293,2020-05-31,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+29295,2020-05-31,Barranquilla,,27,F,En estudio,Casa,Leve,20 - 39
+29310,2020-05-31,Barranquilla,,35,F,En estudio,Hospital,Moderado,20 - 39
+29321,2020-05-31,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+29323,2020-05-31,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+29328,2020-05-31,Barranquilla,,0,F,En estudio,Casa,Leve,0 - 19
+29330,2020-05-31,Barranquilla,,16,M,En estudio,Casa,Leve,0 - 19
+29332,2020-05-31,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+29333,2020-05-31,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+29334,2020-05-31,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+29335,2020-05-31,Barranquilla,,61,M,En estudio,Casa,Leve,60 - 79
+29336,2020-05-31,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+29337,2020-05-31,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+29338,2020-05-31,Barranquilla,,44,M,En estudio,Casa,Leve,40 - 59
+29339,2020-05-31,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+29340,2020-05-31,Barranquilla,,51,F,En estudio,Casa,Leve,40 - 59
+29341,2020-05-31,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+29351,2020-05-31,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+29352,2020-05-31,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+29353,2020-05-31,Barranquilla,,22,F,En estudio,Casa,Leve,20 - 39
+29354,2020-05-31,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+29355,,Barranquilla,,23,F,En estudio,Casa,Leve,20 - 39
+29360,,Barranquilla,,78,F,En estudio,Fallecido,Fallecido,60 - 79
+29365,2020-05-31,Barranquilla,,62,F,En estudio,Casa,Leve,60 - 79
+29366,2020-05-31,Barranquilla,,5,M,En estudio,Casa,Leve,0 - 19
+29367,2020-05-31,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+29368,2020-05-31,Barranquilla,,57,F,En estudio,Casa,Leve,40 - 59
+29369,2020-05-31,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+29370,2020-05-31,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+29371,2020-05-31,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+29372,2020-05-31,Barranquilla,,51,F,En estudio,Casa,Leve,40 - 59
+29373,2020-05-31,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29374,2020-05-31,Barranquilla,,0,M,En estudio,Casa,Leve,0 - 19
+29375,2020-05-31,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+29376,2020-05-31,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+29377,2020-05-31,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+29378,2020-05-31,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+29379,2020-05-31,Barranquilla,,60,M,En estudio,Casa,Leve,60 - 79
+29380,2020-05-31,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+29381,2020-05-31,Barranquilla,,9,M,En estudio,Casa,Leve,0 - 19
+29382,2020-05-31,Barranquilla,,59,F,En estudio,Casa,Leve,40 - 59
+29383,2020-05-31,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+29384,2020-05-31,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+29385,2020-05-31,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+29386,2020-05-31,Barranquilla,,82,F,En estudio,Casa,Leve,80+
+29387,2020-05-31,Barranquilla,,1,M,En estudio,Casa,Leve,0 - 19
+29389,2020-05-31,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+29399,2020-05-31,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+29401,2020-05-31,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+29409,2020-05-31,Barranquilla,,64,M,En estudio,Casa,Leve,60 - 79
+29416,2020-05-31,Barranquilla,,34,F,En estudio,Casa,Leve,20 - 39
+29417,2020-05-31,Barranquilla,,34,M,En estudio,Casa,Leve,20 - 39
+29418,2020-05-31,Barranquilla,,27,M,En estudio,Casa,Leve,20 - 39
+29419,2020-05-31,Barranquilla,,46,M,En estudio,Casa,Leve,40 - 59
+29420,2020-05-31,Barranquilla,,43,F,En estudio,Casa,Leve,40 - 59
+29421,2020-05-31,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+29422,2020-05-31,Barranquilla,,24,M,En estudio,Casa,Leve,20 - 39
+29423,2020-05-31,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+29428,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29431,2020-06-01,Barranquilla,,21,F,En estudio,Casa,Leve,20 - 39
+29436,2020-06-01,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+29440,2020-06-01,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+29441,2020-06-01,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+29444,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29448,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29451,2020-06-01,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+29456,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29461,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29462,2020-06-01,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+29463,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29464,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29467,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29469,2020-06-01,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+29470,2020-06-01,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+29471,2020-06-01,Barranquilla,,19,M,En estudio,Casa,Leve,0 - 19
+29472,2020-06-01,Barranquilla,,26,F,En estudio,Casa,Leve,20 - 39
+29474,2020-06-01,Barranquilla,,40,M,En estudio,Casa,Leve,40 - 59
+29476,2020-06-01,Barranquilla,,56,F,En estudio,Casa,Leve,40 - 59
+29477,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29484,2020-06-01,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+29485,2020-06-01,Barranquilla,,30,F,En estudio,Casa,Leve,20 - 39
+29487,2020-06-01,Barranquilla,,41,F,En estudio,Casa,Leve,40 - 59
+29489,2020-06-01,Barranquilla,,48,M,En estudio,Casa,Leve,40 - 59
+29490,2020-06-01,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+29491,2020-06-01,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+29492,2020-06-01,Barranquilla,,14,F,En estudio,Casa,Leve,0 - 19
+29493,2020-06-01,Barranquilla,,40,F,En estudio,Casa,Leve,40 - 59
+29494,2020-06-01,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+29508,2020-06-01,Barranquilla,,90,F,En estudio,Hospital,Moderado,80+
+29517,2020-06-01,Barranquilla,,75,M,En estudio,Casa,Leve,60 - 79
+29518,2020-06-01,Barranquilla,,49,F,En estudio,Casa,Leve,40 - 59
+29543,2020-06-01,Barranquilla,,41,M,En estudio,Casa,Leve,40 - 59
+29545,2020-06-01,Barranquilla,,80,F,En estudio,Casa,Leve,80+
+29546,2020-06-01,Barranquilla,,67,M,En estudio,Casa,Leve,60 - 79
+29552,2020-06-01,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+29553,2020-06-01,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+29555,2020-06-01,Barranquilla,,45,M,En estudio,Casa,Leve,40 - 59
+29558,2020-06-01,Barranquilla,,28,M,En estudio,Casa,Leve,20 - 39
+29559,2020-06-01,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+29563,2020-06-01,Barranquilla,,39,M,En estudio,Casa,Leve,20 - 39
+29571,2020-06-01,Barranquilla,,45,F,En estudio,Casa,Leve,40 - 59
+29614,2020-06-01,Barranquilla,,50,F,En estudio,Casa,Leve,40 - 59
+29615,2020-06-01,Barranquilla,,55,F,En estudio,Casa,Leve,40 - 59
+29616,2020-06-01,Barranquilla,,73,M,En estudio,Casa,Leve,60 - 79
+29617,2020-06-01,Barranquilla,,89,F,En estudio,Casa,Leve,80+
+29647,2020-06-01,Barranquilla,,35,M,En estudio,Casa,Leve,20 - 39
+29648,2020-06-01,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+29649,2020-06-01,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+29650,2020-06-01,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+29651,2020-06-01,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+29652,2020-06-01,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+29653,2020-06-01,Barranquilla,,20,M,En estudio,Casa,Leve,20 - 39
+29654,2020-06-01,Barranquilla,,25,M,En estudio,Casa,Leve,20 - 39
+29655,2020-06-01,Barranquilla,,31,M,En estudio,Casa,Leve,20 - 39
+29656,2020-06-01,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+29657,2020-06-01,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+29658,2020-06-01,Barranquilla,,77,M,En estudio,Casa,Leve,60 - 79
+29683,2020-06-01,Barranquilla,,34,M,En estudio,Fallecido,Fallecido,20 - 39
+29685,2020-06-01,Barranquilla,,23,M,En estudio,Casa,Leve,20 - 39
+29687,2020-06-01,Barranquilla,,64,F,En estudio,Hospital,Moderado,60 - 79
+29690,2020-06-01,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+29692,2020-06-01,Barranquilla,,29,M,En estudio,Casa,Leve,20 - 39
+29755,2020-06-01,Barranquilla,,20,F,En estudio,Casa,Leve,20 - 39
+29756,2020-06-01,Barranquilla,,64,F,En estudio,Casa,Leve,60 - 79
+29758,2020-06-01,Barranquilla,,2,F,En estudio,Casa,Leve,0 - 19
+29759,2020-06-01,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+29760,2020-06-01,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+29852,2020-06-01,Barranquilla,,52,M,En estudio,Casa,Leve,40 - 59
+29854,2020-06-01,Barranquilla,,26,M,En estudio,Casa,Leve,20 - 39
+29857,2020-06-01,Barranquilla,,37,M,En estudio,Casa,Leve,20 - 39
+29858,2020-06-01,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+29861,2020-06-01,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+29866,2020-06-01,Barranquilla,,29,F,En estudio,Casa,Leve,20 - 39
+29876,2020-06-01,Barranquilla,,26,F,En estudio,Hospital UCI,Grave,20 - 39
+29877,2020-06-01,Barranquilla,,33,M,En estudio,Casa,Leve,20 - 39
+29879,2020-06-01,Barranquilla,,29,F,Relacionado,Casa,Leve,20 - 39
+29880,2020-06-01,Barranquilla,,30,M,En estudio,Casa,Leve,20 - 39
+29882,2020-06-01,Barranquilla,,52,F,En estudio,Casa,Leve,40 - 59
+29883,2020-06-01,Barranquilla,,25,F,En estudio,Casa,Leve,20 - 39
+29884,2020-06-01,Barranquilla,,28,F,En estudio,Casa,Leve,20 - 39
+29885,2020-06-01,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+29886,2020-06-01,Barranquilla,,57,M,En estudio,Casa,Leve,40 - 59
+29888,2020-06-01,Barranquilla,,63,F,En estudio,Casa,Leve,60 - 79
+29889,2020-06-01,Barranquilla,,32,M,En estudio,Casa,Leve,20 - 39
+29891,2020-06-01,Barranquilla,,21,M,En estudio,Casa,Leve,20 - 39
+29892,2020-06-01,Barranquilla,,33,F,En estudio,Casa,Leve,20 - 39
+29893,2020-06-01,Barranquilla,,48,F,En estudio,Casa,Leve,40 - 59
+29897,2020-06-01,Barranquilla,,47,M,En estudio,Casa,Leve,40 - 59
+29898,2020-06-01,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+29900,2020-06-01,Barranquilla,,22,M,En estudio,Casa,Leve,20 - 39
+29945,2020-06-01,Barranquilla,,75,M,En estudio,Casa,Leve,60 - 79
+29979,2020-06-01,Barranquilla,,36,F,En estudio,Casa,Leve,20 - 39
+29980,2020-06-01,Barranquilla,,65,F,En estudio,Casa,Leve,60 - 79
+29981,2020-06-01,Barranquilla,,38,F,En estudio,Casa,Leve,20 - 39
+29982,2020-06-01,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59
+29983,2020-06-01,Barranquilla,,49,M,En estudio,Casa,Leve,40 - 59

@@ -1,0 +1,2696 @@
+ID de caso,Fecha de diagnóstico,Ciudad de residencia,Localidad de residencia,Edad,Sexo,Tipo de caso,Ubicación,Estado,Grupo de edad
+25,2020-03-13,Cali,,49,M,Importado,Recuperado,Leve,40 - 59
+62,2020-03-16,Cali,,32,M,Importado,Recuperado,Leve,20 - 39
+63,2020-03-16,Cali,,26,F,Importado,Recuperado,Leve,20 - 39
+81,2020-03-17,Cali,,49,F,Importado,Recuperado,Leve,40 - 59
+82,2020-03-17,Cali,,54,M,Importado,Recuperado,Leve,40 - 59
+83,2020-03-17,Cali,,56,M,Importado,Recuperado,Leve,40 - 59
+84,2020-03-17,Cali,,51,M,Importado,Recuperado,Leve,40 - 59
+85,2020-03-17,Cali,,42,F,Relacionado,Recuperado,Asintomático,40 - 59
+132,2020-03-20,Cali,,33,M,Relacionado,Recuperado,Leve,20 - 39
+183,2020-03-21,Cali,,48,F,Importado,Recuperado,Leve,40 - 59
+187,2020-03-21,Cali,,74,M,Relacionado,Hospital UCI,Grave,60 - 79
+188,2020-03-21,Cali,,70,F,Relacionado,Fallecido,Fallecido,60 - 79
+189,2020-03-21,Cali,,81,F,Importado,Recuperado,Leve,80+
+190,2020-03-21,Cali,,28,M,Importado,Recuperado,Leve,20 - 39
+192,2020-03-21,Cali,,30,F,Relacionado,Recuperado,Leve,20 - 39
+193,2020-03-21,Cali,,53,F,Importado,Recuperado,Leve,40 - 59
+225,2020-03-22,Cali,,22,M,Relacionado,Recuperado,Leve,20 - 39
+227,2020-03-22,Cali,,28,M,Importado,Recuperado,Leve,20 - 39
+228,2020-03-22,Cali,,26,M,Importado,Recuperado,Leve,20 - 39
+231,2020-03-22,Cali,,46,F,Relacionado,Recuperado,Leve,40 - 59
+282,2020-03-23,Cali,,40,M,Importado,Fallecido,Fallecido,40 - 59
+283,2020-03-23,Cali,,56,M,Relacionado,Recuperado,Leve,40 - 59
+284,2020-03-23,Cali,,65,F,Importado,Recuperado,Leve,60 - 79
+331,2020-03-24,Cali,,37,M,Importado,Recuperado,Leve,20 - 39
+332,2020-03-24,Cali,,38,F,Importado,Recuperado,Leve,20 - 39
+334,2020-03-24,Cali,,23,M,Relacionado,Recuperado,Leve,20 - 39
+335,2020-03-24,Cali,,59,M,Relacionado,Recuperado,Leve,40 - 59
+337,2020-03-24,Cali,,22,F,Relacionado,Recuperado,Asintomático,20 - 39
+342,2020-03-24,Cali,,47,F,Relacionado,Recuperado,Leve,40 - 59
+343,2020-03-24,Cali,,26,F,Importado,Recuperado,Leve,20 - 39
+344,2020-03-24,Cali,,56,M,Relacionado,Recuperado,Leve,40 - 59
+345,2020-03-24,Cali,,53,F,Relacionado,Recuperado,Leve,40 - 59
+346,2020-03-24,Cali,,87,M,Relacionado,Recuperado,Leve,80+
+348,2020-03-24,Cali,,36,F,Relacionado,Recuperado,Leve,20 - 39
+349,2020-03-24,Cali,,33,F,Relacionado,Recuperado,Leve,20 - 39
+357,2020-03-24,Cali,,42,M,Relacionado,Recuperado,Leve,40 - 59
+358,2020-03-24,Cali,,58,F,Importado,Recuperado,Leve,40 - 59
+360,2020-03-24,Cali,,33,M,Relacionado,Recuperado,Asintomático,20 - 39
+362,2020-03-24,Cali,,46,M,Importado,Recuperado,Leve,40 - 59
+363,2020-03-24,Cali,,23,M,Importado,Recuperado,Leve,20 - 39
+364,2020-03-24,Cali,,21,F,Relacionado,Recuperado,Leve,20 - 39
+365,2020-03-24,Cali,,64,M,Importado,Recuperado,Leve,60 - 79
+366,2020-03-24,Cali,,34,M,Relacionado,Recuperado,Leve,20 - 39
+367,2020-03-24,Cali,,28,F,Relacionado,Recuperado,Asintomático,20 - 39
+374,2020-03-24,Cali,,29,M,Relacionado,Recuperado,Leve,20 - 39
+375,2020-03-24,Cali,,28,M,Relacionado,Recuperado,Leve,20 - 39
+425,2020-03-25,Cali,,80,F,Relacionado,Fallecido,Fallecido,80+
+455,2020-03-25,Cali,,35,F,Importado,Recuperado,Leve,20 - 39
+488,2020-03-26,Cali,,27,M,Relacionado,Recuperado,Leve,20 - 39
+490,2020-03-26,Cali,,32,M,Importado,Recuperado,Leve,20 - 39
+541,2020-03-28,Cali,,57,F,Relacionado,Recuperado,Leve,40 - 59
+542,2020-03-28,Cali,,30,M,Importado,Recuperado,Leve,20 - 39
+543,2020-03-28,Cali,,51,M,Relacionado,Fallecido,Fallecido,40 - 59
+544,2020-03-28,Cali,,27,F,Relacionado,Recuperado,Leve,20 - 39
+591,2020-03-28,Cali,,28,F,Relacionado,Recuperado,Leve,20 - 39
+592,2020-03-28,Cali,,72,M,Importado,Recuperado,Leve,60 - 79
+593,2020-03-28,Cali,,47,F,Importado,Recuperado,Leve,40 - 59
+594,2020-03-28,Cali,,27,M,Relacionado,Hospital,Moderado,20 - 39
+614,2020-03-29,Cali,,64,F,Relacionado,Recuperado,Leve,60 - 79
+615,2020-03-29,Cali,,46,M,Relacionado,Recuperado,Leve,40 - 59
+616,2020-03-29,Cali,,12,F,Relacionado,Recuperado,Leve,0 - 19
+617,2020-03-29,Cali,,32,M,Relacionado,Recuperado,Leve,20 - 39
+618,2020-03-29,Cali,,62,F,Importado,Recuperado,Leve,60 - 79
+619,2020-03-29,Cali,,36,M,Relacionado,Fallecido,Fallecido,20 - 39
+661,2020-03-29,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+719,2020-03-30,Cali,,26,F,Importado,Recuperado,Leve,20 - 39
+720,2020-03-30,Cali,,31,M,Importado,Recuperado,Leve,20 - 39
+721,2020-03-30,Cali,,45,F,Importado,Recuperado,Leve,40 - 59
+722,2020-03-30,Cali,,68,M,Relacionado,Fallecido,Fallecido,60 - 79
+790,2020-03-30,Cali,,66,M,Relacionado,Fallecido,Fallecido,60 - 79
+793,2020-03-30,Cali,,27,M,Relacionado,Recuperado,Leve,20 - 39
+797,2020-03-30,Cali,,83,M,Relacionado,Recuperado,Leve,80+
+801,2020-03-31,Cali,,44,M,En estudio,Recuperado,Leve,40 - 59
+802,2020-03-31,Cali,,54,M,Relacionado,Recuperado,Grave,40 - 59
+803,2020-03-31,Cali,,20,F,Importado,Recuperado,Leve,20 - 39
+804,2020-03-31,Cali,,28,M,Importado,Recuperado,Leve,20 - 39
+805,2020-03-31,Cali,,26,F,Relacionado,Recuperado,Leve,20 - 39
+806,2020-03-31,Cali,,26,M,En estudio,Recuperado,Moderado,20 - 39
+807,2020-03-31,Cali,,32,M,Importado,Recuperado,Asintomático,20 - 39
+808,2020-03-31,Cali,,30,F,Importado,Recuperado,Leve,20 - 39
+809,2020-03-31,Cali,,38,M,Importado,Recuperado,Leve,20 - 39
+920,2020-04-01,Cali,,41,M,Relacionado,Recuperado,Leve,40 - 59
+924,2020-04-01,Cali,,16,F,En estudio,Recuperado,Leve,0 - 19
+930,2020-04-01,Cali,,35,M,Importado,Recuperado,Leve,20 - 39
+931,2020-04-01,Cali,,57,F,En estudio,Hospital,Moderado,40 - 59
+932,2020-04-01,Cali,,47,F,Relacionado,Recuperado,Leve,40 - 59
+933,2020-04-01,Cali,,23,F,Relacionado,Recuperado,Leve,20 - 39
+937,2020-04-01,Cali,,50,M,Importado,Recuperado,Leve,40 - 59
+938,2020-04-01,Cali,,21,F,Importado,Recuperado,Leve,20 - 39
+939,2020-04-01,Cali,,42,F,Relacionado,Recuperado,Leve,40 - 59
+940,2020-04-01,Cali,,61,F,Importado,Recuperado,Leve,60 - 79
+956,2020-04-01,Cali,,64,F,Importado,Recuperado,Leve,60 - 79
+957,2020-04-01,Cali,,46,F,Relacionado,Recuperado,Leve,40 - 59
+959,2020-04-01,Cali,,39,F,Relacionado,Recuperado,Leve,20 - 39
+961,2020-04-01,Cali,,64,M,En estudio,Hospital UCI,Grave,60 - 79
+962,2020-04-01,Cali,,68,F,Importado,Recuperado,Leve,60 - 79
+963,2020-04-01,Cali,,36,M,Relacionado,Recuperado,Leve,20 - 39
+964,2020-04-01,Cali,,45,M,Relacionado,Recuperado,Leve,40 - 59
+965,2020-04-01,Cali,,32,M,Importado,Recuperado,Moderado,20 - 39
+966,2020-04-01,Cali,,51,M,Importado,Recuperado,Leve,40 - 59
+967,2020-04-01,Cali,,44,F,Importado,Recuperado,Leve,40 - 59
+968,2020-04-01,Cali,,46,M,Importado,Recuperado,Leve,40 - 59
+969,2020-04-01,Cali,,39,F,Relacionado,Recuperado,Leve,20 - 39
+970,2020-04-01,Cali,,35,F,Importado,Recuperado,Leve,20 - 39
+1080,2020-04-02,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+1081,2020-04-02,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+1162,2020-04-03,Cali,,43,M,En estudio,Recuperado,Moderado,40 - 59
+1163,2020-04-03,Cali,,54,F,Relacionado,Recuperado,Leve,40 - 59
+1164,2020-04-03,Cali,,57,M,En estudio,Fallecido,Fallecido,40 - 59
+1165,2020-04-03,Cali,,57,M,En estudio,Recuperado,Leve,40 - 59
+1166,2020-04-03,Cali,,28,F,En estudio,Recuperado,Leve,20 - 39
+1167,2020-04-03,Cali,,58,M,Relacionado,Recuperado,Leve,40 - 59
+1168,2020-04-03,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+1170,2020-04-03,Cali,,85,F,En estudio,Fallecido,Fallecido,80+
+1171,2020-04-03,Cali,,62,F,En estudio,Hospital,Moderado,60 - 79
+1172,2020-04-03,Cali,,49,M,Importado,Hospital,Moderado,40 - 59
+1180,2020-04-03,Cali,,23,F,Importado,Recuperado,Leve,20 - 39
+1181,2020-04-03,Cali,,57,M,En estudio,Hospital UCI,Grave,40 - 59
+1182,2020-04-03,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+1269,2020-04-04,Cali,,81,M,Importado,Fallecido,Fallecido,80+
+1270,2020-04-04,Cali,,54,M,En estudio,Recuperado,Leve,40 - 59
+1271,2020-04-04,Cali,,44,F,Relacionado,Recuperado,Leve,40 - 59
+1272,2020-04-04,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+1273,2020-04-04,Cali,,57,F,Relacionado,Recuperado,Leve,40 - 59
+1274,2020-04-04,Cali,,62,M,Relacionado,Fallecido,Fallecido,60 - 79
+1275,2020-04-04,Cali,,55,F,Relacionado,Recuperado,Leve,40 - 59
+1276,2020-04-04,Cali,,31,F,Relacionado,Recuperado,Leve,20 - 39
+1293,2020-04-04,Cali,,28,F,Importado,Recuperado,Leve,20 - 39
+1402,2020-04-04,Cali,,29,F,Importado,Recuperado,Leve,20 - 39
+1403,2020-04-04,Cali,,40,M,En estudio,Recuperado,Leve,40 - 59
+1404,2020-04-04,Cali,,32,M,Relacionado,Recuperado,Leve,20 - 39
+1405,2020-04-04,Cali,,41,M,Importado,Recuperado,Leve,40 - 59
+1406,2020-04-04,Cali,,45,F,Relacionado,Recuperado,Leve,40 - 59
+1418,2020-04-05,Cali,,64,M,En estudio,Hospital,Moderado,60 - 79
+1419,2020-04-05,Cali,,47,M,En estudio,Hospital,Moderado,40 - 59
+1423,2020-04-05,Cali,,44,F,En estudio,Recuperado,Leve,40 - 59
+1424,2020-04-05,Cali,,34,F,Relacionado,Recuperado,Leve,20 - 39
+1425,2020-04-05,Cali,,25,F,En estudio,Recuperado,Leve,20 - 39
+1437,2020-04-05,Cali,,40,M,En estudio,Recuperado,Leve,40 - 59
+1438,2020-04-05,Cali,,25,M,Relacionado,Recuperado,Leve,20 - 39
+1439,2020-04-05,Cali,,49,F,Relacionado,Recuperado,Leve,40 - 59
+1441,2020-04-05,Cali,,40,F,Relacionado,Recuperado,Leve,40 - 59
+1442,2020-04-05,Cali,,53,M,Importado,Recuperado,Leve,40 - 59
+1448,2020-04-05,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+1449,2020-04-05,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+1450,2020-04-05,Cali,,35,M,En estudio,Recuperado,Leve,20 - 39
+1451,2020-04-05,Cali,,43,F,En estudio,Recuperado,Leve,40 - 59
+1498,2020-04-06,Cali,,42,F,En estudio,Recuperado,Leve,40 - 59
+1499,2020-04-06,Cali,,39,M,Relacionado,Recuperado,Leve,20 - 39
+1503,2020-04-06,Cali,,48,M,Relacionado,Recuperado,Leve,40 - 59
+1504,2020-04-06,Cali,,49,M,Relacionado,Recuperado,Leve,40 - 59
+1505,2020-04-06,Cali,,59,M,Relacionado,Fallecido,Fallecido,40 - 59
+1515,2020-04-06,Cali,,48,M,Relacionado,Recuperado,Leve,40 - 59
+1516,2020-04-06,Cali,,61,F,En estudio,Recuperado,Moderado,60 - 79
+1517,2020-04-06,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+1573,2020-04-06,Cali,,55,M,En estudio,Recuperado,Leve,40 - 59
+1600,2020-04-07,Cali,,68,F,En estudio,Fallecido,Fallecido,60 - 79
+1601,2020-04-07,Cali,,35,M,En estudio,Recuperado,Leve,20 - 39
+1602,2020-04-07,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+1691,2020-04-07,Cali,,48,F,En estudio,Recuperado,Leve,40 - 59
+1692,2020-04-07,Cali,,48,F,En estudio,Recuperado,Leve,40 - 59
+1693,2020-04-07,Cali,,68,F,En estudio,Fallecido,Fallecido,60 - 79
+1694,2020-04-07,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+1696,2020-04-07,Cali,,58,F,En estudio,Recuperado,Leve,40 - 59
+1697,2020-04-07,Cali,,67,F,En estudio,Recuperado,Leve,60 - 79
+1698,2020-04-07,Cali,,64,M,Relacionado,Hospital UCI,Grave,60 - 79
+1699,2020-04-07,Cali,,36,M,Relacionado,Hospital UCI,Grave,20 - 39
+1700,2020-04-07,Cali,,5,M,En estudio,Recuperado,Leve,0 - 19
+1701,2020-04-07,Cali,,14,M,En estudio,Recuperado,Leve,0 - 19
+1753,2020-04-08,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+1754,2020-04-08,Cali,,80,M,Relacionado,Recuperado,Leve,80+
+1755,2020-04-08,Cali,,31,M,Relacionado,Recuperado,Leve,20 - 39
+1757,2020-04-08,Cali,,52,M,En estudio,Recuperado,Leve,40 - 59
+1758,2020-04-08,Cali,,59,F,En estudio,Fallecido,Fallecido,40 - 59
+1759,2020-04-08,Cali,,23,M,En estudio,Recuperado,Leve,20 - 39
+1760,2020-04-08,Cali,,25,F,En estudio,Recuperado,Leve,20 - 39
+1761,2020-04-08,Cali,,34,M,Importado,Recuperado,Leve,20 - 39
+1762,2020-04-08,Cali,,43,M,En estudio,Recuperado,Leve,40 - 59
+1763,2020-04-08,Cali,,25,M,Relacionado,Recuperado,Leve,20 - 39
+1764,2020-04-08,Cali,,58,F,Importado,Recuperado,Leve,40 - 59
+1765,2020-04-08,Cali,,21,M,En estudio,Recuperado,Leve,20 - 39
+1767,2020-04-08,Cali,,51,M,En estudio,Recuperado,Leve,40 - 59
+1768,2020-04-08,Cali,,49,F,En estudio,Recuperado,Leve,40 - 59
+1769,2020-04-08,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+1770,2020-04-08,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+1771,2020-04-08,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+1772,2020-04-08,Cali,,35,M,Relacionado,Recuperado,Leve,20 - 39
+1773,2020-04-08,Cali,,23,F,Relacionado,Recuperado,Leve,20 - 39
+1774,2020-04-08,Cali,,32,F,Relacionado,Recuperado,Leve,20 - 39
+1775,2020-04-08,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+1784,2020-04-08,Cali,,32,M,Relacionado,Recuperado,Leve,20 - 39
+1785,2020-04-08,Cali,,35,M,Importado,Recuperado,Leve,20 - 39
+1786,2020-04-08,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+1787,2020-04-08,Cali,,71,M,En estudio,Recuperado,Leve,60 - 79
+1788,2020-04-08,Cali,,31,M,Importado,Recuperado,Leve,20 - 39
+1789,2020-04-08,Cali,,50,F,En estudio,Recuperado,Leve,40 - 59
+1791,2020-04-08,Cali,,32,M,Importado,Recuperado,Leve,20 - 39
+1792,2020-04-08,Cali,,68,M,Relacionado,Fallecido,Fallecido,60 - 79
+1793,2020-04-08,Cali,,62,M,En estudio,Hospital,Moderado,60 - 79
+1794,2020-04-08,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+1795,2020-04-08,Cali,,40,M,En estudio,Recuperado,Leve,40 - 59
+1796,2020-04-08,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+1797,2020-04-08,Cali,,48,F,Relacionado,Recuperado,Leve,40 - 59
+1798,2020-04-08,Cali,,65,F,En estudio,Fallecido,Fallecido,60 - 79
+1799,2020-04-08,Cali,,39,F,Relacionado,Recuperado,Leve,20 - 39
+1800,2020-04-08,Cali,,26,F,Importado,Recuperado,Leve,20 - 39
+1801,2020-04-08,Cali,,70,M,Relacionado,Recuperado,Leve,60 - 79
+1802,2020-04-08,Cali,,51,F,En estudio,Recuperado,Leve,40 - 59
+1803,2020-04-08,Cali,,59,M,En estudio,Recuperado,Leve,40 - 59
+1804,2020-04-08,Cali,,34,F,Relacionado,Recuperado,Moderado,20 - 39
+1829,2020-04-08,Cali,,44,M,En estudio,Recuperado,Leve,40 - 59
+1830,2020-04-08,Cali,,65,M,En estudio,Recuperado,Leve,60 - 79
+1831,2020-04-08,Cali,,33,F,Relacionado,Recuperado,Leve,20 - 39
+1834,2020-04-08,Cali,,71,F,En estudio,Recuperado,Leve,60 - 79
+1835,2020-04-08,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+1837,2020-04-08,Cali,,60,F,En estudio,Hospital UCI,Grave,60 - 79
+1838,2020-04-08,Cali,,41,M,En estudio,Recuperado,Leve,40 - 59
+1970,2020-04-08,Cali,,39,M,Relacionado,Recuperado,Leve,20 - 39
+1971,2020-04-08,Cali,,23,M,En estudio,Recuperado,Leve,20 - 39
+1972,2020-04-08,Cali,,57,M,En estudio,Fallecido,Fallecido,40 - 59
+1973,2020-04-08,Cali,,66,M,En estudio,Fallecido,Fallecido,60 - 79
+2025,2020-04-08,Cali,,30,M,Importado,Recuperado,Leve,20 - 39
+2028,2020-04-08,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+2029,2020-04-08,Cali,,61,F,En estudio,Recuperado,Leve,60 - 79
+2030,2020-04-08,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+2031,2020-04-08,Cali,,58,F,En estudio,Recuperado,Leve,40 - 59
+2032,2020-04-08,Cali,,22,F,Relacionado,Recuperado,Leve,20 - 39
+2033,2020-04-08,Cali,,77,F,En estudio,Recuperado,Leve,60 - 79
+2035,2020-04-08,Cali,,54,F,En estudio,Recuperado,Leve,40 - 59
+2036,2020-04-08,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+2038,2020-04-08,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+2039,2020-04-08,Cali,,5,F,Relacionado,Recuperado,Leve,0 - 19
+2041,2020-04-08,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+2042,2020-04-08,Cali,,51,F,Relacionado,Recuperado,Leve,40 - 59
+2043,2020-04-08,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+2044,2020-04-08,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+2046,2020-04-08,Cali,,40,M,Relacionado,Recuperado,Leve,40 - 59
+2047,2020-04-08,Cali,,41,F,Relacionado,Recuperado,Leve,40 - 59
+2048,2020-04-08,Cali,,46,M,En estudio,Recuperado,Leve,40 - 59
+2049,2020-04-08,Cali,,53,M,En estudio,Recuperado,Leve,40 - 59
+2057,2020-04-09,Cali,,64,F,En estudio,Recuperado,Leve,60 - 79
+2058,2020-04-09,Cali,,28,F,En estudio,Recuperado,Leve,20 - 39
+2059,2020-04-09,Cali,,47,F,En estudio,Recuperado,Leve,40 - 59
+2186,2020-04-09,Cali,,60,M,Relacionado,Fallecido,Fallecido,60 - 79
+2187,2020-04-09,Cali,,80,M,En estudio,Fallecido,Fallecido,80+
+2188,2020-04-09,Cali,,28,M,Relacionado,Recuperado,Leve,20 - 39
+2189,2020-04-09,Cali,,61,M,En estudio,Recuperado,Leve,60 - 79
+2190,2020-04-09,Cali,,56,F,En estudio,Recuperado,Leve,40 - 59
+2191,2020-04-09,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+2192,2020-04-09,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+2193,2020-04-09,Cali,,75,F,En estudio,Recuperado,Leve,60 - 79
+2194,2020-04-09,Cali,,45,M,Relacionado,Recuperado,Leve,40 - 59
+2196,2020-04-09,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+2197,2020-04-09,Cali,,61,M,Relacionado,Hospital UCI,Grave,60 - 79
+2198,2020-04-09,Cali,,51,F,En estudio,Hospital,Moderado,40 - 59
+2200,2020-04-09,Cali,,78,M,Relacionado,Recuperado,Leve,60 - 79
+2201,2020-04-09,Cali,,59,M,Importado,Hospital,Moderado,40 - 59
+2204,2020-04-09,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+2205,2020-04-09,Cali,,22,M,En estudio,Recuperado,Leve,20 - 39
+2206,2020-04-09,Cali,,65,M,Relacionado,Recuperado,Leve,60 - 79
+2207,2020-04-09,Cali,,62,M,En estudio,Recuperado,Leve,60 - 79
+2208,2020-04-09,Cali,,46,M,En estudio,Recuperado,Leve,40 - 59
+2209,2020-04-09,Cali,,66,M,En estudio,Fallecido,Fallecido,60 - 79
+2210,2020-04-09,Cali,,37,M,En estudio,Recuperado,Leve,20 - 39
+2211,2020-04-09,Cali,,65,F,En estudio,Recuperado,Leve,60 - 79
+2214,2020-04-09,Cali,,81,M,Relacionado,Fallecido,Fallecido,80+
+2216,2020-04-09,Cali,,45,M,Relacionado,Recuperado,Leve,40 - 59
+2217,2020-04-09,Cali,,66,M,En estudio,Recuperado,Leve,60 - 79
+2218,2020-04-09,Cali,,77,F,En estudio,Recuperado,Leve,60 - 79
+2219,2020-04-09,Cali,,62,M,Relacionado,Hospital,Moderado,60 - 79
+2220,2020-04-09,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+2227,2020-04-10,Cali,,21,F,Importado,Recuperado,Leve,20 - 39
+2228,2020-04-10,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+2229,2020-04-10,Cali,,33,M,Importado,Recuperado,Leve,20 - 39
+2246,2020-04-10,Cali,,44,M,En estudio,Recuperado,Leve,40 - 59
+2247,2020-04-10,Cali,,58,F,Importado,Recuperado,Leve,40 - 59
+2341,2020-04-10,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+2342,2020-04-10,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+2343,2020-04-10,Cali,,55,M,En estudio,Recuperado,Leve,40 - 59
+2344,2020-04-10,Cali,,17,F,Relacionado,Recuperado,Leve,0 - 19
+2345,2020-04-10,Cali,,66,F,Relacionado,Hospital UCI,Grave,60 - 79
+2346,2020-04-10,Cali,,76,M,En estudio,Fallecido,Fallecido,60 - 79
+2347,2020-04-10,Cali,,30,F,Relacionado,Recuperado,Leve,20 - 39
+2405,2020-04-10,Cali,,32,M,Importado,Recuperado,Leve,20 - 39
+2406,2020-04-10,Cali,,39,M,En estudio,Recuperado,Leve,20 - 39
+2407,2020-04-10,Cali,,25,F,En estudio,Recuperado,Leve,20 - 39
+2408,2020-04-10,Cali,,33,F,En estudio,Recuperado,Leve,20 - 39
+2409,2020-04-10,Cali,,24,M,En estudio,Hospital,Moderado,20 - 39
+2410,2020-04-10,Cali,,65,F,En estudio,Fallecido,Fallecido,60 - 79
+2411,2020-04-10,Cali,,46,F,En estudio,Recuperado,Leve,40 - 59
+2412,2020-04-10,Cali,,54,F,En estudio,Recuperado,Leve,40 - 59
+2413,2020-04-10,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+2414,2020-04-10,Cali,,53,M,En estudio,Recuperado,Leve,40 - 59
+2415,2020-04-10,Cali,,63,F,En estudio,Recuperado,Leve,60 - 79
+2416,2020-04-10,Cali,,54,M,En estudio,Recuperado,Leve,40 - 59
+2417,2020-04-10,Cali,,32,F,Relacionado,Recuperado,Leve,20 - 39
+2418,2020-04-10,Cali,,32,M,Importado,Recuperado,Leve,20 - 39
+2419,2020-04-10,Cali,,32,F,En estudio,Recuperado,Leve,20 - 39
+2420,2020-04-10,Cali,,43,F,Relacionado,Recuperado,Leve,40 - 59
+2422,2020-04-10,Cali,,60,M,En estudio,Recuperado,Leve,60 - 79
+2423,2020-04-10,Cali,,69,F,En estudio,Recuperado,Leve,60 - 79
+2424,2020-04-10,Cali,,85,F,En estudio,Recuperado,Leve,80+
+2426,2020-04-10,Cali,,64,M,En estudio,Fallecido,Fallecido,60 - 79
+2433,2020-04-10,Cali,,58,F,En estudio,Recuperado,Leve,40 - 59
+2434,2020-04-10,Cali,,23,F,En estudio,Recuperado,Leve,20 - 39
+2435,2020-04-10,Cali,,12,M,En estudio,Recuperado,Leve,0 - 19
+2436,2020-04-10,Cali,,80,F,En estudio,Recuperado,Leve,80+
+2437,2020-04-10,Cali,,48,F,Relacionado,Recuperado,Leve,40 - 59
+2438,2020-04-10,Cali,,45,F,En estudio,Recuperado,Leve,40 - 59
+2439,2020-04-10,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+2440,2020-04-10,Cali,,36,M,En estudio,Recuperado,Leve,20 - 39
+2441,2020-04-10,Cali,,48,F,Relacionado,Recuperado,Leve,40 - 59
+2442,2020-04-10,Cali,,60,M,Relacionado,Recuperado,Leve,60 - 79
+2443,2020-04-10,Cali,,31,F,Relacionado,Recuperado,Leve,20 - 39
+2444,2020-04-10,Cali,,33,M,Relacionado,Recuperado,Leve,20 - 39
+2445,2020-04-10,Cali,,13,M,En estudio,Recuperado,Leve,0 - 19
+2446,2020-04-10,Cali,,8,F,Relacionado,Recuperado,Leve,0 - 19
+2447,2020-04-10,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+2448,2020-04-10,Cali,,25,F,Relacionado,Recuperado,Leve,20 - 39
+2449,2020-04-10,Cali,,35,F,En estudio,Recuperado,Leve,20 - 39
+2450,2020-04-10,Cali,,29,F,Importado,Recuperado,Leve,20 - 39
+2451,2020-04-10,Cali,,75,M,En estudio,Hospital,Moderado,60 - 79
+2452,2020-04-10,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+2453,2020-04-10,Cali,,44,F,En estudio,Recuperado,Leve,40 - 59
+2455,2020-04-10,Cali,,26,M,Importado,Recuperado,Leve,20 - 39
+2456,2020-04-10,Cali,,31,F,Relacionado,Recuperado,Leve,20 - 39
+2457,2020-04-10,Cali,,38,M,En estudio,Recuperado,Leve,20 - 39
+2458,2020-04-10,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+2459,2020-04-10,Cali,,20,M,En estudio,Recuperado,Leve,20 - 39
+2463,2020-04-10,Cali,,39,M,En estudio,Hospital,Moderado,20 - 39
+2465,2020-04-10,Cali,,58,F,Importado,Recuperado,Leve,40 - 59
+2466,2020-04-10,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+2468,2020-04-10,Cali,,25,M,En estudio,Recuperado,Moderado,20 - 39
+2469,2020-04-10,Cali,,78,M,En estudio,Fallecido,Fallecido,60 - 79
+2480,2020-04-11,Cali,,30,F,Importado,Recuperado,Leve,20 - 39
+2481,2020-04-11,Cali,,55,M,En estudio,Fallecido,Fallecido,40 - 59
+2483,2020-04-11,Cali,,42,F,Relacionado,Recuperado,Leve,40 - 59
+2491,2020-04-11,Cali,,51,M,Relacionado,Recuperado,Asintomático,40 - 59
+2492,2020-04-11,Cali,,53,M,Importado,Recuperado,Leve,40 - 59
+2493,2020-04-11,Cali,,2,M,En estudio,Recuperado,Leve,0 - 19
+2494,2020-04-11,Cali,,50,F,En estudio,Recuperado,Leve,40 - 59
+2520,2020-04-11,Cali,,89,F,Relacionado,Fallecido,Fallecido,80+
+2521,2020-04-11,Cali,,73,M,Relacionado,Recuperado,Leve,60 - 79
+2522,2020-04-11,Cali,,74,F,Relacionado,Fallecido,Fallecido,60 - 79
+2523,2020-04-11,Cali,,66,M,Relacionado,Fallecido,Fallecido,60 - 79
+2526,2020-04-11,Cali,,72,M,En estudio,Recuperado,Leve,60 - 79
+2527,2020-04-11,Cali,,3,M,Relacionado,Recuperado,Leve,0 - 19
+2528,2020-04-11,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+2529,2020-04-11,Cali,,79,F,Relacionado,Hospital,Moderado,60 - 79
+2530,2020-04-11,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+2531,2020-04-11,Cali,,47,F,Relacionado,Recuperado,Moderado,40 - 59
+2575,2020-04-11,Cali,,58,M,En estudio,Recuperado,Leve,40 - 59
+2576,2020-04-11,Cali,,59,M,En estudio,Fallecido,Fallecido,40 - 59
+2577,2020-04-11,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+2578,2020-04-11,Cali,,32,M,En estudio,Hospital,Moderado,20 - 39
+2579,2020-04-11,Cali,,19,F,En estudio,Recuperado,Leve,0 - 19
+2580,2020-04-11,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+2581,2020-04-11,Cali,,33,M,Relacionado,Fallecido,Fallecido,20 - 39
+2582,2020-04-11,Cali,,49,M,Relacionado,Fallecido,Fallecido,40 - 59
+2583,2020-04-11,Cali,,53,M,Relacionado,Recuperado,Leve,40 - 59
+2584,2020-04-11,Cali,,60,M,Relacionado,Fallecido,Fallecido,60 - 79
+2652,2020-04-11,Cali,,58,M,En estudio,Recuperado,Leve,40 - 59
+2653,2020-04-11,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+2654,2020-04-11,Cali,,18,F,En estudio,Recuperado,Leve,0 - 19
+2655,2020-04-11,Cali,,53,F,Relacionado,Recuperado,Leve,40 - 59
+2656,2020-04-11,Cali,,30,F,En estudio,Recuperado,Leve,20 - 39
+2657,2020-04-11,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+2658,2020-04-11,Cali,,55,M,En estudio,Recuperado,Leve,40 - 59
+2659,2020-04-11,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+2660,2020-04-11,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+2661,2020-04-11,Cali,,66,M,Relacionado,Recuperado,Leve,60 - 79
+2679,2020-04-11,Cali,,72,F,En estudio,Recuperado,Leve,60 - 79
+2680,2020-04-11,Cali,,27,F,Relacionado,Recuperado,Leve,20 - 39
+2684,2020-04-11,Cali,,66,M,En estudio,Hospital,Moderado,60 - 79
+2686,2020-04-11,Cali,,32,F,Relacionado,Recuperado,Leve,20 - 39
+2687,2020-04-11,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+2688,2020-04-11,Cali,,55,M,En estudio,Recuperado,Leve,40 - 59
+2689,2020-04-11,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+2690,2020-04-11,Cali,,42,M,Relacionado,Recuperado,Leve,40 - 59
+2692,2020-04-11,Cali,,65,F,En estudio,Fallecido,Fallecido,60 - 79
+2721,2020-04-12,Cali,,1,M,En estudio,Recuperado,Leve,0 - 19
+2727,2020-04-12,Cali,,7,M,En estudio,Recuperado,Leve,0 - 19
+2739,2020-04-12,Cali,,47,F,En estudio,Recuperado,Leve,40 - 59
+2756,2020-04-12,Cali,,0,M,Relacionado,Recuperado,Leve,0 - 19
+2757,2020-04-12,Cali,,42,F,Relacionado,Recuperado,Leve,40 - 59
+2758,2020-04-12,Cali,,74,F,En estudio,Recuperado,Leve,60 - 79
+2833,2020-04-13,Cali,,43,M,Relacionado,Recuperado,Asintomático,40 - 59
+2838,2020-04-13,Cali,,41,M,En estudio,Recuperado,Leve,40 - 59
+2839,2020-04-13,Cali,,47,F,En estudio,Recuperado,Leve,40 - 59
+2840,2020-04-13,Cali,,72,M,En estudio,Recuperado,Leve,60 - 79
+2841,2020-04-13,Cali,,70,M,En estudio,Recuperado,Leve,60 - 79
+2853,2020-04-14,Cali,,51,F,En estudio,Recuperado,Leve,40 - 59
+2871,2020-04-14,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+2872,2020-04-14,Cali,,28,F,Relacionado,Recuperado,Leve,20 - 39
+2873,2020-04-14,Cali,,37,M,Importado,Recuperado,Leve,20 - 39
+2874,2020-04-14,Cali,,48,F,En estudio,Recuperado,Leve,40 - 59
+2875,2020-04-14,Cali,,41,M,Relacionado,Recuperado,Leve,40 - 59
+2894,2020-04-14,Cali,,66,F,En estudio,Fallecido,Fallecido,60 - 79
+2897,2020-04-14,Cali,,38,M,Relacionado,Hospital,Moderado,20 - 39
+2898,2020-04-14,Cali,,79,M,Relacionado,Recuperado,Leve,60 - 79
+2900,2020-04-14,Cali,,43,M,En estudio,Recuperado,Leve,40 - 59
+2977,2020-04-14,Cali,,25,M,Importado,Recuperado,Leve,20 - 39
+2978,2020-04-14,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+2984,2020-04-15,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+2985,2020-04-15,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+2986,2020-04-15,Cali,,73,M,En estudio,Recuperado,Leve,60 - 79
+2987,2020-04-15,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+2989,2020-04-15,Cali,,50,M,Relacionado,Recuperado,Leve,40 - 59
+2990,2020-04-15,Cali,,42,F,En estudio,Recuperado,Leve,40 - 59
+3043,2020-04-15,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+3044,2020-04-15,Cali,,7,M,En estudio,Recuperado,Leve,0 - 19
+3045,2020-04-15,Cali,,44,F,En estudio,Recuperado,Leve,40 - 59
+3047,2020-04-15,Cali,,36,M,En estudio,Recuperado,Leve,20 - 39
+3048,2020-04-15,Cali,,64,M,En estudio,Fallecido,Fallecido,60 - 79
+3051,2020-04-15,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+3052,2020-04-15,Cali,,20,M,En estudio,Recuperado,Leve,20 - 39
+3053,2020-04-15,Cali,,35,F,En estudio,Recuperado,Leve,20 - 39
+3054,2020-04-15,Cali,,74,F,En estudio,Recuperado,Leve,60 - 79
+3107,2020-04-16,Cali,,39,F,Relacionado,Recuperado,Leve,20 - 39
+3108,2020-04-16,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+3109,2020-04-16,Cali,,88,F,En estudio,Recuperado,Leve,80+
+3111,2020-04-16,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+3114,2020-04-16,Cali,,36,F,En estudio,Recuperado,Leve,20 - 39
+3115,2020-04-16,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+3116,2020-04-16,Cali,,37,F,Relacionado,Recuperado,Leve,20 - 39
+3122,2020-04-16,Cali,,63,M,En estudio,Recuperado,Leve,60 - 79
+3123,2020-04-16,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+3128,2020-04-16,Cali,,47,F,En estudio,Fallecido,Fallecido,40 - 59
+3132,2020-04-16,Cali,,58,F,En estudio,Recuperado,Leve,40 - 59
+3133,2020-04-16,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+3134,2020-04-16,Cali,,19,M,Relacionado,Recuperado,Leve,0 - 19
+3136,2020-04-16,Cali,,83,F,En estudio,Recuperado,Leve,80+
+3137,2020-04-16,Cali,,48,M,En estudio,Recuperado,Leve,40 - 59
+3138,2020-04-16,Cali,,16,M,En estudio,Recuperado,Leve,0 - 19
+3139,2020-04-16,Cali,,23,M,En estudio,Recuperado,Leve,20 - 39
+3140,2020-04-16,Cali,,68,M,En estudio,Recuperado,Leve,60 - 79
+3235,2020-04-17,Cali,,38,F,En estudio,Recuperado,Leve,20 - 39
+3236,2020-04-17,Cali,,47,F,En estudio,Recuperado,Leve,40 - 59
+3248,2020-04-17,Cali,,50,M,Relacionado,Recuperado,Leve,40 - 59
+3250,2020-04-17,Cali,,40,M,Relacionado,Recuperado,Leve,40 - 59
+3251,2020-04-17,Cali,,55,F,En estudio,Recuperado,Leve,40 - 59
+3298,2020-04-17,Cali,,20,F,Relacionado,Recuperado,Leve,20 - 39
+3299,2020-04-17,Cali,,55,F,Relacionado,Recuperado,Leve,40 - 59
+3380,2020-04-17,Cali,,52,F,Relacionado,Recuperado,Leve,40 - 59
+3382,2020-04-17,Cali,,81,M,Relacionado,Recuperado,Leve,80+
+3383,2020-04-17,Cali,,26,M,Relacionado,Recuperado,Leve,20 - 39
+3384,2020-04-17,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+3385,2020-04-17,Cali,,48,M,En estudio,Recuperado,Leve,40 - 59
+3386,2020-04-17,Cali,,66,M,En estudio,Recuperado,Leve,60 - 79
+3387,2020-04-17,Cali,,44,M,Relacionado,Recuperado,Leve,40 - 59
+3388,2020-04-17,Cali,,36,F,En estudio,Recuperado,Leve,20 - 39
+3389,2020-04-17,Cali,,63,M,En estudio,Recuperado,Leve,60 - 79
+3390,2020-04-17,Cali,,47,F,En estudio,Hospital,Moderado,40 - 59
+3391,2020-04-17,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+3392,2020-04-17,Cali,,5,M,En estudio,Recuperado,Leve,0 - 19
+3393,2020-04-17,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+3409,2020-04-17,Cali,,64,M,Relacionado,Recuperado,Leve,60 - 79
+3410,2020-04-17,Cali,,85,M,En estudio,Fallecido,Fallecido,80+
+3411,2020-04-17,Cali,,64,F,Relacionado,Recuperado,Leve,60 - 79
+3425,2020-04-17,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+3426,2020-04-17,Cali,,53,F,En estudio,Recuperado,Leve,40 - 59
+3427,2020-04-17,Cali,,32,M,Relacionado,Hospital,Moderado,20 - 39
+3428,2020-04-17,Cali,,19,F,En estudio,Recuperado,Leve,0 - 19
+3431,2020-04-17,Cali,,44,M,En estudio,Recuperado,Leve,40 - 59
+3432,2020-04-17,Cali,,44,M,Relacionado,Recuperado,Leve,40 - 59
+3433,2020-04-17,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+3451,2020-04-18,Cali,,49,F,En estudio,Recuperado,Leve,40 - 59
+3452,2020-04-18,Cali,,47,M,En estudio,Recuperado,Leve,40 - 59
+3581,2020-04-18,Cali,,69,F,En estudio,Hospital,Moderado,60 - 79
+3582,2020-04-18,Cali,,73,M,En estudio,Fallecido,Fallecido,60 - 79
+3584,2020-04-18,Cali,,77,M,En estudio,Recuperado,Leve,60 - 79
+3585,2020-04-18,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+3586,2020-04-18,Cali,,37,F,En estudio,Recuperado,Leve,20 - 39
+3587,2020-04-18,Cali,,43,F,En estudio,Recuperado,Leve,40 - 59
+3589,2020-04-18,Cali,,44,M,En estudio,Recuperado,Leve,40 - 59
+3616,2020-04-18,Cali,,79,M,Relacionado,Fallecido,Fallecido,60 - 79
+3619,2020-04-18,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+3620,2020-04-18,Cali,,32,M,Relacionado,Recuperado,Leve,20 - 39
+3623,2020-04-19,Cali,,28,M,Relacionado,Recuperado,Leve,20 - 39
+3628,2020-04-19,Cali,,26,F,Relacionado,Recuperado,Leve,20 - 39
+3630,2020-04-19,Cali,,59,F,En estudio,Recuperado,Leve,40 - 59
+3632,2020-04-19,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+3651,2020-04-19,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+3652,2020-04-19,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+3653,2020-04-19,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+3656,2020-04-19,Cali,,57,M,Relacionado,Recuperado,Leve,40 - 59
+3657,2020-04-19,Cali,,18,F,En estudio,Recuperado,Leve,0 - 19
+3799,2020-04-20,Cali,,67,M,En estudio,Recuperado,Leve,60 - 79
+3800,2020-04-20,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+3809,2020-04-20,Cali,,71,F,En estudio,Recuperado,Leve,60 - 79
+3811,2020-04-20,Cali,,28,F,En estudio,Recuperado,Leve,20 - 39
+3812,2020-04-20,Cali,,21,F,En estudio,Recuperado,Leve,20 - 39
+3813,2020-04-20,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+3814,2020-04-20,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+3815,2020-04-20,Cali,,32,F,En estudio,Recuperado,Leve,20 - 39
+3816,2020-04-20,Cali,,36,M,En estudio,Recuperado,Leve,20 - 39
+3817,2020-04-20,Cali,,73,M,En estudio,Recuperado,Leve,60 - 79
+3820,2020-04-20,Cali,,73,M,En estudio,Fallecido,Fallecido,60 - 79
+3822,2020-04-20,Cali,,82,F,En estudio,Fallecido,Fallecido,80+
+3825,2020-04-20,Cali,,57,M,En estudio,Recuperado,Leve,40 - 59
+3826,2020-04-20,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+3827,2020-04-20,Cali,,31,M,Relacionado,Recuperado,Leve,20 - 39
+3828,2020-04-20,Cali,,21,F,En estudio,Recuperado,Leve,20 - 39
+3829,2020-04-20,Cali,,4,M,En estudio,Recuperado,Leve,0 - 19
+3830,2020-04-20,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+3831,2020-04-20,Cali,,64,F,En estudio,Recuperado,Leve,60 - 79
+3832,2020-04-20,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+3834,2020-04-20,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+3835,2020-04-20,Cali,,58,F,Relacionado,Recuperado,Leve,40 - 59
+3836,2020-04-20,Cali,,89,F,En estudio,Recuperado,Leve,80+
+3855,2020-04-20,Cali,,64,M,En estudio,Recuperado,Leve,60 - 79
+3856,2020-04-20,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+3857,2020-04-20,Cali,,50,F,En estudio,Recuperado,Leve,40 - 59
+3862,2020-04-20,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+3863,2020-04-20,Cali,,23,M,En estudio,Recuperado,Leve,20 - 39
+3864,2020-04-20,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+3870,2020-04-20,Cali,,7,M,En estudio,Recuperado,Leve,0 - 19
+3871,2020-04-20,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+3872,2020-04-20,Cali,,32,F,En estudio,Recuperado,Leve,20 - 39
+3873,2020-04-20,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+3887,2020-04-20,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+3888,2020-04-20,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+3889,2020-04-20,Cali,,47,F,En estudio,Recuperado,Leve,40 - 59
+3890,2020-04-20,Cali,,15,M,En estudio,Recuperado,Leve,0 - 19
+3978,2020-04-21,Cali,,51,F,En estudio,Hospital,Moderado,40 - 59
+3990,2020-04-21,Cali,,64,F,Relacionado,Recuperado,Leve,60 - 79
+3991,2020-04-21,Cali,,95,F,En estudio,Fallecido,Fallecido,80+
+3995,2020-04-21,Cali,,52,M,Relacionado,Recuperado,Leve,40 - 59
+3996,2020-04-21,Cali,,71,M,Relacionado,Recuperado,Leve,60 - 79
+3999,2020-04-21,Cali,,37,F,Relacionado,Recuperado,Leve,20 - 39
+4008,2020-04-21,Cali,,14,M,En estudio,Recuperado,Leve,0 - 19
+4009,2020-04-21,Cali,,24,F,Relacionado,Recuperado,Leve,20 - 39
+4010,2020-04-21,Cali,,20,F,Relacionado,Recuperado,Leve,20 - 39
+4011,2020-04-21,Cali,,66,F,Relacionado,Hospital,Moderado,60 - 79
+4012,2020-04-21,Cali,,4,M,Relacionado,Hospital,Moderado,0 - 19
+4016,2020-04-21,Cali,,55,M,Relacionado,Hospital,Moderado,40 - 59
+4017,2020-04-21,Cali,,35,F,Relacionado,Recuperado,Leve,20 - 39
+4018,2020-04-21,Cali,,56,F,Relacionado,Recuperado,Leve,40 - 59
+4019,2020-04-21,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+4020,2020-04-21,Cali,,27,F,Relacionado,Recuperado,Leve,20 - 39
+4027,2020-04-21,Cali,,30,F,En estudio,Recuperado,Leve,20 - 39
+4029,2020-04-21,Cali,,51,F,Relacionado,Recuperado,Leve,40 - 59
+4030,2020-04-21,Cali,,39,F,Relacionado,Recuperado,Leve,20 - 39
+4031,2020-04-21,Cali,,28,F,Relacionado,Recuperado,Leve,20 - 39
+4032,2020-04-21,Cali,,25,M,Relacionado,Recuperado,Leve,20 - 39
+4033,2020-04-21,Cali,,54,F,Relacionado,Recuperado,Leve,40 - 59
+4036,2020-04-21,Cali,,72,F,Relacionado,Recuperado,Leve,60 - 79
+4053,2020-04-21,Cali,,28,F,Relacionado,Recuperado,Leve,20 - 39
+4170,2020-04-22,Cali,,40,M,En estudio,Recuperado,Leve,40 - 59
+4172,2020-04-22,Cali,,45,F,En estudio,Recuperado,Leve,40 - 59
+4173,2020-04-22,Cali,,59,M,En estudio,Fallecido,Fallecido,40 - 59
+4219,2020-04-22,Cali,,35,M,En estudio,Recuperado,Leve,20 - 39
+4225,2020-04-22,Cali,,28,F,En estudio,Recuperado,Leve,20 - 39
+4226,2020-04-22,Cali,,45,M,En estudio,Recuperado,Leve,40 - 59
+4227,2020-04-22,Cali,,7,F,En estudio,Recuperado,Leve,0 - 19
+4228,2020-04-22,Cali,,35,M,En estudio,Recuperado,Leve,20 - 39
+4229,2020-04-22,Cali,,16,F,En estudio,Recuperado,Leve,0 - 19
+4230,2020-04-22,Cali,,22,M,En estudio,Recuperado,Leve,20 - 39
+4232,2020-04-22,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+4243,2020-04-22,Cali,,57,F,Relacionado,Recuperado,Leve,40 - 59
+4244,2020-04-22,Cali,,35,F,En estudio,Recuperado,Leve,20 - 39
+4246,2020-04-22,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+4247,2020-04-22,Cali,,45,M,Importado,Recuperado,Leve,40 - 59
+4347,2020-04-22,Cali,,64,M,En estudio,Recuperado,Leve,60 - 79
+4348,2020-04-22,Cali,,53,M,En estudio,Recuperado,Leve,40 - 59
+4349,2020-04-22,Cali,,62,F,En estudio,Recuperado,Leve,60 - 79
+4350,2020-04-22,Cali,,24,F,En estudio,Recuperado,Leve,20 - 39
+4351,2020-04-22,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+4352,2020-04-22,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+4354,2020-04-22,Cali,,43,F,Relacionado,Recuperado,Leve,40 - 59
+4355,2020-04-22,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+4363,2020-04-23,Cali,,18,F,Importado,Recuperado,Leve,0 - 19
+4368,2020-04-23,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+4391,2020-04-23,Cali,,64,M,En estudio,Recuperado,Leve,60 - 79
+4399,2020-04-23,Cali,,36,F,En estudio,Recuperado,Leve,20 - 39
+4400,2020-04-23,Cali,,60,M,Relacionado,Recuperado,Leve,60 - 79
+4401,2020-04-23,Cali,,13,M,En estudio,Recuperado,Leve,0 - 19
+4402,2020-04-23,Cali,,25,F,En estudio,Hospital,Moderado,20 - 39
+4403,2020-04-23,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+4404,2020-04-23,Cali,,9,M,En estudio,Recuperado,Leve,0 - 19
+4421,2020-04-23,Cali,,57,M,En estudio,Fallecido,Fallecido,40 - 59
+4422,2020-04-23,Cali,,23,M,En estudio,Recuperado,Leve,20 - 39
+4423,2020-04-23,Cali,,33,M,Relacionado,Recuperado,Leve,20 - 39
+4431,2020-04-23,Cali,,48,M,En estudio,Recuperado,Leve,40 - 59
+4438,2020-04-23,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+4439,2020-04-23,Cali,,18,F,En estudio,Recuperado,Leve,0 - 19
+4440,2020-04-23,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+4441,2020-04-23,Cali,,41,M,En estudio,Fallecido,Fallecido,40 - 59
+4442,2020-04-23,Cali,,65,F,En estudio,Recuperado,Leve,60 - 79
+4443,2020-04-23,Cali,,62,M,En estudio,Recuperado,Leve,60 - 79
+4444,2020-04-23,Cali,,76,M,En estudio,Recuperado,Leve,60 - 79
+4445,2020-04-23,Cali,,39,F,Relacionado,Recuperado,Leve,20 - 39
+4446,2020-04-23,Cali,,24,F,En estudio,Recuperado,Leve,20 - 39
+4447,2020-04-23,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+4448,2020-04-23,Cali,,86,M,En estudio,Recuperado,Leve,80+
+4449,2020-04-23,Cali,,28,M,Relacionado,Recuperado,Leve,20 - 39
+4450,2020-04-23,Cali,,28,F,Relacionado,Recuperado,Leve,20 - 39
+4451,2020-04-23,Cali,,64,F,En estudio,Fallecido,Fallecido,60 - 79
+4518,2020-04-23,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+4519,2020-04-23,Cali,,73,F,En estudio,Hospital,Moderado,60 - 79
+4520,2020-04-23,Cali,,30,F,En estudio,Recuperado,Leve,20 - 39
+4521,2020-04-23,Cali,,53,F,Relacionado,Recuperado,Leve,40 - 59
+4522,2020-04-23,Cali,,27,F,En estudio,Hospital,Moderado,20 - 39
+4524,2020-04-23,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+4559,2020-04-23,Cali,,69,F,En estudio,Recuperado,Leve,60 - 79
+4610,2020-04-24,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+4611,2020-04-24,Cali,,59,M,En estudio,Recuperado,Leve,40 - 59
+4612,2020-04-24,Cali,,29,M,En estudio,Fallecido,Fallecido,20 - 39
+4613,2020-04-24,Cali,,67,M,En estudio,Recuperado,Leve,60 - 79
+4614,2020-04-24,Cali,,16,M,En estudio,Recuperado,Leve,0 - 19
+4615,2020-04-24,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+4616,2020-04-24,Cali,,43,F,En estudio,Recuperado,Leve,40 - 59
+4619,2020-04-24,Cali,,17,M,En estudio,Recuperado,Leve,0 - 19
+4640,2020-04-24,Cali,,43,M,En estudio,Recuperado,Leve,40 - 59
+4641,2020-04-24,Cali,,33,F,Relacionado,Recuperado,Leve,20 - 39
+4847,2020-04-24,Cali,,21,M,En estudio,Recuperado,Leve,20 - 39
+4850,2020-04-24,Cali,,60,F,En estudio,Recuperado,Leve,60 - 79
+4851,2020-04-24,Cali,,47,M,En estudio,Recuperado,Leve,40 - 59
+4852,2020-04-24,Cali,,44,M,En estudio,Fallecido,Fallecido,40 - 59
+4853,2020-04-24,Cali,,76,M,En estudio,Recuperado,Leve,60 - 79
+4864,2020-04-24,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+4865,2020-04-24,Cali,,47,M,En estudio,Recuperado,Leve,40 - 59
+4899,2020-04-25,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+4901,2020-04-25,Cali,,42,M,En estudio,Recuperado,Leve,40 - 59
+4902,2020-04-25,Cali,,4,M,En estudio,Recuperado,Leve,0 - 19
+4919,2020-04-25,Cali,,82,F,En estudio,Recuperado,Leve,80+
+4920,2020-04-25,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+4921,2020-04-25,Cali,,46,M,En estudio,Recuperado,Leve,40 - 59
+4928,2020-04-25,Cali,,0,F,En estudio,Recuperado,Leve,0 - 19
+4929,2020-04-25,Cali,,49,F,En estudio,Recuperado,Leve,40 - 59
+4930,2020-04-25,Cali,,36,M,Relacionado,Recuperado,Leve,20 - 39
+4931,2020-04-25,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+4932,2020-04-25,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+4933,2020-04-25,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+4934,2020-04-25,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+4935,2020-04-25,Cali,,53,M,En estudio,Recuperado,Leve,40 - 59
+4936,2020-04-25,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+5142,2020-04-25,Cali,,38,F,En estudio,Recuperado,Leve,20 - 39
+5146,2020-04-26,Cali,,68,F,En estudio,Recuperado,Leve,60 - 79
+5148,2020-04-26,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+5149,2020-04-26,Cali,,16,F,En estudio,Recuperado,Leve,0 - 19
+5151,2020-04-26,Cali,,53,M,Relacionado,Recuperado,Leve,40 - 59
+5153,2020-04-26,Cali,,45,M,En estudio,Recuperado,Leve,40 - 59
+5155,2020-04-26,Cali,,43,F,En estudio,Recuperado,Leve,40 - 59
+5156,2020-04-26,Cali,,19,M,En estudio,Recuperado,Leve,0 - 19
+5157,2020-04-26,Cali,,35,F,En estudio,Recuperado,Leve,20 - 39
+5201,2020-04-26,Cali,,53,M,En estudio,Recuperado,Leve,40 - 59
+5202,2020-04-26,Cali,,63,M,En estudio,Recuperado,Leve,60 - 79
+5224,2020-04-26,Cali,,52,M,En estudio,Hospital,Moderado,40 - 59
+5225,2020-04-26,Cali,,24,F,En estudio,Recuperado,Leve,20 - 39
+5227,2020-04-26,Cali,,47,F,Relacionado,Hospital,Moderado,40 - 59
+5228,2020-04-26,Cali,,25,F,En estudio,Recuperado,Leve,20 - 39
+5229,2020-04-26,Cali,,36,M,En estudio,Hospital UCI,Grave,20 - 39
+5230,2020-04-26,Cali,,19,M,En estudio,Recuperado,Leve,0 - 19
+5231,2020-04-26,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+5251,2020-04-26,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+5284,2020-04-26,Cali,,60,M,En estudio,Recuperado,Leve,60 - 79
+5380,2020-04-27,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+5407,2020-04-27,Cali,,55,F,En estudio,Recuperado,Leve,40 - 59
+5416,2020-04-27,Cali,,57,M,En estudio,Recuperado,Leve,40 - 59
+5417,2020-04-27,Cali,,30,M,Relacionado,Recuperado,Leve,20 - 39
+5418,2020-04-27,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+5433,2020-04-27,Cali,,37,F,En estudio,Recuperado,Leve,20 - 39
+5618,2020-04-28,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+5619,2020-04-28,Cali,,66,F,En estudio,Fallecido,Fallecido,60 - 79
+5620,2020-04-28,Cali,,30,F,En estudio,Recuperado,Leve,20 - 39
+5621,2020-04-28,Cali,,74,M,En estudio,Recuperado,Leve,60 - 79
+5622,2020-04-28,Cali,,8,M,En estudio,Recuperado,Leve,0 - 19
+5623,2020-04-28,Cali,,32,F,En estudio,Recuperado,Leve,20 - 39
+5624,2020-04-28,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+5625,2020-04-28,Cali,,71,M,En estudio,Fallecido,Fallecido,60 - 79
+5630,2020-04-28,Cali,,21,F,En estudio,Recuperado,Leve,20 - 39
+5631,2020-04-28,Cali,,11,F,En estudio,Recuperado,Leve,0 - 19
+5632,2020-04-28,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+5688,2020-04-28,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+5724,2020-04-28,Cali,,81,M,En estudio,Fallecido,Fallecido,80+
+5725,2020-04-28,Cali,,82,M,En estudio,Fallecido,Fallecido,80+
+5737,2020-04-28,Cali,,65,M,En estudio,Fallecido,Fallecido,60 - 79
+5738,2020-04-28,Cali,,41,F,En estudio,Recuperado,Leve,40 - 59
+5739,2020-04-28,Cali,,21,F,En estudio,Recuperado,Leve,20 - 39
+5740,2020-04-28,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+5741,2020-04-28,Cali,,40,F,Relacionado,Recuperado,Leve,40 - 59
+5742,2020-04-28,Cali,,27,M,Relacionado,Recuperado,Leve,20 - 39
+5743,2020-04-28,Cali,,91,F,En estudio,Fallecido,Fallecido,80+
+5744,2020-04-28,Cali,,20,M,En estudio,Recuperado,Leve,20 - 39
+5745,2020-04-28,Cali,,15,M,En estudio,Recuperado,Leve,0 - 19
+5746,2020-04-28,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+5747,2020-04-28,Cali,,37,F,Relacionado,Recuperado,Leve,20 - 39
+5748,2020-04-28,Cali,,28,M,En estudio,Hospital UCI,Grave,20 - 39
+5788,2020-04-28,Cali,,71,F,En estudio,Recuperado,Leve,60 - 79
+5789,2020-04-28,Cali,,32,F,En estudio,Recuperado,Leve,20 - 39
+5812,2020-04-28,Cali,,89,F,En estudio,Fallecido,Fallecido,80+
+5950,2020-04-29,Cali,,0,F,En estudio,Hospital,Moderado,0 - 19
+5951,2020-04-29,Cali,,46,M,En estudio,Recuperado,Leve,40 - 59
+5955,2020-04-29,Cali,,23,F,En estudio,Recuperado,Leve,20 - 39
+5956,2020-04-29,Cali,,54,M,Relacionado,Recuperado,Leve,40 - 59
+5957,2020-04-29,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+5959,2020-04-29,Cali,,34,F,Relacionado,Hospital,Moderado,20 - 39
+5960,2020-04-29,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+5961,2020-04-29,Cali,,84,M,En estudio,Recuperado,Leve,80+
+5964,2020-04-29,Cali,,56,M,En estudio,Hospital UCI,Grave,40 - 59
+5991,2020-04-29,Cali,,65,M,En estudio,Recuperado,Leve,60 - 79
+5993,2020-04-29,Cali,,30,F,En estudio,Recuperado,Leve,20 - 39
+5994,2020-04-29,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+5995,2020-04-29,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+5998,2020-04-29,Cali,,5,F,En estudio,Recuperado,Leve,0 - 19
+5999,2020-04-29,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+6000,2020-04-29,Cali,,0,M,En estudio,Recuperado,Leve,0 - 19
+6001,2020-04-29,Cali,,31,F,Relacionado,Recuperado,Leve,20 - 39
+6002,2020-04-29,Cali,,62,M,En estudio,Recuperado,Leve,60 - 79
+6003,2020-04-29,Cali,,38,M,En estudio,Hospital,Moderado,20 - 39
+6004,2020-04-29,Cali,,37,M,En estudio,Hospital,Moderado,20 - 39
+6216,2020-04-30,Cali,,61,M,En estudio,Hospital UCI,Grave,60 - 79
+6275,2020-04-30,Cali,,71,M,En estudio,Recuperado,Leve,60 - 79
+6276,2020-04-30,Cali,,49,F,En estudio,Recuperado,Leve,40 - 59
+6277,2020-04-30,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+6286,2020-04-30,Cali,,43,F,En estudio,Hospital,Moderado,40 - 59
+6287,2020-04-30,Cali,,41,F,En estudio,Hospital,Moderado,40 - 59
+6288,2020-04-30,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+6289,2020-04-30,Cali,,0,F,En estudio,Hospital,Moderado,0 - 19
+6291,2020-04-30,Cali,,88,F,Relacionado,Recuperado,Leve,80+
+6292,2020-04-30,Cali,,57,M,En estudio,Recuperado,Leve,40 - 59
+6293,2020-04-30,Cali,,60,M,En estudio,Recuperado,Leve,60 - 79
+6294,2020-04-30,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+6295,2020-04-30,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+6296,2020-04-30,Cali,,47,F,En estudio,Recuperado,Leve,40 - 59
+6297,2020-04-30,Cali,,17,F,En estudio,Recuperado,Leve,0 - 19
+6298,2020-04-30,Cali,,55,F,En estudio,Recuperado,Leve,40 - 59
+6299,2020-04-30,Cali,,58,M,En estudio,Recuperado,Leve,40 - 59
+6301,2020-04-30,Cali,,64,M,En estudio,Recuperado,Leve,60 - 79
+6302,2020-04-30,Cali,,70,F,En estudio,Fallecido,Fallecido,60 - 79
+6354,2020-04-30,Cali,,44,M,En estudio,Recuperado,Leve,40 - 59
+6358,2020-04-30,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+6366,2020-04-30,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+6367,2020-04-30,Cali,,43,M,En estudio,Recuperado,Leve,40 - 59
+6368,2020-04-30,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+6369,2020-04-30,Cali,,41,M,En estudio,Recuperado,Leve,40 - 59
+6370,2020-04-30,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+6371,2020-04-30,Cali,,60,M,En estudio,Recuperado,Leve,60 - 79
+6373,2020-04-30,Cali,,23,F,En estudio,Recuperado,Leve,20 - 39
+6374,2020-04-30,Cali,,22,M,En estudio,Recuperado,Leve,20 - 39
+6375,2020-04-30,Cali,,37,F,En estudio,Recuperado,Leve,20 - 39
+6409,2020-04-30,Cali,,13,F,En estudio,Recuperado,Leve,0 - 19
+6410,2020-04-30,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+6411,2020-04-30,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+6412,2020-04-30,Cali,,50,F,En estudio,Recuperado,Leve,40 - 59
+6413,2020-04-30,Cali,,79,M,Relacionado,Fallecido,Fallecido,60 - 79
+6414,2020-04-30,Cali,,49,F,En estudio,Recuperado,Leve,40 - 59
+6428,2020-04-30,Cali,,11,F,Relacionado,Recuperado,Leve,0 - 19
+6509,2020-05-01,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+6510,2020-05-01,Cali,,3,M,En estudio,Recuperado,Leve,0 - 19
+6511,2020-05-01,Cali,,55,F,En estudio,Recuperado,Leve,40 - 59
+6512,2020-05-01,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+6544,2020-05-01,Cali,,42,F,En estudio,Hospital,Moderado,40 - 59
+6546,2020-05-01,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+6547,2020-05-01,Cali,,79,M,En estudio,Hospital,Moderado,60 - 79
+6548,2020-05-01,Cali,,32,F,En estudio,Recuperado,Leve,20 - 39
+6549,2020-05-01,Cali,,81,F,En estudio,Fallecido,Fallecido,80+
+6550,2020-05-01,Cali,,55,M,En estudio,Recuperado,Leve,40 - 59
+6551,2020-05-01,Cali,,33,F,En estudio,Recuperado,Leve,20 - 39
+6552,2020-05-01,Cali,,41,M,En estudio,Recuperado,Leve,40 - 59
+6553,2020-05-01,Cali,,54,F,En estudio,Recuperado,Leve,40 - 59
+6555,2020-05-01,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+6556,2020-05-01,Cali,,55,F,En estudio,Recuperado,Leve,40 - 59
+6558,2020-05-01,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+6559,2020-05-01,Cali,,38,F,En estudio,Recuperado,Leve,20 - 39
+6560,2020-05-01,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+6561,2020-05-01,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+6562,2020-05-01,Cali,,36,M,En estudio,Recuperado,Leve,20 - 39
+6564,2020-05-01,Cali,,33,F,En estudio,Hospital,Moderado,20 - 39
+6575,2020-05-01,Cali,,64,M,Relacionado,Recuperado,Leve,60 - 79
+6582,2020-05-01,Cali,,55,F,Relacionado,Recuperado,Leve,40 - 59
+6675,2020-05-01,Cali,,5,F,Relacionado,Recuperado,Leve,0 - 19
+6676,2020-05-01,Cali,,57,M,En estudio,Recuperado,Leve,40 - 59
+6677,2020-05-01,Cali,,3,F,En estudio,Recuperado,Leve,0 - 19
+6678,2020-05-01,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+6679,2020-05-01,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+6680,2020-05-01,Cali,,52,M,En estudio,Recuperado,Leve,40 - 59
+6681,2020-05-01,Cali,,45,F,En estudio,Recuperado,Leve,40 - 59
+6719,2020-05-01,Cali,,39,M,En estudio,Hospital,Moderado,20 - 39
+6720,2020-05-01,Cali,,41,F,En estudio,Recuperado,Leve,40 - 59
+6721,2020-05-01,Cali,,21,F,En estudio,Recuperado,Leve,20 - 39
+6725,2020-05-01,Cali,,28,F,En estudio,Recuperado,Leve,20 - 39
+6726,2020-05-01,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+6728,2020-05-01,Cali,,65,F,En estudio,Recuperado,Leve,60 - 79
+6729,2020-05-01,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+6730,2020-05-01,Cali,,22,M,En estudio,Recuperado,Leve,20 - 39
+6733,2020-05-01,Cali,,0,M,En estudio,Recuperado,Leve,0 - 19
+6734,2020-05-01,Cali,,61,M,En estudio,Recuperado,Leve,60 - 79
+6735,2020-05-01,Cali,,35,M,En estudio,Recuperado,Leve,20 - 39
+6736,2020-05-01,Cali,,35,F,En estudio,Recuperado,Leve,20 - 39
+6737,2020-05-01,Cali,,57,F,En estudio,Recuperado,Leve,40 - 59
+6739,2020-05-01,Cali,,69,M,En estudio,Recuperado,Leve,60 - 79
+6749,2020-05-01,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+6750,2020-05-01,Cali,,31,F,En estudio,Recuperado,Leve,20 - 39
+6808,2020-05-01,Cali,,28,M,Relacionado,Recuperado,Leve,20 - 39
+6868,2020-05-01,Cali,,21,M,En estudio,Recuperado,Leve,20 - 39
+7014,2020-05-02,Cali,,46,M,En estudio,Recuperado,Leve,40 - 59
+7080,2020-05-02,Cali,,21,F,En estudio,Recuperado,Leve,20 - 39
+7081,2020-05-02,Cali,,55,F,En estudio,Recuperado,Leve,40 - 59
+7082,2020-05-02,Cali,,77,F,En estudio,Recuperado,Leve,60 - 79
+7083,2020-05-02,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+7084,2020-05-02,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+7085,2020-05-02,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+7115,2020-05-02,Cali,,62,M,En estudio,Recuperado,Leve,60 - 79
+7116,2020-05-02,Cali,,56,F,En estudio,Recuperado,Leve,40 - 59
+7117,2020-05-02,Cali,,65,F,Relacionado,Recuperado,Leve,60 - 79
+7118,2020-05-02,Cali,,37,F,En estudio,Recuperado,Leve,20 - 39
+7119,2020-05-02,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+7120,2020-05-02,Cali,,16,M,En estudio,Recuperado,Leve,0 - 19
+7121,2020-05-02,Cali,,40,M,En estudio,Recuperado,Leve,40 - 59
+7122,2020-05-02,Cali,,18,F,En estudio,Recuperado,Leve,0 - 19
+7123,2020-05-02,Cali,,15,F,En estudio,Recuperado,Leve,0 - 19
+7124,2020-05-02,Cali,,26,M,En estudio,Recuperado,Leve,20 - 39
+7125,2020-05-02,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+7126,2020-05-02,Cali,,19,M,En estudio,Recuperado,Leve,0 - 19
+7127,2020-05-02,Cali,,6,M,En estudio,Recuperado,Leve,0 - 19
+7128,2020-05-02,Cali,,37,F,Relacionado,Recuperado,Leve,20 - 39
+7129,2020-05-02,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+7152,2020-05-02,Cali,,52,F,En estudio,Recuperado,Leve,40 - 59
+7153,2020-05-02,Cali,,23,F,En estudio,Recuperado,Leve,20 - 39
+7154,2020-05-02,Cali,,60,F,En estudio,Recuperado,Leve,60 - 79
+7155,2020-05-02,Cali,,6,M,En estudio,Recuperado,Leve,0 - 19
+7156,2020-05-02,Cali,,33,F,En estudio,Recuperado,Leve,20 - 39
+7157,2020-05-02,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+7158,2020-05-02,Cali,,47,M,En estudio,Hospital UCI,Grave,40 - 59
+7159,2020-05-02,Cali,,29,M,Relacionado,Recuperado,Leve,20 - 39
+7160,2020-05-02,Cali,,81,M,En estudio,Hospital,Moderado,80+
+7161,2020-05-02,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+7162,2020-05-02,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+7163,2020-05-02,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+7164,2020-05-02,Cali,,38,M,En estudio,Recuperado,Leve,20 - 39
+7165,2020-05-02,Cali,,48,M,En estudio,Recuperado,Leve,40 - 59
+7171,2020-05-02,Cali,,50,F,En estudio,Recuperado,Leve,40 - 59
+7205,2020-05-02,Cali,,58,M,En estudio,Hospital,Moderado,40 - 59
+7206,2020-05-02,Cali,,37,M,Relacionado,Recuperado,Leve,20 - 39
+7208,2020-05-02,Cali,,33,F,En estudio,Recuperado,Leve,20 - 39
+7213,2020-05-02,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+7448,2020-05-03,Cali,,52,M,En estudio,Recuperado,Leve,40 - 59
+7591,2020-05-03,Cali,,48,M,En estudio,Recuperado,Leve,40 - 59
+7770,2020-05-04,Cali,,71,F,En estudio,Recuperado,Leve,60 - 79
+7771,2020-05-04,Cali,,53,M,En estudio,Recuperado,Leve,40 - 59
+7772,2020-05-04,Cali,,20,M,Relacionado,Recuperado,Leve,20 - 39
+7773,2020-05-04,Cali,,66,M,En estudio,Recuperado,Leve,60 - 79
+7776,2020-05-04,Cali,,27,F,Relacionado,Recuperado,Leve,20 - 39
+7777,2020-05-04,Cali,,23,F,En estudio,Recuperado,Leve,20 - 39
+7778,2020-05-04,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+7802,2020-05-04,Cali,,46,M,Relacionado,Hospital,Moderado,40 - 59
+7804,2020-05-04,Cali,,51,F,En estudio,Recuperado,Leve,40 - 59
+7805,2020-05-04,Cali,,63,F,En estudio,Recuperado,Leve,60 - 79
+7808,2020-05-04,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+7809,2020-05-04,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+7810,2020-05-04,Cali,,51,M,En estudio,Recuperado,Leve,40 - 59
+7811,2020-05-04,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+7851,2020-05-04,Cali,,24,M,En estudio,Hospital,Moderado,20 - 39
+7852,2020-05-04,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+7855,2020-05-04,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+7856,2020-05-04,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+7857,2020-05-04,Cali,,58,M,En estudio,Recuperado,Leve,40 - 59
+7858,2020-05-04,Cali,,36,F,En estudio,Recuperado,Leve,20 - 39
+7859,2020-05-04,Cali,,54,F,En estudio,Recuperado,Leve,40 - 59
+7861,2020-05-04,Cali,,35,M,En estudio,Recuperado,Leve,20 - 39
+7862,2020-05-04,Cali,,38,M,En estudio,Recuperado,Leve,20 - 39
+7863,2020-05-04,Cali,,15,F,En estudio,Recuperado,Leve,0 - 19
+7864,2020-05-04,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+8011,2020-05-04,Cali,,28,F,Relacionado,Recuperado,Leve,20 - 39
+8032,2020-05-05,Cali,,54,M,En estudio,Recuperado,Leve,40 - 59
+8034,2020-05-05,Cali,,57,M,En estudio,Recuperado,Leve,40 - 59
+8035,2020-05-05,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+8038,2020-05-05,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+8039,2020-05-05,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+8042,2020-05-05,Cali,,35,M,En estudio,Recuperado,Leve,20 - 39
+8044,2020-05-05,Cali,,73,M,Relacionado,Hospital UCI,Grave,60 - 79
+8045,2020-05-05,Cali,,18,F,En estudio,Hospital,Moderado,0 - 19
+8046,2020-05-05,Cali,,57,M,En estudio,Fallecido,Fallecido,40 - 59
+8047,2020-05-05,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+8048,2020-05-05,Cali,,42,F,En estudio,Recuperado,Leve,40 - 59
+8049,2020-05-05,Cali,,64,M,En estudio,Fallecido,Fallecido,60 - 79
+8209,2020-05-05,Cali,,21,F,Relacionado,Recuperado,Leve,20 - 39
+8210,2020-05-05,Cali,,21,F,Relacionado,Recuperado,Leve,20 - 39
+8211,2020-05-05,Cali,,23,F,Relacionado,Recuperado,Leve,20 - 39
+8212,2020-05-05,Cali,,22,F,Relacionado,Recuperado,Leve,20 - 39
+8213,2020-05-05,Cali,,27,F,Relacionado,Casa,Leve,20 - 39
+8214,2020-05-05,Cali,,13,F,En estudio,Recuperado,Leve,0 - 19
+8215,2020-05-05,Cali,,53,M,En estudio,Hospital,Moderado,40 - 59
+8216,2020-05-05,Cali,,47,M,En estudio,Fallecido,Fallecido,40 - 59
+8217,2020-05-05,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+8218,2020-05-05,Cali,,53,M,Relacionado,Hospital UCI,Grave,40 - 59
+8250,2020-05-05,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+8251,2020-05-05,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+8254,2020-05-05,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+8256,2020-05-05,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+8649,2020-05-05,Cali,,19,F,Relacionado,Casa,Leve,0 - 19
+8650,2020-05-05,Cali,,39,M,En estudio,Recuperado,Leve,20 - 39
+8663,2020-05-06,Cali,,20,F,Relacionado,Recuperado,Leve,20 - 39
+8671,2020-05-06,Cali,,52,M,En estudio,Casa,Leve,40 - 59
+8672,2020-05-06,Cali,,30,F,En estudio,Recuperado,Leve,20 - 39
+8673,2020-05-06,Cali,,50,F,En estudio,Recuperado,Leve,40 - 59
+8674,2020-05-06,Cali,,23,M,En estudio,Recuperado,Leve,20 - 39
+8693,2020-05-06,Cali,,42,M,En estudio,Casa,Leve,40 - 59
+8695,2020-05-06,Cali,,44,M,En estudio,Hospital,Moderado,40 - 59
+8696,2020-05-06,Cali,,56,M,En estudio,Hospital,Moderado,40 - 59
+8697,2020-05-06,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+8698,2020-05-06,Cali,,63,M,En estudio,Casa,Leve,60 - 79
+8699,2020-05-06,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+8700,2020-05-06,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+8701,2020-05-06,Cali,,70,F,En estudio,Recuperado,Leve,60 - 79
+8702,2020-05-06,Cali,,52,F,En estudio,Recuperado,Leve,40 - 59
+8703,2020-05-06,Cali,,67,M,Relacionado,Fallecido,Fallecido,60 - 79
+8704,2020-05-06,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+8705,2020-05-06,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+8706,2020-05-06,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+8707,2020-05-06,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+8708,2020-05-06,Cali,,57,M,En estudio,Hospital UCI,Grave,40 - 59
+8709,2020-05-06,Cali,,21,M,En estudio,Recuperado,Leve,20 - 39
+8711,2020-05-06,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+8712,2020-05-06,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+8713,2020-05-06,Cali,,47,M,En estudio,Hospital,Moderado,40 - 59
+8716,2020-05-06,Cali,,57,F,En estudio,Casa,Leve,40 - 59
+8717,2020-05-06,Cali,,6,F,Relacionado,Casa,Leve,0 - 19
+8718,2020-05-06,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+8719,2020-05-06,Cali,,14,M,En estudio,Recuperado,Leve,0 - 19
+8721,2020-05-06,Cali,,38,F,En estudio,Recuperado,Leve,20 - 39
+8722,2020-05-06,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+8723,2020-05-06,Cali,,54,F,En estudio,Recuperado,Leve,40 - 59
+8726,2020-05-06,Cali,,28,F,En estudio,Recuperado,Leve,20 - 39
+8727,2020-05-06,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+8728,2020-05-06,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+8729,2020-05-06,Cali,,65,M,En estudio,Fallecido,Fallecido,60 - 79
+8730,2020-05-06,Cali,,44,F,Relacionado,Casa,Leve,40 - 59
+8731,2020-05-06,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+8753,2020-05-06,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+8794,2020-05-06,Cali,,14,F,En estudio,Recuperado,Leve,0 - 19
+8796,2020-05-06,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+9010,2020-05-07,Cali,,9,M,Relacionado,Casa,Leve,0 - 19
+9066,2020-05-07,Cali,,65,F,En estudio,Recuperado,Leve,60 - 79
+9070,2020-05-07,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+9071,2020-05-07,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+9088,2020-05-07,Cali,,44,F,En estudio,Recuperado,Leve,40 - 59
+9089,2020-05-07,Cali,,63,F,En estudio,Recuperado,Leve,60 - 79
+9311,2020-05-07,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+9312,2020-05-07,Cali,,78,F,En estudio,Recuperado,Leve,60 - 79
+9313,2020-05-07,Cali,,82,M,En estudio,Hospital,Moderado,80+
+9314,2020-05-07,Cali,,57,M,En estudio,Recuperado,Leve,40 - 59
+9315,2020-05-07,Cali,,84,M,En estudio,Casa,Leve,80+
+9316,2020-05-07,Cali,,21,F,Relacionado,Recuperado,Leve,20 - 39
+9317,2020-05-07,Cali,,66,M,En estudio,Fallecido,Fallecido,60 - 79
+9318,2020-05-07,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+9319,2020-05-07,Cali,,13,F,En estudio,Casa,Leve,0 - 19
+9320,2020-05-07,Cali,,20,M,Relacionado,Recuperado,Leve,20 - 39
+9321,2020-05-07,Cali,,25,F,Relacionado,Casa,Leve,20 - 39
+9326,2020-05-07,Cali,,56,M,En estudio,Recuperado,Leve,40 - 59
+9336,2020-05-07,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+9337,2020-05-07,Cali,,12,M,En estudio,Recuperado,Leve,0 - 19
+9338,2020-05-07,Cali,,23,M,En estudio,Recuperado,Leve,20 - 39
+9339,2020-05-07,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+9347,2020-05-07,Cali,,60,M,Relacionado,Casa,Leve,60 - 79
+9348,2020-05-07,Cali,,46,F,En estudio,Casa,Leve,40 - 59
+9349,2020-05-07,Cali,,16,M,En estudio,Casa,Leve,0 - 19
+9350,2020-05-07,Cali,,76,F,Relacionado,Casa,Leve,60 - 79
+9351,2020-05-07,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+9352,2020-05-07,Cali,,42,M,En estudio,Casa,Leve,40 - 59
+9353,2020-05-07,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+9354,2020-05-07,Cali,,48,M,Relacionado,Hospital,Moderado,40 - 59
+9355,2020-05-07,Cali,,53,M,En estudio,Hospital,Moderado,40 - 59
+9356,2020-05-07,Cali,,43,M,En estudio,Hospital,Moderado,40 - 59
+9357,2020-05-07,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+9362,2020-05-07,Cali,,42,M,En estudio,Recuperado,Leve,40 - 59
+9363,2020-05-07,Cali,,6,F,En estudio,Recuperado,Leve,0 - 19
+9364,2020-05-07,Cali,,76,F,En estudio,Fallecido,Fallecido,60 - 79
+9365,2020-05-07,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+9366,2020-05-07,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+9513,2020-05-08,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+9516,2020-05-08,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+9528,2020-05-08,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+9590,2020-05-08,Cali,,7,M,En estudio,Casa,Leve,0 - 19
+9591,2020-05-08,Cali,,71,M,En estudio,Casa,Leve,60 - 79
+9592,2020-05-08,Cali,,1,M,En estudio,Casa,Leve,0 - 19
+9593,2020-05-08,Cali,,6,F,En estudio,Casa,Leve,0 - 19
+9595,2020-05-08,Cali,,20,F,Relacionado,Recuperado,Leve,20 - 39
+9596,2020-05-08,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+9603,2020-05-08,Cali,,73,M,En estudio,Recuperado,Leve,60 - 79
+9604,2020-05-08,Cali,,69,M,En estudio,Recuperado,Leve,60 - 79
+9605,2020-05-08,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+9606,2020-05-08,Cali,,48,F,Relacionado,Casa,Leve,40 - 59
+9607,2020-05-08,Cali,,39,M,En estudio,Recuperado,Leve,20 - 39
+9608,2020-05-08,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+9609,2020-05-08,Cali,,1,M,En estudio,Casa,Leve,0 - 19
+9610,2020-05-08,Cali,,57,F,En estudio,Hospital UCI,Grave,40 - 59
+9611,2020-05-08,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+9612,2020-05-08,Cali,,43,F,En estudio,Hospital,Moderado,40 - 59
+9613,2020-05-08,Cali,,30,F,En estudio,Hospital,Moderado,20 - 39
+9664,2020-05-08,Cali,,44,F,En estudio,Recuperado,Leve,40 - 59
+9665,2020-05-08,Cali,,46,M,En estudio,Recuperado,Leve,40 - 59
+9666,2020-05-08,Cali,,1,M,En estudio,Recuperado,Leve,0 - 19
+9667,2020-05-08,Cali,,3,M,En estudio,Casa,Leve,0 - 19
+9668,2020-05-08,Cali,,48,F,En estudio,Recuperado,Leve,40 - 59
+9669,2020-05-08,Cali,,25,M,En estudio,Recuperado,Leve,20 - 39
+9670,2020-05-08,Cali,,42,M,En estudio,Recuperado,Leve,40 - 59
+9671,2020-05-08,Cali,,54,M,En estudio,Recuperado,Leve,40 - 59
+9672,2020-05-08,Cali,,22,F,En estudio,Recuperado,Leve,20 - 39
+9673,2020-05-08,Cali,,23,F,Relacionado,Casa,Leve,20 - 39
+9674,2020-05-08,Cali,,12,M,En estudio,Casa,Leve,0 - 19
+9722,2020-05-08,Cali,,83,M,En estudio,Fallecido,Fallecido,80+
+9723,2020-05-08,Cali,,37,M,En estudio,Hospital UCI,Grave,20 - 39
+9724,2020-05-08,Cali,,65,M,En estudio,Hospital UCI,Grave,60 - 79
+9803,2020-05-08,Cali,,41,M,En estudio,Recuperado,Leve,40 - 59
+10027,2020-05-08,Cali,,53,M,En estudio,Recuperado,Leve,40 - 59
+10122,2020-05-09,Cali,,27,F,Relacionado,Recuperado,Leve,20 - 39
+10123,2020-05-09,Cali,,60,M,En estudio,Recuperado,Leve,60 - 79
+10142,2020-05-09,Cali,,41,F,En estudio,Hospital,Moderado,40 - 59
+10156,2020-05-09,Cali,,23,F,En estudio,Hospital,Moderado,20 - 39
+10157,2020-05-09,Cali,,64,M,En estudio,Hospital UCI,Grave,60 - 79
+10158,2020-05-09,Cali,,12,F,En estudio,Recuperado,Leve,0 - 19
+10159,2020-05-09,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+10160,2020-05-09,Cali,,2,M,En estudio,Recuperado,Leve,0 - 19
+10180,2020-05-09,Cali,,38,M,Relacionado,Recuperado,Leve,20 - 39
+10181,2020-05-09,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+10217,2020-05-09,Cali,,36,F,En estudio,Recuperado,Leve,20 - 39
+10218,2020-05-09,Cali,,18,M,En estudio,Recuperado,Leve,0 - 19
+10219,2020-05-09,Cali,,10,F,En estudio,Recuperado,Leve,0 - 19
+10220,2020-05-09,Cali,,59,F,En estudio,Recuperado,Leve,40 - 59
+10221,2020-05-09,Cali,,16,F,En estudio,Recuperado,Leve,0 - 19
+10222,2020-05-09,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+10223,2020-05-09,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+10224,2020-05-09,Cali,,9,F,En estudio,Casa,Leve,0 - 19
+10225,2020-05-09,Cali,,75,F,En estudio,Fallecido,Fallecido,60 - 79
+10226,2020-05-09,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+10227,2020-05-09,Cali,,74,M,En estudio,Casa,Leve,60 - 79
+10228,2020-05-09,Cali,,69,M,En estudio,Fallecido,Fallecido,60 - 79
+10229,2020-05-09,Cali,,43,M,En estudio,Recuperado,Leve,40 - 59
+10230,2020-05-09,Cali,,77,F,En estudio,Fallecido,Fallecido,60 - 79
+10231,2020-05-09,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+10232,2020-05-09,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+10234,2020-05-09,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+10236,2020-05-09,Cali,,26,F,En estudio,Recuperado,Leve,20 - 39
+10238,2020-05-09,Cali,,41,F,En estudio,Recuperado,Leve,40 - 59
+10241,2020-05-09,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+10242,2020-05-09,Cali,,19,M,En estudio,Casa,Leve,0 - 19
+10243,2020-05-09,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+10244,2020-05-09,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+10285,2020-05-09,Cali,,86,F,En estudio,Hospital,Moderado,80+
+10286,2020-05-09,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+10287,2020-05-09,Cali,,13,M,En estudio,Casa,Leve,0 - 19
+10288,2020-05-09,Cali,,11,F,En estudio,Casa,Leve,0 - 19
+10289,2020-05-09,Cali,,11,F,En estudio,Casa,Leve,0 - 19
+10290,2020-05-09,Cali,,57,F,En estudio,Casa,Leve,40 - 59
+10293,2020-05-09,Cali,,68,F,En estudio,Hospital,Moderado,60 - 79
+10296,2020-05-09,Cali,,49,F,En estudio,Recuperado,Leve,40 - 59
+10297,2020-05-09,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+10298,2020-05-09,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+10307,2020-05-09,Cali,,60,M,En estudio,Hospital,Moderado,60 - 79
+10310,2020-05-09,Cali,,14,F,En estudio,Casa,Leve,0 - 19
+10311,2020-05-09,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+10312,2020-05-09,Cali,,8,M,En estudio,Recuperado,Leve,0 - 19
+10313,2020-05-09,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+10314,2020-05-09,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+10315,2020-05-09,Cali,,77,F,En estudio,Fallecido,Fallecido,60 - 79
+10316,2020-05-09,Cali,,41,F,En estudio,Recuperado,Leve,40 - 59
+10544,2020-05-10,Cali,,44,M,Relacionado,Recuperado,Leve,40 - 59
+10545,2020-05-10,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+10796,2020-05-10,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+10797,2020-05-10,Cali,,53,F,En estudio,Casa,Leve,40 - 59
+10798,2020-05-10,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+10935,2020-05-10,Cali,,6,M,En estudio,Recuperado,Leve,0 - 19
+10936,2020-05-10,Cali,,46,M,En estudio,Hospital,Moderado,40 - 59
+10937,2020-05-10,Cali,,75,M,En estudio,Casa,Leve,60 - 79
+10938,2020-05-10,Cali,,54,M,En estudio,Hospital,Moderado,40 - 59
+11095,2020-05-10,Cali,,48,F,En estudio,Fallecido,Fallecido,40 - 59
+11122,2020-05-11,Cali,,9,M,En estudio,Casa,Leve,0 - 19
+11123,2020-05-11,Cali,,56,M,En estudio,Hospital,Moderado,40 - 59
+11151,2020-05-11,Cali,,91,M,En estudio,Fallecido,Fallecido,80+
+11152,2020-05-11,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+11158,2020-05-11,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+11160,2020-05-11,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+11161,2020-05-11,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+11167,2020-05-11,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+11168,2020-05-11,Cali,,52,M,En estudio,Hospital UCI,Grave,40 - 59
+11169,2020-05-11,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+11171,2020-05-11,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+11176,2020-05-11,Cali,,70,F,En estudio,Recuperado,Leve,60 - 79
+11177,2020-05-11,Cali,,51,F,En estudio,Recuperado,Leve,40 - 59
+11180,2020-05-11,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+11181,2020-05-11,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+11369,2020-05-11,Cali,,54,F,En estudio,Recuperado,Leve,40 - 59
+11370,2020-05-11,Cali,,84,M,En estudio,Casa,Leve,80+
+11402,2020-05-11,Cali,,39,M,En estudio,Recuperado,Leve,20 - 39
+11407,2020-05-11,Cali,,57,F,En estudio,Fallecido,Fallecido,40 - 59
+11408,2020-05-11,Cali,,7,M,En estudio,Casa,Leve,0 - 19
+11409,2020-05-11,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+11410,2020-05-11,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+11411,2020-05-11,Cali,,30,F,En estudio,Hospital,Moderado,20 - 39
+11417,2020-05-11,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+11424,2020-05-11,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+11430,2020-05-11,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+11826,2020-05-12,Cali,,23,F,En estudio,Recuperado,Leve,20 - 39
+11827,2020-05-12,Cali,,49,M,En estudio,Recuperado,Leve,40 - 59
+11828,2020-05-12,Cali,,75,F,En estudio,Hospital,Moderado,60 - 79
+11829,2020-05-12,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+11833,2020-05-12,Cali,,45,M,En estudio,Recuperado,Leve,40 - 59
+11834,2020-05-12,Cali,,50,M,En estudio,Casa,Leve,40 - 59
+11835,2020-05-12,Cali,,28,M,En estudio,Recuperado,Leve,20 - 39
+11887,2020-05-12,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+11888,2020-05-12,Cali,,58,F,En estudio,Recuperado,Leve,40 - 59
+11889,2020-05-12,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+11890,2020-05-12,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+11891,2020-05-12,Cali,,52,F,En estudio,Recuperado,Leve,40 - 59
+11892,2020-05-12,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+11893,2020-05-12,Cali,,59,F,En estudio,Hospital,Moderado,40 - 59
+11894,2020-05-12,Cali,,80,M,En estudio,Casa,Leve,80+
+11895,2020-05-12,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+11932,2020-05-12,Cali,,16,M,En estudio,Recuperado,Leve,0 - 19
+11935,2020-05-12,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+11937,2020-05-12,Cali,,51,M,En estudio,Hospital,Moderado,40 - 59
+11938,2020-05-12,Cali,,40,M,En estudio,Recuperado,Leve,40 - 59
+11939,2020-05-12,Cali,,69,M,En estudio,Recuperado,Leve,60 - 79
+11940,2020-05-12,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+11948,2020-05-12,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+11949,2020-05-12,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+11950,2020-05-12,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+11951,2020-05-12,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+11966,2020-05-12,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+12323,2020-05-13,Cali,,67,M,En estudio,Casa,Leve,60 - 79
+12336,2020-05-13,Cali,,85,M,En estudio,Casa,Leve,80+
+12338,2020-05-13,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+12339,2020-05-13,Cali,,18,M,Relacionado,Recuperado,Leve,0 - 19
+12364,2020-05-13,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+12365,2020-05-13,Cali,,72,M,En estudio,Casa,Leve,60 - 79
+12372,2020-05-13,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+12398,2020-05-13,Cali,,37,F,En estudio,Recuperado,Leve,20 - 39
+12399,2020-05-13,Cali,,89,M,En estudio,Hospital,Moderado,80+
+12400,2020-05-13,Cali,,37,M,En estudio,Recuperado,Leve,20 - 39
+12403,2020-05-13,Cali,,38,M,En estudio,Recuperado,Leve,20 - 39
+12404,2020-05-13,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+12478,2020-05-13,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+12479,2020-05-13,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+12480,2020-05-13,Cali,,64,M,En estudio,Recuperado,Leve,60 - 79
+12482,2020-05-13,Cali,,76,M,En estudio,Recuperado,Leve,60 - 79
+12483,2020-05-13,Cali,,55,M,En estudio,Hospital,Moderado,40 - 59
+12484,2020-05-13,Cali,,30,M,En estudio,Recuperado,Leve,20 - 39
+12630,2020-05-13,Cali,,48,M,En estudio,Fallecido,Fallecido,40 - 59
+12631,2020-05-13,Cali,,41,M,En estudio,Recuperado,Leve,40 - 59
+12632,2020-05-13,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+12633,2020-05-13,Cali,,91,M,En estudio,Recuperado,Leve,80+
+12634,2020-05-13,Cali,,69,M,En estudio,Fallecido,Fallecido,60 - 79
+12635,2020-05-13,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+12636,2020-05-13,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+12637,2020-05-13,Cali,,62,M,En estudio,Fallecido,Fallecido,60 - 79
+12638,2020-05-13,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+12639,2020-05-13,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+12640,2020-05-13,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+12641,2020-05-13,Cali,,14,F,En estudio,Recuperado,Leve,0 - 19
+12642,2020-05-13,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+12643,2020-05-13,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+12644,2020-05-13,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+12669,2020-05-13,Cali,,4,M,En estudio,Recuperado,Leve,0 - 19
+12732,2020-05-13,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+12733,2020-05-13,Cali,,74,M,En estudio,Hospital,Moderado,60 - 79
+12734,2020-05-13,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+12736,2020-05-13,Cali,,72,F,En estudio,Fallecido,Fallecido,60 - 79
+12738,2020-05-13,Cali,,39,M,En estudio,Hospital,Moderado,20 - 39
+12740,2020-05-13,Cali,,32,F,En estudio,Recuperado,Leve,20 - 39
+12744,2020-05-13,Cali,,29,M,En estudio,Recuperado,Leve,20 - 39
+12748,2020-05-13,Cali,,58,M,En estudio,Hospital,Moderado,40 - 59
+12749,2020-05-13,Cali,,9,F,En estudio,Casa,Leve,0 - 19
+12751,2020-05-13,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+12752,2020-05-13,Cali,,7,F,En estudio,Casa,Leve,0 - 19
+12753,2020-05-13,Cali,,14,M,En estudio,Recuperado,Leve,0 - 19
+12754,2020-05-13,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+12755,2020-05-13,Cali,,66,F,En estudio,Casa,Leve,60 - 79
+12756,2020-05-13,Cali,,0,M,En estudio,Recuperado,Leve,0 - 19
+12765,2020-05-13,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+12766,2020-05-13,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+12767,2020-05-13,Cali,,63,M,En estudio,Hospital,Moderado,60 - 79
+13037,2020-05-14,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+13038,2020-05-14,Cali,,59,M,En estudio,Hospital UCI,Grave,40 - 59
+13041,2020-05-14,Cali,,52,M,En estudio,Hospital UCI,Grave,40 - 59
+13142,2020-05-14,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+13143,2020-05-14,Cali,,19,M,En estudio,Casa,Leve,0 - 19
+13144,2020-05-14,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+13145,2020-05-14,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+13146,2020-05-14,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+13149,2020-05-14,Cali,,26,M,Relacionado,Casa,Leve,20 - 39
+13150,2020-05-14,Cali,,43,M,Relacionado,Casa,Leve,40 - 59
+13151,2020-05-14,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+13152,2020-05-14,Cali,,36,M,Relacionado,Casa,Leve,20 - 39
+13153,2020-05-14,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+13154,2020-05-14,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+13155,2020-05-14,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+13156,2020-05-14,Cali,,62,F,En estudio,Recuperado,Leve,60 - 79
+13157,2020-05-14,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+13158,2020-05-14,Cali,,57,M,En estudio,Hospital UCI,Grave,40 - 59
+13182,2020-05-14,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+13183,2020-05-14,Cali,,69,F,En estudio,Casa,Leve,60 - 79
+13184,2020-05-14,Cali,,66,F,En estudio,Casa,Leve,60 - 79
+13185,2020-05-14,Cali,,67,F,En estudio,Casa,Leve,60 - 79
+13186,2020-05-14,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+13187,2020-05-14,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+13188,2020-05-14,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+13189,2020-05-14,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+13487,2020-05-14,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+13489,2020-05-14,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+13490,2020-05-14,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+13491,2020-05-14,Cali,,9,F,En estudio,Casa,Leve,0 - 19
+13492,2020-05-14,Cali,,52,M,En estudio,Casa,Leve,40 - 59
+13497,2020-05-14,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+13498,2020-05-14,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+13499,2020-05-14,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+13503,2020-05-14,Cali,,44,F,En estudio,Recuperado,Leve,40 - 59
+13506,2020-05-14,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+13507,2020-05-14,Cali,,21,M,En estudio,Recuperado,Leve,20 - 39
+13508,2020-05-14,Cali,,12,F,En estudio,Recuperado,Leve,0 - 19
+13509,2020-05-14,Cali,,42,M,En estudio,Hospital,Moderado,40 - 59
+13510,2020-05-14,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+13512,2020-05-14,Cali,,50,F,En estudio,Recuperado,Leve,40 - 59
+13513,2020-05-14,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+13515,2020-05-14,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+13517,2020-05-14,Cali,,55,M,En estudio,Hospital,Moderado,40 - 59
+13518,2020-05-14,Cali,,36,F,En estudio,Hospital,Moderado,20 - 39
+13519,2020-05-14,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+13521,2020-05-14,Cali,,43,M,En estudio,Hospital,Moderado,40 - 59
+13522,2020-05-14,Cali,,34,F,En estudio,Hospital,Moderado,20 - 39
+13523,2020-05-14,Cali,,61,M,En estudio,Hospital,Moderado,60 - 79
+13524,2020-05-14,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+13525,2020-05-14,Cali,,75,F,En estudio,Casa,Leve,60 - 79
+13526,2020-05-14,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+13527,2020-05-14,Cali,,40,M,En estudio,Recuperado,Leve,40 - 59
+13530,2020-05-14,Cali,,69,M,En estudio,Hospital UCI,Grave,60 - 79
+13532,2020-05-14,Cali,,76,M,En estudio,Fallecido,Fallecido,60 - 79
+13534,2020-05-14,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+13537,2020-05-14,Cali,,55,M,En estudio,Casa,Leve,40 - 59
+13538,2020-05-14,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+13539,2020-05-14,Cali,,10,F,En estudio,Casa,Leve,0 - 19
+13544,2020-05-14,Cali,,49,F,En estudio,Casa,Leve,40 - 59
+13545,2020-05-14,Cali,,18,F,En estudio,Casa,Leve,0 - 19
+13593,2020-05-14,Cali,,71,F,En estudio,Fallecido,Fallecido,60 - 79
+13605,2020-05-14,Cali,,45,F,En estudio,Casa,Leve,40 - 59
+13606,2020-05-14,Cali,,21,F,En estudio,Recuperado,Leve,20 - 39
+13691,2020-05-15,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+13692,2020-05-15,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+13693,2020-05-15,Cali,,16,F,En estudio,Recuperado,Leve,0 - 19
+13694,2020-05-15,Cali,,7,F,En estudio,Casa,Leve,0 - 19
+13695,2020-05-15,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+13696,2020-05-15,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+13697,2020-05-15,Cali,,53,M,En estudio,Hospital,Moderado,40 - 59
+13698,2020-05-15,Cali,,86,F,En estudio,Hospital,Moderado,80+
+13741,2020-05-15,Cali,,74,M,En estudio,Casa,Leve,60 - 79
+13743,2020-05-15,Cali,,77,F,En estudio,Casa,Leve,60 - 79
+13754,2020-05-15,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+13774,2020-05-15,Cali,,34,F,Relacionado,Casa,Leve,20 - 39
+13775,2020-05-15,Cali,,69,F,En estudio,Recuperado,Leve,60 - 79
+13776,2020-05-15,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+13777,2020-05-15,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+13778,2020-05-15,Cali,,4,M,En estudio,Casa,Leve,0 - 19
+13919,2020-05-15,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+13920,2020-05-15,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+13921,2020-05-15,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+13922,2020-05-15,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+13995,2020-05-15,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+13996,2020-05-15,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+13997,2020-05-15,Cali,,59,F,En estudio,Casa,Leve,40 - 59
+13999,2020-05-15,Cali,,39,F,En estudio,Recuperado,Leve,20 - 39
+14039,2020-05-15,Cali,,66,M,En estudio,Casa,Leve,60 - 79
+14040,2020-05-15,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+14041,2020-05-15,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+14042,2020-05-15,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+14043,2020-05-15,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+14044,2020-05-15,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+14045,2020-05-15,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+14046,2020-05-15,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+14047,2020-05-15,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+14048,2020-05-15,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+14171,2020-05-15,Cali,,38,F,En estudio,Recuperado,Leve,20 - 39
+14172,2020-05-15,Cali,,16,F,En estudio,Recuperado,Leve,0 - 19
+14173,2020-05-15,Cali,,16,F,En estudio,Casa,Leve,0 - 19
+14174,2020-05-15,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+14175,2020-05-15,Cali,,50,M,En estudio,Casa,Leve,40 - 59
+14320,2020-05-16,Cali,,50,F,En estudio,Hospital UCI,Grave,40 - 59
+14432,2020-05-16,Cali,,18,F,En estudio,Casa,Leve,0 - 19
+14433,2020-05-16,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+14434,2020-05-16,Cali,,20,F,En estudio,Hospital,Moderado,20 - 39
+14435,2020-05-16,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+14436,2020-05-16,Cali,,94,M,En estudio,Fallecido,Fallecido,80+
+14437,2020-05-16,Cali,,21,F,En estudio,Hospital,Moderado,20 - 39
+14438,2020-05-16,Cali,,75,M,En estudio,Hospital,Moderado,60 - 79
+14439,2020-05-16,Cali,,30,F,En estudio,Hospital,Moderado,20 - 39
+14440,2020-05-16,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+14441,2020-05-16,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+14442,2020-05-16,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+14443,2020-05-16,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+14444,2020-05-16,Cali,,60,M,En estudio,Fallecido,Fallecido,60 - 79
+14445,2020-05-16,Cali,,69,M,En estudio,Casa,Leve,60 - 79
+14448,2020-05-16,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+14453,2020-05-16,Cali,,81,M,En estudio,Casa,Leve,80+
+14454,2020-05-16,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+14455,2020-05-16,Cali,,41,F,En estudio,Recuperado,Leve,40 - 59
+14456,2020-05-16,Cali,,64,M,En estudio,Hospital,Moderado,60 - 79
+14457,2020-05-16,Cali,,24,M,En estudio,Recuperado,Leve,20 - 39
+14458,2020-05-16,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+14459,2020-05-16,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+14460,2020-05-16,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+14461,2020-05-16,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+14462,2020-05-16,Cali,,63,M,En estudio,Casa,Leve,60 - 79
+14463,2020-05-16,Cali,,68,M,En estudio,Fallecido,Fallecido,60 - 79
+14464,2020-05-16,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+14465,2020-05-16,Cali,,72,M,En estudio,Hospital,Moderado,60 - 79
+14466,2020-05-16,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+14467,2020-05-16,Cali,,55,M,En estudio,Hospital,Moderado,40 - 59
+14469,2020-05-16,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+14470,2020-05-16,Cali,,60,M,En estudio,Fallecido,Fallecido,60 - 79
+14471,2020-05-16,Cali,,67,M,En estudio,Casa,Leve,60 - 79
+14472,2020-05-16,Cali,,66,M,En estudio,Fallecido,Fallecido,60 - 79
+14473,2020-05-16,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+14474,2020-05-16,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+14475,2020-05-16,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+14476,2020-05-16,Cali,,25,F,En estudio,Hospital,Moderado,20 - 39
+14477,2020-05-16,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+14478,2020-05-16,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+14479,2020-05-16,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+14480,2020-05-16,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+14481,2020-05-16,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+14482,2020-05-16,Cali,,46,M,Relacionado,Hospital,Moderado,40 - 59
+14483,2020-05-16,Cali,,39,F,Relacionado,Casa,Leve,20 - 39
+14484,2020-05-16,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+14508,2020-05-16,Cali,,59,F,En estudio,Casa,Leve,40 - 59
+14509,2020-05-16,Cali,,59,M,En estudio,Hospital,Moderado,40 - 59
+14510,2020-05-16,Cali,,41,M,En estudio,Hospital,Moderado,40 - 59
+14511,2020-05-16,Cali,,84,M,En estudio,Casa,Leve,80+
+14512,2020-05-16,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+14535,2020-05-16,Cali,,24,F,En estudio,Hospital,Moderado,20 - 39
+14536,2020-05-16,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+14537,2020-05-16,Cali,,55,M,En estudio,Casa,Leve,40 - 59
+14538,2020-05-16,Cali,,67,F,En estudio,Recuperado,Leve,60 - 79
+14541,2020-05-16,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+14542,2020-05-16,Cali,,55,M,En estudio,Recuperado,Leve,40 - 59
+14543,2020-05-16,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+14546,2020-05-16,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+14547,2020-05-16,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+14980,2020-05-17,Cali,,27,M,En estudio,Hospital,Moderado,20 - 39
+15012,2020-05-17,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+15013,2020-05-17,Cali,,37,M,En estudio,Recuperado,Leve,20 - 39
+15014,2020-05-17,Cali,,19,M,Relacionado,Recuperado,Leve,0 - 19
+15015,2020-05-17,Cali,,20,M,Relacionado,Casa,Leve,20 - 39
+15016,2020-05-17,Cali,,34,M,En estudio,Recuperado,Leve,20 - 39
+15087,2020-05-17,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+15088,2020-05-17,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+15089,2020-05-17,Cali,,65,M,En estudio,Fallecido,Fallecido,60 - 79
+15090,2020-05-17,Cali,,45,F,En estudio,Casa,Leve,40 - 59
+15091,2020-05-17,Cali,,94,M,En estudio,Hospital,Moderado,80+
+15092,2020-05-17,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+15093,2020-05-17,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+15094,2020-05-17,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+15095,2020-05-17,Cali,,74,M,En estudio,Hospital,Moderado,60 - 79
+15096,2020-05-17,Cali,,12,F,En estudio,Casa,Leve,0 - 19
+15097,2020-05-17,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+15098,2020-05-17,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+15099,2020-05-17,Cali,,69,M,En estudio,Casa,Leve,60 - 79
+15100,2020-05-17,Cali,,60,F,En estudio,Hospital,Moderado,60 - 79
+15101,2020-05-17,Cali,,53,F,En estudio,Hospital,Moderado,40 - 59
+15102,2020-05-17,Cali,,28,F,En estudio,Recuperado,Leve,20 - 39
+15103,2020-05-17,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+15104,2020-05-17,Cali,,37,F,En estudio,Recuperado,Leve,20 - 39
+15105,2020-05-17,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+15106,2020-05-17,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+15107,2020-05-17,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+15108,2020-05-17,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+15110,2020-05-17,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+15111,2020-05-17,Cali,,0,M,En estudio,Casa,Leve,0 - 19
+15112,2020-05-17,Cali,,77,M,En estudio,Casa,Leve,60 - 79
+15113,2020-05-17,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+15114,2020-05-17,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+15115,2020-05-17,Cali,,79,M,En estudio,Casa,Leve,60 - 79
+15116,2020-05-17,Cali,,31,M,En estudio,Recuperado,Leve,20 - 39
+15117,2020-05-17,Cali,,48,F,En estudio,Recuperado,Leve,40 - 59
+15118,2020-05-17,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+15119,2020-05-17,Cali,,24,M,Relacionado,Casa,Leve,20 - 39
+15120,2020-05-17,Cali,,26,M,Relacionado,Casa,Leve,20 - 39
+15121,2020-05-17,Cali,,27,M,Relacionado,Casa,Leve,20 - 39
+15123,2020-05-17,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+15124,2020-05-17,Cali,,59,M,En estudio,Hospital,Moderado,40 - 59
+15125,2020-05-17,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+15126,2020-05-17,Cali,,59,F,En estudio,Casa,Leve,40 - 59
+15155,2020-05-17,Cali,,40,F,En estudio,Recuperado,Leve,40 - 59
+15156,2020-05-17,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+15157,2020-05-17,Cali,,27,F,En estudio,Recuperado,Leve,20 - 39
+15158,2020-05-17,Cali,,39,M,En estudio,Recuperado,Leve,20 - 39
+15159,2020-05-17,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+15160,2020-05-17,Cali,,64,F,En estudio,Casa,Leve,60 - 79
+15161,2020-05-17,Cali,,27,M,En estudio,Hospital,Moderado,20 - 39
+15162,2020-05-17,Cali,,10,M,En estudio,Casa,Leve,0 - 19
+15163,2020-05-17,Cali,,65,M,En estudio,Hospital UCI,Grave,60 - 79
+15166,2020-05-17,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+15167,2020-05-17,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+15168,2020-05-17,Cali,,4,F,En estudio,Recuperado,Leve,0 - 19
+15169,2020-05-17,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+15170,2020-05-17,Cali,,16,F,En estudio,Casa,Leve,0 - 19
+15228,2020-05-17,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+15229,2020-05-17,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+15230,2020-05-17,Cali,,33,M,En estudio,Recuperado,Leve,20 - 39
+15231,2020-05-17,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+15305,2020-05-17,Cali,,84,M,En estudio,Fallecido,Fallecido,80+
+15306,2020-05-17,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+15307,2020-05-17,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+15308,2020-05-17,Cali,,72,F,En estudio,Casa,Leve,60 - 79
+15309,2020-05-17,Cali,,46,F,En estudio,Casa,Leve,40 - 59
+15310,2020-05-17,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+15311,2020-05-17,Cali,,77,M,En estudio,Fallecido,Fallecido,60 - 79
+15352,2020-05-17,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+15646,2020-05-18,Cali,,30,F,En estudio,Recuperado,Leve,20 - 39
+15750,2020-05-18,Cali,,60,M,En estudio,Hospital UCI,Grave,60 - 79
+15751,2020-05-18,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+15752,2020-05-18,Cali,,78,F,En estudio,Hospital UCI,Grave,60 - 79
+15753,2020-05-18,Cali,,72,F,En estudio,Fallecido,Fallecido,60 - 79
+15754,2020-05-18,Cali,,12,F,En estudio,Casa,Leve,0 - 19
+15755,2020-05-18,Cali,,64,F,En estudio,Casa,Leve,60 - 79
+15756,2020-05-18,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+15757,2020-05-18,Cali,,12,M,En estudio,Casa,Leve,0 - 19
+15767,2020-05-18,Cali,,23,M,Relacionado,Casa,Leve,20 - 39
+15768,2020-05-18,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+15769,2020-05-18,Cali,,73,F,En estudio,Casa,Leve,60 - 79
+15770,2020-05-18,Cali,,77,M,En estudio,Fallecido,Fallecido,60 - 79
+15771,2020-05-18,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+15772,2020-05-18,Cali,,24,F,En estudio,Recuperado,Leve,20 - 39
+15988,2020-05-18,Cali,,74,M,En estudio,Fallecido,Fallecido,60 - 79
+15989,2020-05-18,Cali,,49,M,En estudio,Hospital,Moderado,40 - 59
+16031,2020-05-18,Cali,,46,M,En estudio,Casa,Leve,40 - 59
+16109,2020-05-17,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+16111,2020-05-17,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+16112,2020-05-17,Cali,,65,M,En estudio,Hospital,Moderado,60 - 79
+16118,2020-05-18,Cali,,61,F,En estudio,Hospital UCI,Grave,60 - 79
+16119,2020-05-18,Cali,,31,F,En estudio,Hospital,Moderado,20 - 39
+16120,2020-05-18,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+16121,2020-05-18,Cali,,85,M,En estudio,Fallecido,Fallecido,80+
+16375,2020-05-19,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+16376,2020-05-19,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+16406,2020-05-19,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+16407,2020-05-19,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+16408,2020-05-19,Cali,,34,F,En estudio,Recuperado,Leve,20 - 39
+16409,2020-05-19,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+16410,2020-05-19,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+16411,2020-05-19,Cali,,14,F,En estudio,Casa,Leve,0 - 19
+16412,2020-05-19,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+16413,2020-05-19,Cali,,58,M,En estudio,Hospital,Moderado,40 - 59
+16414,2020-05-19,Cali,,81,F,En estudio,Casa,Leve,80+
+16442,2020-05-19,Cali,,8,F,En estudio,Casa,Leve,0 - 19
+16443,2020-05-19,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+16445,2020-05-19,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+16446,2020-05-19,Cali,,24,M,Relacionado,Casa,Leve,20 - 39
+16447,2020-05-19,Cali,,70,M,En estudio,Casa,Leve,60 - 79
+16448,2020-05-19,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+16452,2020-05-19,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+16453,2020-05-19,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+16455,2020-05-19,Cali,,42,M,En estudio,Casa,Leve,40 - 59
+16456,2020-05-19,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+16457,2020-05-19,Cali,,64,M,En estudio,Casa,Leve,60 - 79
+16458,2020-05-19,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+16459,2020-05-19,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+16460,2020-05-19,Cali,,4,M,En estudio,Casa,Leve,0 - 19
+16461,2020-05-19,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+16462,2020-05-19,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+16463,2020-05-19,Cali,,18,F,En estudio,Casa,Leve,0 - 19
+16464,2020-05-19,Cali,,34,F,En estudio,Hospital,Moderado,20 - 39
+16465,2020-05-19,Cali,,80,M,En estudio,Hospital,Moderado,80+
+16466,2020-05-19,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+16467,2020-05-19,Cali,,77,F,En estudio,Casa,Leve,60 - 79
+16468,2020-05-19,Cali,,78,M,En estudio,Casa,Leve,60 - 79
+16469,2020-05-19,Cali,,78,F,En estudio,Casa,Leve,60 - 79
+16470,2020-05-19,Cali,,78,M,En estudio,Casa,Leve,60 - 79
+16471,2020-05-19,Cali,,78,M,En estudio,Casa,Leve,60 - 79
+16472,2020-05-19,Cali,,70,M,En estudio,Casa,Leve,60 - 79
+16473,2020-05-19,Cali,,70,F,En estudio,Casa,Leve,60 - 79
+16474,2020-05-19,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+16475,2020-05-19,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+16598,2020-05-19,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+16599,2020-05-19,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+16600,2020-05-19,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+16601,2020-05-19,Cali,,42,M,En estudio,Recuperado,Leve,40 - 59
+16602,2020-05-19,Cali,,76,M,En estudio,Casa,Leve,60 - 79
+16603,2020-05-19,Cali,,69,F,En estudio,Casa,Leve,60 - 79
+16604,2020-05-19,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+16605,2020-05-19,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+16606,2020-05-19,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+16607,2020-05-19,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+16608,2020-05-19,Cali,,41,F,En estudio,Hospital,Moderado,40 - 59
+16609,2020-05-19,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+16610,2020-05-19,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+16611,2020-05-19,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+16612,2020-05-19,Cali,,49,F,En estudio,Casa,Leve,40 - 59
+16613,2020-05-19,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+16614,2020-05-19,Cali,,58,M,Relacionado,Casa,Leve,40 - 59
+16615,2020-05-19,Cali,,31,M,Relacionado,Casa,Leve,20 - 39
+16616,2020-05-19,Cali,,34,M,En estudio,Hospital,Moderado,20 - 39
+16617,2020-05-19,Cali,,41,M,En estudio,Hospital,Moderado,40 - 59
+16618,2020-05-19,Cali,,68,F,En estudio,Casa,Leve,60 - 79
+16636,2020-05-19,Cali,,44,M,En estudio,Hospital,Moderado,40 - 59
+16637,2020-05-19,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+16638,2020-05-19,Cali,,80,F,En estudio,Fallecido,Fallecido,80+
+16639,2020-05-19,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+16640,2020-05-19,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+16641,2020-05-19,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+16642,2020-05-19,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+16643,2020-05-19,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+16646,2020-05-19,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+16659,2020-05-19,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+16660,2020-05-19,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+16661,2020-05-19,Cali,,92,M,En estudio,Fallecido,Fallecido,80+
+16662,2020-05-19,Cali,,73,F,En estudio,Hospital,Moderado,60 - 79
+16664,2020-05-19,Cali,,24,M,En estudio,Hospital UCI,Grave,20 - 39
+16665,2020-05-19,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+16666,2020-05-19,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+16904,2020-05-19,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+16909,2020-05-19,Cali,,18,F,En estudio,Casa,Leve,0 - 19
+16915,2020-05-19,Cali,,43,M,En estudio,Hospital,Moderado,40 - 59
+17016,2020-05-20,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+17090,2020-05-20,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+17163,2020-05-20,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+17164,2020-05-20,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+17165,2020-05-20,Cali,,95,M,En estudio,Fallecido,Fallecido,80+
+17166,2020-05-20,Cali,,54,M,En estudio,Hospital,Moderado,40 - 59
+17176,2020-05-20,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+17177,2020-05-20,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+17180,2020-05-20,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+17231,2020-05-20,Cali,,68,F,En estudio,Hospital,Moderado,60 - 79
+17232,2020-05-20,Cali,,17,M,En estudio,Casa,Leve,0 - 19
+17233,2020-05-20,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+17234,2020-05-20,Cali,,51,M,En estudio,Hospital,Moderado,40 - 59
+17235,2020-05-20,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+17236,2020-05-20,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+17237,2020-05-20,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+17238,2020-05-20,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+17239,2020-05-20,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+17240,2020-05-20,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+17241,2020-05-20,Cali,,68,M,En estudio,Casa,Leve,60 - 79
+17242,2020-05-20,Cali,,14,F,En estudio,Casa,Leve,0 - 19
+17243,2020-05-20,Cali,,0,M,En estudio,Casa,Leve,0 - 19
+17244,2020-05-20,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+17245,2020-05-20,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+17247,2020-05-20,Cali,,61,M,En estudio,Hospital UCI,Grave,60 - 79
+17248,2020-05-20,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+17263,2020-05-20,Cali,,8,M,En estudio,Casa,Leve,0 - 19
+17264,2020-05-20,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+17265,2020-05-20,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+17286,2020-05-20,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+17339,2020-05-20,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+17340,2020-05-20,Cali,,2,F,En estudio,Casa,Leve,0 - 19
+17341,2020-05-20,Cali,,18,F,En estudio,Casa,Leve,0 - 19
+17342,2020-05-20,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+17343,2020-05-20,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+17347,2020-05-20,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+17348,2020-05-20,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+17388,2020-05-20,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+17389,2020-05-20,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+17390,2020-05-20,Cali,,78,M,En estudio,Casa,Leve,60 - 79
+17391,2020-05-20,Cali,,74,M,En estudio,Hospital,Moderado,60 - 79
+17394,2020-05-20,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+17395,2020-05-20,Cali,,48,M,En estudio,Hospital,Moderado,40 - 59
+17396,2020-05-20,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+17401,2020-05-20,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+17402,2020-05-20,Cali,,14,F,En estudio,Casa,Leve,0 - 19
+17403,2020-05-20,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+17404,2020-05-20,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+17405,2020-05-20,Cali,,56,F,En estudio,Hospital,Moderado,40 - 59
+17406,2020-05-20,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+17407,2020-05-20,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+17408,2020-05-20,Cali,,44,F,En estudio,Hospital,Moderado,40 - 59
+17409,2020-05-20,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+17410,2020-05-20,Cali,,72,M,En estudio,Hospital,Moderado,60 - 79
+17411,2020-05-20,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+17413,2020-05-20,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+17414,2020-05-20,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+17415,2020-05-20,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+17416,2020-05-20,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+17417,2020-05-20,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+17419,2020-05-20,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+17420,2020-05-20,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+17424,2020-05-20,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+17425,2020-05-20,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+17426,2020-05-20,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+17427,2020-05-20,Cali,,46,F,En estudio,Casa,Leve,40 - 59
+17728,2020-05-21,Cali,,64,F,En estudio,Casa,Leve,60 - 79
+17802,2020-05-21,Cali,,5,F,En estudio,Casa,Leve,0 - 19
+17804,2020-05-21,Cali,,36,F,En estudio,Hospital,Moderado,20 - 39
+17805,2020-05-21,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+17809,2020-05-21,Cali,,62,F,En estudio,Hospital,Moderado,60 - 79
+17890,2020-05-21,Cali,,82,F,En estudio,Casa,Leve,80+
+17892,2020-05-21,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+17893,2020-05-21,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+17894,2020-05-21,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+17895,2020-05-21,Cali,,66,M,En estudio,Casa,Leve,60 - 79
+17896,2020-05-21,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+17897,2020-05-21,Cali,,59,F,En estudio,Hospital,Moderado,40 - 59
+17898,2020-05-21,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+17899,2020-05-21,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+17900,2020-05-21,Cali,,58,F,En estudio,Fallecido,Fallecido,40 - 59
+17901,2020-05-21,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+17902,2020-05-21,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+17903,2020-05-21,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+17904,2020-05-21,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+17905,2020-05-21,Cali,,18,F,En estudio,Casa,Leve,0 - 19
+17906,2020-05-21,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+17907,2020-05-21,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+17908,2020-05-21,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+17909,2020-05-21,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+17910,2020-05-21,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+17911,2020-05-21,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+17912,2020-05-21,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+17913,2020-05-21,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+17914,2020-05-21,Cali,,51,F,En estudio,Hospital,Moderado,40 - 59
+17915,2020-05-21,Cali,,46,F,En estudio,Hospital,Moderado,40 - 59
+17917,2020-05-21,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+17918,2020-05-21,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+17919,2020-05-21,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+17920,2020-05-21,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+17921,2020-05-21,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+17922,2020-05-21,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+17923,2020-05-21,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+17924,2020-05-21,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+17925,2020-05-21,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+17926,2020-05-21,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+17927,2020-05-21,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+17928,2020-05-21,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+17929,2020-05-21,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+18033,2020-05-21,Cali,,72,M,En estudio,Casa,Leve,60 - 79
+18039,2020-05-21,Cali,,29,F,En estudio,Hospital UCI,Grave,20 - 39
+18040,2020-05-21,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+18042,2020-05-21,Cali,,68,F,En estudio,Casa,Leve,60 - 79
+18043,2020-05-21,Cali,,73,M,En estudio,Casa,Leve,60 - 79
+18044,2020-05-21,Cali,,16,M,En estudio,Casa,Leve,0 - 19
+18046,2020-05-21,Cali,,48,M,En estudio,Fallecido,Fallecido,40 - 59
+18093,2020-05-21,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+18206,2020-05-21,Cali,,63,M,En estudio,Casa,Leve,60 - 79
+18224,2020-05-21,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+18359,2020-05-21,Cali,,34,M,Relacionado,Casa,Asintomático,20 - 39
+18365,2020-05-21,Cali,,52,F,En estudio,Hospital,Moderado,40 - 59
+18367,2020-05-21,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+18368,2020-05-21,Cali,,7,M,En estudio,Casa,Leve,0 - 19
+18417,2020-05-22,Cali,,4,M,En estudio,Casa,Leve,0 - 19
+18418,2020-05-22,Cali,,72,F,En estudio,Casa,Leve,60 - 79
+18422,2020-05-22,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+18433,2020-05-22,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+18434,2020-05-22,Cali,,65,F,En estudio,Casa,Leve,60 - 79
+18435,2020-05-22,Cali,,45,M,En estudio,Hospital,Moderado,40 - 59
+18436,2020-05-22,Cali,,35,M,En estudio,Hospital,Moderado,20 - 39
+18437,2020-05-22,Cali,,0,M,En estudio,Casa,Leve,0 - 19
+18438,2020-05-22,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+18532,2020-05-22,Cali,,49,F,En estudio,Hospital,Moderado,40 - 59
+18533,2020-05-22,Cali,,46,M,En estudio,Fallecido,Fallecido,40 - 59
+18534,2020-05-22,Cali,,43,M,En estudio,Hospital,Moderado,40 - 59
+18537,2020-05-22,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+18538,2020-05-22,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+18539,2020-05-22,Cali,,67,M,En estudio,Hospital,Moderado,60 - 79
+18540,2020-05-22,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+18541,2020-05-22,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+18542,2020-05-22,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+18543,2020-05-22,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+18544,2020-05-22,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+18545,2020-05-22,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+18546,2020-05-22,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+18547,2020-05-22,Cali,,59,F,En estudio,Casa,Leve,40 - 59
+18548,2020-05-22,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+18549,2020-05-22,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+18550,2020-05-22,Cali,,83,M,En estudio,Hospital,Moderado,80+
+18551,2020-05-22,Cali,,79,M,En estudio,Casa,Leve,60 - 79
+18552,2020-05-22,Cali,,74,F,En estudio,Casa,Leve,60 - 79
+18553,2020-05-22,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+18554,2020-05-22,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+18557,2020-05-22,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+18558,2020-05-22,Cali,,64,M,En estudio,Casa,Leve,60 - 79
+18559,2020-05-22,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+18560,2020-05-22,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+18561,2020-05-22,Cali,,49,M,En estudio,Fallecido,Fallecido,40 - 59
+18562,2020-05-22,Cali,,12,M,En estudio,Casa,Leve,0 - 19
+18618,2020-05-22,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+18619,2020-05-22,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+18621,2020-05-22,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+18622,2020-05-22,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+18623,2020-05-22,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+18624,2020-05-22,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+18625,2020-05-22,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+18626,2020-05-22,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+18627,2020-05-22,Cali,,22,F,En estudio,Hospital,Moderado,20 - 39
+18628,2020-05-22,Cali,,77,F,En estudio,Fallecido,Fallecido,60 - 79
+18629,2020-05-22,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+18630,2020-05-22,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+18632,2020-05-22,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+18633,2020-05-22,Cali,,66,F,En estudio,Casa,Leve,60 - 79
+18634,2020-05-22,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+18635,2020-05-22,Cali,,70,M,En estudio,Hospital,Moderado,60 - 79
+18636,2020-05-22,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+18637,2020-05-22,Cali,,37,M,En estudio,Hospital,Moderado,20 - 39
+18638,2020-05-22,Cali,,81,F,En estudio,Fallecido,Fallecido,80+
+18639,2020-05-22,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+18640,2020-05-22,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+18641,2020-05-22,Cali,,32,M,En estudio,Recuperado,Leve,20 - 39
+18642,2020-05-22,Cali,,20,F,En estudio,Recuperado,Leve,20 - 39
+18643,2020-05-22,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+18644,2020-05-22,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+18761,2020-05-22,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+18762,2020-05-22,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+18763,2020-05-22,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+18798,2020-05-22,Cali,,31,M,Relacionado,Casa,Leve,20 - 39
+18799,2020-05-22,Cali,,26,M,Relacionado,Casa,Leve,20 - 39
+18800,2020-05-22,Cali,,35,M,Relacionado,Casa,Leve,20 - 39
+18801,2020-05-22,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+18802,2020-05-22,Cali,,39,M,Relacionado,Casa,Leve,20 - 39
+18803,2020-05-22,Cali,,31,M,Relacionado,Casa,Leve,20 - 39
+18804,2020-05-22,Cali,,36,M,Relacionado,Casa,Leve,20 - 39
+18805,2020-05-22,Cali,,29,M,Relacionado,Casa,Leve,20 - 39
+18806,2020-05-22,Cali,,26,M,Relacionado,Casa,Leve,20 - 39
+18807,2020-05-22,Cali,,35,M,Relacionado,Casa,Leve,20 - 39
+18809,2020-05-22,Cali,,48,M,En estudio,Hospital UCI,Grave,40 - 59
+18814,2020-05-22,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+18815,2020-05-22,Cali,,45,F,En estudio,Casa,Leve,40 - 59
+18823,2020-05-22,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+18824,2020-05-22,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+18825,2020-05-22,Cali,,80,F,En estudio,Hospital,Moderado,80+
+18826,2020-05-22,Cali,,46,M,En estudio,Hospital,Moderado,40 - 59
+18827,2020-05-22,Cali,,35,M,En estudio,Hospital,Moderado,20 - 39
+18828,2020-05-22,Cali,,75,M,En estudio,Fallecido,Fallecido,60 - 79
+18832,2020-05-22,Cali,,62,F,En estudio,Hospital UCI,Grave,60 - 79
+18833,2020-05-22,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+18834,2020-05-22,Cali,,60,F,En estudio,Hospital,Moderado,60 - 79
+18835,2020-05-22,Cali,,64,M,En estudio,Hospital,Moderado,60 - 79
+18836,2020-05-22,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+18837,2020-05-22,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+18838,2020-05-22,Cali,,96,M,En estudio,Fallecido,Fallecido,80+
+18840,2020-05-22,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+18843,2020-05-22,Cali,,5,M,En estudio,Casa,Leve,0 - 19
+18844,2020-05-22,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+18845,2020-05-22,Cali,,28,F,En estudio,Hospital,Moderado,20 - 39
+18846,2020-05-22,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+18847,2020-05-22,Cali,,37,M,En estudio,Hospital,Moderado,20 - 39
+18848,2020-05-22,Cali,,50,F,En estudio,Hospital,Moderado,40 - 59
+18849,2020-05-22,Cali,,40,M,En estudio,Hospital,Moderado,40 - 59
+18850,2020-05-22,Cali,,64,M,En estudio,Casa,Leve,60 - 79
+18851,2020-05-22,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+18852,2020-05-22,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+18853,2020-05-22,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+18854,2020-05-22,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+18855,2020-05-22,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+18856,2020-05-22,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+19261,2020-05-23,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+19262,2020-05-23,Cali,,44,M,En estudio,Hospital UCI,Grave,40 - 59
+19371,2020-05-23,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+19372,2020-05-23,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+19373,2020-05-23,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+19374,2020-05-23,Cali,,75,F,En estudio,Casa,Leve,60 - 79
+19375,2020-05-23,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+19376,2020-05-23,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+19377,2020-05-23,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+19378,2020-05-23,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+19379,2020-05-23,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+19380,2020-05-23,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+19381,2020-05-23,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+19382,2020-05-23,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+19383,2020-05-23,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+19384,2020-05-23,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+19385,2020-05-23,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+19386,2020-05-23,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+19387,2020-05-23,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+19388,2020-05-23,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+19389,2020-05-23,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+19390,2020-05-23,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+19391,2020-05-23,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+19392,2020-05-23,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+19395,2020-05-23,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+19396,2020-05-23,Cali,,65,M,En estudio,Casa,Leve,60 - 79
+19397,2020-05-23,Cali,,9,F,En estudio,Casa,Leve,0 - 19
+19398,2020-05-23,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+19403,2020-05-23,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+19557,2020-05-23,Cali,,14,M,En estudio,Casa,Leve,0 - 19
+19558,2020-05-23,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+19559,2020-05-23,Cali,,68,F,En estudio,Casa,Leve,60 - 79
+19560,2020-05-23,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+19561,2020-05-23,Cali,,66,M,En estudio,Casa,Leve,60 - 79
+19562,2020-05-23,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+19563,2020-05-23,Cali,,66,F,En estudio,Casa,Leve,60 - 79
+19564,2020-05-23,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+19565,2020-05-23,Cali,,67,F,En estudio,Casa,Leve,60 - 79
+19566,2020-05-23,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+19567,2020-05-23,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+19570,2020-05-23,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+19571,2020-05-23,Cali,,49,F,En estudio,Casa,Leve,40 - 59
+19572,2020-05-23,Cali,,63,M,En estudio,Hospital,Moderado,60 - 79
+19573,2020-05-23,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+19574,2020-05-23,Cali,,76,F,En estudio,Hospital,Moderado,60 - 79
+19575,2020-05-23,Cali,,71,M,En estudio,Casa,Leve,60 - 79
+19576,2020-05-23,Cali,,79,F,En estudio,Casa,Leve,60 - 79
+19577,2020-05-23,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+19578,2020-05-23,Cali,,88,F,En estudio,Casa,Leve,80+
+19579,2020-05-23,Cali,,78,F,En estudio,Fallecido,Fallecido,60 - 79
+19580,2020-05-23,Cali,,87,M,En estudio,Casa,Leve,80+
+19581,2020-05-23,Cali,,51,M,En estudio,Hospital,Moderado,40 - 59
+19582,2020-05-23,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+19583,2020-05-23,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+19584,2020-05-23,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+19585,2020-05-23,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+19586,2020-05-23,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+19587,2020-05-23,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+19588,2020-05-23,Cali,,68,F,En estudio,Casa,Leve,60 - 79
+19589,2020-05-23,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+19590,2020-05-23,Cali,,46,F,En estudio,Casa,Leve,40 - 59
+19591,2020-05-23,Cali,,44,M,En estudio,Recuperado,Leve,40 - 59
+19592,2020-05-23,Cali,,62,M,En estudio,Hospital,Moderado,60 - 79
+19593,2020-05-23,Cali,,51,F,En estudio,Hospital,Moderado,40 - 59
+19595,2020-05-23,Cali,,49,F,En estudio,Hospital,Moderado,40 - 59
+19597,2020-05-23,Cali,,55,M,En estudio,Casa,Leve,40 - 59
+19617,2020-05-23,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+19643,2020-05-23,Cali,,45,F,En estudio,Casa,Leve,40 - 59
+19651,2020-05-23,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+19652,2020-05-23,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+19653,2020-05-23,Cali,,46,F,En estudio,Hospital,Moderado,40 - 59
+19658,2020-05-23,Cali,,67,F,En estudio,Casa,Leve,60 - 79
+19659,2020-05-23,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+19660,2020-05-23,Cali,,57,F,En estudio,Casa,Leve,40 - 59
+19667,2020-05-23,Cali,,67,F,En estudio,Fallecido,Fallecido,60 - 79
+19693,2020-05-23,Cali,,52,M,En estudio,Casa,Leve,40 - 59
+19694,2020-05-23,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+19695,2020-05-23,Cali,,15,F,En estudio,Casa,Leve,0 - 19
+19696,2020-05-23,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+19698,2020-05-23,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+20259,2020-05-24,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+20262,2020-05-24,Cali,,82,M,En estudio,Hospital UCI,Grave,80+
+20264,2020-05-24,Cali,,85,F,En estudio,Casa,Leve,80+
+20265,2020-05-24,Cali,,53,F,En estudio,Casa,Leve,40 - 59
+20266,2020-05-24,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+20267,2020-05-24,Cali,,11,F,En estudio,Casa,Leve,0 - 19
+20268,2020-05-24,Cali,,13,M,En estudio,Casa,Leve,0 - 19
+20269,2020-05-24,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+20270,2020-05-24,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+20271,2020-05-24,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+20275,2020-05-24,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+20276,2020-05-24,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+20277,2020-05-24,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+20278,2020-05-24,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+20279,2020-05-24,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+20280,2020-05-24,Cali,,50,F,En estudio,Casa,Leve,40 - 59
+20281,2020-05-24,Cali,,50,F,En estudio,Hospital,Moderado,40 - 59
+20282,2020-05-24,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+20283,2020-05-24,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+20284,2020-05-24,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+20285,2020-05-24,Cali,,42,M,En estudio,Casa,Leve,40 - 59
+20286,2020-05-24,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+20287,2020-05-24,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+20288,2020-05-24,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+20290,2020-05-24,Cali,,53,F,En estudio,Casa,Leve,40 - 59
+20291,2020-05-24,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+20292,2020-05-24,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+20293,2020-05-24,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+20294,2020-05-24,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+20295,2020-05-24,Cali,,12,M,En estudio,Casa,Leve,0 - 19
+20296,2020-05-24,Cali,,49,F,En estudio,Casa,Leve,40 - 59
+20297,2020-05-24,Cali,,75,F,En estudio,Casa,Leve,60 - 79
+20298,2020-05-24,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+20299,2020-05-24,Cali,,75,M,En estudio,Casa,Leve,60 - 79
+20300,2020-05-24,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+20302,2020-05-24,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+20304,2020-05-24,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+20305,2020-05-24,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+20306,2020-05-24,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+20307,2020-05-24,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+20308,2020-05-24,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+20309,2020-05-24,Cali,,51,M,En estudio,Hospital,Moderado,40 - 59
+20310,2020-05-24,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+20315,2020-05-24,Cali,,18,F,En estudio,Hospital,Moderado,0 - 19
+20317,2020-05-24,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+20318,2020-05-24,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+20319,2020-05-24,Cali,,77,M,En estudio,Casa,Leve,60 - 79
+20320,2020-05-24,Cali,,50,M,En estudio,Recuperado,Leve,40 - 59
+20321,2020-05-24,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+20322,2020-05-24,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+20323,2020-05-24,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+20324,2020-05-24,Cali,,15,M,En estudio,Recuperado,Leve,0 - 19
+20325,2020-05-24,Cali,,13,M,En estudio,Casa,Leve,0 - 19
+20326,2020-05-24,Cali,,55,M,En estudio,Casa,Leve,40 - 59
+20327,2020-05-24,Cali,,46,F,En estudio,Casa,Leve,40 - 59
+20433,2020-05-24,Cali,,49,F,En estudio,Casa,Leve,40 - 59
+20434,2020-05-24,Cali,,53,F,En estudio,Casa,Leve,40 - 59
+20526,2020-05-24,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+20615,2020-05-24,Cali,,65,M,En estudio,Casa,Leve,60 - 79
+20616,2020-05-24,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+20617,2020-05-24,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+20618,2020-05-24,Cali,,83,M,En estudio,Fallecido,Fallecido,80+
+20625,2020-05-24,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+20626,2020-05-24,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+20627,2020-05-24,Cali,,10,F,En estudio,Casa,Leve,0 - 19
+20714,2020-05-24,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+20814,2020-05-24,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+20816,2020-05-24,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+20919,2020-05-24,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+20920,2020-05-24,Cali,,44,M,En estudio,Hospital,Moderado,40 - 59
+20921,2020-05-24,Cali,,47,M,En estudio,Hospital,Moderado,40 - 59
+20922,2020-05-24,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+20923,2020-05-24,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+20924,2020-05-24,Cali,,84,M,En estudio,Hospital,Moderado,80+
+20925,2020-05-24,Cali,,66,M,En estudio,Casa,Leve,60 - 79
+20926,2020-05-24,Cali,,64,M,En estudio,Casa,Leve,60 - 79
+20927,2020-05-24,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+20929,2020-05-24,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+20930,2020-05-24,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+20931,2020-05-24,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+20932,2020-05-24,Cali,,5,F,En estudio,Casa,Leve,0 - 19
+20933,2020-05-24,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+20934,2020-05-24,Cali,,42,F,En estudio,Hospital,Moderado,40 - 59
+20935,2020-05-24,Cali,,40,F,En estudio,Hospital,Moderado,40 - 59
+20936,2020-05-24,Cali,,30,M,En estudio,Hospital,Moderado,20 - 39
+20939,2020-05-24,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+20940,2020-05-24,Cali,,13,M,En estudio,Casa,Leve,0 - 19
+20941,2020-05-24,Cali,,8,M,En estudio,Casa,Leve,0 - 19
+20942,2020-05-24,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+21219,2020-05-25,Cali,,67,M,En estudio,Casa,Leve,60 - 79
+21249,2020-05-25,Cali,,58,M,En estudio,Hospital,Moderado,40 - 59
+21250,2020-05-24,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+21297,2020-05-25,Cali,,54,M,En estudio,Hospital,Moderado,40 - 59
+21298,2020-05-25,Cali,,16,M,En estudio,Casa,Leve,0 - 19
+21299,2020-05-25,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+21300,2020-05-25,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+21301,2020-05-25,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+21302,2020-05-25,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+21304,2020-05-25,Cali,,72,F,En estudio,Casa,Leve,60 - 79
+21305,2020-05-25,Cali,,63,M,En estudio,Casa,Leve,60 - 79
+21306,2020-05-25,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+21307,2020-05-25,Cali,,11,M,En estudio,Casa,Leve,0 - 19
+21308,2020-05-25,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+21309,2020-05-25,Cali,,68,F,En estudio,Casa,Leve,60 - 79
+21310,2020-05-25,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+21311,2020-05-25,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+21312,2020-05-25,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+21313,2020-05-25,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+21314,2020-05-25,Cali,,59,F,En estudio,Casa,Leve,40 - 59
+21315,2020-05-25,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+21316,2020-05-25,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+21317,2020-05-25,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+21318,2020-05-25,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+21407,2020-05-25,Cali,,46,M,En estudio,Casa,Leve,40 - 59
+21408,2020-05-25,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+21409,2020-05-25,Cali,,75,F,En estudio,Hospital,Moderado,60 - 79
+21410,2020-05-25,Cali,,38,M,En estudio,Hospital,Moderado,20 - 39
+21411,2020-05-25,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+21412,2020-05-25,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+21413,2020-05-25,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+21414,2020-05-25,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+21415,2020-05-25,Cali,,53,F,En estudio,Casa,Leve,40 - 59
+21421,2020-05-25,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+21422,2020-05-25,Cali,,45,M,En estudio,Hospital,Moderado,40 - 59
+21430,2020-05-25,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+21431,2020-05-25,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+21432,2020-05-25,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+21433,2020-05-25,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+21434,2020-05-25,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+21435,2020-05-25,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+21623,2020-05-25,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+21627,2020-05-25,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+21700,2020-05-25,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+22057,2020-05-26,Cali,,66,M,En estudio,Hospital,Moderado,60 - 79
+22146,2020-05-26,Cali,,65,F,En estudio,Hospital,Moderado,60 - 79
+22147,2020-05-26,Cali,,41,F,En estudio,Hospital,Moderado,40 - 59
+22149,2020-05-26,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+22150,2020-05-26,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+22152,2020-05-26,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+22153,2020-05-26,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+22154,2020-05-26,Cali,,23,M,En estudio,Hospital,Moderado,20 - 39
+22156,2020-05-26,Cali,,53,F,En estudio,Casa,Leve,40 - 59
+22158,2020-05-26,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+22159,2020-05-26,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+22160,2020-05-26,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+22161,2020-05-26,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+22162,2020-05-26,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+22163,2020-05-26,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+22164,2020-05-26,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+22165,2020-05-26,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+22166,2020-05-26,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+22168,2020-05-26,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+22169,2020-05-26,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+22170,2020-05-26,Cali,,67,M,En estudio,Hospital,Moderado,60 - 79
+22171,2020-05-26,Cali,,15,F,En estudio,Casa,Leve,0 - 19
+22172,2020-05-26,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+22173,2020-05-26,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+22174,2020-05-26,Cali,,85,F,En estudio,Casa,Leve,80+
+22175,2020-05-26,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+22176,2020-05-26,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+22177,2020-05-26,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+22178,2020-05-26,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+22179,2020-05-26,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+22180,2020-05-26,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+22181,2020-05-26,Cali,,54,F,En estudio,Hospital,Moderado,40 - 59
+22182,2020-05-26,Cali,,72,M,En estudio,Hospital,Moderado,60 - 79
+22183,2020-05-26,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+22184,2020-05-26,Cali,,65,M,En estudio,Hospital UCI,Grave,60 - 79
+22185,2020-05-26,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+22186,2020-05-26,Cali,,70,F,En estudio,Casa,Leve,60 - 79
+22187,2020-05-26,Cali,,14,F,En estudio,Casa,Leve,0 - 19
+22188,2020-05-26,Cali,,52,M,En estudio,Casa,Leve,40 - 59
+22189,2020-05-26,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+22190,2020-05-26,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+22191,2020-05-26,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+22192,2020-05-26,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+22193,2020-05-26,Cali,,69,M,En estudio,Casa,Leve,60 - 79
+22194,2020-05-26,Cali,,39,M,En estudio,Hospital,Moderado,20 - 39
+22195,2020-05-26,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+22196,2020-05-26,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+22197,2020-05-26,Cali,,49,F,En estudio,Casa,Leve,40 - 59
+22198,2020-05-26,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+22199,2020-05-26,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+22200,2020-05-26,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+22201,2020-05-26,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+22202,2020-05-26,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+22203,2020-05-26,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+22204,2020-05-26,Cali,,13,M,En estudio,Casa,Leve,0 - 19
+22205,2020-05-26,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+22206,2020-05-26,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+22207,2020-05-26,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+22309,2020-05-26,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+22310,2020-05-26,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+22311,2020-05-26,Cali,,50,F,En estudio,Fallecido,Fallecido,40 - 59
+22312,2020-05-26,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+22313,2020-05-26,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+22314,2020-05-26,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+22315,2020-05-26,Cali,,6,M,En estudio,Casa,Leve,0 - 19
+22316,2020-05-26,Cali,,15,F,En estudio,Casa,Leve,0 - 19
+22317,2020-05-26,Cali,,69,F,En estudio,Casa,Leve,60 - 79
+22318,2020-05-26,Cali,,69,F,En estudio,Casa,Leve,60 - 79
+22319,2020-05-26,Cali,,79,M,En estudio,Casa,Leve,60 - 79
+22320,2020-05-26,Cali,,77,M,En estudio,Casa,Leve,60 - 79
+22321,2020-05-26,Cali,,77,M,En estudio,Casa,Leve,60 - 79
+22322,2020-05-26,Cali,,79,F,En estudio,Casa,Leve,60 - 79
+22325,2020-05-26,Cali,,70,F,En estudio,Hospital,Moderado,60 - 79
+22326,2020-05-26,Cali,,27,M,En estudio,Hospital,Moderado,20 - 39
+22327,2020-05-26,Cali,,47,M,En estudio,Hospital,Moderado,40 - 59
+22328,2020-05-26,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+22329,2020-05-26,Cali,,59,F,En estudio,Hospital UCI,Grave,40 - 59
+22330,2020-05-26,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+22331,2020-05-26,Cali,,0,F,En estudio,Hospital,Moderado,0 - 19
+22332,2020-05-26,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+22424,2020-05-26,Cali,,80,F,En estudio,Casa,Leve,80+
+22425,2020-05-26,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+22426,2020-05-26,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+22432,2020-05-26,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+22441,2020-05-26,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+22443,2020-05-26,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+22444,2020-05-26,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+22445,2020-05-26,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+22446,2020-05-26,Cali,,71,M,En estudio,Casa,Leve,60 - 79
+22447,2020-05-26,Cali,,89,M,En estudio,Casa,Leve,80+
+22448,2020-05-26,Cali,,36,M,En estudio,Hospital,Moderado,20 - 39
+22449,2020-05-26,Cali,,19,M,En estudio,Casa,Leve,0 - 19
+22468,2020-05-26,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+22469,2020-05-26,Cali,,82,F,En estudio,Casa,Leve,80+
+22473,2020-05-26,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+22474,2020-05-26,Cali,,39,M,En estudio,Hospital,Moderado,20 - 39
+22475,2020-05-26,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+22477,2020-05-26,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+22478,2020-05-26,Cali,,57,F,En estudio,Casa,Leve,40 - 59
+22481,2020-05-26,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+22483,2020-05-26,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+22484,2020-05-26,Cali,,0,M,En estudio,Casa,Leve,0 - 19
+22485,2020-05-26,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+22487,2020-05-26,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+22488,2020-05-26,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+22489,2020-05-26,Cali,,87,F,En estudio,Hospital UCI,Grave,80+
+22491,2020-05-26,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+22492,2020-05-26,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+22493,2020-05-26,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+22494,2020-05-26,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+22495,2020-05-26,Cali,,42,M,En estudio,Casa,Leve,40 - 59
+22496,2020-05-26,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+22497,2020-05-26,Cali,,10,M,En estudio,Casa,Leve,0 - 19
+22500,2020-05-26,Cali,,62,M,En estudio,Hospital,Moderado,60 - 79
+22502,2020-05-26,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+22503,2020-05-26,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+22504,2020-05-26,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+22505,2020-05-26,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+22506,2020-05-26,Cali,,65,F,En estudio,Casa,Leve,60 - 79
+22507,2020-05-26,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+22508,2020-05-26,Cali,,66,M,En estudio,Casa,Leve,60 - 79
+22509,2020-05-26,Cali,,11,F,En estudio,Casa,Leve,0 - 19
+22510,2020-05-26,Cali,,58,M,En estudio,Hospital UCI,Grave,40 - 59
+22511,2020-05-26,Cali,,70,M,En estudio,Casa,Leve,60 - 79
+22512,2020-05-26,Cali,,28,F,En estudio,Hospital,Moderado,20 - 39
+22513,2020-05-26,Cali,,42,F,En estudio,Hospital,Moderado,40 - 59
+22514,2020-05-26,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+22517,2020-05-26,Cali,,6,F,En estudio,Casa,Leve,0 - 19
+22518,2020-05-26,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+22519,2020-05-26,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+22529,2020-05-26,Cali,,46,M,En estudio,Casa,Leve,40 - 59
+22530,2020-05-26,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+22531,2020-05-26,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+22532,2020-05-26,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+22533,2020-05-26,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+23048,2020-05-27,Cali,,3,M,En estudio,Casa,Leve,0 - 19
+23053,2020-05-27,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+23054,2020-05-27,Cali,,19,M,En estudio,Casa,Leve,0 - 19
+23055,2020-05-27,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+23056,2020-05-27,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+23058,2020-05-27,Cali,,31,F,En estudio,Hospital,Moderado,20 - 39
+23059,2020-05-27,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+23063,2020-05-27,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+23064,2020-05-27,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+23065,2020-05-27,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+23080,2020-05-27,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+23086,2020-05-27,Cali,,94,F,En estudio,Casa,Leve,80+
+23093,2020-05-27,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+23169,2020-05-27,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+23170,2020-05-27,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+23171,2020-05-27,Cali,,19,M,En estudio,Casa,Leve,0 - 19
+23172,2020-05-27,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+23173,2020-05-27,Cali,,9,M,En estudio,Casa,Leve,0 - 19
+23174,2020-05-27,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+23175,2020-05-27,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+23176,2020-05-27,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+23177,2020-05-27,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+23179,2020-05-27,Cali,,22,F,En estudio,Hospital,Moderado,20 - 39
+23180,2020-05-27,Cali,,73,F,En estudio,Casa,Leve,60 - 79
+23181,2020-05-27,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+23182,2020-05-27,Cali,,70,F,En estudio,Casa,Leve,60 - 79
+23183,2020-05-27,Cali,,73,M,En estudio,Casa,Leve,60 - 79
+23184,2020-05-27,Cali,,11,F,En estudio,Casa,Leve,0 - 19
+23185,2020-05-27,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+23186,2020-05-27,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+23187,2020-05-27,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+23188,2020-05-27,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+23189,2020-05-27,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+23190,2020-05-27,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+23191,2020-05-27,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+23192,2020-05-27,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+23193,2020-05-27,Cali,,45,F,En estudio,Casa,Leve,40 - 59
+23194,2020-05-27,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+23195,2020-05-27,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+23196,2020-05-27,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+23197,2020-05-27,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+23198,2020-05-27,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+23199,2020-05-27,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+23200,2020-05-27,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+23201,2020-05-27,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+23202,2020-05-27,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+23203,2020-05-27,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+23204,2020-05-27,Cali,,0,M,En estudio,Casa,Leve,0 - 19
+23205,2020-05-27,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+23206,2020-05-27,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+23207,2020-05-27,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+23208,2020-05-27,Cali,,70,F,En estudio,Fallecido,Fallecido,60 - 79
+23209,2020-05-27,Cali,,7,F,En estudio,Casa,Leve,0 - 19
+23210,2020-05-27,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+23211,2020-05-27,Cali,,4,M,En estudio,Casa,Leve,0 - 19
+23212,2020-05-27,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+23214,2020-05-27,Cali,,87,F,En estudio,Casa,Leve,80+
+23215,2020-05-27,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+23217,2020-05-27,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+23218,2020-05-27,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+23219,2020-05-27,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+23220,2020-05-27,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+23221,2020-05-27,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+23222,2020-05-27,Cali,,0,M,En estudio,Casa,Leve,0 - 19
+23223,2020-05-27,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+23224,2020-05-27,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+23249,2020-05-27,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+23250,2020-05-27,Cali,,50,F,En estudio,Casa,Leve,40 - 59
+23251,2020-05-27,Cali,,54,F,En estudio,Hospital,Moderado,40 - 59
+23253,2020-05-27,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+23254,2020-05-27,Cali,,58,M,En estudio,Hospital,Moderado,40 - 59
+23255,2020-05-27,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+23256,2020-05-27,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+23257,2020-05-27,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+23258,2020-05-27,Cali,,5,F,En estudio,Casa,Leve,0 - 19
+23259,2020-05-27,Cali,,41,M,En estudio,Hospital,Moderado,40 - 59
+23260,2020-05-27,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+23261,2020-05-27,Cali,,69,F,En estudio,Casa,Leve,60 - 79
+23262,2020-05-27,Cali,,58,F,En estudio,Hospital,Moderado,40 - 59
+23263,2020-05-27,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+23264,2020-05-27,Cali,,5,M,En estudio,Casa,Leve,0 - 19
+23265,2020-05-27,Cali,,55,M,En estudio,Casa,Leve,40 - 59
+23266,2020-05-27,Cali,,46,F,En estudio,Casa,Leve,40 - 59
+23267,2020-05-27,Cali,,50,F,En estudio,Hospital,Moderado,40 - 59
+23268,2020-05-27,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+23269,2020-05-27,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+23270,2020-05-27,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+23271,2020-05-27,Cali,,76,M,En estudio,Hospital,Moderado,60 - 79
+23272,2020-05-27,Cali,,43,M,En estudio,Hospital,Moderado,40 - 59
+23305,2020-05-27,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+23307,2020-05-27,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+23313,2020-05-27,Cali,,64,F,En estudio,Casa,Leve,60 - 79
+23314,2020-05-27,Cali,,17,M,En estudio,Casa,Leve,0 - 19
+23486,2020-05-27,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+23487,2020-05-27,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+23488,2020-05-27,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+23489,2020-05-27,Cali,,64,M,En estudio,Casa,Leve,60 - 79
+23490,2020-05-27,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+23491,2020-05-27,Cali,,14,M,En estudio,Casa,Leve,0 - 19
+23498,2020-05-27,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+23562,2020-05-27,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+23563,2020-05-27,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+23577,2020-05-27,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+23578,2020-05-27,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+23579,2020-05-27,Cali,,10,F,En estudio,Casa,Leve,0 - 19
+23580,2020-05-27,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+23581,2020-05-27,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+23582,2020-05-27,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+23682,2020-05-27,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+23683,2020-05-27,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+23685,2020-05-27,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+23694,2020-05-27,Cali,,68,M,En estudio,Casa,Leve,60 - 79
+24161,2020-05-28,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+24168,2020-05-28,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+24169,2020-05-28,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+24170,2020-05-28,Cali,,66,F,En estudio,Casa,Leve,60 - 79
+24171,2020-05-28,Cali,,46,M,En estudio,Casa,Leve,40 - 59
+24172,2020-05-28,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+24173,2020-05-28,Cali,,65,M,En estudio,Hospital,Moderado,60 - 79
+24175,2020-05-28,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+24177,2020-05-28,Cali,,47,M,En estudio,Hospital UCI,Grave,40 - 59
+24178,2020-05-28,Cali,,50,F,En estudio,Casa,Leve,40 - 59
+24250,2020-05-28,Cali,,57,M,En estudio,Hospital UCI,Grave,40 - 59
+24251,2020-05-28,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+24252,2020-05-28,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+24343,2020-05-28,Cali,,46,M,En estudio,Hospital,Moderado,40 - 59
+24508,2020-05-28,Cali,,72,F,En estudio,Casa,Leve,60 - 79
+24509,2020-05-28,Cali,,81,M,En estudio,Casa,Leve,80+
+24510,2020-05-28,Cali,,65,M,En estudio,Casa,Leve,60 - 79
+24511,2020-05-28,Cali,,69,M,En estudio,Casa,Leve,60 - 79
+24512,2020-05-28,Cali,,88,M,En estudio,Casa,Leve,80+
+24513,2020-05-28,Cali,,60,M,En estudio,Casa,Leve,60 - 79
+24514,2020-05-28,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+24515,2020-05-28,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+24516,2020-05-28,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+24517,2020-05-28,Cali,,49,M,En estudio,Hospital,Moderado,40 - 59
+24518,2020-05-28,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+24519,2020-05-28,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+24520,2020-05-28,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+24521,2020-05-28,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+24522,2020-05-28,Cali,,72,M,En estudio,Casa,Leve,60 - 79
+24523,2020-05-28,Cali,,50,M,En estudio,Casa,Leve,40 - 59
+24524,2020-05-28,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+24525,2020-05-28,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+24526,2020-05-28,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+24527,2020-05-28,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+24529,2020-05-28,Cali,,63,M,En estudio,Casa,Leve,60 - 79
+24530,2020-05-28,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+24531,2020-05-28,Cali,,59,F,En estudio,Hospital,Moderado,40 - 59
+24532,2020-05-28,Cali,,42,M,En estudio,Hospital,Moderado,40 - 59
+24533,2020-05-28,Cali,,17,M,En estudio,Casa,Leve,0 - 19
+24534,2020-05-28,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+24535,2020-05-28,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+24536,2020-05-28,Cali,,45,F,En estudio,Casa,Leve,40 - 59
+24537,2020-05-28,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+24538,2020-05-28,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+24539,2020-05-28,Cali,,66,F,En estudio,Casa,Leve,60 - 79
+24540,2020-05-28,Cali,,64,F,En estudio,Casa,Leve,60 - 79
+24541,2020-05-28,Cali,,12,M,En estudio,Casa,Leve,0 - 19
+24542,2020-05-28,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+24543,2020-05-28,Cali,,68,F,En estudio,Casa,Leve,60 - 79
+24544,2020-05-28,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+24545,2020-05-28,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+24546,2020-05-28,Cali,,75,M,En estudio,Hospital,Moderado,60 - 79
+24547,2020-05-28,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+24548,2020-05-28,Cali,,23,F,En estudio,Hospital,Moderado,20 - 39
+24549,2020-05-28,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+24550,2020-05-28,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+24551,2020-05-28,Cali,,70,F,En estudio,Hospital,Moderado,60 - 79
+24554,2020-05-28,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+24561,2020-05-28,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+24562,2020-05-28,Cali,,93,F,En estudio,Casa,Leve,80+
+24563,2020-05-28,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+24564,2020-05-28,Cali,,2,M,En estudio,Casa,Leve,0 - 19
+24565,2020-05-28,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+24566,2020-05-28,Cali,,6,M,En estudio,Casa,Leve,0 - 19
+24567,2020-05-28,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+24576,2020-05-28,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+24577,2020-05-28,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+24578,2020-05-28,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+24579,2020-05-28,Cali,,13,F,En estudio,Casa,Leve,0 - 19
+24580,2020-05-28,Cali,,74,M,En estudio,Casa,Leve,60 - 79
+24581,2020-05-28,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+24582,2020-05-28,Cali,,80,M,En estudio,Hospital UCI,Grave,80+
+24583,2020-05-28,Cali,,28,M,En estudio,Hospital,Moderado,20 - 39
+24584,2020-05-28,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+24585,2020-05-28,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+24586,2020-05-28,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+24588,2020-05-28,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+24590,2020-05-28,Cali,,50,M,En estudio,Casa,Leve,40 - 59
+24592,2020-05-28,Cali,,41,F,En estudio,Hospital,Moderado,40 - 59
+24593,2020-05-28,Cali,,6,M,En estudio,Casa,Leve,0 - 19
+24596,2020-05-28,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+24597,2020-05-28,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+24598,2020-05-28,Cali,,13,F,En estudio,Casa,Leve,0 - 19
+24599,2020-05-28,Cali,,19,M,En estudio,Casa,Leve,0 - 19
+24600,2020-05-28,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+24631,2020-05-28,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+24632,2020-05-28,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+24633,2020-05-28,Cali,,7,M,En estudio,Casa,Leve,0 - 19
+24634,2020-05-28,Cali,,42,M,En estudio,Casa,Leve,40 - 59
+24635,2020-05-28,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+24636,2020-05-28,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+24653,2020-05-28,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+24739,2020-05-28,Cali,,86,F,En estudio,Fallecido,Fallecido,80+
+24740,2020-05-28,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+24741,2020-05-28,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+24742,2020-05-28,Cali,,14,M,En estudio,Casa,Leve,0 - 19
+24743,2020-05-28,Cali,,67,M,En estudio,Hospital,Moderado,60 - 79
+24744,2020-05-28,Cali,,50,F,En estudio,Hospital,Moderado,40 - 59
+24746,2020-05-28,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+24751,,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+24752,,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+24754,,Cali,,23,M,En estudio,Casa,Leve,20 - 39
+25308,2020-05-28,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+25309,2020-05-28,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+25344,2020-05-28,Cali,,14,M,En estudio,Casa,Leve,0 - 19
+25345,2020-05-28,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+25346,2020-05-28,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+25347,2020-05-28,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+25403,2020-05-28,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+25405,2020-05-28,Cali,,13,F,En estudio,Casa,Leve,0 - 19
+25407,2020-05-29,Cali,,4,M,En estudio,Casa,Leve,0 - 19
+25479,2020-05-29,Cali,,69,F,En estudio,Hospital UCI,Grave,60 - 79
+25482,2020-05-29,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+25483,2020-05-29,Cali,,42,M,En estudio,Casa,Leve,40 - 59
+25538,2020-05-29,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+25539,2020-05-29,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+25540,2020-05-29,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+25541,2020-05-29,Cali,,45,F,En estudio,Casa,Leve,40 - 59
+25542,2020-05-29,Cali,,66,F,En estudio,Hospital,Moderado,60 - 79
+25543,2020-05-29,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+25544,2020-05-29,Cali,,69,F,En estudio,Hospital UCI,Grave,60 - 79
+25545,2020-05-29,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+25579,2020-05-29,Cali,,68,F,En estudio,Casa,Leve,60 - 79
+25581,2020-05-29,Cali,,64,F,En estudio,Casa,Leve,60 - 79
+25582,2020-05-29,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+25583,2020-05-29,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+25584,2020-05-29,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+25585,2020-05-29,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+25586,2020-05-29,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+25587,2020-05-29,Cali,,57,M,En estudio,Casa,Leve,40 - 59
+25588,2020-05-29,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+25589,2020-05-29,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+25610,2020-05-29,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+25620,2020-05-29,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+25621,2020-05-29,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+25622,2020-05-29,Cali,,12,M,En estudio,Casa,Leve,0 - 19
+25623,2020-05-29,Cali,,1,F,En estudio,Casa,Leve,0 - 19
+25624,2020-05-29,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+25625,2020-05-29,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+25626,2020-05-29,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+25627,2020-05-29,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+25702,2020-05-29,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+25703,2020-05-29,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+25704,2020-05-29,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+25706,2020-05-29,Cali,,61,F,En estudio,Hospital,Moderado,60 - 79
+25707,2020-05-29,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+25708,2020-05-29,Cali,,74,M,En estudio,Hospital UCI,Grave,60 - 79
+25709,2020-05-29,Cali,,65,M,En estudio,Fallecido,Fallecido,60 - 79
+25710,2020-05-29,Cali,,54,M,En estudio,Fallecido,Fallecido,40 - 59
+25711,2020-05-29,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+25712,2020-05-29,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+25713,2020-05-29,Cali,,11,F,En estudio,Casa,Leve,0 - 19
+25714,2020-05-29,Cali,,3,M,En estudio,Casa,Leve,0 - 19
+25715,2020-05-29,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+25716,2020-05-29,Cali,,4,F,En estudio,Casa,Leve,0 - 19
+25717,2020-05-29,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+25718,2020-05-29,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+25719,2020-05-29,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+25720,2020-05-29,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+25721,2020-05-29,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+25722,2020-05-29,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+25729,2020-05-29,Cali,,81,M,En estudio,Hospital,Moderado,80+
+25730,2020-05-29,Cali,,80,F,En estudio,Hospital,Moderado,80+
+25731,2020-05-29,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+25732,2020-05-29,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+25733,2020-05-29,Cali,,33,M,En estudio,Hospital,Moderado,20 - 39
+25734,2020-05-29,Cali,,57,M,En estudio,Hospital,Moderado,40 - 59
+25735,2020-05-29,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+25736,2020-05-29,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+25737,2020-05-29,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+25738,2020-05-29,Cali,,17,M,En estudio,Casa,Leve,0 - 19
+25739,2020-05-29,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+25740,2020-05-29,Cali,,73,M,En estudio,Hospital,Moderado,60 - 79
+25741,2020-05-29,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+25742,2020-05-29,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+25743,2020-05-29,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+25744,2020-05-29,Cali,,81,F,En estudio,Casa,Leve,80+
+25745,2020-05-29,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+25746,2020-05-29,Cali,,47,F,En estudio,Casa,Leve,40 - 59
+25747,2020-05-29,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+25748,2020-05-29,Cali,,87,F,En estudio,Casa,Leve,80+
+25749,2020-05-29,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+25750,2020-05-29,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+25751,2020-05-29,Cali,,3,M,En estudio,Casa,Leve,0 - 19
+25752,2020-05-29,Cali,,2,F,En estudio,Casa,Leve,0 - 19
+25753,2020-05-29,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+25754,2020-05-29,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+25755,2020-05-29,Cali,,70,M,En estudio,Hospital,Moderado,60 - 79
+25802,2020-05-29,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+25803,2020-05-29,Cali,,85,F,En estudio,Fallecido,Fallecido,80+
+25804,2020-05-29,Cali,,92,F,En estudio,Casa,Leve,80+
+25809,2020-05-29,Cali,,79,F,En estudio,Casa,Leve,60 - 79
+25811,2020-05-29,Cali,,72,M,En estudio,Hospital,Moderado,60 - 79
+25812,2020-05-29,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+25833,2020-05-29,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+25986,2020-05-29,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+25987,2020-05-29,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+25988,2020-05-29,Cali,,56,M,En estudio,Hospital UCI,Grave,40 - 59
+25989,2020-05-29,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+25993,2020-05-29,Cali,,91,M,En estudio,Casa,Leve,80+
+25994,2020-05-29,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+25995,2020-05-29,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+26006,2020-05-29,Cali,,51,M,En estudio,Hospital,Moderado,40 - 59
+26007,2020-05-29,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+26726,,Cali,,55,F,En estudio,Casa,Leve,40 - 59
+26727,,Cali,,55,M,En estudio,Hospital,Moderado,40 - 59
+26734,2020-05-30,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+26735,2020-05-30,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+26736,2020-05-30,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+26737,2020-05-30,Cali,,71,M,En estudio,Casa,Leve,60 - 79
+26738,2020-05-30,Cali,,8,F,En estudio,Casa,Leve,0 - 19
+27304,2020-05-30,Cali,,4,F,En estudio,Casa,Leve,0 - 19
+27676,2020-05-30,Cali,,51,F,En estudio,Hospital,Moderado,40 - 59
+27677,2020-05-30,Cali,,57,M,En estudio,Hospital,Moderado,40 - 59
+27678,2020-05-30,Cali,,55,M,En estudio,Hospital,Moderado,40 - 59
+27680,2020-05-30,Cali,,28,F,En estudio,Hospital,Moderado,20 - 39
+27682,2020-05-30,Cali,,0,F,En estudio,Casa,Leve,0 - 19
+27683,2020-05-30,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+27684,2020-05-30,Cali,,9,F,En estudio,Casa,Leve,0 - 19
+27735,2020-05-30,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+27747,2020-05-30,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+27748,2020-05-30,Cali,,15,F,En estudio,Casa,Leve,0 - 19
+27749,2020-05-30,Cali,,31,F,En estudio,Casa,Leve,20 - 39
+27750,2020-05-30,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+27751,2020-05-30,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+27752,2020-05-30,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+27753,2020-05-30,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+27754,2020-05-30,Cali,,53,F,En estudio,Casa,Leve,40 - 59
+27755,2020-05-30,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+27756,2020-05-30,Cali,,63,M,En estudio,Casa,Leve,60 - 79
+27757,2020-05-30,Cali,,41,M,En estudio,Casa,Leve,40 - 59
+27758,2020-05-30,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+27760,2020-05-30,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+27761,2020-05-30,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+27762,2020-05-30,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+27763,2020-05-30,Cali,,17,F,En estudio,Casa,Leve,0 - 19
+27764,2020-05-30,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+27765,2020-05-30,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+27766,2020-05-30,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+27768,2020-05-30,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+27769,2020-05-30,Cali,,77,F,En estudio,Casa,Leve,60 - 79
+27770,2020-05-30,Cali,,79,F,En estudio,Casa,Leve,60 - 79
+27771,2020-05-30,Cali,,23,F,En estudio,Casa,Leve,20 - 39
+27772,2020-05-30,Cali,,59,M,En estudio,Casa,Leve,40 - 59
+27773,2020-05-30,Cali,,31,M,En estudio,Casa,Leve,20 - 39
+27774,2020-05-30,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+27775,2020-05-30,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+27776,2020-05-30,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+27777,2020-05-30,Cali,,55,M,En estudio,Hospital,Moderado,40 - 59
+27778,2020-05-30,Cali,,45,M,En estudio,Casa,Leve,40 - 59
+27779,2020-05-30,Cali,,58,M,En estudio,Casa,Leve,40 - 59
+27780,2020-05-30,Cali,,72,M,En estudio,Hospital,Moderado,60 - 79
+27781,2020-05-30,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+27784,2020-05-30,Cali,,7,M,En estudio,Casa,Leve,0 - 19
+27785,2020-05-30,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+27786,2020-05-30,Cali,,65,F,En estudio,Hospital UCI,Grave,60 - 79
+27788,2020-05-30,Cali,,61,M,En estudio,Hospital,Moderado,60 - 79
+27789,2020-05-30,Cali,,45,F,En estudio,Hospital,Moderado,40 - 59
+27790,2020-05-30,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+27791,2020-05-30,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+27792,2020-05-30,Cali,,51,M,En estudio,Hospital,Moderado,40 - 59
+27793,2020-05-30,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+27795,2020-05-30,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+27796,2020-05-30,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+27799,2020-05-30,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+27800,2020-05-30,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+27805,2020-05-30,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+27806,2020-05-30,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+27814,2020-05-30,Cali,,2,M,En estudio,Casa,Leve,0 - 19
+27816,2020-05-30,Cali,,11,F,En estudio,Casa,Leve,0 - 19
+27819,2020-05-30,Cali,,48,M,En estudio,Hospital,Moderado,40 - 59
+27820,2020-05-30,Cali,,52,M,En estudio,Casa,Leve,40 - 59
+27821,2020-05-30,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+27822,2020-05-30,Cali,,12,F,En estudio,Casa,Leve,0 - 19
+27823,2020-05-30,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+27824,2020-05-30,Cali,,8,M,En estudio,Casa,Leve,0 - 19
+27827,2020-05-30,Cali,,40,F,En estudio,Casa,Leve,40 - 59
+27828,2020-05-30,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+27829,2020-05-30,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+27835,2020-05-30,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+27843,2020-05-30,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+27844,2020-05-30,Cali,,66,F,En estudio,Hospital,Moderado,60 - 79
+27847,2020-05-30,Cali,,42,M,En estudio,Hospital,Moderado,40 - 59
+27848,2020-05-30,Cali,,71,M,En estudio,Casa,Leve,60 - 79
+27865,2020-05-30,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+27970,2020-05-30,Cali,,53,M,En estudio,Hospital UCI,Grave,40 - 59
+27981,2020-05-30,Cali,,35,F,En estudio,Fallecido,Fallecido,20 - 39
+27982,2020-05-30,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+27983,2020-05-30,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+27984,2020-05-30,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+27985,2020-05-30,Cali,,41,F,En estudio,Casa,Leve,40 - 59
+27986,2020-05-30,Cali,,54,M,En estudio,Casa,Leve,40 - 59
+27987,2020-05-30,Cali,,71,M,En estudio,Hospital,Moderado,60 - 79
+27988,2020-05-30,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+27989,2020-05-30,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+27991,2020-05-30,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+27992,2020-05-30,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+27993,2020-05-30,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+27994,2020-05-30,Cali,,46,M,En estudio,Casa,Leve,40 - 59
+27995,2020-05-30,Cali,,27,M,En estudio,Recuperado,Leve,20 - 39
+27996,2020-05-30,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+28001,2020-05-30,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+28002,2020-05-30,Cali,,28,F,En estudio,Casa,Leve,20 - 39
+28003,2020-05-30,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+28007,2020-05-30,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+28008,2020-05-30,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+28010,2020-05-30,Cali,,74,F,En estudio,Hospital,Moderado,60 - 79
+28015,2020-05-30,Cali,,2,M,En estudio,Casa,Leve,0 - 19
+28016,2020-05-30,Cali,,39,F,En estudio,Casa,Leve,20 - 39
+28018,2020-05-30,Cali,,57,F,En estudio,Casa,Leve,40 - 59
+28027,2020-05-30,Cali,,37,F,En estudio,Hospital,Moderado,20 - 39
+28036,2020-05-30,Cali,,74,M,En estudio,Casa,Leve,60 - 79
+28037,2020-05-30,Cali,,10,F,En estudio,Casa,Leve,0 - 19
+28038,2020-05-30,Cali,,44,M,En estudio,Casa,Leve,40 - 59
+28040,2020-05-30,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+28042,2020-05-30,Cali,,50,F,En estudio,Casa,Leve,40 - 59
+28044,2020-05-30,Cali,,78,M,En estudio,Hospital,Moderado,60 - 79
+28046,2020-05-30,Cali,,20,M,En estudio,Casa,Leve,20 - 39
+28047,2020-05-30,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+28049,2020-05-30,Cali,,64,M,En estudio,Casa,Leve,60 - 79
+28050,2020-05-30,Cali,,53,M,En estudio,Hospital,Moderado,40 - 59
+28051,2020-05-30,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+28054,2020-05-30,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+28067,2020-05-30,Cali,,50,M,En estudio,Casa,Leve,40 - 59
+28104,2020-05-30,Cali,,47,F,En estudio,Hospital,Moderado,40 - 59
+28105,2020-05-30,Cali,,89,F,En estudio,Hospital,Moderado,80+
+28106,2020-05-30,Cali,,16,F,En estudio,Casa,Leve,0 - 19
+28107,2020-05-30,Cali,,68,F,En estudio,Hospital,Moderado,60 - 79
+28115,2020-05-30,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+28118,2020-05-30,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+28149,2020-05-30,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+28150,2020-05-30,Cali,,34,F,En estudio,Casa,Leve,20 - 39
+28151,2020-05-30,Cali,,62,F,En estudio,Casa,Leve,60 - 79
+28152,2020-05-30,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+28159,2020-05-30,Cali,,78,M,En estudio,Hospital,Moderado,60 - 79
+28160,2020-05-30,Cali,,66,M,En estudio,Casa,Leve,60 - 79
+28179,2020-05-30,Cali,,17,M,En estudio,Casa,Leve,0 - 19
+28184,2020-05-30,Cali,,47,M,En estudio,Casa,Leve,40 - 59
+28195,2020-05-30,Cali,,38,F,En estudio,Casa,Leve,20 - 39
+28196,2020-05-30,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+28234,2020-05-30,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+28235,2020-05-30,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+28240,2020-05-30,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+28241,2020-05-30,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+28267,2020-05-30,Cali,,42,M,En estudio,Hospital,Moderado,40 - 59
+28268,2020-05-30,Cali,,74,M,En estudio,Hospital,Moderado,60 - 79
+28269,2020-05-30,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+28270,2020-05-30,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+28271,2020-05-30,Cali,,37,F,En estudio,Casa,Leve,20 - 39
+28277,2020-05-31,Cali,,8,F,En estudio,Casa,Leve,0 - 19
+28278,2020-05-31,Cali,,8,F,En estudio,Casa,Leve,0 - 19
+28936,2020-05-31,Cali,,28,F,En estudio,Hospital,Moderado,20 - 39
+28937,2020-05-31,Cali,,44,M,En estudio,Hospital,Moderado,40 - 59
+28938,2020-05-31,Cali,,55,M,En estudio,Hospital,Moderado,40 - 59
+28945,2020-05-31,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+28946,2020-05-31,Cali,,58,F,En estudio,Casa,Leve,40 - 59
+28997,2020-05-31,Cali,,72,F,En estudio,Casa,Leve,60 - 79
+28998,2020-05-31,Cali,,11,M,En estudio,Casa,Leve,0 - 19
+29000,2020-05-31,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+29001,2020-05-31,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+29002,2020-05-31,Cali,,0,F,En estudio,Casa,Leve,0 - 19
+29004,2020-05-31,Cali,,43,M,En estudio,Casa,Leve,40 - 59
+29005,2020-05-31,Cali,,65,F,En estudio,Casa,Leve,60 - 79
+29007,2020-05-31,Cali,,57,F,En estudio,Casa,Leve,40 - 59
+29008,2020-05-31,Cali,,48,M,En estudio,Casa,Leve,40 - 59
+29012,2020-05-31,Cali,,37,F,En estudio,Hospital,Moderado,20 - 39
+29017,2020-05-31,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+29019,2020-05-31,Cali,,74,F,En estudio,Casa,Leve,60 - 79
+29020,2020-05-31,Cali,,24,M,En estudio,Casa,Leve,20 - 39
+29021,2020-05-31,Cali,,73,M,En estudio,Casa,Leve,60 - 79
+29023,2020-05-31,Cali,,48,M,En estudio,Hospital,Moderado,40 - 59
+29024,2020-05-31,Cali,,72,M,En estudio,Hospital,Moderado,60 - 79
+29025,2020-05-31,Cali,,31,M,En estudio,Hospital,Moderado,20 - 39
+29026,2020-05-31,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+29027,2020-05-31,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+29028,2020-05-31,Cali,,79,M,En estudio,Hospital,Moderado,60 - 79
+29029,2020-05-31,Cali,,62,M,En estudio,Casa,Leve,60 - 79
+29030,2020-05-31,Cali,,42,F,En estudio,Casa,Leve,40 - 59
+29031,2020-05-31,Cali,,60,F,En estudio,Casa,Leve,60 - 79
+29032,2020-05-31,Cali,,25,F,En estudio,Casa,Leve,20 - 39
+29056,2020-05-31,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+29057,2020-05-31,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+29058,2020-05-31,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+29075,2020-05-31,Cali,,73,M,En estudio,Casa,Leve,60 - 79
+29079,2020-05-31,Cali,,64,F,En estudio,Hospital,Moderado,60 - 79
+29086,2020-05-31,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+29088,2020-05-31,Cali,,30,F,En estudio,Casa,Leve,20 - 39
+29089,2020-05-31,Cali,,40,M,En estudio,Casa,Leve,40 - 59
+29091,2020-05-31,Cali,,48,F,En estudio,Casa,Leve,40 - 59
+29093,2020-05-31,Cali,,15,F,En estudio,Casa,Leve,0 - 19
+29095,2020-05-31,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+29098,2020-05-31,Cali,,30,M,En estudio,Casa,Leve,20 - 39
+29099,2020-05-31,Cali,,34,M,En estudio,Casa,Leve,20 - 39
+29100,2020-05-31,Cali,,15,M,En estudio,Casa,Leve,0 - 19
+29101,2020-05-31,Cali,,22,M,En estudio,Casa,Leve,20 - 39
+29102,2020-05-31,Cali,,33,F,En estudio,Casa,Leve,20 - 39
+29103,2020-05-31,Cali,,1,F,En estudio,Casa,Leve,0 - 19
+29105,2020-05-31,Cali,,36,F,En estudio,Casa,Leve,20 - 39
+29106,2020-05-31,Cali,,26,F,En estudio,Casa,Leve,20 - 39
+29108,2020-05-31,Cali,,53,M,En estudio,Casa,Leve,40 - 59
+29110,2020-05-31,Cali,,19,F,En estudio,Casa,Leve,0 - 19
+29120,2020-05-31,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+29124,2020-05-31,Cali,,49,M,En estudio,Casa,Leve,40 - 59
+29126,2020-05-31,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+29131,2020-05-31,Cali,,44,F,En estudio,Casa,Leve,40 - 59
+29132,2020-05-31,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+29283,,Cali,,29,F,En estudio,Recuperado,Leve,20 - 39
+29286,2020-05-31,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+29288,2020-05-31,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+29318,2020-05-31,Cali,,33,M,En estudio,Casa,Leve,20 - 39
+29319,2020-05-31,Cali,,1,M,En estudio,Casa,Leve,0 - 19
+29327,2020-05-31,Cali,,70,F,En estudio,Casa,Leve,60 - 79
+29342,2020-05-31,Cali,,34,M,En estudio,Hospital,Moderado,20 - 39
+29350,2020-05-31,Cali,,32,M,En estudio,Casa,Leve,20 - 39
+29567,2020-06-01,Cali,,57,F,En estudio,Hospital,Moderado,40 - 59
+29574,2020-06-01,Cali,,63,F,En estudio,Casa,Leve,60 - 79
+29575,2020-06-01,Cali,,5,F,En estudio,Casa,Leve,0 - 19
+29576,2020-06-01,Cali,,46,F,En estudio,Casa,Leve,40 - 59
+29583,2020-06-01,Cali,,78,F,En estudio,Hospital,Moderado,60 - 79
+29584,2020-06-01,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+29585,2020-06-01,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+29586,2020-06-01,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+29587,2020-06-01,Cali,,15,F,En estudio,Casa,Leve,0 - 19
+29588,2020-06-01,Cali,,43,F,En estudio,Casa,Leve,40 - 59
+29589,2020-06-01,Cali,,17,M,En estudio,Casa,Leve,0 - 19
+29629,2020-06-01,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+29630,2020-06-01,Cali,,72,F,En estudio,Casa,Leve,60 - 79
+29631,2020-06-01,Cali,,71,M,En estudio,Casa,Leve,60 - 79
+29632,2020-06-01,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+29633,2020-06-01,Cali,,49,F,En estudio,Casa,Leve,40 - 59
+29634,2020-06-01,Cali,,69,M,En estudio,Casa,Leve,60 - 79
+29635,2020-06-01,Cali,,56,F,En estudio,Casa,Leve,40 - 59
+29636,2020-06-01,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+29637,2020-06-01,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+29638,2020-06-01,Cali,,61,M,En estudio,Casa,Leve,60 - 79
+29639,2020-06-01,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+29640,2020-06-01,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+29641,2020-06-01,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+29642,2020-06-01,Cali,,36,M,En estudio,Casa,Leve,20 - 39
+29643,2020-06-01,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+29644,2020-06-01,Cali,,21,M,En estudio,Casa,Leve,20 - 39
+29645,2020-06-01,Cali,,19,M,En estudio,Casa,Leve,0 - 19
+29646,,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+29672,2020-06-01,Cali,,76,F,En estudio,Hospital UCI,Grave,60 - 79
+29673,2020-06-01,Cali,,80,M,En estudio,Hospital UCI,Grave,80+
+29674,2020-06-01,Cali,,60,M,En estudio,Hospital,Moderado,60 - 79
+29675,2020-06-01,Cali,,59,M,En estudio,Hospital,Moderado,40 - 59
+29676,2020-06-01,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+29678,2020-06-01,Cali,,16,M,En estudio,Casa,Leve,0 - 19
+29679,2020-06-01,Cali,,21,F,En estudio,Casa,Leve,20 - 39
+29680,2020-06-01,Cali,,12,M,En estudio,Casa,Leve,0 - 19
+29689,2020-06-01,Cali,,56,M,En estudio,Casa,Leve,40 - 59
+29696,2020-06-01,Cali,,69,F,En estudio,Fallecido,Fallecido,60 - 79
+29698,2020-06-01,Cali,,22,F,En estudio,Casa,Leve,20 - 39
+29699,2020-06-01,Cali,,54,F,En estudio,Casa,Leve,40 - 59
+29703,2020-06-01,Cali,,50,F,En estudio,Casa,Leve,40 - 59
+29704,2020-06-01,Cali,,57,M,En estudio,Hospital,Moderado,40 - 59
+29705,2020-06-01,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+29747,2020-06-01,Cali,,85,M,En estudio,Fallecido,Fallecido,80+
+29749,2020-06-01,Cali,,76,F,En estudio,Casa,Leve,60 - 79
+29750,2020-06-01,Cali,,60,M,En estudio,Hospital UCI,Grave,60 - 79
+29751,2020-06-01,Cali,,74,M,En estudio,Fallecido,Fallecido,60 - 79
+29821,2020-06-01,Cali,,29,F,En estudio,Casa,Leve,20 - 39
+29822,2020-06-01,Cali,,55,M,En estudio,Casa,Leve,40 - 59
+29823,2020-06-01,Cali,,31,F,En estudio,Hospital UCI,Grave,20 - 39
+29825,2020-06-01,Cali,,51,M,En estudio,Casa,Leve,40 - 59
+29837,2020-06-01,Cali,,48,F,En estudio,Hospital UCI,Grave,40 - 59
+29841,2020-06-01,Cali,,39,M,En estudio,Casa,Leve,20 - 39
+29842,2020-06-01,Cali,,59,M,En estudio,Hospital UCI,Grave,40 - 59
+29843,2020-06-01,Cali,,73,M,En estudio,Hospital UCI,Grave,60 - 79
+29844,2020-06-01,Cali,,18,M,En estudio,Casa,Leve,0 - 19
+29845,2020-06-01,Cali,,52,F,En estudio,Casa,Leve,40 - 59
+29847,2020-06-01,Cali,,20,F,En estudio,Casa,Leve,20 - 39
+29848,2020-06-01,Cali,,37,M,En estudio,Casa,Leve,20 - 39
+29850,2020-06-01,Cali,,29,M,En estudio,Casa,Leve,20 - 39
+29851,2020-06-01,Cali,,35,M,En estudio,Casa,Leve,20 - 39
+29859,2020-06-01,Cali,,8,F,En estudio,Casa,Leve,0 - 19
+29863,2020-06-01,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+29864,2020-06-01,Cali,,25,M,En estudio,Casa,Leve,20 - 39
+29865,2020-06-01,Cali,,27,F,En estudio,Casa,Leve,20 - 39
+29868,2020-06-01,Cali,,24,F,En estudio,Casa,Leve,20 - 39
+29870,2020-06-01,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+29871,2020-06-01,Cali,,16,F,En estudio,Casa,Leve,0 - 19
+29875,2020-06-01,Cali,,38,M,En estudio,Casa,Leve,20 - 39
+29904,2020-06-01,Cali,,28,M,En estudio,Casa,Leve,20 - 39
+29925,2020-06-01,Cali,,35,F,En estudio,Casa,Leve,20 - 39
+29926,2020-06-01,Cali,,27,M,En estudio,Casa,Leve,20 - 39
+29927,2020-06-01,Cali,,72,M,En estudio,Casa,Leve,60 - 79
+29928,2020-06-01,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+29929,2020-06-01,Cali,,26,M,En estudio,Casa,Leve,20 - 39
+29930,2020-06-01,Cali,,32,F,En estudio,Casa,Leve,20 - 39
+29931,2020-06-01,Cali,,51,F,En estudio,Casa,Leve,40 - 59
+29934,2020-06-01,Cali,,61,F,En estudio,Casa,Leve,60 - 79
+29935,2020-06-01,Cali,,37,M,En estudio,Casa,Leve,20 - 39
