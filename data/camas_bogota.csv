@@ -1,4 +1,4 @@
-Servicio,Camas Ocupadas,Camas habilitadas,Camas disponibles,% Ocupación
-Hospitalización General,5286,8146,3175,0.6489074392339799
-Unidad de Cuidado Intermedio,619,957,383,0.6468129571577848
-Unidad de cuidado intensivo,993,1406,635,0.7062588904694168
+Servicio,Camas Ocupadas,Camas Ocupadas COVID,Camas habilitadas,Camas disponibles,% Ocupación
+General,5480,0,8146,3188,0.6727228087404862
+Intermedio,671,0,957,371,0.7011494252873564
+UCI,804,178,1406,653,0.6984352773826458

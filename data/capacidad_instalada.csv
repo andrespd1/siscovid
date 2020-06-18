@@ -1,0 +1,1212 @@
+Departamento,Municipio,Cantidad,Tipo
+Amazonas,EL ENCANTO,5,General
+Amazonas,LA CHORRERA,5,General
+Amazonas,LA PEDRERA,5,General
+Amazonas,LA VICTORIA,0,General
+Amazonas,LETICIA,156,General
+Amazonas,MIRITI - PARANÁ,4,General
+Amazonas,PUERTO ALEGRÍA,0,General
+Amazonas,PUERTO ARICA,4,General
+Amazonas,PUERTO NARIÑO,7,General
+Amazonas,PUERTO SANTANDER,5,General
+Amazonas,TARAPACÁ,6,General
+Antioquia,ABEJORRAL,16,General
+Antioquia,ABRIAQUÍ,8,General
+Antioquia,ALEJANDRÍA,6,General
+Antioquia,AMAGÁ,0,UCI
+Antioquia,AMAGÁ,14,General
+Antioquia,AMALFI,20,General
+Antioquia,ANDES,34,General
+Antioquia,ANGELÓPOLIS,10,General
+Antioquia,ANGOSTURA,9,General
+Antioquia,ANORÍ,13,General
+Antioquia,ANZA,7,General
+Antioquia,APARTADÓ,20,UCI
+Antioquia,APARTADÓ,416,General
+Antioquia,ARBOLETES,13,General
+Antioquia,ARGELIA,11,General
+Antioquia,ARMENIA,8,General
+Antioquia,BARBOSA,21,General
+Antioquia,BELLO,25,UCI
+Antioquia,BELLO,836,General
+Antioquia,BELMIRA,8,General
+Antioquia,BETANIA,7,General
+Antioquia,BETULIA,18,General
+Antioquia,BRICEÑO,13,General
+Antioquia,BURITICÁ,9,General
+Antioquia,CAICEDO,6,General
+Antioquia,CALDAS,6,UCI
+Antioquia,CALDAS,111,General
+Antioquia,CAMPAMENTO,12,General
+Antioquia,CARACOLÍ,6,General
+Antioquia,CARAMANTA,7,General
+Antioquia,CAREPA,0,UCI
+Antioquia,CAREPA,33,General
+Antioquia,CAROLINA,7,General
+Antioquia,CAUCASIA,20,UCI
+Antioquia,CAUCASIA,268,General
+Antioquia,CAÑASGORDAS,9,General
+Antioquia,CHIGORODÓ,8,UCI
+Antioquia,CHIGORODÓ,65,General
+Antioquia,CISNEROS,17,General
+Antioquia,CIUDAD BOLÍVAR,60,General
+Antioquia,COCORNÁ,8,General
+Antioquia,CONCEPCIÓN,5,General
+Antioquia,CONCORDIA,16,General
+Antioquia,COPACABANA,0,UCI
+Antioquia,COPACABANA,24,General
+Antioquia,CÁCERES,14,General
+Antioquia,DABEIBA,14,General
+Antioquia,DON MATÍAS,15,General
+Antioquia,EBÉJICO,8,General
+Antioquia,EL BAGRE,39,General
+Antioquia,EL CARMEN DE VIBORAL,0,UCI
+Antioquia,EL CARMEN DE VIBORAL,30,General
+Antioquia,EL SANTUARIO,12,General
+Antioquia,ENTRERRIOS,9,General
+Antioquia,ENVIGADO,22,UCI
+Antioquia,ENVIGADO,477,General
+Antioquia,FREDONIA,18,General
+Antioquia,FRONTINO,14,General
+Antioquia,GIRALDO,6,General
+Antioquia,GIRARDOTA,23,General
+Antioquia,GRANADA,6,General
+Antioquia,GUADALUPE,8,General
+Antioquia,GUARNE,15,General
+Antioquia,GUATAPE,11,General
+Antioquia,GÓMEZ PLATA,8,General
+Antioquia,HELICONIA,6,General
+Antioquia,HISPANIA,5,General
+Antioquia,ITAGUI,21,UCI
+Antioquia,ITAGUI,434,General
+Antioquia,ITUANGO,25,General
+Antioquia,JARDÍN,22,General
+Antioquia,JERICÓ,13,General
+Antioquia,LA CEJA,19,UCI
+Antioquia,LA CEJA,242,General
+Antioquia,LA ESTRELLA,27,General
+Antioquia,LA PINTADA,10,General
+Antioquia,LA UNIÓN,14,General
+Antioquia,LIBORINA,9,General
+Antioquia,MACEO,10,General
+Antioquia,MARINILLA,20,General
+Antioquia,MEDELLÍN,605,UCI
+Antioquia,MEDELLÍN,7338,General
+Antioquia,MONTEBELLO,7,General
+Antioquia,MURINDÓ,11,General
+Antioquia,MUTATÁ,16,General
+Antioquia,NARIÑO,14,General
+Antioquia,NECHÍ,24,General
+Antioquia,NECOCLÍ,24,General
+Antioquia,OLAYA,3,General
+Antioquia,PEQUE,11,General
+Antioquia,PEÑOL,16,General
+Antioquia,PUEBLORRICO,8,General
+Antioquia,PUERTO BERRÍO,76,General
+Antioquia,PUERTO NARE,10,General
+Antioquia,PUERTO TRIUNFO,14,General
+Antioquia,REMEDIOS,18,General
+Antioquia,RETIRO,33,General
+Antioquia,RIONEGRO,79,UCI
+Antioquia,RIONEGRO,768,General
+Antioquia,SABANALARGA,8,General
+Antioquia,SABANETA,95,General
+Antioquia,SALGAR,11,General
+Antioquia,SAN ANDRÉS,12,General
+Antioquia,SAN CARLOS,15,General
+Antioquia,SAN FRANCISCO,8,General
+Antioquia,SAN JERÓNIMO,14,General
+Antioquia,SAN JOSÉ DE LA MONTAÑA,8,General
+Antioquia,SAN JUAN DE URABÁ,8,General
+Antioquia,SAN LUIS,14,General
+Antioquia,SAN PEDRO,0,UCI
+Antioquia,SAN PEDRO,11,General
+Antioquia,SAN PEDRO DE URABA,15,General
+Antioquia,SAN RAFAEL,13,General
+Antioquia,SAN ROQUE,21,General
+Antioquia,SAN VICENTE,11,General
+Antioquia,SANTA BÁRBARA,11,General
+Antioquia,SANTA ROSA DE OSOS,20,General
+Antioquia,SANTAFÉ DE ANTIOQUIA,64,General
+Antioquia,SANTO DOMINGO,11,General
+Antioquia,SEGOVIA,20,General
+Antioquia,SONSON,14,General
+Antioquia,SOPETRÁN,9,General
+Antioquia,TARAZÁ,15,General
+Antioquia,TARSO,7,General
+Antioquia,TITIRIBÍ,23,General
+Antioquia,TOLEDO,12,General
+Antioquia,TURBO,144,General
+Antioquia,TÁMESIS,13,General
+Antioquia,URAMITA,14,General
+Antioquia,URRAO,38,General
+Antioquia,VALDIVIA,0,UCI
+Antioquia,VALDIVIA,13,General
+Antioquia,VALPARAÍSO,10,General
+Antioquia,VEGACHÍ,9,General
+Antioquia,VENECIA,13,General
+Antioquia,VIGÍA DEL FUERTE,9,General
+Antioquia,YALÍ,10,General
+Antioquia,YARUMAL,90,General
+Antioquia,YOLOMBÓ,61,General
+Antioquia,YONDÓ,13,General
+Antioquia,ZARAGOZA,23,General
+Arauca,ARAUCA,6,UCI
+Arauca,ARAUCA,203,General
+Arauca,ARAUQUITA,34,General
+Arauca,CRAVO NORTE,10,General
+Arauca,FORTUL,23,General
+Arauca,PUERTO RONDÓN,12,General
+Arauca,SARAVENA,199,General
+Arauca,TAME,57,General
+Atlántico,BARANOA,25,UCI
+Atlántico,BARANOA,447,General
+Atlántico,BARRANQUILLA,679,UCI
+Atlántico,BARRANQUILLA,5748,General
+Atlántico,CAMPO DE LA CRUZ,39,General
+Atlántico,CANDELARIA,7,General
+Atlántico,GALAPA,26,General
+Atlántico,JUAN DE ACOSTA,17,General
+Atlántico,LURUACO,17,UCI
+Atlántico,LURUACO,112,General
+Atlántico,MALAMBO,0,UCI
+Atlántico,MALAMBO,121,General
+Atlántico,MANATÍ,7,General
+Atlántico,PALMAR DE VARELA,75,General
+Atlántico,PIOJÓ,4,General
+Atlántico,POLONUEVO,12,General
+Atlántico,PONEDERA,27,General
+Atlántico,PUERTO COLOMBIA,17,UCI
+Atlántico,PUERTO COLOMBIA,795,General
+Atlántico,REPELÓN,9,General
+Atlántico,SABANAGRANDE,89,General
+Atlántico,SABANALARGA,51,UCI
+Atlántico,SABANALARGA,223,General
+Atlántico,SANTA LUCÍA,4,General
+Atlántico,SANTO TOMÁS,74,General
+Atlántico,SOLEDAD,66,UCI
+Atlántico,SOLEDAD,776,General
+Atlántico,SUAN,7,General
+Atlántico,TUBARÁ,9,General
+Atlántico,USIACURÍ,5,General
+Bogotá D.C,BOGOTÁ,1459,UCI
+Bogotá D.C,BOGOTÁ,16824,General
+Bolívar,ACHÍ,18,General
+Bolívar,ALTOS DEL ROSARIO,2,General
+Bolívar,ARENAL,12,General
+Bolívar,ARJONA,32,General
+Bolívar,ARROYOHONDO,3,General
+Bolívar,BARRANCO DE LOBA,14,General
+Bolívar,CALAMAR,21,General
+Bolívar,CANTAGALLO,14,General
+Bolívar,CARTAGENA,364,UCI
+Bolívar,CARTAGENA,3480,General
+Bolívar,CICUCO,6,General
+Bolívar,CLEMENCIA,9,General
+Bolívar,CÓRDOBA,16,General
+Bolívar,EL CARMEN DE BOLÍVAR,132,General
+Bolívar,EL GUAMO,5,General
+Bolívar,EL PEÑÓN,11,General
+Bolívar,HATILLO DE LOBA,14,General
+Bolívar,MAGANGUÉ,32,UCI
+Bolívar,MAGANGUÉ,503,General
+Bolívar,MAHATES,33,General
+Bolívar,MARGARITA,7,General
+Bolívar,MARÍA LA BAJA,14,General
+Bolívar,MOMPÓS,95,General
+Bolívar,MONTECRISTO,10,General
+Bolívar,MORALES,16,General
+Bolívar,NOROSÍ,4,General
+Bolívar,PINILLOS,13,General
+Bolívar,REGIDOR,10,General
+Bolívar,RÍO VIEJO,18,General
+Bolívar,SAN CRISTÓBAL,5,General
+Bolívar,SAN ESTANISLAO,11,General
+Bolívar,SAN FERNANDO,6,General
+Bolívar,SAN JACINTO,20,General
+Bolívar,SAN JACINTO DEL CAUCA,12,General
+Bolívar,SAN JUAN NEPOMUCENO,24,General
+Bolívar,SAN MARTÍN DE LOBA,18,General
+Bolívar,SAN PABLO,18,General
+Bolívar,SANTA CATALINA,6,General
+Bolívar,SANTA ROSA,32,General
+Bolívar,SANTA ROSA DEL SUR,42,General
+Bolívar,SIMITÍ,57,General
+Bolívar,SOPLAVIENTO,6,General
+Bolívar,TALAIGUA NUEVO,15,General
+Bolívar,TIQUISIO,13,General
+Bolívar,TURBACO,179,General
+Bolívar,TURBANA,6,General
+Bolívar,VILLANUEVA,7,General
+Bolívar,ZAMBRANO,15,General
+Boyacá,ALMEIDA,2,General
+Boyacá,AQUITANIA,11,General
+Boyacá,ARCABUCO,3,General
+Boyacá,BELÉN,2,General
+Boyacá,BERBEO,2,General
+Boyacá,BETÉITIVA,1,General
+Boyacá,BOAVITA,2,General
+Boyacá,BOYACÁ,2,General
+Boyacá,BRICEÑO,2,General
+Boyacá,BUENAVISTA,2,General
+Boyacá,BUSBANZÁ,0,General
+Boyacá,CALDAS,2,General
+Boyacá,CAMPOHERMOSO,2,General
+Boyacá,CERINZA,2,General
+Boyacá,CHINAVITA,2,General
+Boyacá,CHIQUINQUIRÁ,110,General
+Boyacá,CHISCAS,2,General
+Boyacá,CHITA,4,General
+Boyacá,CHITARAQUE,3,General
+Boyacá,CHIVATÁ,2,General
+Boyacá,CHIVOR,2,General
+Boyacá,CHÍQUIZA,2,General
+Boyacá,CIÉNEGA,2,General
+Boyacá,COPER,3,General
+Boyacá,CORRALES,2,General
+Boyacá,COVARACHÍA,1,General
+Boyacá,CUBARÁ,11,General
+Boyacá,CUCAITA,2,General
+Boyacá,CUÍTIVA,1,General
+Boyacá,CÓMBITA,1,General
+Boyacá,DUITAMA,9,UCI
+Boyacá,DUITAMA,309,General
+Boyacá,EL COCUY,10,General
+Boyacá,EL ESPINO,2,General
+Boyacá,FIRAVITOBA,2,General
+Boyacá,FLORESTA,2,General
+Boyacá,GACHANTIVÁ,2,General
+Boyacá,GAMEZA,3,General
+Boyacá,GARAGOA,41,General
+Boyacá,GUACAMAYAS,2,General
+Boyacá,GUATEQUE,39,General
+Boyacá,GUAYATÁ,2,General
+Boyacá,GÜICÁN,8,General
+Boyacá,IZA,7,General
+Boyacá,JENESANO,2,General
+Boyacá,JERICÓ,2,General
+Boyacá,LA CAPILLA,2,General
+Boyacá,LA UVITA,2,General
+Boyacá,LA VICTORIA,0,General
+Boyacá,LABRANZAGRANDE,11,General
+Boyacá,MACANAL,2,General
+Boyacá,MARIPÍ,14,General
+Boyacá,MIRAFLORES,18,General
+Boyacá,MONGUA,1,General
+Boyacá,MONGUÍ,11,General
+Boyacá,MONIQUIRÁ,48,General
+Boyacá,MOTAVITA,2,General
+Boyacá,MUZO,12,General
+Boyacá,NOBSA,2,General
+Boyacá,NUEVO COLÓN,3,General
+Boyacá,OICATÁ,47,General
+Boyacá,OTANCHE,7,General
+Boyacá,PACHAVITA,1,General
+Boyacá,PAIPA,18,General
+Boyacá,PAJARITO,2,General
+Boyacá,PANQUEBA,1,General
+Boyacá,PAUNA,8,General
+Boyacá,PAYA,3,General
+Boyacá,PAZ DE RÍO,2,General
+Boyacá,PESCA,3,General
+Boyacá,PISBA,2,General
+Boyacá,PUERTO BOYACÁ,53,General
+Boyacá,PÁEZ,3,General
+Boyacá,QUÍPAMA,9,General
+Boyacá,RAMIRIQUÍ,13,General
+Boyacá,RONDÓN,2,General
+Boyacá,RÁQUIRA,2,General
+Boyacá,SABOYÁ,2,General
+Boyacá,SAMACÁ,9,General
+Boyacá,SAN EDUARDO,2,General
+Boyacá,SAN JOSÉ DE PARE,1,General
+Boyacá,SAN LUIS DE GACENO,7,General
+Boyacá,SAN MATEO,2,General
+Boyacá,SAN MIGUEL DE SEMA,2,General
+Boyacá,SAN PABLO DE BORBUR,2,General
+Boyacá,SANTA MARÍA,5,General
+Boyacá,SANTA ROSA DE VITERBO,1,General
+Boyacá,SANTA SOFÍA,1,General
+Boyacá,SANTANA,4,General
+Boyacá,SATIVANORTE,1,General
+Boyacá,SATIVASUR,0,General
+Boyacá,SIACHOQUE,2,General
+Boyacá,SOATÁ,44,General
+Boyacá,SOCHA,9,General
+Boyacá,SOCOTÁ,10,General
+Boyacá,SOGAMOSO,13,UCI
+Boyacá,SOGAMOSO,378,General
+Boyacá,SOMONDOCO,2,General
+Boyacá,SORA,2,General
+Boyacá,SORACÁ,2,General
+Boyacá,SOTAQUIRÁ,2,General
+Boyacá,SUSACÓN,2,General
+Boyacá,SUTAMARCHÁN,3,General
+Boyacá,SUTATENZA,2,General
+Boyacá,SÁCHICA,2,General
+Boyacá,TASCO,7,General
+Boyacá,TENZA,1,General
+Boyacá,TIBANÁ,4,General
+Boyacá,TIBASOSA,1,General
+Boyacá,TINJACÁ,1,General
+Boyacá,TIPACOQUE,2,General
+Boyacá,TOCA,12,General
+Boyacá,TOGÜÍ,2,General
+Boyacá,TOTA,3,General
+Boyacá,TUNJA,70,UCI
+Boyacá,TUNJA,760,General
+Boyacá,TUNUNGUÁ,2,General
+Boyacá,TURMEQUÉ,7,General
+Boyacá,TUTA,3,General
+Boyacá,TUTAZÁ,3,General
+Boyacá,TÓPAGA,1,General
+Boyacá,UMBITA,8,General
+Boyacá,VENTAQUEMADA,3,General
+Boyacá,VILLA DE LEYVA,10,General
+Boyacá,VIRACACHÁ,2,General
+Boyacá,ZETAQUIRA,2,General
+Caldas,AGUADAS,28,General
+Caldas,ANSERMA,27,General
+Caldas,ARANZAZU,17,General
+Caldas,BELALCÁZAR,12,General
+Caldas,CHINCHINÁ,8,UCI
+Caldas,CHINCHINÁ,83,General
+Caldas,FILADELFIA,12,General
+Caldas,LA DORADA,10,UCI
+Caldas,LA DORADA,141,General
+Caldas,LA MERCED,12,General
+Caldas,MANIZALES,142,UCI
+Caldas,MANIZALES,1809,General
+Caldas,MANZANARES,16,General
+Caldas,MARMATO,16,General
+Caldas,MARQUETALIA,14,General
+Caldas,MARULANDA,17,General
+Caldas,NEIRA,20,General
+Caldas,NORCASIA,13,General
+Caldas,PALESTINA,3,General
+Caldas,PENSILVANIA,28,General
+Caldas,PÁCORA,17,General
+Caldas,RIOSUCIO,38,General
+Caldas,RISARALDA,18,General
+Caldas,SALAMINA,28,General
+Caldas,SAMANÁ,30,General
+Caldas,SAN JOSÉ,9,General
+Caldas,SUPÍA,28,General
+Caldas,VICTORIA,11,General
+Caldas,VILLAMARÍA,23,General
+Caldas,VITERBO,12,General
+Caquetá,ALBANIA,4,General
+Caquetá,BELÉN DE LOS ANDAQUIES,19,General
+Caquetá,CARTAGENA DEL CHAIRÁ,24,General
+Caquetá,CURILLO,25,General
+Caquetá,EL DONCELLO,21,General
+Caquetá,EL PAUJIL,11,General
+Caquetá,FLORENCIA,33,UCI
+Caquetá,FLORENCIA,593,General
+Caquetá,LA MONTAÑITA,11,General
+Caquetá,MILÁN,19,General
+Caquetá,MORELIA,3,General
+Caquetá,PUERTO RICO,24,General
+Caquetá,SAN JOSÉ DEL FRAGUA,4,General
+Caquetá,SAN VICENTE DEL CAGUÁN,36,General
+Caquetá,SOLANO,14,General
+Caquetá,SOLITA,12,General
+Caquetá,VALPARAÍSO,12,General
+Casanare,AGUAZUL,36,General
+Casanare,CHAMEZA,6,General
+Casanare,HATO COROZAL,8,General
+Casanare,LA SALINA,6,General
+Casanare,MANÍ,8,General
+Casanare,MONTERREY,11,General
+Casanare,NUNCHÍA,6,General
+Casanare,OROCUÉ,9,General
+Casanare,PAZ DE ARIPORO,18,General
+Casanare,PORE,7,General
+Casanare,RECETOR,6,General
+Casanare,SABANALARGA,6,General
+Casanare,SAN LUIS DE PALENQUE,8,General
+Casanare,SÁCAMA,6,General
+Casanare,TAURAMENA,36,General
+Casanare,TRINIDAD,12,General
+Casanare,TÁMARA,7,General
+Casanare,VILLANUEVA,26,General
+Casanare,YOPAL,39,UCI
+Casanare,YOPAL,544,General
+Cauca,ALMAGUER,9,General
+Cauca,ARGELIA,12,General
+Cauca,BALBOA,12,General
+Cauca,BOLÍVAR,16,General
+Cauca,BUENOS AIRES,14,General
+Cauca,CAJIBÍO,17,General
+Cauca,CALDONO,57,General
+Cauca,CALOTO,14,General
+Cauca,CORINTO,13,General
+Cauca,EL TAMBO,18,General
+Cauca,FLORENCIA,5,General
+Cauca,GUACHENÉ,4,General
+Cauca,GUAPI,24,General
+Cauca,INZÁ,13,General
+Cauca,JAMBALÓ,8,General
+Cauca,LA SIERRA,8,General
+Cauca,LA VEGA,8,General
+Cauca,LÓPEZ,12,General
+Cauca,MERCADERES,11,General
+Cauca,MIRANDA,14,General
+Cauca,MORALES,14,General
+Cauca,PADILLA,4,General
+Cauca,PAEZ,13,General
+Cauca,PATÍA,29,General
+Cauca,PIAMONTE,15,General
+Cauca,PIENDAMÓ,20,General
+Cauca,POPAYÁN,151,UCI
+Cauca,POPAYÁN,1511,General
+Cauca,PUERTO TEJADA,34,General
+Cauca,PURACÉ,17,General
+Cauca,ROSAS,10,General
+Cauca,SAN SEBASTIÁN,8,General
+Cauca,SANTA ROSA,10,General
+Cauca,SANTANDER DE QUILICHAO,103,General
+Cauca,SILVIA,32,General
+Cauca,SOTARA,13,General
+Cauca,SUCRE,5,General
+Cauca,SUÁREZ,13,General
+Cauca,TIMBIQUÍ,12,General
+Cauca,TIMBÍO,19,General
+Cauca,TORIBIO,13,General
+Cauca,TOTORÓ,13,General
+Cauca,VILLA RICA,5,General
+Cesar,AGUACHICA,27,UCI
+Cesar,AGUACHICA,422,General
+Cesar,AGUSTÍN CODAZZI,134,General
+Cesar,ASTREA,21,General
+Cesar,BECERRIL,21,General
+Cesar,BOSCONIA,22,UCI
+Cesar,BOSCONIA,187,General
+Cesar,CHIMICHAGUA,37,General
+Cesar,CHIRIGUANÁ,10,UCI
+Cesar,CHIRIGUANÁ,72,General
+Cesar,CURUMANÍ,34,General
+Cesar,EL COPEY,38,General
+Cesar,EL PASO,26,General
+Cesar,GAMARRA,18,General
+Cesar,GONZÁLEZ,5,General
+Cesar,LA GLORIA,14,General
+Cesar,LA JAGUA DE IBIRICO,80,General
+Cesar,LA PAZ,14,General
+Cesar,MANAURE,11,General
+Cesar,PAILITAS,25,General
+Cesar,PELAYA,21,General
+Cesar,PUEBLO BELLO,10,General
+Cesar,RÍO DE ORO,16,General
+Cesar,SAN ALBERTO,23,General
+Cesar,SAN DIEGO,19,General
+Cesar,SAN MARTÍN,25,General
+Cesar,TAMALAMEQUE,14,General
+Cesar,VALLEDUPAR,368,UCI
+Cesar,VALLEDUPAR,2536,General
+Chocó,ACANDÍ,28,General
+Chocó,ALTO BAUDO,24,General
+Chocó,ATRATO,23,General
+Chocó,BAGADÓ,19,General
+Chocó,BAHÍA SOLANO,19,General
+Chocó,BAJO BAUDÓ,14,General
+Chocó,BOJAYA,14,General
+Chocó,CARMEN DEL DARIEN,15,General
+Chocó,CONDOTO,28,General
+Chocó,CÉRTEGUI,12,General
+Chocó,EL CANTÓN DEL SAN PABLO,13,General
+Chocó,EL CARMEN DE ATRATO,11,General
+Chocó,EL LITORAL DEL SAN JUAN,13,General
+Chocó,ISTMINA,0,UCI
+Chocó,ISTMINA,68,General
+Chocó,JURADÓ,10,General
+Chocó,LLORÓ,14,General
+Chocó,MEDIO ATRATO,7,General
+Chocó,MEDIO BAUDÓ,28,General
+Chocó,MEDIO SAN JUAN,14,General
+Chocó,NUQUÍ,14,General
+Chocó,NÓVITA,12,General
+Chocó,QUIBDÓ,20,UCI
+Chocó,QUIBDÓ,439,General
+Chocó,RIOSUCIO,40,General
+Chocó,RÍO IRO,12,General
+Chocó,RÍO QUITO,4,General
+Chocó,SAN JOSÉ DEL PALMAR,9,General
+Chocó,SIPÍ,8,General
+Chocó,TADÓ,23,General
+Chocó,UNGUÍA,12,General
+Chocó,UNIÓN PANAMERICANA,10,General
+Cundinamarca,AGUA DE DIOS,17,General
+Cundinamarca,ALBÁN,1,General
+Cundinamarca,ANAPOIMA,4,General
+Cundinamarca,ANOLAIMA,10,General
+Cundinamarca,APULO,3,General
+Cundinamarca,ARBELÁEZ,25,General
+Cundinamarca,BELTRÁN,1,General
+Cundinamarca,BITUIMA,2,General
+Cundinamarca,BOJACÁ,3,General
+Cundinamarca,CABRERA,2,General
+Cundinamarca,CACHIPAY,2,General
+Cundinamarca,CAJICÁ,6,UCI
+Cundinamarca,CAJICÁ,65,General
+Cundinamarca,CAPARRAPÍ,2,General
+Cundinamarca,CAQUEZA,63,General
+Cundinamarca,CARMEN DE CARUPA,16,General
+Cundinamarca,CHAGUANÍ,3,General
+Cundinamarca,CHIPAQUE,4,General
+Cundinamarca,CHOACHÍ,3,General
+Cundinamarca,CHOCONTÁ,40,General
+Cundinamarca,CHÍA,25,UCI
+Cundinamarca,CHÍA,314,General
+Cundinamarca,COGUA,1,General
+Cundinamarca,COTA,6,General
+Cundinamarca,CUCUNUBÁ,2,General
+Cundinamarca,EL COLEGIO,25,General
+Cundinamarca,EL PEÑÓN,4,General
+Cundinamarca,EL ROSAL,4,General
+Cundinamarca,FACATATIVÁ,30,UCI
+Cundinamarca,FACATATIVÁ,359,General
+Cundinamarca,FOMEQUE,32,General
+Cundinamarca,FOSCA,6,General
+Cundinamarca,FUNZA,34,General
+Cundinamarca,FUSAGASUGÁ,11,UCI
+Cundinamarca,FUSAGASUGÁ,202,General
+Cundinamarca,FÚQUENE,3,General
+Cundinamarca,GACHALA,2,General
+Cundinamarca,GACHANCIPÁ,2,General
+Cundinamarca,GACHETÁ,38,General
+Cundinamarca,GAMA,1,General
+Cundinamarca,GIRARDOT,38,UCI
+Cundinamarca,GIRARDOT,613,General
+Cundinamarca,GRANADA,1,General
+Cundinamarca,GUACHETÁ,16,General
+Cundinamarca,GUADUAS,28,General
+Cundinamarca,GUASCA,2,General
+Cundinamarca,GUATAQUÍ,1,General
+Cundinamarca,GUATAVITA,17,General
+Cundinamarca,GUAYABAL DE SIQUIMA,1,General
+Cundinamarca,GUAYABETAL,3,General
+Cundinamarca,GUTIÉRREZ,2,General
+Cundinamarca,JERUSALÉN,3,General
+Cundinamarca,JUNÍN,11,General
+Cundinamarca,LA CALERA,3,General
+Cundinamarca,LA MESA,72,General
+Cundinamarca,LA PALMA,20,General
+Cundinamarca,LA PEÑA,2,General
+Cundinamarca,LA VEGA,22,General
+Cundinamarca,LENGUAZAQUE,2,General
+Cundinamarca,MACHETA,2,General
+Cundinamarca,MADRID,69,General
+Cundinamarca,MANTA,2,General
+Cundinamarca,MEDINA,12,General
+Cundinamarca,MOSQUERA,36,General
+Cundinamarca,NARIÑO,0,General
+Cundinamarca,NEMOCÓN,26,General
+Cundinamarca,NILO,1,General
+Cundinamarca,NIMAIMA,2,General
+Cundinamarca,NOCAIMA,1,General
+Cundinamarca,PACHO,78,General
+Cundinamarca,PAIME,3,General
+Cundinamarca,PANDI,2,General
+Cundinamarca,PARATEBUENO,2,General
+Cundinamarca,PASCA,1,General
+Cundinamarca,PUERTO SALGAR,18,General
+Cundinamarca,PULÍ,1,General
+Cundinamarca,QUEBRADANEGRA,2,General
+Cundinamarca,QUETAME,1,General
+Cundinamarca,QUIPILE,2,General
+Cundinamarca,RICAURTE,2,General
+Cundinamarca,SAN ANTONIO DEL TEQUENDAMA,10,General
+Cundinamarca,SAN BERNARDO,2,General
+Cundinamarca,SAN CAYETANO,2,General
+Cundinamarca,SAN FRANCISCO,4,General
+Cundinamarca,SAN JUAN DE RÍO SECO,10,General
+Cundinamarca,SASAIMA,119,General
+Cundinamarca,SESQUILÉ,19,General
+Cundinamarca,SIBATÉ,10,General
+Cundinamarca,SILVANIA,28,General
+Cundinamarca,SIMIJACA,2,General
+Cundinamarca,SOACHA,66,UCI
+Cundinamarca,SOACHA,464,General
+Cundinamarca,SOPÓ,22,General
+Cundinamarca,SUBACHOQUE,75,General
+Cundinamarca,SUESCA,14,General
+Cundinamarca,SUPATÁ,2,General
+Cundinamarca,SUSA,2,General
+Cundinamarca,SUTATAUSA,2,General
+Cundinamarca,TABIO,21,General
+Cundinamarca,TAUSA,3,General
+Cundinamarca,TENA,0,General
+Cundinamarca,TENJO,19,General
+Cundinamarca,TIBACUY,1,General
+Cundinamarca,TIBIRITA,2,General
+Cundinamarca,TOCAIMA,34,General
+Cundinamarca,TOCANCIPÁ,4,General
+Cundinamarca,TOPAIPÍ,2,General
+Cundinamarca,UBALÁ,4,General
+Cundinamarca,UBAQUE,2,General
+Cundinamarca,UNE,2,General
+Cundinamarca,VENECIA,2,General
+Cundinamarca,VERGARA,17,General
+Cundinamarca,VIANÍ,3,General
+Cundinamarca,VILLA DE SAN DIEGO DE UBATE,0,UCI
+Cundinamarca,VILLA DE SAN DIEGO DE UBATE,92,General
+Cundinamarca,VILLAGÓMEZ,2,General
+Cundinamarca,VILLAPINZÓN,6,General
+Cundinamarca,VILLETA,48,General
+Cundinamarca,VIOTÁ,25,General
+Cundinamarca,YACOPÍ,13,General
+Cundinamarca,ZIPACÓN,2,General
+Cundinamarca,ZIPAQUIRÁ,43,UCI
+Cundinamarca,ZIPAQUIRÁ,342,General
+Cundinamarca,ÚTICA,1,General
+Córdoba,AYAPEL,54,General
+Córdoba,BUENAVISTA,22,General
+Córdoba,CANALETE,9,General
+Córdoba,CERETÉ,138,General
+Córdoba,CHIMÁ,21,General
+Córdoba,CHINÚ,24,General
+Córdoba,CIÉNAGA DE ORO,22,General
+Córdoba,COTORRA,18,General
+Córdoba,LA APARTADA,17,General
+Córdoba,LORICA,43,UCI
+Córdoba,LORICA,281,General
+Córdoba,LOS CÓRDOBAS,8,General
+Córdoba,MOMIL,18,General
+Córdoba,MONTELÍBANO,122,General
+Córdoba,MONTERÍA,366,UCI
+Córdoba,MONTERÍA,2453,General
+Córdoba,MOÑITOS,18,General
+Córdoba,PLANETA RICA,0,UCI
+Córdoba,PLANETA RICA,79,General
+Córdoba,PUEBLO NUEVO,16,General
+Córdoba,PUERTO ESCONDIDO,11,General
+Córdoba,PUERTO LIBERTADOR,16,General
+Córdoba,PURÍSIMA,30,General
+Córdoba,SAHAGÚN,14,UCI
+Córdoba,SAHAGÚN,243,General
+Córdoba,SAN ANDRÉS SOTAVENTO,21,General
+Córdoba,SAN ANTERO,17,General
+Córdoba,SAN BERNARDO DEL VIENTO,16,General
+Córdoba,SAN CARLOS,29,General
+Córdoba,SAN JOSE DE URÉ,0,General
+Córdoba,SAN PELAYO,11,General
+Córdoba,TIERRALTA,39,General
+Córdoba,TUCHÍN,13,General
+Córdoba,VALENCIA,17,General
+Guainía,BARRANCO MINAS,8,General
+Guainía,INÍRIDA,47,General
+Guainía,SAN FELIPE,5,General
+Guaviare,CALAMAR,11,General
+Guaviare,EL RETORNO,13,General
+Guaviare,MIRAFLORES,8,General
+Guaviare,SAN JOSÉ DEL GUAVIARE,112,General
+Huila,ACEVEDO,16,General
+Huila,AGRADO,10,General
+Huila,AIPE,14,General
+Huila,ALGECIRAS,11,General
+Huila,ALTAMIRA,0,General
+Huila,BARAYA,12,General
+Huila,CAMPOALEGRE,16,General
+Huila,COLOMBIA,11,General
+Huila,ELÍAS,3,General
+Huila,GARZÓN,13,UCI
+Huila,GARZÓN,181,General
+Huila,GIGANTE,14,General
+Huila,GUADALUPE,18,General
+Huila,HOBO,11,General
+Huila,IQUIRA,11,General
+Huila,ISNOS,14,General
+Huila,LA ARGENTINA,14,General
+Huila,LA PLATA,75,General
+Huila,NEIVA,194,UCI
+Huila,NEIVA,1385,General
+Huila,NÁTAGA,11,General
+Huila,OPORAPA,12,General
+Huila,PAICOL,9,General
+Huila,PALERMO,15,General
+Huila,PALESTINA,6,General
+Huila,PITAL,12,General
+Huila,PITALITO,10,UCI
+Huila,PITALITO,277,General
+Huila,RIVERA,17,General
+Huila,SALADOBLANCO,12,General
+Huila,SAN AGUSTÍN,22,General
+Huila,SANTA MARÍA,13,General
+Huila,SUAZA,14,General
+Huila,TARQUI,9,General
+Huila,TELLO,14,General
+Huila,TERUEL,13,General
+Huila,TESALIA,12,General
+Huila,TIMANÁ,16,General
+Huila,VILLAVIEJA,14,General
+Huila,YAGUARÁ,10,General
+La Guajira,ALBANIA,9,General
+La Guajira,BARRANCAS,91,General
+La Guajira,DIBULLA,16,General
+La Guajira,DISTRACCIÓN,74,General
+La Guajira,EL MOLINO,7,General
+La Guajira,FONSECA,22,General
+La Guajira,HATONUEVO,11,General
+La Guajira,MAICAO,48,UCI
+La Guajira,MAICAO,478,General
+La Guajira,MANAURE,16,General
+La Guajira,RIOHACHA,67,UCI
+La Guajira,RIOHACHA,684,General
+La Guajira,SAN JUAN DEL CESAR,48,UCI
+La Guajira,SAN JUAN DEL CESAR,265,General
+La Guajira,URIBIA,92,General
+La Guajira,URUMITA,13,General
+La Guajira,VILLANUEVA,17,General
+Magdalena,ALGARROBO,13,General
+Magdalena,ARACATACA,21,General
+Magdalena,ARIGUANÍ,22,General
+Magdalena,CERRO SAN ANTONIO,17,General
+Magdalena,CHIBOLO,28,General
+Magdalena,CIÉNAGA,16,UCI
+Magdalena,CIÉNAGA,246,General
+Magdalena,CONCORDIA,10,General
+Magdalena,EL BANCO,4,UCI
+Magdalena,EL BANCO,196,General
+Magdalena,EL PIÑON,18,General
+Magdalena,EL RETÉN,12,General
+Magdalena,FUNDACIÓN,294,General
+Magdalena,GUAMAL,21,General
+Magdalena,NUEVA GRANADA,13,General
+Magdalena,PEDRAZA,8,General
+Magdalena,PIJIÑO DEL CARMEN,9,General
+Magdalena,PIVIJAY,51,General
+Magdalena,PLATO,120,General
+Magdalena,PUEBLOVIEJO,15,General
+Magdalena,REMOLINO,7,General
+Magdalena,SABANAS DE SAN ANGEL,16,General
+Magdalena,SALAMINA,14,General
+Magdalena,SAN SEBASTIÁN DE BUENAVISTA,15,General
+Magdalena,SAN ZENÓN,8,General
+Magdalena,SANTA ANA,26,General
+Magdalena,SANTA BÁRBARA DE PINTO,10,General
+Magdalena,SANTA MARTA,170,UCI
+Magdalena,SANTA MARTA,2160,General
+Magdalena,SITIONUEVO,14,General
+Magdalena,TENERIFE,12,General
+Magdalena,ZAPAYÁN,16,General
+Magdalena,ZONA BANANERA,22,General
+Meta,ACACÍAS,40,General
+Meta,BARRANCA DE UPÍA,11,General
+Meta,CABUYARO,11,General
+Meta,CASTILLA LA NUEVA,17,General
+Meta,CUBARRAL,11,General
+Meta,CUMARAL,11,General
+Meta,EL CALVARIO,11,General
+Meta,EL CASTILLO,12,General
+Meta,EL DORADO,10,General
+Meta,FUENTE DE ORO,13,General
+Meta,GRANADA,12,UCI
+Meta,GRANADA,193,General
+Meta,GUAMAL,8,General
+Meta,LA MACARENA,21,General
+Meta,LEJANÍAS,13,General
+Meta,MAPIRIPÁN,13,General
+Meta,MESETAS,17,General
+Meta,PUERTO CONCORDIA,23,General
+Meta,PUERTO GAITÁN,70,General
+Meta,PUERTO LLERAS,18,General
+Meta,PUERTO LÓPEZ,35,General
+Meta,PUERTO RICO,15,General
+Meta,RESTREPO,15,General
+Meta,SAN CARLOS DE GUAROA,14,General
+Meta,SAN JUAN DE ARAMA,13,General
+Meta,SAN JUANITO,9,General
+Meta,SAN MARTÍN,33,General
+Meta,URIBE,12,General
+Meta,VILLAVICENCIO,98,UCI
+Meta,VILLAVICENCIO,1911,General
+Meta,VISTAHERMOSA,28,General
+Nariño,ALBÁN,4,General
+Nariño,ALDANA,5,General
+Nariño,ANCUYÁ,3,General
+Nariño,ARBOLEDA,4,General
+Nariño,BARBACOAS,37,General
+Nariño,BELÉN,6,General
+Nariño,BUESACO,6,General
+Nariño,CHACHAGÜÍ,25,General
+Nariño,COLÓN,5,General
+Nariño,CONSACA,5,General
+Nariño,CONTADERO,2,General
+Nariño,CUASPUD,4,General
+Nariño,CUMBAL,30,General
+Nariño,CUMBITARA,3,General
+Nariño,CÓRDOBA,7,General
+Nariño,EL CHARCO,23,General
+Nariño,EL PEÑOL,3,General
+Nariño,EL ROSARIO,3,General
+Nariño,EL TABLÓN DE GÓMEZ,7,General
+Nariño,EL TAMBO,15,General
+Nariño,FRANCISCO PIZARRO,3,General
+Nariño,FUNES,9,General
+Nariño,GUACHUCAL,15,General
+Nariño,GUAITARILLA,13,General
+Nariño,GUALMATÁN,2,General
+Nariño,ILES,4,General
+Nariño,IMUÉS,5,General
+Nariño,IPIALES,34,UCI
+Nariño,IPIALES,305,General
+Nariño,LA CRUZ,22,General
+Nariño,LA FLORIDA,6,General
+Nariño,LA LLANADA,3,General
+Nariño,LA TOLA,3,General
+Nariño,LA UNIÓN,0,UCI
+Nariño,LA UNIÓN,61,General
+Nariño,LEIVA,1,General
+Nariño,LINARES,8,General
+Nariño,LOS ANDES,7,General
+Nariño,MAGÜI,3,General
+Nariño,MALLAMA,8,General
+Nariño,MOSQUERA,2,General
+Nariño,NARIÑO,4,General
+Nariño,OLAYA HERRERA,2,General
+Nariño,OSPINA,7,General
+Nariño,PASTO,164,UCI
+Nariño,PASTO,2188,General
+Nariño,POLICARPA,4,General
+Nariño,POTOSÍ,3,General
+Nariño,PROVIDENCIA,4,General
+Nariño,PUERRES,7,General
+Nariño,PUPIALES,13,General
+Nariño,RICAURTE,18,General
+Nariño,ROBERTO PAYÁN,4,General
+Nariño,SAMANIEGO,45,General
+Nariño,SAN BERNARDO,3,General
+Nariño,SAN LORENZO,6,General
+Nariño,SAN PABLO,20,General
+Nariño,SAN PEDRO DE CARTAGO,3,General
+Nariño,SANDONÁ,28,General
+Nariño,SANTA BÁRBARA,5,General
+Nariño,SANTACRUZ,2,General
+Nariño,SAPUYES,3,General
+Nariño,TAMINANGO,10,General
+Nariño,TANGUA,5,General
+Nariño,TUMACO,293,General
+Nariño,TÚQUERRES,64,General
+Nariño,YACUANQUER,11,General
+Norte de Santander,ABREGO,11,General
+Norte de Santander,ARBOLEDAS,19,General
+Norte de Santander,BOCHALEMA,4,General
+Norte de Santander,BUCARASICA,2,General
+Norte de Santander,CACHIRÁ,15,General
+Norte de Santander,CHINÁCOTA,9,General
+Norte de Santander,CHITAGÁ,3,General
+Norte de Santander,CONVENCIÓN,15,General
+Norte de Santander,CUCUTILLA,2,General
+Norte de Santander,CÁCOTA,2,General
+Norte de Santander,CÚCUTA,187,UCI
+Norte de Santander,CÚCUTA,1888,General
+Norte de Santander,DURANIA,5,General
+Norte de Santander,EL CARMEN,11,General
+Norte de Santander,EL TARRA,4,General
+Norte de Santander,EL ZULIA,19,General
+Norte de Santander,GRAMALOTE,0,General
+Norte de Santander,HACARÍ,2,General
+Norte de Santander,HERRÁN,2,General
+Norte de Santander,LA ESPERANZA,3,General
+Norte de Santander,LA PLAYA,5,General
+Norte de Santander,LABATECA,3,General
+Norte de Santander,LOS PATIOS,65,General
+Norte de Santander,LOURDES,3,General
+Norte de Santander,MUTISCUA,2,General
+Norte de Santander,OCAÑA,13,UCI
+Norte de Santander,OCAÑA,339,General
+Norte de Santander,PAMPLONA,8,UCI
+Norte de Santander,PAMPLONA,77,General
+Norte de Santander,PAMPLONITA,2,General
+Norte de Santander,PUERTO SANTANDER,2,General
+Norte de Santander,RAGONVALIA,3,General
+Norte de Santander,SALAZAR,9,General
+Norte de Santander,SAN CALIXTO,1,General
+Norte de Santander,SAN CAYETANO,5,General
+Norte de Santander,SANTIAGO,4,General
+Norte de Santander,SARDINATA,20,General
+Norte de Santander,SILOS,3,General
+Norte de Santander,TEORAMA,7,General
+Norte de Santander,TIBÚ,40,General
+Norte de Santander,TOLEDO,16,General
+Norte de Santander,VILLA CARO,3,General
+Norte de Santander,VILLA DEL ROSARIO,17,General
+Putumayo,COLÓN,143,General
+Putumayo,LEGUÍZAMO,29,General
+Putumayo,MOCOA,5,UCI
+Putumayo,MOCOA,155,General
+Putumayo,ORITO,27,General
+Putumayo,PUERTO ASÍS,10,UCI
+Putumayo,PUERTO ASÍS,164,General
+Putumayo,PUERTO CAICEDO,18,General
+Putumayo,PUERTO GUZMÁN,11,General
+Putumayo,SAN FRANCISCO,0,General
+Putumayo,SAN MIGUEL,15,General
+Putumayo,SANTIAGO,0,General
+Putumayo,SIBUNDOY,3,General
+Putumayo,VALLE DEL GUAMUEZ,41,General
+Putumayo,VILLAGARZÓN,0,UCI
+Putumayo,VILLAGARZÓN,18,General
+Quindío,ARMENIA,64,UCI
+Quindío,ARMENIA,1224,General
+Quindío,BUENAVISTA,2,General
+Quindío,CALARCA,62,General
+Quindío,CIRCASIA,23,General
+Quindío,CÓRDOBA,2,General
+Quindío,FILANDIA,131,General
+Quindío,GÉNOVA,10,General
+Quindío,LA TEBAIDA,23,General
+Quindío,MONTENEGRO,24,General
+Quindío,PIJAO,9,General
+Quindío,QUIMBAYA,23,General
+Quindío,SALENTO,4,General
+Risaralda,APÍA,12,General
+Risaralda,BALBOA,9,General
+Risaralda,BELÉN DE UMBRÍA,20,General
+Risaralda,DOSQUEBRADAS,4,UCI
+Risaralda,DOSQUEBRADAS,99,General
+Risaralda,GUÁTICA,12,General
+Risaralda,LA CELIA,12,General
+Risaralda,LA VIRGINIA,42,General
+Risaralda,MARSELLA,21,General
+Risaralda,MISTRATÓ,18,General
+Risaralda,PEREIRA,141,UCI
+Risaralda,PEREIRA,1893,General
+Risaralda,PUEBLO RICO,22,General
+Risaralda,QUINCHÍA,26,General
+Risaralda,SANTA ROSA DE CABAL,29,General
+Risaralda,SANTUARIO,13,General
+San Andrés y Providencia,PROVIDENCIA,14,General
+San Andrés y Providencia,SAN ANDRÉS,7,UCI
+San Andrés y Providencia,SAN ANDRÉS,143,General
+Santander,AGUADA,3,General
+Santander,ALBANIA,10,General
+Santander,ARATOCA,11,General
+Santander,BARBOSA,72,General
+Santander,BARICHARA,9,General
+Santander,BARRANCABERMEJA,17,UCI
+Santander,BARRANCABERMEJA,563,General
+Santander,BETULIA,14,General
+Santander,BOLÍVAR,13,General
+Santander,BUCARAMANGA,146,UCI
+Santander,BUCARAMANGA,2387,General
+Santander,CABRERA,2,General
+Santander,CALIFORNIA,6,General
+Santander,CAPITANEJO,10,General
+Santander,CARCASÍ,2,General
+Santander,CEPITÁ,2,General
+Santander,CERRITO,7,General
+Santander,CHARALÁ,11,General
+Santander,CHARTA,3,General
+Santander,CHIMA,11,General
+Santander,CHIPATÁ,4,General
+Santander,CIMITARRA,32,General
+Santander,CONCEPCIÓN,13,General
+Santander,CONFINES,7,General
+Santander,CONTRATACIÓN,30,General
+Santander,COROMORO,7,General
+Santander,CURITÍ,15,General
+Santander,EL CARMEN DE CHUCURÍ,16,General
+Santander,EL GUACAMAYO,6,General
+Santander,EL PEÑÓN,6,General
+Santander,EL PLAYÓN,10,General
+Santander,ENCINO,3,General
+Santander,ENCISO,10,General
+Santander,FLORIDABLANCA,157,UCI
+Santander,FLORIDABLANCA,867,General
+Santander,FLORIÁN,7,General
+Santander,GALÁN,8,General
+Santander,GAMBITA,4,General
+Santander,GIRÓN,27,General
+Santander,GUACA,9,General
+Santander,GUADALUPE,12,General
+Santander,GUAPOTÁ,6,General
+Santander,GUAVATÁ,5,General
+Santander,GÜEPSA,7,General
+Santander,HATO,1,General
+Santander,JESÚS MARÍA,1,General
+Santander,JORDÁN,0,General
+Santander,LA BELLEZA,13,General
+Santander,LA PAZ,3,General
+Santander,LANDÁZURI,20,General
+Santander,LEBRÍJA,73,General
+Santander,LOS SANTOS,11,General
+Santander,MACARAVITA,0,UCI
+Santander,MACARAVITA,8,General
+Santander,MATANZA,7,General
+Santander,MOGOTES,14,General
+Santander,MOLAGAVITA,2,General
+Santander,MÁLAGA,55,General
+Santander,OCAMONTE,6,General
+Santander,OIBA,12,General
+Santander,ONZAGA,15,General
+Santander,PALMAR,2,General
+Santander,PALMAS DEL SOCORRO,2,General
+Santander,PIEDECUESTA,49,UCI
+Santander,PIEDECUESTA,405,General
+Santander,PINCHOTE,2,General
+Santander,PUENTE NACIONAL,14,General
+Santander,PUERTO PARRA,6,General
+Santander,PUERTO WILCHES,15,General
+Santander,PÁRAMO,5,General
+Santander,RIONEGRO,19,General
+Santander,SABANA DE TORRES,24,General
+Santander,SAN ANDRÉS,13,General
+Santander,SAN BENITO,3,General
+Santander,SAN GIL,132,General
+Santander,SAN JOAQUÍN,10,General
+Santander,SAN JOSÉ DE MIRANDA,6,General
+Santander,SAN MIGUEL,7,General
+Santander,SAN VICENTE DE CHUCURÍ,23,General
+Santander,SANTA BÁRBARA,3,General
+Santander,SANTA HELENA DEL OPÓN,2,General
+Santander,SIMACOTA,16,General
+Santander,SOCORRO,29,UCI
+Santander,SOCORRO,113,General
+Santander,SUAITA,17,General
+Santander,SUCRE,9,General
+Santander,SURATÁ,3,General
+Santander,TONA,10,General
+Santander,VALLE DE SAN JOSÉ,13,General
+Santander,VETAS,2,General
+Santander,VILLANUEVA,27,General
+Santander,VÉLEZ,46,General
+Santander,ZAPATOCA,12,General
+Sucre,BUENAVISTA,6,General
+Sucre,CAIMITO,15,General
+Sucre,CHALÁN,12,General
+Sucre,COLOSO,6,General
+Sucre,COROZAL,37,UCI
+Sucre,COROZAL,225,General
+Sucre,COVEÑAS,19,General
+Sucre,EL ROBLE,8,General
+Sucre,GALERAS,22,General
+Sucre,GUARANDA,60,General
+Sucre,LA UNIÓN,10,General
+Sucre,LOS PALMITOS,12,General
+Sucre,MAJAGUAL,26,General
+Sucre,MORROA,15,General
+Sucre,OVEJAS,16,General
+Sucre,PALMITO,17,General
+Sucre,SAMPUÉS,12,General
+Sucre,SAN BENITO ABAD,17,General
+Sucre,SAN JUAN DE BETULIA,47,General
+Sucre,SAN MARCOS,204,General
+Sucre,SAN ONOFRE,35,General
+Sucre,SAN PEDRO,16,General
+Sucre,SANTIAGO DE TOLÚ,21,General
+Sucre,SINCELEJO,223,UCI
+Sucre,SINCELEJO,1792,General
+Sucre,SINCÉ,22,General
+Sucre,SUCRE,22,General
+Sucre,TOLÚ VIEJO,14,General
+Tolima,ALPUJARRA,7,General
+Tolima,ALVARADO,7,General
+Tolima,AMBALEMA,11,General
+Tolima,ANZOÁTEGUI,14,General
+Tolima,ARMERO,17,General
+Tolima,ATACO,20,General
+Tolima,CAJAMARCA,17,General
+Tolima,CARMEN DE APICALÁ,6,General
+Tolima,CASABIANCA,14,General
+Tolima,CHAPARRAL,7,UCI
+Tolima,CHAPARRAL,66,General
+Tolima,COELLO,6,General
+Tolima,COYAIMA,14,General
+Tolima,CUNDAY,9,General
+Tolima,DOLORES,7,General
+Tolima,ESPINAL,17,UCI
+Tolima,ESPINAL,210,General
+Tolima,FALAN,11,General
+Tolima,FLANDES,11,General
+Tolima,FRESNO,30,General
+Tolima,GUAMO,25,General
+Tolima,HERVEO,9,General
+Tolima,HONDA,11,UCI
+Tolima,HONDA,97,General
+Tolima,IBAGUÉ,181,UCI
+Tolima,IBAGUÉ,1457,General
+Tolima,ICONONZO,13,General
+Tolima,LÉRIDA,149,General
+Tolima,LÍBANO,17,UCI
+Tolima,LÍBANO,104,General
+Tolima,MARIQUITA,6,UCI
+Tolima,MARIQUITA,71,General
+Tolima,MELGAR,19,General
+Tolima,MURILLO,7,General
+Tolima,NATAGAIMA,23,General
+Tolima,ORTEGA,25,General
+Tolima,PALOCABILDO,11,General
+Tolima,PIEDRAS,6,General
+Tolima,PLANADAS,31,General
+Tolima,PRADO,9,General
+Tolima,PURIFICACIÓN,42,General
+Tolima,RIOBLANCO,18,General
+Tolima,RONCESVALLES,9,General
+Tolima,ROVIRA,15,General
+Tolima,SALDAÑA,10,General
+Tolima,SAN ANTONIO,11,General
+Tolima,SAN LUIS,8,General
+Tolima,SANTA ISABEL,7,General
+Tolima,SUÁREZ,7,General
+Tolima,VALLE DE SAN JUAN,9,General
+Tolima,VENADILLO,24,General
+Tolima,VILLAHERMOSA,10,General
+Tolima,VILLARRICA,10,General
+Valle del cauca,ALCALÁ,14,General
+Valle del cauca,ANDALUCÍA,18,General
+Valle del cauca,ANSERMANUEVO,14,General
+Valle del cauca,ARGELIA,9,General
+Valle del cauca,BOLÍVAR,15,General
+Valle del cauca,BUENAVENTURA,18,UCI
+Valle del cauca,BUENAVENTURA,353,General
+Valle del cauca,BUGALAGRANDE,17,General
+Valle del cauca,CAICEDONIA,27,General
+Valle del cauca,CALI,843,UCI
+Valle del cauca,CALI,6701,General
+Valle del cauca,CALIMA,15,General
+Valle del cauca,CANDELARIA,29,General
+Valle del cauca,CARTAGO,11,UCI
+Valle del cauca,CARTAGO,267,General
+Valle del cauca,DAGUA,19,General
+Valle del cauca,EL CAIRO,15,General
+Valle del cauca,EL CERRITO,32,General
+Valle del cauca,EL DOVIO,10,General
+Valle del cauca,EL ÁGUILA,12,General
+Valle del cauca,FLORIDA,56,General
+Valle del cauca,GINEBRA,14,General
+Valle del cauca,GUACARÍ,15,General
+Valle del cauca,GUADALAJARA DE BUGA,47,UCI
+Valle del cauca,GUADALAJARA DE BUGA,349,General
+Valle del cauca,JAMUNDÍ,150,General
+Valle del cauca,LA CUMBRE,14,General
+Valle del cauca,LA UNIÓN,24,General
+Valle del cauca,LA VICTORIA,17,General
+Valle del cauca,OBANDO,13,General
+Valle del cauca,PALMIRA,65,UCI
+Valle del cauca,PALMIRA,526,General
+Valle del cauca,PRADERA,24,General
+Valle del cauca,RESTREPO,11,General
+Valle del cauca,RIOFRÍO,17,General
+Valle del cauca,ROLDANILLO,46,General
+Valle del cauca,SAN PEDRO,14,General
+Valle del cauca,SEVILLA,41,General
+Valle del cauca,TORO,15,General
+Valle del cauca,TRUJILLO,13,General
+Valle del cauca,TULUÁ,61,UCI
+Valle del cauca,TULUÁ,690,General
+Valle del cauca,ULLOA,9,General
+Valle del cauca,VERSALLES,12,General
+Valle del cauca,VIJES,11,General
+Valle del cauca,YOTOCO,10,General
+Valle del cauca,YUMBO,46,General
+Valle del cauca,ZARZAL,52,General
+Vaupés,CARURU,3,General
+Vaupés,MITÚ,15,General
+Vaupés,TARAIRA,3,General
+Vichada,CUMARIBO,23,General
+Vichada,LA PRIMAVERA,14,General
+Vichada,PUERTO CARREÑO,0,UCI
+Vichada,PUERTO CARREÑO,42,General
+Vichada,SANTA ROSALÍA,14,General
