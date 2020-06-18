@@ -274,6 +274,9 @@ for ( var i = 0 ; i < localidaes.length ; i++ ) {
             "type": "nominal",
             "scale": {
               "scheme": "siscovid"
+            },
+            "axis": {
+              "title": "Tipo"
             }
           },
           "y": {
