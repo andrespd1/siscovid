@@ -1,11 +1,17 @@
+var urlParams = new URLSearchParams( window.location.search );
+var city = urlParams.get( 'city' );
+console.log( 'City: ', city );
+
 vega.scheme( 'siscovid', [ '#f98a4b', '#f64438', '#317372' ] );
+
+/* Scenaries */
 
 var quarantine = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "height": 50,
   "width": 270,
   "data": {
-    "url": "data/agents.csv"
+    "url": "data/" + city + "-agents.csv"
   },
   "mark": "line",
   "encoding": {
@@ -41,11 +47,31 @@ var quarantine = {
 
 vegaEmbed( '#quarantine', quarantine, { actions: false } );
 
+/* Indicators and general series */
+
+var indicators = {
+  'bogota': {
+    'serious': 0.40,
+    'criticals': 0.08,
+    'deaths': 0.12
+  },
+  'cartagena': {
+    'serious': 0.16,
+    'criticals': 0.02,
+    'deaths': 0.01
+  }
+};
+
+Object.keys( indicators[ city ] )
+  .map( i => {
+    $( '#ind-' + i ).text( indicators[ city ][ i ] + '%' );
+  } );
+
 var generalSeries = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Casos graves, críticos y fallecidos",
   "data": {
-    "url": "data/agents2.csv"
+    "url": "data/" + city + "-agents2.csv"
   },
   "width": 660,
   "height": 250,
@@ -69,6 +95,7 @@ var generalSeries = {
             "title": null,
             "padding": 10,
             "offset": 5,
+            "symbolStrokeWidth": 6,
             "symbolType": "stroke"
           }
 
@@ -77,9 +104,6 @@ var generalSeries = {
           "field": "value",
           "type": "quantitative",
           "format": ".2%",
-          "scale": {
-            "domain": [ 0, 0.004 ]
-          },
           "axis": {
             "title": "Casos",
             "format": ".2%"
@@ -163,7 +187,7 @@ var attackRate = {
   "height": 105,
   "width": 290,
   "data": {
-    "url": "data/agents.csv"
+    "url": "data/" + city + "-agents.csv"
   },
   "mark": "line",
   "encoding": {
@@ -204,7 +228,7 @@ var reproductionRate = {
   "height": 105,
   "width": 290,
   "data": {
-    "url": "data/agents.csv"
+    "url": "data/" + city + "-agents.csv"
   },
   "mark": "line",
   "encoding": {
@@ -237,97 +261,132 @@ vegaEmbed( '#reproducion-rate', reproductionRate, { actions: false } );
 
 /* Localidades */
 
-var localidaes = [ 
-  {
-    'id': 'loc-antonio-narino',
-    'name': 'Antonio Nariño'
-  },
-  {
-    'id': 'loc-barrios-unidos',
-    'name': 'Barrios Unidos'
-  },
-  {
-    'id': 'loc-bosa',
-    'name': 'Bosa'
-  },
-  {
-    'id': 'loc-chapinero',
-    'name': 'Chapinero'
-  },
-  {
-    'id': 'loc-ciudad-bolivar',
-    'name': 'Ciudad Bolívar'
-  },
-  {
-    'id': 'loc-engativa',
-    'name': 'Engativá'
-  },
-  {
-    'id': 'loc-fontibon',
-    'name': 'Fontibón'
-  },
-  {
-    'id': 'loc-kennedy',
-    'name': 'Kennedy'
-  },
-  {
-    'id': 'loc-la-candelaria',
-    'name': 'La Candelaria'
-  },
-  {
-    'id': 'loc-los-martires',
-    'name': 'Los Mártires'
-  },
-  {
-    'id': 'loc-puente-aranda',
-    'name': 'Puente Aranda'
-  },
-  {
-    'id': 'loc-rafael-uribe-uribe',
-    'name': 'Rafael Uribe Uribe'
-  },
-  {
-    'id': 'loc-san-cristobal',
-    'name': 'San Cristóbal'
-  },
-  {
-    'id': 'loc-santa-fe',
-    'name': 'Santa Fé'
-  },
-  {
-    'id': 'loc-suba',
-    'name': 'Suba'
-  },
-  {
-    'id': 'loc-teusaquillo',
-    'name': 'Teusaquillo'
-  },
-  {
-    'id': 'loc-tunjuelito',
-    'name': 'Tunjuelito'
-  },
-  {
-    'id': 'loc-usaquen',
-    'name': 'Usaquén'
-  },
-  {
-    'id': 'loc-usme',
-    'name': 'Usme'
-  }
-];
+var localidaes = {
+  'bogota': [ 
+    {
+      'id': 'loc-antonio-narino',
+      'name': 'Antonio Nariño'
+    },
+    {
+      'id': 'loc-barrios-unidos',
+      'name': 'Barrios Unidos'
+    },
+    {
+      'id': 'loc-bosa',
+      'name': 'Bosa'
+    },
+    {
+      'id': 'loc-chapinero',
+      'name': 'Chapinero'
+    },
+    {
+      'id': 'loc-ciudad-bolivar',
+      'name': 'Ciudad Bolívar'
+    },
+    {
+      'id': 'loc-engativa',
+      'name': 'Engativá'
+    },
+    {
+      'id': 'loc-fontibon',
+      'name': 'Fontibón'
+    },
+    {
+      'id': 'loc-kennedy',
+      'name': 'Kennedy'
+    },
+    {
+      'id': 'loc-la-candelaria',
+      'name': 'La Candelaria'
+    },
+    {
+      'id': 'loc-los-martires',
+      'name': 'Los Mártires'
+    },
+    {
+      'id': 'loc-puente-aranda',
+      'name': 'Puente Aranda'
+    },
+    {
+      'id': 'loc-rafael-uribe-uribe',
+      'name': 'Rafael Uribe Uribe'
+    },
+    {
+      'id': 'loc-san-cristobal',
+      'name': 'San Cristóbal'
+    },
+    {
+      'id': 'loc-santa-fe',
+      'name': 'Santa Fé'
+    },
+    {
+      'id': 'loc-suba',
+      'name': 'Suba'
+    },
+    {
+      'id': 'loc-teusaquillo',
+      'name': 'Teusaquillo'
+    },
+    {
+      'id': 'loc-tunjuelito',
+      'name': 'Tunjuelito'
+    },
+    {
+      'id': 'loc-usaquen',
+      'name': 'Usaquén'
+    },
+    {
+      'id': 'loc-usme',
+      'name': 'Usme'
+    }
+  ],
+  'cartagena': [
+    {
+      'id': 'loc-virgen-turistica',
+      'name': 'De la virgen y turistica'
+    },
+    {
+      'id': 'loc-industrial-bahia',
+      'name': 'Industrial de la bahia'
+    },
+    {
+      'id': 'loc-historica-caribe',
+      'name': 'Historica y del caribe norte'
+    }
+  ]
+};
 
-var initLocs = [ 'loc-kennedy', 'loc-bosa', 'loc-rafael-uribe-uribe' ];
+var initLocs = {
+  'bogota': [ 'loc-kennedy', 'loc-bosa', 'loc-rafael-uribe-uribe' ],
+  'cartagena': [ 'loc-virgen-turistica', 'loc-industrial-bahia', 'loc-historica-caribe' ]
+};
+
+var locControls = $( '#loc-controls' );
+for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
+  var loc = localidaes[ city ][ i ];
+  
+  var checked = '';
+  if( initLocs[ city ].indexOf( loc[ 'id' ] ) !== -1 ) {
+    checked = 'checked';
+  }
+
+  locControls.append( '<div class="form-check">' +
+            '<input class="form-check-input" type="checkbox" value="" id="' + loc[ 'id' ] + '" ' + checked + '>' +
+            '<label class="form-check-label" for="' + loc[ 'id' ] + '">' + loc[ 'name' ] + '</label>' +
+          '</div>' );
+
+}
 
 function draw_action_locs() {
 
-  var filter = localidaes.filter( l => initLocs.includes( l[ 'id' ] ) )
+  var filter = localidaes[ city ].filter( l => initLocs[ city ].includes( l[ 'id' ] ) )
                 .map( l => "(datum.Localidad==='" + l[ 'name' ] + "')" ).join( ' || ' );
 
   var tooltips= [
     { "field": "Fecha", "type": "temporal" }
   ];
 
-  localidaes.filter( l => initLocs.includes( l[ 'id' ] ) )
+  localidaes[ city ].filter( l => initLocs[ city ].includes( l[ 'id' ] ) )
     .forEach( l => tooltips.push( {
               "field": l[ 'name' ],
               "type": "quantitative",
@@ -339,7 +398,7 @@ function draw_action_locs() {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": "Fallecidos por localidades",
     "data": {
-      "url": "data/agents-locs2.csv"
+      "url": "data/" + city + "-agents-locs2.csv"
     },
     "width": 360,
     "height": 200,
@@ -371,6 +430,7 @@ function draw_action_locs() {
               "title": null,
               "padding": 10,
               "offset": 5,
+              "symbolStrokeWidth": 6,
               "symbolType": "stroke"
             }
           },
@@ -439,7 +499,7 @@ function draw_action_locs() {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": "Tasa de ataque por localidades",
     "data": {
-      "url": "data/agents-locs.csv"
+      "url": "data/" + city + "-agents-locs.csv"
     },
     "width": 360,
     "height": 200,
@@ -468,6 +528,7 @@ function draw_action_locs() {
               "title": null,
               "padding": 10,
               "offset": 5,
+              "symbolStrokeWidth": 6,
               "symbolType": "stroke"
             }
           },
@@ -544,34 +605,34 @@ $( '[id^=loc-]' ).change( function() {
   console.log( id + ': ' + checked );
 
   if( checked ) {
-    if( initLocs.indexOf( id ) === -1 ) {
-      initLocs.push( id )
+    if( initLocs[ city ].indexOf( id ) === -1 ) {
+      initLocs[ city ].push( id )
     }
   } else {
-    const index = initLocs.indexOf( id );
+    const index = initLocs[ city ].indexOf( id );
     if( index > -1 ) {
-      initLocs.splice( index, 1 );
+      initLocs[ city ].splice( index, 1 );
     }
   }
 
-  console.log( initLocs );
+  console.log( initLocs[ city ] );
   draw_action_locs();
 
 } );
 
-for ( var i = 0 ; i < localidaes.length ; i++ ) {
+for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
   
   var locSeriesN = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "title": localidaes[ i ][ 'name' ],
+    "title": localidaes[ city ][ i ][ 'name' ],
     "data": {
-      "url": "data/agents-locs2.csv"
+      "url": "data/" + city + "-agents-locs2.csv"
     },
     "width": 270,
     "height": 120,
     "transform": [
       {
-        "filter": "datum.Localidad==='" + localidaes[ i ][ 'name' ] + "'"
+        "filter": "datum.Localidad==='" + localidaes[ city ][ i ][ 'name' ] + "'"
       }
     ],
     "encoding": {
@@ -594,6 +655,7 @@ for ( var i = 0 ; i < localidaes.length ; i++ ) {
               "title": null,
               "padding": 10,
               "offset": 5,
+              "symbolStrokeWidth": 6,
               "symbolType": "stroke"
             }
           },
@@ -602,7 +664,7 @@ for ( var i = 0 ; i < localidaes.length ; i++ ) {
             "type": "quantitative",
             "format": ".2%",
             "scale": {
-              "domain": [ 0, 0.012 ]
+              "domain": [ 0, ( city == 'bogota' ) ? 0.012 : 0.003 ]
             },
             "axis": {
               "title": "Casos",
@@ -685,41 +747,84 @@ for ( var i = 0 ; i < localidaes.length ; i++ ) {
 
 /* Ages */
 
-var ages = [ 
-  {
-    'id': 'age-0-4',
-    'name': '0-4'
-  },
-  {
-    'id': 'age-5-19',
-    'name': '5-19'
-  },
-  {
-    'id': 'age-20-39',
-    'name': '20-39'
-  },
-  {
-    'id': 'age-40-59',
-    'name': '40-59'
-  },
-  {
-    'id': 'age-60',
-    'name': '>60'
-  }
-];
+var ages = {
+  'bogota': [ 
+    {
+      'id': 'age-0-4',
+      'name': '0-4'
+    },
+    {
+      'id': 'age-5-19',
+      'name': '5-19'
+    },
+    {
+      'id': 'age-20-39',
+      'name': '20-39'
+    },
+    {
+      'id': 'age-40-59',
+      'name': '40-59'
+    },
+    {
+      'id': 'age-60',
+      'name': '>60'
+    }
+  ],
+  'cartagena': [ 
+    {
+      'id': 'age-0-9',
+      'name': '0-9'
+    },
+    {
+      'id': 'age-10-19',
+      'name': '10-19'
+    },
+    {
+      'id': 'age-20-39',
+      'name': '20-39'
+    },
+    {
+      'id': 'age-40-59',
+      'name': '40-59'
+    },
+    {
+      'id': 'age-60',
+      'name': '>60'
+    }
+  ]
+};
 
-var initAges = [ 'age-40-59', 'age-60' ];
+var initAges = {
+ 'bogota': [ 'age-40-59', 'age-60' ],
+ 'cartagena': [ 'age-40-59', 'age-60' ]
+};
+
+var ageControls = $( '#age-controls' );
+for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
+  var age = ages[ city ][ i ];
+  
+  var checked = '';
+  if( initAges[ city ].indexOf( age[ 'id' ] ) !== -1 ) {
+    checked = 'checked';
+  }
+
+  ageControls.append( '<div class="form-check">' +
+            '<input class="form-check-input" type="checkbox" value="" id="' + age[ 'id' ] + '" ' + checked + '>' +
+            '<label class="form-check-label" for="' + age[ 'id' ] + '">' + age[ 'name' ] + '</label>' +
+          '</div>' );
+
+}
 
 function draw_action_ages() {
 
-  var filter = ages.filter( l => initAges.includes( l[ 'id' ] ) )
+  var filter = ages[ city ].filter( l => initAges[ city ].includes( l[ 'id' ] ) )
                 .map( l => "(datum['Grupo de edad']==='" + l[ 'name' ] + "')" ).join( ' || ' );
 
   var tooltips= [
     { "field": "Fecha", "type": "temporal" }
   ];
 
-  ages.filter( l => initAges.includes( l[ 'id' ] ) )
+  ages[ city ].filter( l => initAges[ city ].includes( l[ 'id' ] ) )
     .forEach( l => tooltips.push( {
               "field": l[ 'name' ],
               "type": "quantitative",
@@ -731,7 +836,7 @@ function draw_action_ages() {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": "Fallecidos por grupos de edad",
     "data": {
-      "url": "data/agents-ages2.csv"
+      "url": "data/" + city + "-agents-ages2.csv"
     },
     "width": 360,
     "height": 200,
@@ -763,6 +868,7 @@ function draw_action_ages() {
               "title": null,
               "padding": 10,
               "offset": 5,
+              "symbolStrokeWidth": 6,
               "symbolType": "stroke"
             }
           },
@@ -837,34 +943,34 @@ $( '[id^=age-]' ).change( function() {
   console.log( id + ': ' + checked );
 
   if( checked ) {
-    if( initAges.indexOf( id ) === -1 ) {
-      initAges.push( id )
+    if( initAges[ city ].indexOf( id ) === -1 ) {
+      initAges[ city ].push( id )
     }
   } else {
-    const index = initAges.indexOf( id );
+    const index = initAges[ city ].indexOf( id );
     if( index > -1 ) {
-      initAges.splice( index, 1 );
+      initAges[ city ].splice( index, 1 );
     }
   }
 
-  console.log( initAges );
+  console.log( initAges[ city ] );
   draw_action_ages();
 
 } );
 
-for ( var i = 0 ; i < ages.length ; i++ ) {
+for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
   
   var ageSeriesN = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "title": ages[ i ][ 'name' ],
+    "title": ages[ city ][ i ][ 'name' ],
     "data": {
-      "url": "data/agents-ages2.csv"
+      "url": "data/" + city + "-agents-ages2.csv"
     },
     "width": 270,
     "height": 120,
     "transform": [
       {
-        "filter": "datum['Grupo de edad']==='" + ages[ i ][ 'name' ] + "'"
+        "filter": "datum['Grupo de edad']==='" + ages[ city ][ i ][ 'name' ] + "'"
       }
     ],
     "encoding": {
@@ -887,6 +993,7 @@ for ( var i = 0 ; i < ages.length ; i++ ) {
               "title": null,
               "padding": 10,
               "offset": 5,
+              "symbolStrokeWidth": 6,
               "symbolType": "stroke"
             }
           },
@@ -895,7 +1002,7 @@ for ( var i = 0 ; i < ages.length ; i++ ) {
             "type": "quantitative",
             "format": ".2%",
             "scale": {
-              "domain": [ 0, 0.015 ]
+              "domain": [ 0, ( city == 'bogota' ) ? 0.015 : 0.0045 ]
             },
             "axis": {
               "title": "Casos",
