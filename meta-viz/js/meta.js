@@ -7,9 +7,6 @@ var projection = {
   "title": "Proyección de fallecidos (95% CIs)",
   "width": 480,
   "height": 250,
-  "data": {
-    "url": "./data/" + city + "-meta.csv"
-    },
   "encoding": {
     "x": {
       "field": "date",
@@ -21,6 +18,9 @@ var projection = {
   },
   "layer": [
     {
+      "data": {
+        "url": "./data/" + city + "-meta.csv"
+      },
       "mark": {
         "type": "errorband",
         "extent": "ci"
@@ -29,7 +29,10 @@ var projection = {
         "y": {
           "field": "fallecidos",
           "type": "quantitative",
-          "title": "Casos"
+          "title": "Casos",
+          "axis": {
+            "format": ".0f"
+          }
         },
         "color": {
           "value": "#f64438"
@@ -37,6 +40,9 @@ var projection = {
       }
     },
     {
+      "data": {
+        "url": "./data/" + city + "-meta.csv"
+      },
       "mark": "line",
       "encoding": {
         "y": {
@@ -50,6 +56,29 @@ var projection = {
         },
         "color": {
           "value": "#f64438"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "./data/" + city + "-deaths.csv"
+      },
+      "mark": {
+        "type": "point",
+        "size": 5,
+        "tooltip": true
+      },
+      "encoding": {
+        "y": {
+          "field": "Fallecidos_reales",
+          "type": "quantitative",
+          "axis": {
+            "title": "Casos",
+            "format": ".0f"
+          }
+        },
+        "color": {
+          "value": "#317372"
         }
       }
     }
