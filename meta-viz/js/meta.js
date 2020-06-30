@@ -5,15 +5,18 @@ console.log( 'City: ', city );
 var projection = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Proyección de fallecidos (95% CIs)",
-  "width": 480,
+  "width": 600,
   "height": 250,
   "encoding": {
     "x": {
       "field": "date",
       "type": "temporal",
       "axis": {
-        "title": "Fecha"
-      }
+        "title": null
+      },
+      "scale": {
+        "domain": [ "2020-03-13", "2020-07-03" ]
+      },
     }
   },
   "layer": [
@@ -125,9 +128,8 @@ var phiValues = {
 
 var betas = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Tasa de contacto efectiva β (π = " + phiValues[ city ] + ")",
-  "width": 480,
-  "height": 250,
+  "width": 600,
+  "height": 70,
   "data": {
     "values": betaValues[ city ]
   },
@@ -139,7 +141,7 @@ var betas = {
     "x": {
       "field": "beta", 
       "type": "ordinal",
-      "title": "β",
+      "title": "Quincena",
       "axis": {
         "labelAngle": 0
       }
@@ -147,7 +149,7 @@ var betas = {
     "y": {
       "field": "value",
       "type": "quantitative",
-      "title": "Valor"
+      "title": "β"
     }
   }
 };
