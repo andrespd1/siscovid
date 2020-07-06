@@ -582,7 +582,7 @@ function draw_action_locs() {
     .forEach( l => tooltips.push( {
               "field": l[ 'name' ],
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             } ) )
 
 
@@ -590,7 +590,7 @@ function draw_action_locs() {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": "Fallecidos por localidades",
     "data": {
-      "url": "data/" + city + "-agents-locs2.csv"
+      "url": "data/" + city + "-agents2-locs-multi.csv"
     },
     "width": 360,
     "height": 200,
@@ -608,6 +608,11 @@ function draw_action_locs() {
         "type": "temporal"
       }
     },
+    "resolve": {
+      "scale": {
+        "color": "independent"
+      }
+    },
     "layer": [
       {
         "encoding": {
@@ -623,15 +628,15 @@ function draw_action_locs() {
               "padding": 10,
               "offset": 5,
               "symbolStrokeWidth": 6,
-              "symbolType": "stroke"
+              "symbolType": "stroke",
+              "symbolOpacity": 1
             }
           },
           "y": {
+            "aggregate": "mean",
             "field": "value",
             "type": "quantitative",
-            "format": ".2%",
             "axis": {
-              "title": "Casos",
               "format": ".2%"
             }
           }
@@ -653,11 +658,33 @@ function draw_action_locs() {
         ]
       },
       {
+        "mark": {
+          "type": "errorband",
+          "extent": "ci"
+        },
+        "encoding": {
+          "color": {
+            "field": "Localidad",
+            "type": "nominal",
+            "scale": {
+              "scheme": "dark2"
+            },
+            "legend": null,
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Casos",
+          }
+        }
+      },
+      {
         "transform": [
           {
             "pivot": "Localidad",
             "value": "value",
-            "groupby": [ "Fecha" ]
+            "groupby": [ "Fecha" ],
+            "op": "mean"
           }
         ],
         "mark": "rule",
@@ -843,7 +870,7 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": localidaes[ city ][ i ][ 'name' ],
     "data": {
-      "url": "data/" + city + "-agents-locs2.csv"
+      "url": "data/" + city + "-agents2-locs-multi.csv"
     },
     "width": 270,
     "height": 120,
@@ -856,6 +883,11 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
       "x": {
         "field": "Fecha",
         "type": "temporal"
+      }
+    },
+    "resolve": {
+      "scale": {
+        "color": "independent"
       }
     },
     "layer": [
@@ -873,18 +905,18 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
               "padding": 10,
               "offset": 5,
               "symbolStrokeWidth": 6,
-              "symbolType": "stroke"
+              "symbolType": "stroke",
+              "symbolOpacity": 1
             }
           },
           "y": {
+            "aggregate": "mean",
             "field": "value",
             "type": "quantitative",
-            "format": ".2%",
             "scale": {
-              "domain": [ 0, ( city == 'bogota' ) ? 0.012 : 0.003 ]
+              "domain": [ 0, ( city == 'bogota' ) ? 0.0042 : 0.003 ]
             },
             "axis": {
-              "title": "Casos",
               "format": ".2%"
             }
           }
@@ -906,11 +938,33 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
         ]
       },
       {
+        "mark": {
+          "type": "errorband",
+          "extent": "ci"
+        },
+        "encoding": {
+          "color": {
+            "field": "variable",
+            "type": "nominal",
+            "scale": {
+              "scheme": "siscovid"
+            },
+            "legend": null,
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Casos",
+          }
+        }
+      },
+      {
         "transform": [
           {
             "pivot": "variable",
             "value": "value",
-            "groupby": [ "Fecha" ]
+            "groupby": [ "Fecha" ],
+            "op": "mean"
           }
         ],
         "mark": "rule",
@@ -930,17 +984,17 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
             {
               "field": "Graves",
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             },
             {
               "field": "Críticos",
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             },
             {
               "field": "Fallecidos",
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             }
           ]
         },
@@ -967,12 +1021,12 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
 var ages = {
   'bogota': [ 
     {
-      'id': 'age-0-4',
-      'name': '0-4'
+      'id': 'age-0-9',
+      'name': '0-9'
     },
     {
-      'id': 'age-5-19',
-      'name': '5-19'
+      'id': 'age-10-19',
+      'name': '10-19'
     },
     {
       'id': 'age-20-39',
@@ -1045,7 +1099,7 @@ function draw_action_ages() {
     .forEach( l => tooltips.push( {
               "field": l[ 'name' ],
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             } ) )
 
 
@@ -1053,7 +1107,7 @@ function draw_action_ages() {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": "Fallecidos por grupos de edad",
     "data": {
-      "url": "data/" + city + "-agents-ages2.csv"
+      "url": "data/" + city + "-agents2-ages-multi.csv"
     },
     "width": 360,
     "height": 200,
@@ -1071,6 +1125,11 @@ function draw_action_ages() {
         "type": "temporal"
       }
     },
+    "resolve": {
+      "scale": {
+        "color": "independent"
+      }
+    },
     "layer": [
       {
         "encoding": {
@@ -1086,15 +1145,15 @@ function draw_action_ages() {
               "padding": 10,
               "offset": 5,
               "symbolStrokeWidth": 6,
-              "symbolType": "stroke"
+              "symbolType": "stroke",
+              "symbolOpacity": 1
             }
           },
           "y": {
+            "aggregate": "mean",
             "field": "value",
             "type": "quantitative",
-            "format": ".2%",
             "axis": {
-              "title": "Casos",
               "format": ".2%"
             }
           }
@@ -1116,11 +1175,33 @@ function draw_action_ages() {
         ]
       },
       {
+        "mark": {
+          "type": "errorband",
+          "extent": "ci"
+        },
+        "encoding": {
+          "color": {
+            "field": "Grupo de edad",
+            "type": "nominal",
+            "scale": {
+              "scheme": "dark2"
+            },
+            "legend": null,
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Casos",
+          }
+        }
+      },
+      {
         "transform": [
           {
             "pivot": "Grupo de edad",
             "value": "value",
-            "groupby": [ "Fecha" ]
+            "groupby": [ "Fecha" ],
+            "op": "mean"
           }
         ],
         "mark": "rule",
@@ -1181,7 +1262,7 @@ for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": ages[ city ][ i ][ 'name' ],
     "data": {
-      "url": "data/" + city + "-agents-ages2.csv"
+      "url": "data/" + city + "-agents2-ages-multi.csv"
     },
     "width": 270,
     "height": 120,
@@ -1194,6 +1275,11 @@ for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
       "x": {
         "field": "Fecha",
         "type": "temporal"
+      }
+    },
+    "resolve": {
+      "scale": {
+        "color": "independent"
       }
     },
     "layer": [
@@ -1211,18 +1297,18 @@ for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
               "padding": 10,
               "offset": 5,
               "symbolStrokeWidth": 6,
-              "symbolType": "stroke"
+              "symbolType": "stroke",
+              "symbolOpacity": 1
             }
           },
           "y": {
+            "aggregate": "mean",
             "field": "value",
             "type": "quantitative",
-            "format": ".2%",
             "scale": {
-              "domain": [ 0, ( city == 'bogota' ) ? 0.015 : 0.0045 ]
+              "domain": [ 0, ( city == 'bogota' ) ? 0.003 : 0.0045 ]
             },
             "axis": {
-              "title": "Casos",
               "format": ".2%"
             }
           }
@@ -1244,11 +1330,33 @@ for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
         ]
       },
       {
+        "mark": {
+          "type": "errorband",
+          "extent": "ci"
+        },
+        "encoding": {
+          "color": {
+            "field": "variable",
+            "type": "nominal",
+            "scale": {
+              "scheme": "siscovid"
+            },
+            "legend": null,
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Casos",
+          }
+        }
+      },
+      {
         "transform": [
           {
             "pivot": "variable",
             "value": "value",
-            "groupby": [ "Fecha" ]
+            "groupby": [ "Fecha" ],
+            "op": "mean"
           }
         ],
         "mark": "rule",
@@ -1268,17 +1376,17 @@ for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
             {
               "field": "Graves",
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             },
             {
               "field": "Críticos",
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             },
             {
               "field": "Fallecidos",
               "type": "quantitative",
-              "format": ".2%"
+              "format": ".3%"
             }
           ]
         },
