@@ -11,38 +11,84 @@ var quarantine = {
   "height": 50,
   "width": 270,
   "data": {
-    "url": "data/" + city + "-agents.csv"
+    "url": "data/" + city + "-agents-multi.csv"
   },
-  "mark": "line",
   "encoding": {
     "x": {
       "field": "Fecha",
       "type": "temporal"
-    },
-    "y": {
-      "field": "Cuarentena",
-      "type": "quantitative",
-      "format": ".2%",
-      "scale": {
-        "domain": [ 0, 1 ]
+    }
+  },
+  "layer": [
+    {
+      "mark": "rule",
+      "encoding": {
+        "color": {
+          "value": "#c0c0c0" 
+        },
+        "opacity": {
+          "condition": {
+            "value": 1,
+            "selection": "hover"
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {
+            "field": "Fecha",
+            "type": "temporal"
+          },
+          {
+            "field": "Cuarentena",
+            "type": "quantitative",
+            "format": ".2%"
+          }
+        ]
       },
-      "axis": {
-        "title": "% cuarentena",
-        "format": ".0%"
+      "selection": {
+        "hover": {
+          "type": "single",
+          "fields": [ "Fecha" ],
+          "nearest": true,
+          "on": "mouseover",
+          "empty": "none",
+          "clear": "mouseout"
+        }
       }
     },
-    "tooltip": [
-      {
-        "field": "Fecha",
-        "type": "temporal"
-      },
-      {
-        "field": "Cuarentena",
-        "type": "quantitative",
-        "format": ".2%"
+    {
+      "layer": [
+        {
+          "mark": "line"
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "selection": "hover"
+              }
+            }
+          ],
+          "mark": "circle"
+        }
+      ],
+      "encoding": {
+        "y": {
+          "aggregate": "mean",
+          "field": "Cuarentena",
+          "type": "quantitative",
+          "format": ".2%",
+          "scale": {
+            "domain": [ 0, 1 ]
+          },
+          "axis": {
+            "title": "% cuarentena",
+            "format": ".0%"
+          }
+        }
       }
-    ]
-  }
+    }
+  ]
 };
 
 vegaEmbed( '#quarantine', quarantine, { actions: false } );
@@ -51,9 +97,9 @@ vegaEmbed( '#quarantine', quarantine, { actions: false } );
 
 var indicators = {
   'bogota': {
-    'serious': 0.40,
-    'criticals': 0.08,
-    'deaths': 0.12
+    'serious': 0.115,
+    'criticals': 0.014,
+    'deaths': 0.008
   },
   'cartagena': {
     'serious': 0.16,
@@ -71,7 +117,7 @@ var generalSeries = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Casos graves, críticos y fallecidos",
   "data": {
-    "url": "data/" + city + "-agents2.csv"
+    "url": "data/" + city + "-agents2-multi.csv"
   },
   "width": 660,
   "height": 250,
@@ -79,6 +125,11 @@ var generalSeries = {
     "x": {
       "field": "Fecha",
       "type": "temporal"
+    }
+  },
+  "resolve": {
+    "scale": {
+      "color": "independent"
     }
   },
   "layer": [
@@ -96,16 +147,15 @@ var generalSeries = {
             "padding": 10,
             "offset": 5,
             "symbolStrokeWidth": 6,
-            "symbolType": "stroke"
+            "symbolType": "stroke",
+            "symbolOpacity": 1
           }
-
         },
         "y": {
+          "aggregate": "mean",
           "field": "value",
           "type": "quantitative",
-          "format": ".2%",
           "axis": {
-            "title": "Casos",
             "format": ".2%"
           }
         }
@@ -122,16 +172,38 @@ var generalSeries = {
               }
             }
           ], 
-          "mark": "point"
+          "mark": "circle"
         }
       ]
+    },
+    {
+      "mark": {
+        "type": "errorband",
+        "extent": "ci"
+      },
+      "encoding": {
+        "color": {
+          "field": "variable",
+          "type": "nominal",
+          "scale": {
+            "scheme": "siscovid"
+          },
+          "legend": null,
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Casos",
+        }
+      }
     },
     {
       "transform": [
         {
           "pivot": "variable",
           "value": "value",
-          "groupby": [ "Fecha" ]
+          "groupby": [ "Fecha" ],
+          "op": "mean"
         }
       ],
       "mark": "rule",
@@ -151,17 +223,17 @@ var generalSeries = {
           {
             "field": "Graves",
             "type": "quantitative",
-            "format": ".2%"
+            "format": ".3%"
           },
           {
             "field": "Críticos",
             "type": "quantitative",
-            "format": ".2%"
+            "format": ".3%"
           },
           {
             "field": "Fallecidos",
             "type": "quantitative",
-            "format": ".2%"
+            "format": ".3%"
           }
         ]
       },
@@ -187,37 +259,95 @@ var attackRate = {
   "height": 105,
   "width": 290,
   "data": {
-    "url": "data/" + city + "-agents.csv"
+    "url": "data/" + city + "-agents-multi.csv"
   },
-  "mark": "line",
   "encoding": {
     "x": {
       "field": "Fecha",
       "type": "temporal"
-    },
-    "y": {
-      "field": "R0",
-      "type": "quantitative",
-      "scale": {
-        "domain": [ 0, 1 ]
+    }
+  },
+  "layer": [
+    {
+      "mark": "rule",
+      "encoding": {
+        "color": {
+          "value": "#c0c0c0" 
+        },
+        "opacity": {
+          "condition": {
+            "value": 1,
+            "selection": "hover"
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {
+            "field": "Fecha",
+            "type": "temporal"
+          },
+          {
+            "aggregate": "mean",
+            "field": "R0",
+            "type": "quantitative",
+            "title": "R0",
+            "format": ".2%"
+          }
+        ]
       },
-      "axis": {
-        "title": "Tasa de ataque",
-        "format": ".0%"
+      "selection": {
+        "hover": {
+          "type": "single",
+          "fields": [ "Fecha" ],
+          "nearest": true,
+          "on": "mouseover",
+          "empty": "none",
+          "clear": "mouseout"
+        }
       }
     },
-    "tooltip": [
-      {
-        "field": "Fecha",
-        "type": "temporal"
+    {
+      "mark": {
+        "type": "errorband",
+        "extent": "ci"
       },
-      {
-        "field": "R0",
-        "type": "quantitative",
-        "format": ".2%"
+      "encoding": {
+        "y": {
+          "field": "R0",
+          "type": "quantitative"
+        }
       }
-    ]
-  }
+    },
+    {
+      "layer": [
+        {
+          "mark": "line"
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "selection": "hover"
+              }
+            }
+          ],
+          "mark": "circle"
+        }
+      ],
+      "encoding": {
+        "y": {
+          "aggregate": "mean",
+          "field": "R0",
+          "type": "quantitative",
+          "format": ".2%",
+          "title": "R0",
+          "axis": {
+            "format": ".0%"
+          }
+        }
+      }
+    }
+  ]
 };
 
 vegaEmbed( '#attack-rate', attackRate, { actions: false } );
@@ -228,33 +358,95 @@ var reproductionRate = {
   "height": 105,
   "width": 290,
   "data": {
-    "url": "data/" + city + "-agents.csv"
+    "url": "data/" + city + "-agents-multi.csv"
   },
-  "mark": "line",
   "encoding": {
     "x": {
       "field": "Fecha",
       "type": "temporal"
-    },
-    "y": {
-      "field": "Rt",
-      "type": "quantitative",
-      "scale": {
-        "domain": [ 0, 1 ]
-      }
-    },
-    "tooltip": [
-      {
-        "field": "Fecha",
-        "type": "temporal"
+    }
+  },
+  "layer": [
+    {
+      "mark": "rule",
+      "encoding": {
+        "color": {
+          "value": "#c0c0c0" 
+        },
+        "opacity": {
+          "condition": {
+            "value": 1,
+            "selection": "hover"
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {
+            "field": "Fecha",
+            "type": "temporal"
+          },
+          {
+            "aggregate": "mean",
+            "field": "Rt",
+            "type": "quantitative",
+            "title": "Rt",
+            "format": ".2%"
+          }
+        ]
       },
-      {
-        "field": "Rt",
-        "type": "quantitative",
-        "format": ".2f"
+      "selection": {
+        "hover": {
+          "type": "single",
+          "fields": [ "Fecha" ],
+          "nearest": true,
+          "on": "mouseover",
+          "empty": "none",
+          "clear": "mouseout"
+        }
       }
-    ]
-  }
+    },
+    {
+      "mark": {
+        "type": "errorband",
+        "extent": "ci"
+      },
+      "encoding": {
+        "y": {
+          "field": "Rt",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "layer": [
+        {
+          "mark": "line"
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "selection": "hover"
+              }
+            }
+          ],
+          "mark": "circle"
+        }
+      ],
+      "encoding": {
+        "y": {
+          "aggregate": "mean",
+          "field": "Rt",
+          "type": "quantitative",
+          "format": ".2%",
+          "axis": {
+            "title": "Rt",
+            "format": ".0%"
+          }
+        }
+      }
+    }
+  ]
 };
 
 vegaEmbed( '#reproducion-rate', reproductionRate, { actions: false } );
@@ -382,7 +574,7 @@ function draw_action_locs() {
   var filter = localidaes[ city ].filter( l => initLocs[ city ].includes( l[ 'id' ] ) )
                 .map( l => "(datum.Localidad==='" + l[ 'name' ] + "')" ).join( ' || ' );
 
-  var tooltips= [
+  var tooltips = [
     { "field": "Fecha", "type": "temporal" }
   ];
 
@@ -499,7 +691,7 @@ function draw_action_locs() {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": "Tasa de ataque por localidades",
     "data": {
-      "url": "data/" + city + "-agents-locs.csv"
+      "url": "data/" + city + "-agents-locs-multi.csv"
     },
     "width": 360,
     "height": 200,
@@ -512,6 +704,11 @@ function draw_action_locs() {
       "x": {
         "field": "Fecha",
         "type": "temporal"
+      }
+    },
+    "resolve": {
+      "scale": {
+        "color": "independent"
       }
     },
     "layer": [
@@ -529,17 +726,15 @@ function draw_action_locs() {
               "padding": 10,
               "offset": 5,
               "symbolStrokeWidth": 6,
-              "symbolType": "stroke"
+              "symbolType": "stroke",
+              "symbolOpacity": 1
             }
           },
           "y": {
+            "aggregate": "mean",
             "field": "R0",
             "type": "quantitative",
-            "scale": {
-              "domain": [ 0, 1 ]
-            },
             "axis": {
-              "title": "Tasa de ataque",
               "format": ".0%"
             }
           }
@@ -561,11 +756,33 @@ function draw_action_locs() {
         ]
       },
       {
+        "mark": {
+          "type": "errorband",
+          "extent": "ci"
+        },
+        "encoding": {
+          "color": {
+            "field": "Localidad",
+            "type": "nominal",
+            "scale": {
+              "scheme": "dark2"
+            },
+            "legend": null
+          },
+          "y": {
+            "field": "R0",
+            "type": "quantitative",
+            "title": "R0",
+          }
+        }
+      },
+      {
         "transform": [
           {
             "pivot": "Localidad",
             "value": "R0",
-            "groupby": [ "Fecha" ]
+            "groupby": [ "Fecha" ],
+            "op": "mean"
           }
         ],
         "mark": "rule",
