@@ -96,6 +96,11 @@ vegaEmbed( '#quarantine', quarantine, { actions: false } );
 /* Indicators and general series */
 
 var indicators = {
+  'barranquilla': {
+    'serious': 0.251,
+    'criticals': 0.031,
+    'deaths': 0.020
+  },
   'bogota': {
     'serious': 0.115,
     'criticals': 0.014,
@@ -454,6 +459,28 @@ vegaEmbed( '#reproducion-rate', reproductionRate, { actions: false } );
 /* Localidades */
 
 var localidaes = {
+  'barranquilla': [
+    {
+      'id': 'loc-sur-occidente',
+      'name': 'SUR OCCIDENTE'
+    },
+    {
+      'id': 'loc-rio-mar',
+      'name': 'RIO MAR'
+    },
+    {
+      'id': 'loc-centro-historico',
+      'name': 'CENTRO HISTORICO'
+    },
+    {
+      'id': 'loc-metropolitana',
+      'name': 'METROPOLITANA'
+    },
+    {
+      'id': 'loc-sur-oriente',
+      'name': 'SUR ORIENTE'
+    }
+  ],
   'bogota': [ 
     {
       'id': 'loc-antonio-narino',
@@ -549,6 +576,7 @@ var localidaes = {
 };
 
 var initLocs = {
+  'barranquilla': [ 'loc-metropolitana', 'loc-sur-oriente' ],
   'bogota': [ 'loc-kennedy', 'loc-bosa', 'loc-rafael-uribe-uribe' ],
   'cartagena': [ 'loc-virgen-turistica', 'loc-industrial-bahia', 'loc-historica-caribe' ]
 };
@@ -914,7 +942,7 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
             "field": "value",
             "type": "quantitative",
             "scale": {
-              "domain": [ 0, ( city == 'bogota' ) ? 0.0042 : 0.003 ]
+              "domain": [ 0, ( city == 'bogota' ) ? 0.0042 : ( city == 'barranquilla' ) ? 0.0031 : 0.003 ]
             },
             "axis": {
               "format": ".2%"
@@ -1019,6 +1047,28 @@ for ( var i = 0 ; i < localidaes[ city ].length ; i++ ) {
 /* Ages */
 
 var ages = {
+  'barranquilla': [ 
+    {
+      'id': 'age-0-9',
+      'name': '0-9'
+    },
+    {
+      'id': 'age-10-19',
+      'name': '10-19'
+    },
+    {
+      'id': 'age-20-39',
+      'name': '20-39'
+    },
+    {
+      'id': 'age-40-59',
+      'name': '40-59'
+    },
+    {
+      'id': 'age-60',
+      'name': '>60'
+    }
+  ],
   'bogota': [ 
     {
       'id': 'age-0-9',
@@ -1066,6 +1116,7 @@ var ages = {
 };
 
 var initAges = {
+ 'barranquilla': [ 'age-40-59', 'age-60' ],
  'bogota': [ 'age-40-59', 'age-60' ],
  'cartagena': [ 'age-40-59', 'age-60' ]
 };
@@ -1306,7 +1357,7 @@ for ( var i = 0 ; i < ages[ city ].length ; i++ ) {
             "field": "value",
             "type": "quantitative",
             "scale": {
-              "domain": [ 0, ( city == 'bogota' ) ? 0.003 : 0.0045 ]
+              "domain": [ 0, ( city == 'bogota' ) ? 0.003 : ( city == 'barranquilla' ) ? 0.0056 : 0.0045 ]
             },
             "axis": {
               "format": ".2%"
