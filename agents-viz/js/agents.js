@@ -107,9 +107,9 @@ var indicators = {
     'deaths': 0.008
   },
   'cartagena': {
-    'serious': 0.16,
-    'criticals': 0.02,
-    'deaths': 0.01
+    'serious': 0.112,
+    'criticals': 0.014,
+    'deaths': 0.014
   }
 };
 
