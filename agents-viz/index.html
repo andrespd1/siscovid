@@ -9,6 +9,9 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 
+    <!-- D3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
+
     <!-- Vega-Lite -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.13.1"></script>
@@ -21,16 +24,6 @@
   <body>
 
     <div class="container">
-
-      <!--<br />
-
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h2>Evaluación de Escenarios para Bogotá</h2>
-        </div>
-      </div>
-
-      <br />-->
 
       <div class="row">
         <div class="col-sm-4">
@@ -57,7 +50,7 @@
             <div class="card-body">
               Graves (max.)
               <br />
-              <h3><b id="ind-serious" style="color: #317372;">0.40%</b></h3>
+              <h3><b id="ind-Graves" style="color: #317372;"></b></h3>
             </div>
           </div>
         </div>
@@ -66,7 +59,7 @@
             <div class="card-body">
               Críticos (max.)
               <br />
-              <h3><b id="ind-criticals" style="color: #f98a4b;">0.08%</b></h3>
+              <h3><b id="ind-Críticos" style="color: #f98a4b;"></b></h3>
             </div>
           </div>
         </div>
@@ -75,7 +68,7 @@
             <div class="card-body">
               Fallecidos (acum.)
               <br />
-              <h3><b id="ind-deaths" style="color: #f64438;">0.12%</b></h3>
+              <h3><b id="ind-Fallecidos" style="color: #f64438;"></b></h3>
             </div>
           </div>
         </div>

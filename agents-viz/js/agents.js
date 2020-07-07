@@ -95,6 +95,32 @@ vegaEmbed( '#quarantine', quarantine, { actions: false } );
 
 /* Indicators and general series */
 
+d3.csv( 'data/' + city + '-agents2-multi.csv' )
+  .then( function( data ) {
+
+    var grouped_data = d3.nest()
+      .key( d => d[ 'variable' ]  )
+      .key( d => d[ 'Fecha' ]  )
+      .rollup( function( v ) { return d3.mean( v, function( d ) { return +d[ 'value' ]; } ); } )
+      .entries( data );
+
+    grouped_data.map( s => {
+        return { 
+          'serie': s[ 'key' ],
+          'value': d3.format( '.3%' )( d3.max( s[ 'values' ].map( v => v[ 'value' ] ) ) )
+        };
+      } )
+      .map( i => {
+        $( '#ind-' + i[ 'serie' ] ).text( i[ 'value' ] );
+      } );
+
+
+
+  } )
+  .catch( function( error ) {
+    console.log( 'Error loading data' );
+  } );
+
 var indicators = {
   'barranquilla': {
     'serious': 0.251,
@@ -113,10 +139,10 @@ var indicators = {
   }
 };
 
-Object.keys( indicators[ city ] )
+/*Object.keys( indicators[ city ] )
   .map( i => {
     $( '#ind-' + i ).text( indicators[ city ][ i ] + '%' );
-  } );
+  } );*/
 
 var generalSeries = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
