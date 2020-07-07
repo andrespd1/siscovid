@@ -121,29 +121,6 @@ d3.csv( 'data/' + city + '-agents2-multi.csv' )
     console.log( 'Error loading data' );
   } );
 
-var indicators = {
-  'barranquilla': {
-    'serious': 0.251,
-    'criticals': 0.031,
-    'deaths': 0.020
-  },
-  'bogota': {
-    'serious': 0.115,
-    'criticals': 0.014,
-    'deaths': 0.008
-  },
-  'cartagena': {
-    'serious': 0.112,
-    'criticals': 0.014,
-    'deaths': 0.014
-  }
-};
-
-/*Object.keys( indicators[ city ] )
-  .map( i => {
-    $( '#ind-' + i ).text( indicators[ city ][ i ] + '%' );
-  } );*/
-
 var generalSeries = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Casos graves, críticos y fallecidos",
