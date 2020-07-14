@@ -1,19 +1,19 @@
 IPS,Servicio,Grupo,Camas Ocupadas,Camas habilitadas,Camas disponibles,Porcentaje de Ocupación,Fecha Actualización
-Públicas,Hospitalización General,Neonatal,108,138,30,78%,27/06/2020
-Públicas,Hospitalización General,Pediátrico,114,400,286,29%,27/06/2020
-Públicas,Hospitalización General,Adulto,928,1.267,339,73%,27/06/2020
-Públicas,Unidad de Cuidado Intermedio,Neonatal,85,126,41,67%,27/06/2020
-Públicas,Unidad de Cuidado Intermedio,Pediátrico,11,14,3,79%,27/06/2020
-Públicas,Unidad de Cuidado Intermedio,Adulto,56,65,9,86%,27/06/2020
-Públicas,Unidad de cuidado intensivo,Neonatal,54,68,14,79%,27/06/2020
-Públicas,Unidad de cuidado intensivo,Pediátrico,14,29,15,48%,27/06/2020
-Públicas,Unidad de cuidado intensivo,Adulto,142,219,77,65%,27/06/2020
-Privadas,Hospitalización General,Neonatal,115,156,41,74%,27/06/2020
-Privadas,Hospitalización General,Pediátrico,789,1.302,513,61%,27/06/2020
-Privadas,Hospitalización General,Adulto,4.406,5.468,1062,81%,27/06/2020
-Privadas,Unidad de Cuidado Intermedio,Neonatal,191,245,54,78%,27/06/2020
-Privadas,Unidad de Cuidado Intermedio,Pediátrico,60,87,27,69%,27/06/2020
-Privadas,Unidad de Cuidado Intermedio,Adulto,410,563,153,73%,27/06/2020
-Privadas,Unidad de cuidado intensivo,Neonatal,125,199,74,63%,27/06/2020
-Privadas,Unidad de cuidado intensivo,Pediátrico,89,165,76,54%,27/06/2020
-Privadas,Unidad de cuidado intensivo,Adulto,772,1058,286,73%,27/06/2020
+Públicas,Hospitalización General,Neonatal,107,138,31,78%,13/07/2020
+Públicas,Hospitalización General,Pediátrico,208,399,191,52%,13/07/2020
+Públicas,Hospitalización General,Adulto,1070,1.314,244,81%,13/07/2020
+Públicas,Unidad de Cuidado Intermedio,Neonatal,92,126,34,73%,13/07/2020
+Públicas,Unidad de Cuidado Intermedio,Pediátrico,7,12,5,58%,13/07/2020
+Públicas,Unidad de Cuidado Intermedio,Adulto,46,48,2,96%,13/07/2020
+Públicas,Unidad de cuidado intensivo,Neonatal,55,68,13,81%,13/07/2020
+Públicas,Unidad de cuidado intensivo,Pediátrico,12,29,17,41%,13/07/2020
+Públicas,Unidad de cuidado intensivo,Adulto,244,280,36,87%,13/07/2020
+Privadas,Hospitalización General,Neonatal,120,162,42,74%,13/07/2020
+Privadas,Hospitalización General,Pediátrico,776,1.230,454,63%,13/07/2020
+Privadas,Hospitalización General,Adulto,4.458,5.415,957,82%,13/07/2020
+Privadas,Unidad de Cuidado Intermedio,Neonatal,172,252,80,68%,13/07/2020
+Privadas,Unidad de Cuidado Intermedio,Pediátrico,43,70,27,61%,13/07/2020
+Privadas,Unidad de Cuidado Intermedio,Adulto,426,537,111,79%,13/07/2020
+Privadas,Unidad de cuidado intensivo,Neonatal,129,202,73,64%,13/07/2020
+Privadas,Unidad de cuidado intensivo,Pediátrico,73,154,81,47%,13/07/2020
+Privadas,Unidad de cuidado intensivo,Adulto,1156,1.291,135,90%,13/07/2020

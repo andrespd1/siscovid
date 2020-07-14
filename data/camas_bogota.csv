@@ -1,4 +1,4 @@
-Servicio,Camas Ocupadas,Camas Ocupadas COVID,Camas habilitadas,Camas disponibles,% Ocupación
-General,6460,0,8731,2271,0.7398923376474631
-Intermedio,813,0,1100,287,0.7390909090909091
-UCI,637,559,1738,542,0.6881472957422324
+Servicio,Camas Ocupadas,Camas habilitadas,Camas disponibles,Ocupacion,Camas Ocupadas COVID
+General,6739,8658,1919,0.7783552783552784,0
+Intermedio,786,1045,259,0.7521531100478469,0
+UCI,586,2024,355,0.8246047430830039,1083
