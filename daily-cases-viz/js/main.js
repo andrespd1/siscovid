@@ -42,7 +42,7 @@ function draw_chart( data ) {
     ] ).nice();
 
   var z = d3.scaleOrdinal()
-    .domain( [ 'Barranquilla', 'Bogotá D.C.', 'Cali', 'Cartagena de Indias', 'Medellín' ] )
+    .domain( [ 'Barranquilla', 'Bogotá D.C.', 'Cali', 'Cartagena', 'Medellín' ] )
     .range([ '#C5D124', '#437EEB', '#FA8B4D', '#bebada', '#307373' ] );
 
   var line = d3.line()
