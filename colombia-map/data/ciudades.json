@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bogotá D.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0753173828125,
+          4.598327203100916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51222229003906,
+          3.431174857220211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Medellín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57838439941406,
+          6.242268188654924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52276611328125,
+          10.415559833181524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Barranquilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8004150390625,
+          10.997479134330888
+        ]
+      }
+    }
+  ]
+}
