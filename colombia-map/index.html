@@ -48,23 +48,32 @@
   <body>
     <div id="vis"></div>
     <div class="panel panel-default">
-      <div class="panel-heading"><b id="city">Colombia</b></div>
+      <div class="panel-heading"><b id="city"></b></div>
       <div class="panel-body">
-        Población urbana: <b id="urban-pop">0 habs</b>
+        Población urbana: <b id="urban-pop"></b>
         <br />
-        Densidad de población: <b id="pop-density">0 habs/km2</b>
+        Densidad de población: <b id="pop-density"></b>
         <br />
-        % de habitantes por debajo de la línea de pobreza: <b id="poverty">0%</b>
+        % de habitantes por debajo de la línea de pobreza: <b id="poverty"></b>
         <br />
-        % de adultos mayores de 60: <b id="olders">0%</b>
+        % de adultos mayores de 60: <b id="olders"></b>
         <br />
-        Capacidad hospitalaria: <b id="hospitals">0</b>
+        Capacidad hospitalaria: <b id="capacity"></b>
         <br />
-        % de manzanas con media/alta y alta vulnerabilidad: <b id="vulnerability">22.9%</b>
+        % de manzanas con media/alta y alta vulnerabilidad: <b id="vulnerability"></b>
       </div>
     </div>
 
     <script type="text/javascript">
+
+      d3.select( '#city' ).text( 'Colombia' );
+      d3.select( '#urban-pop' ).text( d3.format( ',.0f' )( 0 ) + ' habs' );
+      d3.select( '#pop-density' ).text( d3.format( ",.0f" )( 0 ) + ' habs/km2' );
+      d3.select( '#poverty' ).text( d3.format( ",.1%" )( 0 ) );
+      d3.select( '#olders' ).text( d3.format( ",.1%" )( 0 ) );
+      d3.select( '#capacity' ).text( d3.format( ",.0f" )( 0 ) + ' camas' );
+      d3.select( '#vulnerability' ).text( d3.format( ",.1%" )( 0.229 ) );
+
       vega.scheme( 'basic', [ '#e8e8e8', '#a0aae3', '#3c71dc' ] );
 
       var spec = {
@@ -206,6 +215,7 @@
             d3.select( '#pop-density' ).text( d3.format( ',.0f' )( city[ 'pop-density' ] ) + ' habs/km2' );
             d3.select( '#poverty' ).text( d3.format( ",.1%" )( city[ 'poverty' ] ) );
             d3.select( '#olders' ).text( d3.format( ",.1%" )( city[ 'olders' ] ) );
+            d3.select( '#capacity' ).text( d3.format( ",.0f" )( city[ 'capacity' ] ) + ' camas' );
             d3.select( '#vulnerability' ).text( d3.format( ",.1%" )( city[ 'vulnerability' ] ) );
 
           }
@@ -219,6 +229,7 @@
             d3.select( '#pop-density' ).text( d3.format( ",.0f" )( 0 ) + ' habs/km2' );
             d3.select( '#poverty' ).text( d3.format( ",.1%" )( 0 ) );
             d3.select( '#olders' ).text( d3.format( ",.1%" )( 0 ) );
+            d3.select( '#capacity' ).text( d3.format( ",.0f" )( 0 ) + ' camas' );
             d3.select( '#vulnerability' ).text( d3.format( ",.1%" )( 0.229 ) );
 
           }
