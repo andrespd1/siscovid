@@ -50,9 +50,9 @@
     <div class="panel panel-default">
       <div class="panel-heading"><b id="city">Colombia</b></div>
       <div class="panel-body">
-        Población urbana: <b id="urban-pop">0</b>
+        Población urbana: <b id="urban-pop">0 habs</b>
         <br />
-        Densidad de población: <b id="pop-density">0</b>
+        Densidad de población: <b id="pop-density">0 habs/km2</b>
         <br />
         % de habitantes por debajo de la línea de pobreza: <b id="poverty">0%</b>
         <br />
@@ -198,10 +198,32 @@
       vegaEmbed( '#vis', spec, { actions: false } ).then( ( { spec, view } ) => {
         view.addEventListener( 'mouseover', function( event, item ) {
           if( item !== null && item.datum !== undefined && 'city' in item.datum ) {
-            console.log( item.datum )  
+            var city = item.datum;
+            console.log( city );
+
+            d3.select( '#city' ).text( city.city );
+            d3.select( '#urban-pop' ).text( d3.format( ',.0f' )( city[ 'urban-pop' ] ) + ' habs' );
+            d3.select( '#pop-density' ).text( d3.format( ',.0f' )( city[ 'pop-density' ] ) + ' habs/km2' );
+            d3.select( '#poverty' ).text( d3.format( ",.1%" )( city[ 'poverty' ] ) );
+            d3.select( '#olders' ).text( d3.format( ",.1%" )( city[ 'olders' ] ) );
+            d3.select( '#vulnerability' ).text( d3.format( ",.1%" )( city[ 'vulnerability' ] ) );
+
           }
+        } );
+
+        view.addEventListener( 'mouseout', function( event, item ) {
+          if( item !== null && item.datum !== undefined && 'city' in item.datum ) {
+            
+            d3.select( '#city' ).text( 'Colombia' );
+            d3.select( '#urban-pop' ).text( d3.format( ',.0f' )( 0 ) + ' habs' );
+            d3.select( '#pop-density' ).text( d3.format( ",.0f" )( 0 ) + ' habs/km2' );
+            d3.select( '#poverty' ).text( d3.format( ",.1%" )( 0 ) );
+            d3.select( '#olders' ).text( d3.format( ",.1%" )( 0 ) );
+            d3.select( '#vulnerability' ).text( d3.format( ",.1%" )( 0.229 ) );
+
+          }
+        } );
       } );
-});
 
     </script>
   </body>
