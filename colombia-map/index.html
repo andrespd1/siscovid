@@ -67,11 +67,11 @@
     <script type="text/javascript">
 
       d3.select( '#city' ).text( 'Colombia' );
-      d3.select( '#urban-pop' ).text( d3.format( ',.0f' )( 0 ) + ' habs' );
-      d3.select( '#pop-density' ).text( d3.format( ",.0f" )( 0 ) + ' habs/km2' );
-      d3.select( '#poverty' ).text( d3.format( ",.1%" )( 0 ) );
-      d3.select( '#olders' ).text( d3.format( ",.1%" )( 0 ) );
-      d3.select( '#capacity' ).text( d3.format( ",.0f" )( 0 ) + ' camas' );
+      d3.select( '#urban-pop' ).text( d3.format( ',.0f' )( 38292939 ) + ' habs' );
+      d3.select( '#pop-density' ).text( d3.format( ",.0f" )( 167 ) + ' habs/km2' );
+      d3.select( '#poverty' ).text( d3.format( ",.1%" )( 0.4179 ) );
+      d3.select( '#olders' ).text( d3.format( ",.1%" )( 0.1486 ) );
+      d3.select( '#capacity' ).text( d3.format( ",.0f" )( 86636 ) + ' camas' );
       d3.select( '#vulnerability' ).text( d3.format( ",.1%" )( 0.229 ) );
 
       vega.scheme( 'basic', [ '#e8e8e8', '#a0aae3', '#3c71dc' ] );
@@ -89,6 +89,11 @@
                 "feature": "departamentos"
               }
             },
+            "transform": [
+              {
+                "calculate": "log(datum.properties.Casos)/log(10)", "as": "log_casos"
+              }
+            ],
             "projection": {
               "type": "mercator"
             },
@@ -225,11 +230,11 @@
           if( item !== null && item.datum !== undefined && 'city' in item.datum ) {
             
             d3.select( '#city' ).text( 'Colombia' );
-            d3.select( '#urban-pop' ).text( d3.format( ',.0f' )( 0 ) + ' habs' );
-            d3.select( '#pop-density' ).text( d3.format( ",.0f" )( 0 ) + ' habs/km2' );
-            d3.select( '#poverty' ).text( d3.format( ",.1%" )( 0 ) );
-            d3.select( '#olders' ).text( d3.format( ",.1%" )( 0 ) );
-            d3.select( '#capacity' ).text( d3.format( ",.0f" )( 0 ) + ' camas' );
+            d3.select( '#urban-pop' ).text( d3.format( ',.0f' )( 38292939 ) + ' habs' );
+            d3.select( '#pop-density' ).text( d3.format( ",.0f" )( 167 ) + ' habs/km2' );
+            d3.select( '#poverty' ).text( d3.format( ",.1%" )( 0.4179 ) );
+            d3.select( '#olders' ).text( d3.format( ",.1%" )( 0.1486 ) );
+            d3.select( '#capacity' ).text( d3.format( ",.0f" )( 86636 ) + ' camas' );
             d3.select( '#vulnerability' ).text( d3.format( ",.1%" )( 0.229 ) );
 
           }

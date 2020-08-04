@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Embedding Vega-Lite</title>
+
+    <!-- D3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
+
+    <!-- Vega-Lite -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.11.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.12.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+
+     <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <style type="text/css">
+      body { 
+        font-family: oswald,'Helvetica',sans-serif;
+        padding: 10px;
+      }
+
+      .panel {
+        position: absolute;
+        display: inline-block;
+        vertical-align: top;
+        background-color: #f2f3fe;
+        padding: .5rem;
+        margin-left: -140px;
+        box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.1);
+      }
+
+      .panel-heading{
+        color: #B3BC3C !important;
+        font-weight: 400 !important;
+        font-size: 1.5rem;
+        background-color: #f2f3fe !important;
+        padding: 2px 5px;
+      }
+
+      .panel-body {
+        font-size: 1rem;
+        padding: 5px;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id="vis"></div>
+    <div class="panel panel-default">
+      <div class="panel-heading"><b id="city"></b></div>
+      <div class="panel-body">
+        Uso de tapabocas: <b id="tapabocas"></b>
+        <br />
+        Lavado de manos con agua y jabón: <b id="lavado"></b>
+        <br />
+        Mantener la distacia de más de un metro: <b id="distanciamiento"></b>
+        <br />
+        Creencia de probabilidad de contagio - Nada probable: <b id="contagio-nada"></b>
+        <br />
+        Creencia de probabilidad de contagio - Muy probable: <b id="contagio-muy"></b>
+        <br />
+        Probabilidad de no poder pagar el mercado el próximo mes - Ya sucede y muy probable: <b id="mercado"></b>
+        <br />
+        Hoy, ¿qué tan dificil es mantener el trabajo? - Difícil y muy difícil: <b id="trabajo"></b>
+        <br />
+        De quienes trabajan, porcentaje que teletrabaja: <b id="teletrabajo"></b>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+
+      d3.select( '#city' ).text( 'Colombia' );
+      d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.97 ) );
+      d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.95 ) );
+      d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.85 ) );
+      d3.select( '#contagio-nada' ).text( d3.format( ".2%" )( 0.15 ) );
+      d3.select( '#contagio-muy' ).text( d3.format( ".2%" )( 0.29 ) );
+      d3.select( '#mercado' ).text( d3.format( ".2%" )( 0.46 ) );
+      d3.select( '#trabajo' ).text( d3.format( ".2%" )( 0.57 ) );
+      d3.select( '#teletrabajo' ).text( d3.format( ".2%" )( 0.70 ) );
+
+      vega.scheme( 'basic', [ '#e8e8e8', '#a0aae3', '#3c71dc' ] );
+
+      var spec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+        "width": 400,
+        "height": 500,
+        "layer": [
+          {
+            "data": {
+              "url": "./data/departamentos.topo.json",
+              "format": {
+                "type": "topojson",
+                "feature": "departamentos"
+              }
+            },
+            "transform": [
+              {
+                "calculate": "log(datum.properties.Casos)/log(10)", "as": "log_casos"
+              }
+            ],
+            "projection": {
+              "type": "mercator"
+            },
+            "mark": {
+              "type": "geoshape",
+              "stroke": "gray"
+            },
+            "encoding": {
+              "color": {
+                "field": "properties.Casos",
+                "type": "quantitative",
+                "scale": {
+                  "scheme": "basic"
+                },
+                "legend": { 
+                  "title": "Casos activos",
+                  "titleFontWeight": 400,
+                  "direction": "horizontal",
+                  "orient": "bottom",
+                  "gradientLength": 400,
+                  "offset": -5,
+                  "format": ",.0f"
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "properties.departamento",
+                  "type": "nominal",
+                  "axis": { 
+                    "title": "Departamento"
+                  }
+                },
+                {
+                  "field": "properties.Casos",
+                  "type": "quantitative",
+                  "axis": {
+                    "title": "Casos activos",
+                    "format": ",.0f"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "data": {
+              "url": "./data/surveys.csv"
+            },
+            "projection": {
+              "type": "mercator"
+            },
+            "mark":{
+              "type": "circle",
+              "stroke": "#B2B2B2",
+              "strokeWidth": .5
+            },
+            "encoding": {
+              "longitude": {
+                "field": "longitude",
+                "type": "quantitative"
+              },
+              "latitude": {
+                "field": "latitude",
+                "type": "quantitative"
+              },
+              "size": {
+                "value": 180
+              },
+              "color": {
+                "value": "#B3BC3C"
+              },
+              "opacity": {
+                "value": 1
+              }
+            }
+          },
+          {
+            "data": {
+              "url": "./data/surveys.csv"
+            },
+            "projection": {
+              "type": "mercator"
+            },
+            "mark":{
+              "type": "point"
+            },
+            "encoding": {
+              "longitude": {
+                "field": "longitude",
+                "type": "quantitative"
+              },
+              "latitude": {
+                "field": "latitude",
+                "type": "quantitative"
+              },
+              "size": {
+                "value": 450
+              },
+              "color": {
+                "value": "#B3BC3C"
+              },
+              "opacity": {
+                "value": 1
+              }
+            }
+          }
+        ],
+        "config": {
+          "style": {
+            "cell": {
+              "stroke": "transparent"
+            }
+          }
+        }
+      };
+
+      vegaEmbed( '#vis', spec, { actions: false } ).then( ( { spec, view } ) => {
+        view.addEventListener( 'mouseover', function( event, item ) {
+          if( item !== null && item.datum !== undefined && 'city' in item.datum ) {
+            var city = item.datum;
+            console.log( city );
+
+            d3.select( '#city' ).text( city.city );
+            d3.select( '#tapabocas' ).text( d3.format( '.2%' )( city[ 'tapabocas' ] ) );
+            d3.select( '#lavado' ).text( d3.format( '.2%' )( city[ 'lavado' ] ) );
+            d3.select( '#distanciamiento' ).text( d3.format( '.2%' )( city[ 'distanciamiento' ] ) );
+            d3.select( '#contagio-nada' ).text( d3.format( '.2%' )( city[ 'contagio-nada' ] ) );
+            d3.select( '#contagio-muy' ).text( d3.format( '.2%' )( city[ 'contagio-muy' ] ) );
+            d3.select( '#mercado' ).text( d3.format( '.2%' )( city[ 'mercado' ] ) );
+            d3.select( '#trabajo' ).text( d3.format( '.2%' )( city[ 'trabajo' ] ) );
+            d3.select( '#teletrabajo' ).text( d3.format( '.2%' )( city[ 'teletrabajo' ] ) );
+
+          }
+        } );
+
+        view.addEventListener( 'mouseout', function( event, item ) {
+          if( item !== null && item.datum !== undefined && 'city' in item.datum ) {
+            
+            d3.select( '#city' ).text( 'Colombia' );
+            d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.97 ) );
+            d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.95 ) );
+            d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.85 ) );
+            d3.select( '#contagio-nada' ).text( d3.format( ".2%" )( 0.15 ) );
+            d3.select( '#contagio-muy' ).text( d3.format( ".2%" )( 0.29 ) );
+            d3.select( '#mercado' ).text( d3.format( ".2%" )( 0.46 ) );
+            d3.select( '#trabajo' ).text( d3.format( ".2%" )( 0.57 ) );
+            d3.select( '#teletrabajo' ).text( d3.format( ".2%" )( 0.70 ) );
+
+          }
+        } );
+      } );
+
+    </script>
+  </body>
+</html>
