@@ -26,10 +26,10 @@ body {
 
 .lineHoverText {
   text-shadow:
-  -2px -2px 0 #fff,
-  2px -2px 0 #fff,
-  -2px 2px 0 #fff,
-  2px 2px 0 #fff;
+  -3px -3px 0 #fff,
+  3px -3px 0 #fff,
+  -3px 3px 0 #fff,
+  3px 3px 0 #fff;
 }
 
 .hoverCircle {
@@ -38,4 +38,17 @@ body {
 
 .legend {
   font-size: 13px;
+}
+
+div.int_tooltip { 
+  position: absolute;
+  text-align: center;
+  min-width: 100px;
+  max-width: 320px;         
+  padding: 5px;       
+  font: 11px sans-serif;    
+  background: #C9CCCE;
+  opacity: 0.7;
+  border-radius: 3px;     
+  pointer-events: none;     
 }

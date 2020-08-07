@@ -1,6 +1,6 @@
 
 var svg = d3.select( '#chart' ),
-  margin = { top: 30, right: 35, bottom: 15, left: 45 },
+  margin = { top: 30, right: -10, bottom: 15, left: 45 },
   width = +svg.attr( 'width' ) - margin.left - margin.right,
   height = +svg.attr( 'height' ) - margin.top - margin.bottom;
 
@@ -11,6 +11,14 @@ var parseTime = d3.timeParse( '%Y-%m-%d' ),
 
 d3.csv( './data/daily-cases-by-city.csv' ).then( d => draw_chart( d ) );
 d3.csv( './data/interventions.csv' ).then( d => draw_interventions( d ) );
+
+var z = d3.scaleOrdinal()
+    .domain( [ 'Barranquilla', 'Bogotá D.C.', 'Cali', 'Cartagena', 'Medellín', 'Nacional' ] )
+    .range([ '#307373', '#F90A3E', '#4C80E6', '#C4D041', '#FA8B4D', '#92D04F' ] );
+
+var int_tooltip = d3.select( 'body' ).append( 'div' ) 
+  .attr( 'class', 'int_tooltip' )       
+    .style( 'opacity', 0 );
 
 function draw_chart( data ) {
   
@@ -38,15 +46,11 @@ function draw_chart( data ) {
     .domain( d3.extent( data, d => d.date ) )
 
   var y = d3.scaleLinear()
-    .rangeRound( [ height - margin.bottom - 250 , margin.top ] )
+    .rangeRound( [ height - margin.bottom - 530 , margin.top ] )
     .domain( [
       d3.min( cities, d => d3.min( d.values, c => c.cases ) ),
       d3.max( cities, d => d3.max( d.values, c => c.cases ) )
     ] ).nice();
-
-  var z = d3.scaleOrdinal()
-    .domain( [ 'Barranquilla', 'Bogotá D.C.', 'Cali', 'Cartagena', 'Medellín' ] )
-    .range([ '#307373', '#F90A3E', '#4C80E6', '#C4D041', '#FA8B4D' ] );
 
   var line = d3.line()
     .curve( d3.curveCardinal )
@@ -55,7 +59,7 @@ function draw_chart( data ) {
 
   svg.append( 'g' )
     .attr( 'class', 'x-axis' )
-    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 250 ) + ')' )
+    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 530 ) + ')' )
     .call( d3.axisBottom( x ).tickFormat( d3.timeFormat( '%b' ) ) );
 
   svg.append( 'g' )
@@ -67,7 +71,7 @@ function draw_chart( data ) {
       .attr( 'dy', '1em' )
       .style( 'font-size', 13 )
       .style( 'text-anchor', 'end' )
-      .text( 'Casos diarios / 100.000 habs.' );
+      .text( 'Casos nuevos / 100 mil habs.' );
 
   svg.append( 'g' )
     .attr( 'class', 'y-axis' )
@@ -156,7 +160,7 @@ function draw_chart( data ) {
       .attr( 'cx', x( d.date ) );
 
     focus.selectAll( '.lineHoverText' )
-      .attr( 'transform',  'translate(' + ( x( d.date ) ) + ',' + height / 5 + ')' )
+      .attr( 'transform',  'translate(' + ( x( d.date ) ) + ',' + height / 25 + ')' )
       .text( e => e + ': ' + formatValue( d[ e ] ) );
 
     x( d.date ) > ( width - width / 4 ) 
@@ -216,11 +220,15 @@ function draw_interventions( data ) {
   // TODO: Dynamic dates
   var x = d3.scaleTime()
     .rangeRound( [ margin.left, width - margin.right ] )
-    .domain( [ parseTime( '2020-03-06' ), parseTime( '2020-08-05' ) ] );
+    .domain( [ parseTime( '2020-02-27' ), parseTime( '2020-08-05' ) ] );
 
   var y = d3.scaleBand()
-    .range( [ height - margin.bottom , margin.top + 290 ] )
+    .range( [ height - margin.bottom , margin.top + 210 ] )
     .domain( data.map( d => d.name ).sort().reverse() );
+
+  var y2 = d3.scaleOrdinal()
+    .domain( [ 'Bogotá D.C.', 'Nacional', 'Cali', 'Medellín' ] )
+    .range( [ 7, 10, 13, 16 ] )
 
   svg.append( 'g' )
     .attr( 'class', 'x-axis' )
@@ -231,7 +239,7 @@ function draw_interventions( data ) {
     .attr( 'class', 'y-axis' )
     .call( y ).append( 'text' )
       .attr( 'transform', 'rotate(-90)' )
-      .attr( 'x', -325 )
+      .attr( 'x', -250 )
       .attr( 'y', 0 )
       .attr( 'dy', '1em' )
       .style( 'font-size', 13 )
@@ -246,34 +254,47 @@ function draw_interventions( data ) {
   console.log( data );
 
   svg.selectAll( '.window-interventions' )
-    .data( data.filter( d => d.end_date !== null ) )
+    .data( data.filter( d => ( d.end_date !== null ) && ( d.init_date <= parseTime( '2020-08-05' ) ) ) )
     .enter().append( 'line' )          
-      .style('stroke', '92D04F' )
+      .style('stroke', d => z( d.city ) )
       .style( 'stroke-width', 2 )
       .attr( 'x1', d => x( d.init_date ) )     
-      .attr( 'y1', d => y( d.name ) + 8 )
+      .attr( 'y1', d => y( d.name ) + y2( d.city ) )
       .attr( 'x2', d => ( d.end_date <= parseTime( '2020-08-05' ) ) ? x( d.end_date ) : x( parseTime( '2020-08-05' ) ) )
-      .attr( 'y2', d => y( d.name ) + 8 );
-
-  svg.selectAll( '.int_interventions' )
-    .data( data ).enter().append( 'circle' )
-      .attr( 'class', 'int_interventions' )
-      .attr( 'cx', d => x( d.init_date ) )
-      .attr( 'cy', d => y( d.name ) + 8 )
-      .attr( 'r', 4 )
-      .style( 'stroke', '#92D04F' )
-      .style( 'stroke-width', 3 )
-      .style( 'fill', 'white' );
+      .attr( 'y2', d => y( d.name ) + y2( d.city ) );
 
   svg.selectAll( '.end_interventions' )
-    .data( data ).enter().append( 'circle' )
+    .data( data.filter( d => d.end_date <= parseTime( '2020-08-05' ) ) ).enter().append( 'circle' )
       .attr( 'class', 'end_interventions' )
       .attr( 'cx', d => x( d.end_date ) )
-      .attr( 'cy', d => y( d.name ) + 8 )
-      .attr( 'r', 4 )
-      .style( 'stroke', '#92D04F' )
-      .style( 'stroke-width', 3 )
+      .attr( 'cy', d => y( d.name ) + y2( d.city ) )
+      .attr( 'r', 3 )
+      .style( 'stroke', d => z( d.city ) )
+      .style( 'stroke-width', 2 )
       .style( 'fill', 'white' );
+
+  svg.selectAll( '.init_interventions' )
+    .data( data.filter( d => d.init_date <= parseTime( '2020-08-05' ) ) ).enter().append( 'circle' )
+      .attr( 'class', 'init_interventions' )
+      .attr( 'cx', d => x( d.init_date ) )
+      .attr( 'cy', d => y( d.name ) + y2( d.city ) )
+      .attr( 'r', 3 )
+      .style( 'stroke', d => z( d.city ) )
+      .style( 'stroke-width', 2 )
+      .style( 'fill', 'white' )
+      .on( 'mouseover', function( d ) {
+        int_tooltip.transition()
+          .duration( 200 )
+          .style( 'opacity', .9 );
+        int_tooltip.html( d.city + ': ' + d.description )
+          .style( 'left', ( d3.event.pageX ) + 'px' )
+          .style( 'top', ( d3.event.pageY - 28 ) + 'px' );  
+      } )          
+      .on( 'mouseout', function( d ) {
+        int_tooltip.transition()
+          .duration( 500 )
+          .style( 'opacity', 0 );
+      } );
 
 }
 

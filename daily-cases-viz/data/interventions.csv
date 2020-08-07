@@ -1,30 +1,98 @@
-init_date,end_date,name
-2020-03-20,,CE
-2020-03-12,,ES
-2020-03-13,2020-05-30,CF
-2020-03-16,,CC
-2020-03-17,2020-04-12,EE
-2020-03-17,2020-05-30,CF
-2020-03-17,,CE
-2020-03-20,2020-08-31,AA
-2020-03-20,,CN
-2020-03-20,2020-09-01,CVI
-2020-03-25,2020-04-13,Q
-2020-03-25,2020-07-21,CVL
-2020-04-09,,RT
-2020-04-12,2020-05-06,EE
-2020-04-13,2020-04-26,Q
-2020-04-22,,EQ
-2020-04-24,,CT
-2020-04-24,,RT
-2020-04-27,2020-05-11,Q
-2020-04-27,,AF
-2020-05-06,2020-12-31,EE
-2020-05-11,,AA
-2020-05-11,,AF
-2020-05-11,2020-05-25,Q
-2020-05-11,,EQ
-2020-05-25,2020-05-31,Q
-2020-06-01,2020-08-01,Q
-2020-06-01,,AF
-2020-06-03,,AF
+city,init_date,end_date,name,description
+Nacional,2020-03-12,,CE,Cancelación de eventos públicos
+Nacional,2020-03-12,,ES,Declaración de emergencia sanitaria
+Nacional,2020-03-13,2020-05-30,CF,Cierre de frontera terrestre y fluvial
+Nacional,2020-03-17,,EE,Estado de emergencia
+Nacional,2020-03-17,2020-05-30,CF,"Cierre de frontera terrestre y fluvial con Panamá, Ecuador, Perú y Brasil"
+Nacional,2020-03-17,,CE,Cancelación de eventos públicos de más de 50 personas
+Nacional,2020-03-20,2020-08-31,AA,Aislamiento de adultos mayores
+Nacional,2020-03-20,,CN,Cierre de negocios no escenciales
+Nacional,2020-03-20,,CE,Cancelación de eventos públicos
+Nacional,2020-03-23,2020-09-01,CVI,Cierre de vuelos internacionales
+Nacional,2020-03-25,2020-04-13,Q,Inicio de la primera cuarentena
+Nacional,2020-03-25,2020-07-21,CVL,Cierre de vuelos locales
+Nacional,2020-04-09,,RT,Transmilenio no más de 35%
+Nacional,2020-04-12,,EE,Extensión del estado de emergencia
+Nacional,2020-04-13,2020-04-26,Q,Inicio de la segunda cuarentena 
+Nacional,2020-04-22,,EQ,Excepciones a la cuarentena
+Nacional,2020-04-24,,CT,"Se adopta el protocolo general de bioseguridad para todas las actividades económicas, sociales y sectores de la administración pública"
+Nacional,2020-04-24,,RT,"Protocolos a seguir en la prestación de los servicios de transporte, incluído el transporte masivo de pasajeros"
+Nacional,2020-04-27,2020-05-11,Q,Extensión de la segunda cuarentena
+Nacional,2020-04-27,,AF,"Actividad física de 5 a 8 am, mayores de 18 y menores de 70, niños mayores de 6 años también pueden salir a espacios abiertos tres veces por semanas"
+Nacional,2020-04-27,,CT,"Se adopta el protocolo general de bioseguridad para todas las actividades económicas, sociales y sectores de la administración pública"
+Nacional,2020-05-06,,EE,Extensión del estado de emergencia
+Nacional,2020-05-11,,AA,Aislamiento de adultos mayores
+Nacional,2020-05-11,,AF,"Actividad física de 5 a 8 am, mayores de 18 y menores de 70, niños mayores de 6 años también pueden salir a espacios abiertos tres veces por semanas"
+Nacional,2020-05-11,2020-05-25,Q,Inicio de la tercera cuarentena
+Nacional,2020-05-11,,EQ,Excepciones a la cuarentena
+Nacional,2020-05-25,2020-05-31,Q,Extensión de la tercera cuarentena
+Nacional,2020-06-01,2020-08-01,Q,Inicio de la cuarta cuarentena
+Nacional,2020-06-01,,AF,"Actividad física adultos mayores 3 veces/semana x 30min. 18 a 69 años todos los días x 2horas y niños mayores de seis años también pueden salir a espacios abiertos tres veces por semanas, una hora al día. En edades entre los 2 y 5 años, lo harán media hora por día"
+Nacional,2020-06-01,,CN,"Apertura de centros comerciales, los museos, las bibliotecas públicas, salones estéticos y de belleza con control de aforo del 30%,  servicios profesionales, empleados de servicio doméstico y médicos especialistas, podrán retornar de manera gradual a sus labores"
+Nacional,2020-06-03,,AF,"Actividad física todos los días x 2horas, incluyendo adultos mayores"
+Bogotá D.C.,2020-03-13,,CE,Cancelación de eventos públicos de más de 500 personas
+Bogotá D.C.,2020-03-13,,CM,Cierre de mercados / plazas
+Bogotá D.C.,2020-03-16,,CP,Declaración de calamidad pública
+Bogotá D.C.,2020-03-16,,AA,Aislamiento de adultos mayores
+Bogotá D.C.,2020-03-16,,CN,Cierre de negocios no escenciales
+Bogotá D.C.,2020-03-16,,CE,Cancelación de eventos públicos de más de 50 personas
+Bogotá D.C.,2020-03-20,2020-03-24,DS,Simulacro de aislamiento
+Bogotá D.C.,2020-03-25,,RT,Protocolos de prevención en Transmilenio
+Bogotá D.C.,2020-04-05,,TC,Tapabocas comunidad
+Bogotá D.C.,2020-04-13,2020-04-26,RM,Pico y género
+Bogotá D.C.,2020-04-28,,RT,Transmilenio no más del 35%
+Bogotá D.C.,2020-04-29,,RT,"Restringe a partir del 29 de abril de 2020 el ingreso al Sistema Integrado de Transporte Público, en sus componentes troncal y zonal, en el horario de 5:00 am a 9:00 am de lunes a sábado, a los ciudadanos que trabajan en el sector de la construcción y  manufactura"
+Bogotá D.C.,2020-05-09,2020-05-23,AN,Alerta naranja
+Bogotá D.C.,2020-05-11,,CT,Apertura a sectores de construcción y manufactura
+Bogotá D.C.,2020-06-16,2020-08-31,RM,Pico y cédula
+Bogotá D.C.,2020-07-13,2020-08-16,AN,Alerta naranja
+Bogotá D.C.,2020-07-13,2020-08-14,QS,Cuarentena sectorizada
+Cali,2020-03-16,,CP,Declaración de calamidad pública
+Cali,2020-03-16,,AA,Aislamiento de adultos mayores
+Cali,2020-03-16,,CN,Cierre de negocios no escenciales
+Cali,2020-03-20,2020-03-24,TQ,Toque de queda
+Cali,2020-04-05,2020-04-19,RM,Pico y cédula
+Cali,2020-04-05,,TC,Tapabocas comunidad
+Cali,2020-04-20,2020-04-26,RM,Pico y vida
+Cali,2020-04-25,2020-04-27,LS,Ley seca
+Cali,2020-04-27,2020-05-08,RM,Pico y cédula
+Cali,2020-04-30,2020-05-05,LS,Ley seca
+Cali,2020-05-08,2020-05-10,TQ,Toque de queda sectorizado
+Cali,2020-05-08,2020-05-11,LS,Ley seca
+Cali,2020-05-11,2020-05-17,RM,Pico y cédula
+Cali,2020-05-17,2020-05-24,RM,Extensión pico y cédula
+Cali,2020-05-26,2020-05-31,RM,Pico y cédula
+Cali,2020-05-29,2020-06-01,LS,Ley seca sectorizada
+Cali,2020-05-29,2020-06-01,TQ,Toque de queda sectorizado
+Cali,2020-06-01,2020-06-14,AN,Alerta naranja
+Cali,2020-06-01,,AR,Alerta roja por comunas / localidades
+Cali,2020-06-01,2020-06-14,RM,Pico y cédula
+Cali,2020-06-20,2020-06-23,LS,Ley seca
+Cali,2020-06-20,2020-06-22,TQ,Toque de queda
+Cali,2020-06-26,2020-06-30,LS,Ley seca
+Cali,2020-06-26,2020-06-29,TQ,Toque de queda
+Cali,2020-07-01,2020-07-15,RM,Pico y cédula
+Cali,2020-07-15,,AR,Alerta roja por comunas / localidades
+Cali,2020-07-16,2020-07-31,RM,Pico y cédula
+Cali,2020-07-17,,LS,Ley seca
+Cali,2020-07-17,,TQ,Toque de queda
+Cali,2020-07-19,,AN,Alerta naranja
+Cali,2020-07-24,2020-07-31,LS,Ley seca
+Cali,2020-07-24,2020-07-31,TQ,Toque de queda
+Cali,2020-08-01,2020-08-31,RM,Pico y cédula
+Cali,2020-08-03,,AN,Paso de alerta roja a alerta naranja
+Cali,2020-08-03,,AR,Alerta roja por comunas / localidades
+Cali,2020-08-07,2020-08-10,LS,Ley seca
+Cali,2020-08-07,2020-08-10,TQ,Toque de queda
+Cali,2020-08-14,2020-08-17,LS,Ley seca
+Cali,2020-08-14,2020-08-17,TQ,Toque de queda
+Cali,2020-08-21,2020-08-24,LS,Ley seca
+Cali,2020-08-21,2020-08-24,TQ,Toque de queda
+Cali,2020-08-28,2020-08-31,LS,Ley seca
+Cali,2020-08-28,2020-08-31,TQ,Toque de queda
+Medellín,2020-03-16,,CP,Declaración de calamidad pública
+Medellín,2020-03-16,,AA,Aislamiento de adultos mayores
+Medellín,2020-03-16,,CN,Cierre de negocios no escenciales
+Medellín,2020-03-20,,DS,Cuarentena por la vida
+Medellín,2020-03-21,,UF,Un integrante por familia para abastecimiento
+Medellín,2020-03-23,,SP,Suspención pico y placa
