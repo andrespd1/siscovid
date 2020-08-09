@@ -93,6 +93,30 @@ Cali,2020-08-28,2020-08-31,TQ,Toque de queda
 Medellín,2020-03-16,,CP,Declaración de calamidad pública
 Medellín,2020-03-16,,AA,Aislamiento de adultos mayores
 Medellín,2020-03-16,,CN,Cierre de negocios no escenciales
-Medellín,2020-03-20,,DS,Cuarentena por la vida
+Medellín,2020-03-20,2020-03-20,DS,Cuarentena por la vida
 Medellín,2020-03-21,,UF,Un integrante por familia para abastecimiento
-Medellín,2020-03-23,,SP,Suspención pico y placa
+Medellín,2020-03-23,2020-05-26,SP,Suspención pico y placa
+Medellín,2020-03-24,,RM,Pico y cédula
+Medellín,2020-03-24,,AF,"Actividad física de 5 a 8 am mayores de 18 y menores de 70, niños mayores de seis años también pueden salir a espacios abiertos tres veces por semanas"
+Medellín,2020-03-30,,RM,Pico y cédula
+Medellín,2020-04-03,,RM,Pico y cédula
+Medellín,2020-04-05,,TC,Tapabocas comunidad
+Medellín,2020-04-13,2020-04-20,RM,Pico y cédula
+Medellín,2020-04-21,2020-05-10,RM,Pico y cédula
+Medellín,2020-05-09,2020-05-11,TQ,Toque de queda
+Medellín,2020-05-09,2020-05-11,LS,Ley seca
+Medellín,2020-05-11,2020-05-24,RM,Pico y cédula
+Medellín,2020-05-11,,AF,"Actividad física de 5 a 8 am mayores de 18 y menores de 70, niños mayores de seis años también pueden salir a espacios abiertos tres veces por semanas"
+Medellín,2020-05-24,,CN,Cierre de negocios no escenciales
+Medellín,2020-05-25,2020-07-12,RM,Pico y cédula
+Medellín,2020-07-10,2020-07-13,LS,Ley seca
+Medellín,2020-07-11,,AN,Alerta naranja
+Medellín,2020-07-13,2020-07-26,QS,Cuarentena sectorizada
+Medellín,2020-07-13,2020-07-21,RM,Pico y cédula
+Medellín,2020-07-17,2020-07-21,DS,Distanciamiento social
+Medellín,2020-07-22,2020-07-26,RM,Pico y cédula
+Medellín,2020-07-24,2020-08-10,QI,Cuarentena intermitente
+Medellín,2020-07-24,2020-07-26,LS,Ley seca
+Medellín,2020-07-27,2020-08-09,RM,Pico y cédula
+Medellín,2020-07-31,2020-08-03,DS,Distanciamiento social
+Medellín,2020-08-07,2020-08-10,DS,Distanciamiento social

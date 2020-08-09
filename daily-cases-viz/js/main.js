@@ -46,7 +46,7 @@ function draw_chart( data ) {
     .domain( d3.extent( data, d => d.date ) )
 
   var y = d3.scaleLinear()
-    .rangeRound( [ height - margin.bottom - 530 , margin.top ] )
+    .rangeRound( [ height - margin.bottom - 500 , margin.top ] )
     .domain( [
       d3.min( cities, d => d3.min( d.values, c => c.cases ) ),
       d3.max( cities, d => d3.max( d.values, c => c.cases ) )
@@ -59,7 +59,7 @@ function draw_chart( data ) {
 
   svg.append( 'g' )
     .attr( 'class', 'x-axis' )
-    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 530 ) + ')' )
+    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 500 ) + ')' )
     .call( d3.axisBottom( x ).tickFormat( d3.timeFormat( '%b' ) ) );
 
   svg.append( 'g' )
