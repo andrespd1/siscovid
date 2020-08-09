@@ -46,7 +46,7 @@ function draw_chart( data ) {
     .domain( d3.extent( data, d => d.date ) )
 
   var y = d3.scaleLinear()
-    .rangeRound( [ height - margin.bottom - 500 , margin.top ] )
+    .rangeRound( [ height - margin.bottom - 480 , margin.top ] )
     .domain( [
       d3.min( cities, d => d3.min( d.values, c => c.cases ) ),
       d3.max( cities, d => d3.max( d.values, c => c.cases ) )
@@ -59,7 +59,7 @@ function draw_chart( data ) {
 
   svg.append( 'g' )
     .attr( 'class', 'x-axis' )
-    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 500 ) + ')' )
+    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 480 ) + ')' )
     .call( d3.axisBottom( x ).tickFormat( d3.timeFormat( '%b' ) ) );
 
   svg.append( 'g' )
@@ -71,7 +71,7 @@ function draw_chart( data ) {
       .attr( 'dy', '1em' )
       .style( 'font-size', 13 )
       .style( 'text-anchor', 'end' )
-      .text( 'Casos nuevos / 100 mil habs.' );
+      .text( 'Casos nuevos* / 100 mil habs.' );
 
   svg.append( 'g' )
     .attr( 'class', 'y-axis' )
@@ -244,7 +244,7 @@ function draw_interventions( data ) {
       .attr( 'dy', '1em' )
       .style( 'font-size', 13 )
       .style( 'text-anchor', 'end' )
-      .text( 'Intervenciones' );
+      .text( 'Intervenciones**' );
 
   svg.append( 'g' )
     .attr( 'class', 'y-axis' )
