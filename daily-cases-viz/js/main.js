@@ -14,7 +14,7 @@ d3.csv( './data/interventions.csv' ).then( d => draw_interventions( d ) );
 
 var z = d3.scaleOrdinal()
     .domain( [ 'Barranquilla', 'Bogotá D.C.', 'Cali', 'Cartagena', 'Medellín', 'Nacional' ] )
-    .range([ '#307373', '#F90A3E', '#4C80E6', '#C4D041', '#FA8B4D', '#92D04F' ] );
+    .range([ '#307373', '#F90A3E', '#4C80E6', '#C4D041', '#FA8B4D', '#F5DC00' ] );
 
 var int_tooltip = d3.select( 'body' ).append( 'div' ) 
   .attr( 'class', 'int_tooltip' )       
@@ -46,7 +46,7 @@ function draw_chart( data ) {
     .domain( d3.extent( data, d => d.date ) )
 
   var y = d3.scaleLinear()
-    .rangeRound( [ height - margin.bottom - 480 , margin.top ] )
+    .rangeRound( [ height - margin.bottom - 550 , margin.top ] )
     .domain( [
       d3.min( cities, d => d3.min( d.values, c => c.cases ) ),
       d3.max( cities, d => d3.max( d.values, c => c.cases ) )
@@ -59,8 +59,15 @@ function draw_chart( data ) {
 
   svg.append( 'g' )
     .attr( 'class', 'x-axis' )
-    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 480 ) + ')' )
+    .attr( 'transform', 'translate(0,' + ( height - margin.bottom - 550 ) + ')' )
     .call( d3.axisBottom( x ).tickFormat( d3.timeFormat( '%b' ) ) );
+
+  svg.append( 'text' )
+    .attr( 'text-anchor', 'middle' )
+    .attr( 'dy', '1em' )
+    .style( 'font-size', 13 )
+    .attr( 'transform', 'translate(' + ( width / 2 ) + ',230)' )  // centre below axis
+    .text( 'Fecha de inicio de sintomas' );
 
   svg.append( 'g' )
     .attr( 'class', 'y-axis' )
@@ -175,6 +182,10 @@ function draw_chart( data ) {
 
   /* Legend */
 
+  var keys2 = keys;
+  console.log( keys );
+  keys2 = keys2.push( 'Nacional' );
+
   var legend = svg.append( 'g' )
     .attr( 'class', 'legend' );
 
@@ -197,14 +208,14 @@ function draw_chart( data ) {
 
   legends.append( 'rect' )
     .attr( 'x', 0 )
-    .attr( 'y', 0 )
+    .attr( 'y', 5 )
     .attr( 'width', 10 )
     .attr( 'height', 10 )
     .style( 'fill', d => z( d ) );
 
   legends.append( 'text' )
     .attr( 'x', 20 )
-    .attr( 'y', 10 )
+    .attr( 'y', 15 )
     .text(d => d );
 
 }
@@ -223,12 +234,12 @@ function draw_interventions( data ) {
     .domain( [ parseTime( '2020-02-27' ), parseTime( '2020-08-05' ) ] );
 
   var y = d3.scaleBand()
-    .range( [ height - margin.bottom , margin.top + 210 ] )
+    .range( [ height - margin.bottom , margin.top + 220 ] )
     .domain( data.map( d => d.name ).sort().reverse() );
 
   var y2 = d3.scaleOrdinal()
-    .domain( [ 'Bogotá D.C.', 'Nacional', 'Cali', 'Medellín' ] )
-    .range( [ 7, 10, 13, 16 ] )
+    .domain( [ 'Barranquilla', 'Bogotá D.C.', 'Cali', 'Cartagena', 'Medellín', 'Nacional' ] )
+    .range( [ 12, 15, 18, 21, 24, 27 ] );
 
   svg.append( 'g' )
     .attr( 'class', 'x-axis' )
@@ -268,7 +279,7 @@ function draw_interventions( data ) {
       .attr( 'class', 'end_interventions' )
       .attr( 'cx', d => x( d.end_date ) )
       .attr( 'cy', d => y( d.name ) + y2( d.city ) )
-      .attr( 'r', 3 )
+      .attr( 'r', 2 )
       .style( 'stroke', d => z( d.city ) )
       .style( 'stroke-width', 2 )
       .style( 'fill', 'white' );
@@ -278,7 +289,7 @@ function draw_interventions( data ) {
       .attr( 'class', 'init_interventions' )
       .attr( 'cx', d => x( d.init_date ) )
       .attr( 'cy', d => y( d.name ) + y2( d.city ) )
-      .attr( 'r', 3 )
+      .attr( 'r', 2 )
       .style( 'stroke', d => z( d.city ) )
       .style( 'stroke-width', 2 )
       .style( 'fill', 'white' )
