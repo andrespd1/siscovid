@@ -85,6 +85,14 @@ function draw_chart( data ) {
     .attr( 'transform', 'translate(' + margin.left + ',0)' )
     .call( d3.axisLeft( y ).tickSize( -width + margin.right + margin.left ) );
 
+  svg.append( 'rect' )
+    .attr( 'x', x( parseTime( '2020-07-23' ) ) )
+    .attr( 'y', y( 80 ) )
+    .attr( 'width', 78 )
+    .attr( 'height', y( 14 ) )
+    .style( 'fill', 'gray' )
+    .style( 'opacity', 0.1 );
+
   /* Focus */
 
   var focus = svg.append( 'g' )
