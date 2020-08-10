@@ -78,7 +78,7 @@ function draw_chart( data ) {
       .attr( 'dy', '1em' )
       .style( 'font-size', 13 )
       .style( 'text-anchor', 'end' )
-      .text( 'Casos nuevos* / 100 mil habs.' );
+      .text( 'Casos nuevos / 100 mil habs.' );
 
   svg.append( 'g' )
     .attr( 'class', 'y-axis' )
@@ -255,7 +255,7 @@ function draw_interventions( data ) {
       .attr( 'dy', '1em' )
       .style( 'font-size', 13 )
       .style( 'text-anchor', 'end' )
-      .text( 'Intervenciones**' );
+      .text( 'Intervenciones*' );
 
   svg.append( 'g' )
     .attr( 'class', 'y-axis' )
