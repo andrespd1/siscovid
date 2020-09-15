@@ -247,7 +247,7 @@ function draw_interventions( data ) {
 
   var y2 = d3.scaleOrdinal()
     .domain( [ 'Barranquilla', 'Bogotá D.C.', 'Cali', 'Cartagena', 'Medellín', 'Nacional' ] )
-    .range( [ 12, 15, 18, 21, 24, 27 ] );
+    .range( [ 10, 13, 16, 19, 22, 25 ] );
 
   svg.append( 'g' )
     .attr( 'class', 'x-axis' )
