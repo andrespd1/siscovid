@@ -72,15 +72,15 @@
 
     <script type="text/javascript">
 
-      d3.select( '#city' ).text( 'Colombia' );
-      d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.97 ) );
-      d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.95 ) );
-      d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.85 ) );
-      d3.select( '#contagio-nada' ).text( d3.format( ".2%" )( 0.15 ) );
-      d3.select( '#contagio-muy' ).text( d3.format( ".2%" )( 0.29 ) );
-      d3.select( '#mercado' ).text( d3.format( ".2%" )( 0.46 ) );
-      d3.select( '#trabajo' ).text( d3.format( ".2%" )( 0.57 ) );
-      d3.select( '#teletrabajo' ).text( d3.format( ".2%" )( 0.70 ) );
+      d3.select( '#city' ).text( 'Promedio (ciudades principales)' );
+      d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.9735 ) );
+      d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.9454 ) );
+      d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.8506 ) );
+      d3.select( '#contagio-nada' ).text( d3.format( ".2%" )( 0.1867 ) );
+      d3.select( '#contagio-muy' ).text( d3.format( ".2%" )( 0.2611 ) );
+      d3.select( '#mercado' ).text( d3.format( ".2%" )( 0.5080 ) );
+      d3.select( '#trabajo' ).text( d3.format( ".2%" )( 0.6095 ) );
+      d3.select( '#teletrabajo' ).text( d3.format( ".2%" )( 0.1518 ) );
 
       vega.scheme( 'basic', [ '#e8e8e8', '#a0aae3', '#3c71dc' ] );
 
@@ -239,15 +239,15 @@
         view.addEventListener( 'mouseout', function( event, item ) {
           if( item !== null && item.datum !== undefined && 'city' in item.datum ) {
             
-            d3.select( '#city' ).text( 'Colombia' );
-            d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.97 ) );
-            d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.95 ) );
-            d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.85 ) );
-            d3.select( '#contagio-nada' ).text( d3.format( ".2%" )( 0.15 ) );
-            d3.select( '#contagio-muy' ).text( d3.format( ".2%" )( 0.29 ) );
-            d3.select( '#mercado' ).text( d3.format( ".2%" )( 0.46 ) );
-            d3.select( '#trabajo' ).text( d3.format( ".2%" )( 0.57 ) );
-            d3.select( '#teletrabajo' ).text( d3.format( ".2%" )( 0.70 ) );
+            d3.select( '#city' ).text( 'Promedio (ciudades principales)' );
+            d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.9735 ) );
+            d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.9454 ) );
+            d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.8506 ) );
+            d3.select( '#contagio-nada' ).text( d3.format( ".2%" )( 0.1867 ) );
+            d3.select( '#contagio-muy' ).text( d3.format( ".2%" )( 0.2611 ) );
+            d3.select( '#mercado' ).text( d3.format( ".2%" )( 0.5080 ) );
+            d3.select( '#trabajo' ).text( d3.format( ".2%" )( 0.6095 ) );
+            d3.select( '#teletrabajo' ).text( d3.format( ".2%" )( 0.1518 ) );
 
           }
         } );
