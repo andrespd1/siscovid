@@ -72,7 +72,7 @@
 
     <script type="text/javascript">
 
-      d3.select( '#city' ).text( 'Promedio (ciudades principales)' );
+      d3.select( '#city' ).text( 'Promedio de las ciudades de estudio' );
       d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.9735 ) );
       d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.9454 ) );
       d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.8506 ) );
@@ -239,7 +239,7 @@
         view.addEventListener( 'mouseout', function( event, item ) {
           if( item !== null && item.datum !== undefined && 'city' in item.datum ) {
             
-            d3.select( '#city' ).text( 'Promedio (ciudades principales)' );
+            d3.select( '#city' ).text( 'Promedio de las ciudades de estudio' );
             d3.select( '#tapabocas' ).text( d3.format( '.2%' )( 0.9735 ) );
             d3.select( '#lavado' ).text( d3.format( ".2%" )( 0.9454 ) );
             d3.select( '#distanciamiento' ).text( d3.format( ".2%" )( 0.8506 ) );
