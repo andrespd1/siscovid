@@ -15,8 +15,30 @@
     <!-- Font -->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald" />
 
+    <style>
+
+      .left {
+        float: left;
+      }
+
+      .square {
+        height: 10px;
+        width: 10px;
+        margin: 4px;
+      }
+
+      .orange {
+        background-color: #F98A4C;
+      }
+
+      .blue {
+        background-color: #437EEB;
+      }
+
+    </style>
+
   </head>
-  <body style="margin-top: 5px; font-family: oswald,'Helvetica',sans-serif; font-weight: 400; font-size: 12px;">
+  <body style="margin-top: 5px; font-family: oswald,'Helvetica',sans-serif; font-weight: 400; font-size: 13px;">
 
     <div class="container">
       <div class="row">
@@ -86,6 +108,15 @@
         <div class="col-1">
         </div>
       </div>
+      <div class="row">
+        <div class="col-2" align="center">
+        </div>
+        <div class="col-9" align="center">
+          <div class="square orange left"></div><div class="left">&nbsp;Ocupación real&nbsp;&nbsp;&nbsp;</div>
+          <div class="square blue left"></div><div class="left">&nbsp;Ocupación proyectada</div>
+        </div>
+        <div class="col-1">
+        </div>
       </div>
     </div>
 
@@ -98,7 +129,7 @@
         "axis": { 
           "labelFont": "oswald",
           "titleFont": "oswald",
-          "labelFontSize": 8
+          "labelFontSize": 10
         },
         "title": {
           "dy": 50,
