@@ -101,7 +101,7 @@
           "labelFontSize": 8
         },
         "title": {
-          "dy": 30,
+          "dy": 50,
           "fontSize": 15,
           "font": "oswald"
         }
@@ -115,34 +115,76 @@
         "data": {
           "url": "./data/alerts.csv"
           },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "02NC",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
             },
-            {
-              "field": "02NC",
-              "type": "quantitative",
-              "title": "Ocupación"
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "0225NC",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "02NC",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
             }
-          ]
-        },
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
@@ -151,11 +193,11 @@
         "width": width,
         "height": height,
         "title": "0.4%",
-        "data": {
-          "url": "./data/alerts.csv"
-        },
         "layer": [
           {
+            "data": {
+              "url": "./data/alerts.csv"
+            },
             "mark": "line",
             "encoding": {
               "x": {
@@ -180,12 +222,15 @@
                 {
                   "field": "02LD",
                   "type": "quantitative",
-                  "title": "Ocupación"
+                  "title": "Ocupación proyectada"
                 }
               ]
             }
           },
           {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
             "mark": {
               "type": "line",
               "strokeDash": [ 2, 1 ]
@@ -195,24 +240,24 @@
                 "value": "#F98A4B"
               },
               "x": {
-                "field": "date",
+                "field": "Fecha",
                 "type": "temporal",
                 "title": "Fecha"
               },
               "y": {
-                "field": "ucis",
+                "field": "Camas UCI ocupadas Covid-19",
                 "type": "quantitative"
               },
               "tooltip": [
                 {
-                  "field": "date",
+                  "field": "Fecha",
                   "type": "temporal",
                   "title": "Fecha"  
                 },
                 {
-                  "field": "ucis",
+                  "field": "Camas UCI ocupadas Covid-19",
                   "type": "quantitative",
-                  "title": "Ocupación"
+                  "title": "Ocupación real"
                 }
               ]
             }
@@ -229,34 +274,76 @@
         "data": {
           "url": "./data/alerts.csv"
           },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "02LA",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
             },
-            {
-              "field": "02LA",
-              "type": "quantitative",
-              "title": "Ocupación"
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "02LA",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "02LA",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
             }
-          ]
-        },
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
@@ -267,35 +354,77 @@
         "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
-          },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "0225NC",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
-            },
-            {
-              "field": "0225NC",
-              "type": "quantitative",
-              "title": "Ocupación"
-            }
-          ]
         },
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
+            },
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "0225NC",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "0225NC",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
+            }
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
@@ -307,34 +436,76 @@
         "data": {
           "url": "./data/alerts.csv"
           },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "0225LD",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
             },
-            {
-              "field": "0225LD",
-              "type": "quantitative",
-              "title": "Ocupación"
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "0225LD",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "0225LD",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
             }
-          ]
-        },
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
@@ -345,35 +516,77 @@
         "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
-          },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "0225LA",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
-            },
-            {
-              "field": "0225LA",
-              "type": "quantitative",
-              "title": "Ocupación"
-            }
-          ]
         },
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
+            },
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "02LA",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "02LA",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
+            }
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
@@ -384,35 +597,77 @@
         "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
-          },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "025NC",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
-            },
-            {
-              "field": "025NC",
-              "type": "quantitative",
-              "title": "Ocupación"
-            }
-          ]
         },
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
+            },
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "025NC",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "025NC",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
+            }
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
@@ -423,35 +678,77 @@
         "title": "99.0%",
         "data": {
           "url": "./data/alerts.csv"
-          },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "025LD",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
-            },
-            {
-              "field": "025LD",
-              "type": "quantitative",
-              "title": "Ocupación"
-            }
-          ]
         },
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
+            },
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "025LD",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "025LD",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
+            }
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
@@ -462,35 +759,77 @@
         "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
-          },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "025LA",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
-            },
-            {
-              "field": "025LA",
-              "type": "quantitative",
-              "title": "Ocupación"
-            }
-          ]
         },
+        "layer": [
+          {
+            "data": {
+              "url": "./data/alerts.csv"
+            },
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "025LA",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "025LA",
+                  "type": "quantitative",
+                  "title": "Ocupación proyectada"
+                }
+              ]
+            }
+          },
+          {
+            "data": {
+              "url": "./data/uci_bogota.csv"
+            },
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "Fecha",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "Camas UCI ocupadas Covid-19",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "Fecha",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "Camas UCI ocupadas Covid-19",
+                  "type": "quantitative",
+                  "title": "Ocupación real"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
