@@ -153,35 +153,71 @@
         "title": "0.4%",
         "data": {
           "url": "./data/alerts.csv"
-          },
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "temporal",
-            "title": "Fecha"
-          },
-          "y": {
-            "field": "02LD",
-            "type": "quantitative",
-            "title": "Ocupación UCIs",
-            "scale": {
-              "domain": [ 0, 3500 ]
-            }
-          },
-          "tooltip": [
-            {
-              "field": "date",
-              "type": "temporal",
-              "title": "Fecha"  
-            },
-            {
-              "field": "02LD",
-              "type": "quantitative",
-              "title": "Ocupación"
-            }
-          ]
         },
+        "layer": [
+          {
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "02LD",
+                "type": "quantitative",
+                "title": "Ocupación UCIs",
+                "scale": {
+                  "domain": [ 0, 3500 ]
+                }
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "02LD",
+                  "type": "quantitative",
+                  "title": "Ocupación"
+                }
+              ]
+            }
+          },
+          {
+            "mark": {
+              "type": "line",
+              "strokeDash": [ 2, 1 ]
+            },
+            "encoding": {
+              "color": {
+                "value": "#F98A4B"
+              },
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "title": "Fecha"
+              },
+              "y": {
+                "field": "ucis",
+                "type": "quantitative"
+              },
+              "tooltip": [
+                {
+                  "field": "date",
+                  "type": "temporal",
+                  "title": "Fecha"  
+                },
+                {
+                  "field": "ucis",
+                  "type": "quantitative",
+                  "title": "Ocupación"
+                }
+              ]
+            }
+          }
+        ],
         "config": config
       };
 
