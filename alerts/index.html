@@ -12,62 +12,106 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 
+    <!-- Font -->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald" />
+
   </head>
-  <body style="margin-top: 5px;">
+  <body style="margin-top: 5px; font-family: oswald,'Helvetica',sans-serif; font-weight: 400; font-size: 12px;">
 
     <div class="container">
       <div class="row">
-        <div class="col-4" align="center">
-          <h4>NC</h4>
+        <div class="col-2" align="center">
         </div>
-        <div class="col-4" align="center">
-          <h4>LD</h4>
+        <div class="col-3" align="center">
+          <span>20% recuperados</span>
         </div>
-        <div class="col-4" align="center">
-          <h4>LA</h4>
+        <div class="col-3" align="center">
+          <span>22.5% recuperados</span>
+        </div>
+        <div class="col-3" align="center">
+          <span>25% recuperados</span>
+        </div>
+        <div class="col-1">
         </div>
       </div>
-      <div class="row">
-        <div class="col-4">
-          <div id="a02NC"></div>
+      <div class="row align-items-center">
+        <div class="col-2" align="center">
+          <span>Leve aumento</span>
+          <br />
+          <span>(10% mas contactos)</span>
         </div>
-        <div class="col-4">
-          <div id="a02LD"></div>
-        </div>
-        <div class="col-4">
+        <div class="col-3">
           <div id="a02LA"></div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-4">
-          <div id="a0225NC"></div>
-        </div>
-        <div class="col-4">
-          <div id="a0225LD"></div>
-        </div>
-        <div class="col-4">
+        <div class="col-3">
           <div id="a0225LA"></div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-4">
-          <div id="a025NC"></div>
-        </div>
-        <div class="col-4">
-          <div id="a025LD"></div>
-        </div>
-        <div class="col-4">
+        <div class="col-3">
           <div id="a025LA"></div>
         </div>
+        <div class="col-1">
+        </div>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-2" align="center">
+          <span>Contactos esperados</span>
+        </div>
+        <div class="col-3">
+          <div id="a02NC"></div>
+        </div>
+        <div class="col-3">
+          <div id="a0225NC"></div>
+        </div>
+        <div class="col-3">
+          <div id="a025NC"></div>
+        </div>
+        <div class="col-1">
+        </div>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-2" align="center">
+          <span>Leve disminución</span>
+          <br />
+          <span>(10% menos contactos)</span>
+        </div>
+        <div class="col-3">
+          <div id="a02LD"></div>
+        </div>
+        <div class="col-3">
+          <div id="a0225LD"></div>
+        </div>
+        <div class="col-3">
+          <div id="a025LD"></div>
+        </div>
+        <div class="col-1">
+        </div>
+      </div>
       </div>
     </div>
 
     <script type="text/javascript">
 
+      var width = 190,
+        height = 140;
+
+      var config = {
+        "axis": { 
+          "labelFont": "oswald",
+          "titleFont": "oswald",
+          "labelFontSize": 8
+        },
+        "title": {
+          "dy": 30,
+          "fontSize": 15,
+          "font": "oswald"
+        }
+      };
+
       var a02NC = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -81,7 +125,7 @@
           "y": {
             "field": "02NC",
             "type": "quantitative",
-            "title": "20%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -98,13 +142,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a02LD = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.4%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -118,7 +164,7 @@
           "y": {
             "field": "02LD",
             "type": "quantitative",
-            "title": "20%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -135,13 +181,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a02LA = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -155,7 +203,7 @@
           "y": {
             "field": "02LA",
             "type": "quantitative",
-            "title": "20%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -172,13 +220,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a0225NC = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -192,7 +242,7 @@
           "y": {
             "field": "0225NC",
             "type": "quantitative",
-            "title": "22.5%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -209,13 +259,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a0225LD = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.6%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -229,7 +281,7 @@
           "y": {
             "field": "0225LD",
             "type": "quantitative",
-            "title": "22.5%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -246,13 +298,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a0225LA = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -266,7 +320,7 @@
           "y": {
             "field": "0225LA",
             "type": "quantitative",
-            "title": "22.5%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -283,13 +337,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a025NC = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -303,7 +359,7 @@
           "y": {
             "field": "025NC",
             "type": "quantitative",
-            "title": "25%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -320,13 +376,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a025LD = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "99.0%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -340,7 +398,7 @@
           "y": {
             "field": "025LD",
             "type": "quantitative",
-            "title": "25%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -357,13 +415,15 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       var a025LA = {
         "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "width": 290,
-        "height": 200,
+        "width": width,
+        "height": height,
+        "title": "0.0%",
         "data": {
           "url": "./data/alerts.csv"
           },
@@ -377,7 +437,7 @@
           "y": {
             "field": "025LA",
             "type": "quantitative",
-            "title": "25%",
+            "title": "Ocupación UCIs",
             "scale": {
               "domain": [ 0, 3500 ]
             }
@@ -394,7 +454,8 @@
               "title": "Ocupación"
             }
           ]
-        }
+        },
+        "config": config
       };
 
       vegaEmbed( '#a02NC', a02NC, { 'actions': false } );
