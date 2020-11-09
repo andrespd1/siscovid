@@ -1,3 +1,6 @@
+var urlParams = new URLSearchParams( window.location.search );
+var city = urlParams.get( 'city' );
+console.log( 'City: ', city );
 
 var config = {
   "axis": { 
