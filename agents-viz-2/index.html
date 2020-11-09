@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SISCOVID</title>
+
+    <!-- Boostrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <!-- Vega-Lite -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.13.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+
+    <!-- Font -->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald" />
+
+    <style>
+
+      body {
+        margin-top: 10px;
+        font-family: oswald,'Helvetica',sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+      }
+
+      .left {
+        float: left;
+      }
+
+      .square {
+        height: 12px;
+        width: 12px;
+        margin: 4px;
+        border-style: solid;
+        border-width: 3px;
+      }
+
+      .red {
+        background-color: #E41A1C;
+        border-color: #E41A1C;
+      }
+
+      .blue {
+        background-color: #377EB8;
+        border-color: #377EB8;
+      }
+
+      .green {
+        background-color: #4DAF4A;
+        border-color: #4DAF4A;
+      }
+
+      .purple {
+        background-color: #984EA3;
+        border-color: #984EA3;
+      }
+
+      .orange {
+        background-color: #FA7F01;
+        border-color: #FA7F01;
+      }
+
+      .unselected {
+        background-color: white !important;
+      }
+
+    </style>
+
+   </head>
+   <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-12" align="center">
+          <div id="actual" class="square red left"></div><div class="left">&nbsp;Actual&nbsp;&nbsp;&nbsp;</div>
+          <div id="apertura-100" class="square blue left"></div><div class="left">&nbsp;Apertura 100%&nbsp;&nbsp;&nbsp;</div>
+          <div id="apertura-30" class="square green left"></div><div class="left">&nbsp;Apertura 30%&nbsp;&nbsp;&nbsp;</div>
+          <div id="apertura-50" class="square purple left"></div><div class="left">&nbsp;Apertura 50%&nbsp;&nbsp;&nbsp;</div>
+          <div id="no-cuarentena" class="square orange left unselected"></div><div class="left">&nbsp;Sin cuarentena&nbsp;&nbsp;&nbsp;</div>
+        </div>
+      </div>
+      <br />
+      <div class="row">
+        <div class="col-7">
+          <div id="ucis-series"></div>
+          <div id="deaths-series"></div>
+        </div>
+        <div class="col-5">
+          <div id="quarantine-series"></div>
+          <div id="r0-series"></div>
+          <div id="rt-series"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Custom scripts -->
+    <script src="./js/agents.js"></script>
+
+   </body>
+</html>
