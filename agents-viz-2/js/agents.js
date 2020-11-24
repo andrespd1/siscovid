@@ -25,7 +25,7 @@ var series = [
     'id': 'apertura-100',
     'color': '#377EB8',
     'name': 'Apertura 100%',
-    'active': true
+    'active': false
   },
   {
     'id': 'apertura-30',
@@ -77,7 +77,7 @@ function draw() {
     "width": 580,
     "height": 230,
     "data": {
-      "url": "data/cali-ucis.csv"
+      "url": "data/" + city + "/" + city + "-ucis.csv"
     },
     "transform": [
       {
@@ -195,7 +195,7 @@ function draw() {
     "width": 580,
     "height": 230,
     "data": {
-      "url": "data/cali-deaths.csv"
+      "url": "data/" + city + "/" + city + "-deaths.csv"
     },
     "transform": [
       {
@@ -313,7 +313,7 @@ function draw() {
     "width": 395,
     "height": 130,
     "data": {
-      "url": "data/cali-quarantine.csv"
+      "url": "data/" + city + "/" + city + "-quarantine.csv"
     },
     "transform": [
       {
@@ -431,7 +431,7 @@ function draw() {
     "width": 395,
     "height": 130,
     "data": {
-      "url": "data/cali-r0.csv"
+      "url": "data/" + city + "/" + city + "-r0.csv"
     },
     "transform": [
       {
@@ -549,7 +549,7 @@ function draw() {
     "width": 395,
     "height": 130,
     "data": {
-      "url": "data/cali-rt.csv"
+      "url": "data/" + city + "/" + city + "-rt.csv"
     },
     "transform": [
       {
