@@ -1,6 +1,15 @@
+
 var urlParams = new URLSearchParams( window.location.search );
 var city = urlParams.get( 'city' );
 console.log( 'City: ', city );
+
+var scenario = 'estudiantes';
+console.log( 'Scenario: ', scenario );
+
+if ( city !== 'bogota' ) {
+  d3.select( '#scenario' )
+    .style( 'pointer-events', 'none' );
+}
 
 var config = {
   "axis": { 
@@ -14,42 +23,60 @@ var config = {
   }
 };
 
-var series = [
-  {
-    'id': 'actual',
-    'color': '#E41A1C',
-    'name': 'Actual',
-    'active': true
-  },
-  {
-    'id': 'apertura-100',
-    'color': '#377EB8',
-    'name': 'Apertura 100%',
-    'active': false
-  },
-  {
-    'id': 'apertura-30',
-    'color': '#4DAF4A',
-    'name': 'Apertura 30%',
-    'active': true
-  },
-  {
-    'id': 'apertura-50',
-    'color': '#984EA3',
-    'name': 'Apertura 50%',
-    'active': true
-  },
-  {
-    'id': 'no-cuarentena',
-    'color': '#FA7F01',
-    'name': 'Sin cuarentena',
-    'active': false
-  }
-];
+var series = {
+  'estudiantes':
+    [
+      {
+        'id': 'actual',
+        'color': '#E41A1C',
+        'name': 'Actual',
+        'active': true
+      },
+      {
+        'id': 'apertura-100',
+        'color': '#377EB8',
+        'name': 'Apertura 100%',
+        'active': false
+      },
+      {
+        'id': 'apertura-30',
+        'color': '#4DAF4A',
+        'name': 'Apertura 30%',
+        'active': true
+      },
+      {
+        'id': 'apertura-50',
+        'color': '#984EA3',
+        'name': 'Apertura 50%',
+        'active': true
+      },
+      {
+        'id': 'no-cuarentena',
+        'color': '#FA7F01',
+        'name': 'Sin cuarentena',
+        'active': false
+      }
+    ],
+  'localidades':
+    [
+      {
+        'id': 'con-cierres',
+        'color': '#E41A1C',
+        'name': 'Con cierres',
+        'active': true
+      },
+      {
+        'id': 'sin-cierres',
+        'color': '#377EB8',
+        'name': 'Sin cierres',
+        'active': true
+      }
+    ],
+};
 
 function draw() {
 
-  let subseries = series.filter( s => s.active );
+  let subseries = series[ scenario ].filter( s => s.active );
   
   let tx_filter = subseries.map( s => "datum.variable==='" + s.name + "'" )
                         .join( ' || ' );
@@ -77,7 +104,7 @@ function draw() {
     "width": 580,
     "height": 230,
     "data": {
-      "url": "data/" + city + "/" + city + "-ucis.csv"
+      "url": "data/" + scenario + "/" + city + "/" + city + "-ucis.csv"
     },
     "transform": [
       {
@@ -195,7 +222,7 @@ function draw() {
     "width": 580,
     "height": 230,
     "data": {
-      "url": "data/" + city + "/" + city + "-deaths.csv"
+      "url": "data/" + scenario + "/" + city + "/" + city + "-deaths.csv"
     },
     "transform": [
       {
@@ -307,131 +334,13 @@ function draw() {
 
   vegaEmbed( '#deaths-series', deathsSeries, { actions: false } );
 
-  var quarantineSeries = {
-    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "title": "Porcentaje de cuarentena",
-    "width": 395,
-    "height": 130,
-    "data": {
-      "url": "data/" + city + "/" + city + "-quarantine.csv"
-    },
-    "transform": [
-      {
-        "filter": tx_filter
-      }
-    ],
-    "encoding": {
-      "x": {
-        "field": "Fecha",
-        "type": "temporal"
-      }
-    },
-    "resolve": {
-      "scale": {
-        "color": "independent"
-      }
-    },
-    "layer": [
-      {
-        "encoding": {
-          "color": {
-            "field": "variable",
-            "type": "nominal",
-            "scale": {
-              "scheme": "set1"
-            },
-            "legend": null
-          },
-          "y": {
-            "aggregate": "mean",
-            "field": "value",
-            "type": "quantitative",
-            "axis": {
-              "format": ".0%"
-            }
-          }
-        },
-        "layer": [
-          {
-            "mark": "line"
-          },
-          {
-            "transform": [
-              {
-                "filter": {
-                  "selection": "hover"
-                }
-              }
-            ], 
-            "mark": "circle"
-          }
-        ]
-      },
-      {
-        "mark": {
-          "type": "errorband",
-          "extent": "ci"
-        },
-        "encoding": {
-          "color": {
-            "field": "variable",
-            "type": "nominal",
-            "scale": {
-              "scheme": "set1"
-            },
-            "legend": null,
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title": "%",
-          }
-        }
-      },
-      {
-        "transform": [
-          {
-            "pivot": "variable",
-            "value": "value",
-            "groupby": [ "Fecha" ],
-            "op": "mean"
-          }
-        ],
-        "mark": "rule",
-        "encoding": {
-          "opacity": {
-            "condition": {
-              "value": 0.3,
-              "selection": "hover"
-            },
-            "value": 0
-          },
-          "tooltip": tooltip
-        },
-        "selection": {
-          "hover": {
-            "type": "single",
-            "fields": [ "Fecha" ],
-            "nearest": true,
-            "on": "mouseover",
-            "empty": "none",
-            "clear": "mouseout"
-          }
-        }
-      }
-    ],
-    "config": config
-  };
-
-  vegaEmbed( '#quarantine-series', quarantineSeries, { actions: false } );
-
   var r0series = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": "Tasa de ataque",
     "width": 395,
     "height": 130,
     "data": {
-      "url": "data/" + city + "/" + city + "-r0.csv"
+      "url": "data/" + scenario + "/" + city + "/" + city + "-r0.csv"
     },
     "transform": [
       {
@@ -549,7 +458,7 @@ function draw() {
     "width": 395,
     "height": 130,
     "data": {
-      "url": "data/" + city + "/" + city + "-rt.csv"
+      "url": "data/" + scenario + "/" + city + "/" + city + "-rt.csv"
     },
     "transform": [
       {
@@ -661,11 +570,148 @@ function draw() {
 
   vegaEmbed( '#rt-series', rtSeries, { actions: false } );
 
+  /*var quarantineSeries = {
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "title": "Porcentaje de cuarentena",
+    "width": 395,
+    "height": 130,
+    "data": {
+      "url": "data/" + scenario + "/" + city + "/" + city + "-quarantine.csv"
+    },
+    "transform": [
+      {
+        "filter": tx_filter
+      }
+    ],
+    "encoding": {
+      "x": {
+        "field": "Fecha",
+        "type": "temporal"
+      }
+    },
+    "resolve": {
+      "scale": {
+        "color": "independent"
+      }
+    },
+    "layer": [
+      {
+        "encoding": {
+          "color": {
+            "field": "variable",
+            "type": "nominal",
+            "scale": {
+              "scheme": "set1"
+            },
+            "legend": null
+          },
+          "y": {
+            "aggregate": "mean",
+            "field": "value",
+            "type": "quantitative",
+            "axis": {
+              "format": ".0%"
+            }
+          }
+        },
+        "layer": [
+          {
+            "mark": "line"
+          },
+          {
+            "transform": [
+              {
+                "filter": {
+                  "selection": "hover"
+                }
+              }
+            ], 
+            "mark": "circle"
+          }
+        ]
+      },
+      {
+        "mark": {
+          "type": "errorband",
+          "extent": "ci"
+        },
+        "encoding": {
+          "color": {
+            "field": "variable",
+            "type": "nominal",
+            "scale": {
+              "scheme": "set1"
+            },
+            "legend": null,
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "%",
+          }
+        }
+      },
+      {
+        "transform": [
+          {
+            "pivot": "variable",
+            "value": "value",
+            "groupby": [ "Fecha" ],
+            "op": "mean"
+          }
+        ],
+        "mark": "rule",
+        "encoding": {
+          "opacity": {
+            "condition": {
+              "value": 0.3,
+              "selection": "hover"
+            },
+            "value": 0
+          },
+          "tooltip": tooltip
+        },
+        "selection": {
+          "hover": {
+            "type": "single",
+            "fields": [ "Fecha" ],
+            "nearest": true,
+            "on": "mouseover",
+            "empty": "none",
+            "clear": "mouseout"
+          }
+        }
+      }
+    ],
+    "config": config
+  };
+
+  vegaEmbed( '#quarantine-series', quarantineSeries, { actions: false } );*/
+
 }
 
 
 
 draw();
+
+d3.select( '#scenario' )
+  .on( 'change', function() {
+
+    var element = d3.select( this );
+    scenario = element.property( 'value' );
+
+    d3.select( '#estudiantes-selection' )
+      .style( 'display', 'none' );
+
+    d3.select( '#localidades-selection' )
+      .style( 'display', 'none' );
+
+    d3.select( '#' + scenario + '-selection' )
+      .style( 'display', 'block' );
+
+    draw();
+
+  } );
 
 d3.selectAll( '.square' )
   .on( 'click', function() {
@@ -675,7 +721,7 @@ d3.selectAll( '.square' )
     element
       .classed( 'unselected', ( !element.classed( 'unselected' ) ) ? true : false );
 
-    series.forEach( s => {
+    series[ scenario ].forEach( s => {
       if ( s.id === element.attr( 'id' ) )
         if ( s.active ) {
           s.active = false;
