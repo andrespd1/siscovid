@@ -709,6 +709,14 @@ d3.select( '#scenario' )
     d3.select( '#' + scenario + '-selection' )
       .style( 'display', 'block' );
 
+    if ( scenario === 'estudiantes' ) {
+      d3.select( '#estudiantes-legend' )
+        .style( 'display', 'block' );
+    } else {
+      d3.select( '#estudiantes-legend' )
+        .style( 'display', 'none' );
+    }
+
     draw();
 
   } );
