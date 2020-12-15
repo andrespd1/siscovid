@@ -710,11 +710,17 @@ d3.select( '#scenario' )
       .style( 'display', 'block' );
 
     if ( scenario === 'estudiantes' ) {
-      d3.select( '#estudiantes-legend' )
+      d3.selectAll( '#estudiantes-legend' )
         .style( 'display', 'block' );
-    } else {
-      d3.select( '#estudiantes-legend' )
+
+      d3.selectAll( '#localidades-legend' )
         .style( 'display', 'none' );
+    } else {
+      d3.selectAll( '#estudiantes-legend' )
+        .style( 'display', 'none' );
+
+      d3.selectAll( '#localidades-legend' )
+        .style( 'display', 'block' );
     }
 
     draw();
