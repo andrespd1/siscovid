@@ -36,19 +36,19 @@ var series = {
         'id': 'apertura-100',
         'color': '#377EB8',
         'name': 'Apertura 100%',
-        'active': false
+        'active': true
       },
       {
         'id': 'apertura-30',
         'color': '#4DAF4A',
         'name': 'Apertura 30%',
-        'active': true
+        'active': false
       },
       {
         'id': 'apertura-50',
         'color': '#984EA3',
         'name': 'Apertura 50%',
-        'active': true
+        'active': false
       },
       {
         'id': 'no-cuarentena',
