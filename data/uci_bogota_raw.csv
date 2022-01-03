@@ -2,7 +2,7 @@ Porcentaje de uso de Unidades Cuidado Intensivo para la atención del COVID-19;;;
 ;;;
 Utlidad;Permite establecer la proporción entre el número de pacientes hospitalizados en UCI con diagnóstico presuntivo o confirmado de Covid-19 de manera diaria, respecto a la capacidad instalada asignada para la atención de dicha patología;;
 ;;;
-Fecha;Camas UCI ocupadas Covid-19;Camas UCI Disponibles COVID 19;Ocupación UCI COVID 19
+Fecha;Camas UCI ocupadas Covid-19;Camas UCI Asignadas COVID 19;Ocupación UCI COVID 19
 8/04/2020;106;543;19,50%
 9/04/2020;136;608;22,40%
 10/04/2020;150;596;25,20%
@@ -247,6 +247,45 @@ Fecha;Camas UCI ocupadas Covid-19;Camas UCI Disponibles COVID 19;Ocupación UCI C
 6/12/2020;823;1.579;52,12%
 7/12/2020;820;1.579;51,93%
 8/12/2020;826;1.579;52,31%
+9/12/2020;844;1.577;53,51%
+10/12/2020;838;1.569;53,41%
+11/12/2020;865;1.573;54,99%
+12/12/2020;881;1.571;56,08%
+13/12/2020;904;1.574;57,43%
+14/12/2020;882;1.577;55,93%
+15/12/2020;920;1.575;58,41%
+16/12/2020;932;1.595;58,43%
+17/12/2020;973;1.628;59,77%
+18/12/2020;953;1.636;58,25%
+19/12/2020;987;1.663;59,35%
+20/12/2020;1.002;1.650;60,73%
+21/12/2020;1.006;1.645;61,16%
+22/12/2020;1.035;1.654;62,58%
+23/12/2020;1.075;1.661;64,72%
+24/12/2020;1.084;1.658;65,38%
+25/12/2020;1.099;1.674;65,65%
+26/12/2020;1.145;1.673;68,44%
+27/12/2020;1.192;1.674;71,21%
+28/12/2020;1.220;1.680;72,62%
+29/12/2020;1.235;1.688;73,16%
+30/12/2020;1.286;1.718;74,85%
+31/12/2020;1.288;1.721;74,84%
+1/01/2021;1.303;1.733;75,19%
+2/01/2021;1.340;1.752;76,48%
+3/01/2021;1.362;1.752;77,74%
+4/01/2021;1.395;1.752;79,62%
+5/01/2021;1.435;1.754;81,81%
+6/01/2021;1.481;1.765;83,91%
+7/01/2021;1.539;1.786;86,17%
+8/01/2021;1.624;1.827;88,89%
+9/01/2021;1.688;1.840;91,74%
+10/01/2021;1.719;1.878;91,53%
+11/01/2021;1.749;1.870;93,53%
+12/01/2021;1.743;1.887;92,37%
+13/01/2021;1.776;1.915;92,74%
+14/01/2021;1.809;1.939;93,30%
+15/01/2021;1.818;1.939;93,76%
+16/01/2021;1.812;1.953;92,78%
 ;;;
-Fuente camas ocupadas y camas asignadas: Red privada: Información reportada por 58 IPS de Red privada que cuentas con camas de UCI habilitadas o con autorización transitoria en Bogotá. Corte: 08/12/2020  3:20 pm;;;
-Fuente camas ocupadas y camas asignadas:  Aplicativo SIRC Red pública: 13 prestadores los cuales que cuentan con servicio de UCI habilitado o con autorización transitoria.  Corte: 08/12/2020  3:20 pm;;;
+Fuente camas ocupadas y camas asignadas: Red privada: Información reportada por 58 IPS de Red privada que cuentas con camas de UCI habilitadas o con autorización transitoria en Bogotá. Corte: 16/01/2021  11:58AM;;;
+Fuente camas ocupadas y camas asignadas:  Aplicativo SIRC Red pública: 12 prestadores los cuales que cuentan con servicio de UCI habilitado o con autorización transitoria.  Corte: 16/01/2021  11:58AM;;;
